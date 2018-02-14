@@ -1,0 +1,214 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0205487	0.0	65	76	Psychiatric
+MetaMapLite	C0743221	0.0	77	94	Discharge Summary
+MetaMapLite	C2348322	0.0	87	106	Summary
+Description
+MetaMapLite	C0030705	0.0	113	120	patient
+MetaMapLite	C0178572	0.0	139	144	court
+MetaMapLite	C0439656	0.0	150	159	voluntary
+MetaMapLite	C1321095	0.0	160	164	drop
+MetaMapLite	C0205255	0.0	168	179	prosecution
+MetaMapLite	C0684331	0.0	168	179	prosecution
+MetaMapLite	C0282229	0.0	182	203	Medical Transcription
+MetaMapLite	C0370003	0.0	204	210	Sample
+MetaMapLite	C2347026	0.0	204	210	Sample
+MetaMapLite	C0684224	0.0	211	217	Report
+MetaMapLite	C0700287	0.0	211	217	Report
+MetaMapLite	C3541348	0.0	219	240	DISCHARGE DISPOSITION
+MetaMapLite	C1550390	0.0	219	240	DISCHARGE DISPOSITION
+MetaMapLite	C0030705	0.0	247	254	patient
+MetaMapLite	C0178572	0.0	273	278	court
+MetaMapLite	C0439656	0.0	284	293	voluntary
+MetaMapLite	C1321095	0.0	294	298	drop
+MetaMapLite	C0205255	0.0	302	313	prosecution
+MetaMapLite	C0684331	0.0	302	313	prosecution
+MetaMapLite	C2825862	0.0	325	328	AMA
+MetaMapLite	C0279755	0.0	325	328	AMA
+MetaMapLite	C0002461	0.0	325	328	AMA
+MetaMapLite	C0019994	0.0	337	345	hospital
+MetaMapLite	C0740209	0.0	346	352	advice
+MetaMapLite	C0150600	0.0	346	352	advice
+MetaMapLite	C0012621	0.0	354	363	DISCHARGE
+MetaMapLite	C0030685	0.0	354	363	DISCHARGE
+MetaMapLite	C0011900	0.0	364	373	DIAGNOSES
+MetaMapLite	C0221443	0.0	375	381	AXIS I
+MetaMapLite	C0270496	0.0	384	422	Schizoaffective disorder, bipolar type
+MetaMapLite	C0005586	0.0	400	417	disorder, bipolar
+MetaMapLite	C0221446	0.0	424	431	AXIS II
+MetaMapLite	C0205421	0.0	434	442	Deferred
+MetaMapLite	C0221447	0.0	444	452	AXIS III
+MetaMapLite	C0019196	0.0	455	466	Hepatitis C
+MetaMapLite	C0205082	0.0	478	484	Severe
+MetaMapLite	C0221451	0.0	486	492	AXIS V
+MetaMapLite	C0012634	0.0	499	508	CONDITION
+MetaMapLite	C0030705	0.0	512	519	PATIENT
+MetaMapLite	C0030685	0.0	523	532	DISCHARGE
+MetaMapLite	C0012621	0.0	523	532	DISCHARGE
+MetaMapLite	C0030705	0.0	539	546	patient
+MetaMapLite	C0030705	0.0	575	582	patient
+MetaMapLite	C2712059	0.0	587	596	suffering
+MetaMapLite	C0683278	0.0	587	596	suffering
+MetaMapLite	C0175668	0.0	616	628	secondary to
+MetaMapLite	C0013227	0.0	629	640	medications
+MetaMapLite	C0012621	0.0	642	651	DISCHARGE
+MetaMapLite	C0030685	0.0	642	651	DISCHARGE
+MetaMapLite	C1522577	0.0	652	660	FOLLOWUP
+MetaMapLite	C0030705	0.0	686	693	patient
+MetaMapLite	C0030705	0.0	701	708	patient
+MetaMapLite	C0178572	0.0	727	732	court
+MetaMapLite	C0012621	0.0	734	743	DISCHARGE
+MetaMapLite	C0030685	0.0	734	743	DISCHARGE
+MetaMapLite	C0013227	0.0	744	755	MEDICATIONS
+MetaMapLite	C0439230	0.0	762	766	week
+MetaMapLite	C1561604	0.0	767	773	supply
+MetaMapLite	C0699914	0.0	767	773	supply
+MetaMapLite	C0243163	0.0	767	773	supply
+MetaMapLite	C0030705	0.0	811	820	patient's
+MetaMapLite	C0031322	0.0	821	829	pharmacy
+MetaMapLite	C0031336	0.0	821	829	pharmacy
+MetaMapLite	C3244303	0.0	821	829	pharmacy
+MetaMapLite	C0287163	0.0	832	840	Seroquel
+MetaMapLite	C0527258	0.0	862	869	Zyprexa
+MetaMapLite	C0278060	0.0	887	900	MENTAL STATUS
+MetaMapLite	C0040223	0.0	908	912	TIME
+MetaMapLite	C0012621	0.0	916	925	DISCHARGE
+MetaMapLite	C0030685	0.0	916	925	DISCHARGE
+MetaMapLite	C0004271	0.0	928	936	Attitude
+MetaMapLite	C0679729	0.0	941	952	cooperative
+MetaMapLite	C0233426	0.0	955	965	Appearance
+MetaMapLite	C0700364	0.0	955	965	Appearance
+MetaMapLite	C0020405	0.0	978	985	hygiene
+MetaMapLite	C0018249	0.0	990	998	grooming
+MetaMapLite	C0518461	0.0	990	998	grooming
+MetaMapLite	C3549189	0.0	1001	1021	Psychomotor behavior
+MetaMapLite	C0085631	0.0	1029	1041	restlessness
+MetaMapLite	C0001721	0.0	1069	1075	Affect
+MetaMapLite	C0026516	0.0	1093	1097	Mood
+MetaMapLite	C0003467	0.0	1107	1114	anxious
+MetaMapLite	C0846595	0.0	1119	1125	speech
+MetaMapLite	C0037817	0.0	1119	1125	speech
+MetaMapLite	C0030705	0.0	1180	1187	patient
+MetaMapLite	C0349398	0.0	1197	1215	paranoid delusions
+MetaMapLite	C0030705	0.0	1222	1229	patient
+MetaMapLite	C0233762	0.0	1237	1260	auditory hallucinations
+MetaMapLite	C0030705	0.0	1267	1274	patient
+MetaMapLite	C0438696	0.0	1282	1290	suicidal
+MetaMapLite	C0455204	0.0	1294	1312	homicidal ideation
+MetaMapLite	C0027361	0.0	1330	1336	person
+MetaMapLite	C0442504	0.0	1341	1346	place
+MetaMapLite	C1561607	0.0	1349	1356	Overall
+MetaMapLite	C0233820	0.0	1358	1365	insight
+MetaMapLite	C0221423	0.0	1375	1382	illness
+MetaMapLite	C0019665	0.0	1402	1409	HISTORY
+MetaMapLite	C0019664	0.0	1402	1409	HISTORY
+MetaMapLite	C0262512	0.0	1402	1409	HISTORY
+MetaMapLite	C2004062	0.0	1402	1409	HISTORY
+MetaMapLite	C0262926	0.0	1402	1409	HISTORY
+MetaMapLite	C0489547	0.0	1414	1429	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	1436	1443	patient
+MetaMapLite	C0439234	0.0	1452	1456	year
+MetaMapLite	C0580836	0.0	1457	1460	old
+MetaMapLite	C0043210	0.0	1461	1467	female
+MetaMapLite	C0015780	0.0	1461	1467	female
+MetaMapLite	C0086287	0.0	1461	1467	female
+MetaMapLite	C1276009	0.0	1475	1512	history of bipolar affective disorder
+MetaMapLite	C0205265	0.0	1518	1527	initially
+MetaMapLite	C1261322	0.0	1541	1551	evaluation
+MetaMapLite	C0220825	0.0	1541	1551	evaluation
+MetaMapLite	C0085633	0.0	1566	1579	mood lability
+MetaMapLite	C3542467	0.0	1602	1615	inappropriate
+MetaMapLite	C1548788	0.0	1602	1615	inappropriate
+MetaMapLite	C3537135	0.0	1602	1615	inappropriate
+MetaMapLite	C0004927	0.0	1616	1625	behaviors
+MetaMapLite	C0677505	0.0	1616	1625	behaviors
+MetaMapLite	C0030705	0.0	1632	1639	patient
+MetaMapLite	C0015671	0.0	1666	1672	father
+MetaMapLite	C0079399	0.0	1681	1684	sex
+MetaMapLite	C1522384	0.0	1681	1684	sex
+MetaMapLite	C0009253	0.0	1681	1684	sex
+MetaMapLite	C0205104	0.0	1712	1716	down
+MetaMapLite	C0026591	0.0	1721	1729	mother's
+MetaMapLite	C0453893	0.0	1730	1735	pants
+MetaMapLite	C0030705	0.0	1742	1749	patient
+MetaMapLite	C0009072	0.0	1759	1767	clothing
+MetaMapLite	C0442824	0.0	1789	1793	very
+MetaMapLite	C0036864	0.0	1807	1815	sexually
+MetaMapLite	C0233762	0.0	1859	1882	auditory hallucinations
+MetaMapLite	C0042939	0.0	1886	1892	voices
+MetaMapLite	C3714474	0.0	1908	1912	calm
+MetaMapLite	C3539125	0.0	1925	1931	others
+MetaMapLite	C0030705	0.0	1938	1945	patient
+MetaMapLite	C0455503	0.0	1952	1973	history of depression
+MetaMapLite	C0005586	0.0	1981	1997	bipolar disorder
+MetaMapLite	C3814130	0.0	2020	2033	Pierce County
+MetaMapLite	C3814128	0.0	2020	2033	Pierce County
+MetaMapLite	C3814129	0.0	2020	2033	Pierce County
+MetaMapLite	C3814126	0.0	2020	2033	Pierce County
+MetaMapLite	C3814127	0.0	2020	2033	Pierce County
+MetaMapLite	C0332185	0.0	2055	2061	recent
+MetaMapLite	C0087111	0.0	2062	2071	treatment
+MetaMapLite	C0039798	0.0	2062	2071	treatment
+MetaMapLite	C0030705	0.0	2078	2085	patient
+MetaMapLite	C0184666	0.0	2089	2098	admission
+MetaMapLite	C0935630	0.0	2099	2108	interview
+MetaMapLite	C0021822	0.0	2099	2108	interview
+MetaMapLite	C0030705	0.0	2155	2162	patient
+MetaMapLite	C1330511	0.0	2180	2195	Risperdal M-Tab
+MetaMapLite	C0033975	0.0	2217	2226	psychosis
+MetaMapLite	C0085633	0.0	2231	2244	mood lability
+MetaMapLite	C0936065	0.0	2278	2285	Rebecca
+MetaMapLite	C2654192	0.0	2278	2285	Rebecca
+MetaMapLite	C0443048	0.0	2286	2296	Richardson
+MetaMapLite	C0030705	0.0	2307	2314	patient
+MetaMapLite	C0750493	0.0	2335	2345	suspicious
+MetaMapLite	C3489408	0.0	2357	2370	hospital stay
+MetaMapLite	C0030705	0.0	2377	2384	patient
+MetaMapLite	C0036864	0.0	2401	2409	sexually
+MetaMapLite	C0424538	0.0	2410	2421	preoccupied
+MetaMapLite	C0032854	0.0	2430	2434	poor
+MetaMapLite	C0233820	0.0	2435	2442	insight
+MetaMapLite	C0815189	0.0	2452	2470	need for treatment
+MetaMapLite	C0030705	0.0	2477	2484	patient
+MetaMapLite	C1517331	0.0	2492	2499	further
+MetaMapLite	C0233762	0.0	2500	2523	auditory hallucinations
+MetaMapLite	C0030705	0.0	2530	2537	patient
+MetaMapLite	C0287163	0.0	2555	2563	Seroquel
+MetaMapLite	C0205322	0.0	2568	2578	persistent
+MetaMapLite	C0085633	0.0	2579	2592	mood lability
+MetaMapLite	C0033975	0.0	2597	2606	psychosis
+MetaMapLite	C0030705	0.0	2613	2620	patient
+MetaMapLite	C0592071	0.0	2661	2670	Risperdal
+MetaMapLite	C0527258	0.0	2695	2702	Zyprexa
+MetaMapLite	C0332152	0.0	2703	2711	prior to
+MetaMapLite	C0012621	0.0	2712	2721	discharge
+MetaMapLite	C0030685	0.0	2712	2721	discharge
+MetaMapLite	C0030705	0.0	2728	2735	patient
+MetaMapLite	C0439656	0.0	2775	2784	voluntary
+MetaMapLite	C1321095	0.0	2785	2789	drop
+MetaMapLite	C0684331	0.0	2793	2804	prosecution
+MetaMapLite	C0205255	0.0	2793	2804	prosecution
+MetaMapLite	C0474166	0.0	2813	2827	medical advice
+MetaMapLite	C0178572	0.0	2845	2850	court
+MetaMapLite	C0030705	0.0	2871	2878	patient
+MetaMapLite	C0579192	0.0	2897	2908	return home
+MetaMapLite	C0030551	0.0	2916	2923	parents
+MetaMapLite	C0870318	0.0	2944	2967	Community Mental Health
+MetaMapLite	C0237463	0.0	2968	2976	Agencies
+MetaMapLite	C0030705	0.0	2983	2990	patient
+MetaMapLite	C0231220	0.0	3014	3025	symptomatic
+MetaMapLite	C0012634	0.0	3026	3035	condition
+MetaMapLite	C0743221	0.0	3047	3064	discharge summary
+MetaMapLite	C0270496	0.0	3066	3104	schizoaffective disorder, bipolar type
+MetaMapLite	C0005586	0.0	3082	3099	disorder, bipolar
+MetaMapLite	C0085633	0.0	3106	3119	mood lability
+MetaMapLite	C0005586	0.0	3138	3164	bipolar affective disorder
+MetaMapLite	C0439656	0.0	3166	3175	voluntary
+MetaMapLite	C1321095	0.0	3176	3180	drop
+MetaMapLite	C0233762	0.0	3182	3205	auditory hallucinations
+MetaMapLite	C0205487	0.0	3207	3218	psychiatric

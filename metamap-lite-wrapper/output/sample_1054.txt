@@ -1,0 +1,311 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0678257	0.0	87	98	Description
+MetaMapLite	C0220938	0.0	103	108	white
+MetaMapLite	C0007457	0.0	103	108	white
+MetaMapLite	C0043157	0.0	103	108	white
+MetaMapLite	C0086582	0.0	109	113	male
+MetaMapLite	C3245459	0.0	114	121	veteran
+MetaMapLite	C0042610	0.0	114	121	veteran
+MetaMapLite	C0439064	0.0	127	135	multiple
+MetaMapLite	C0009488	0.0	136	149	comorbidities
+MetaMapLite	C1532396	0.0	161	186	history of bladder cancer
+MetaMapLite	C0332232	0.0	197	210	approximately
+MetaMapLite	C0439234	0.0	215	220	years
+MetaMapLite	C0019994	0.0	235	243	Hospital
+MetaMapLite	C0282229	0.0	246	267	Medical Transcription
+MetaMapLite	C0370003	0.0	268	274	Sample
+MetaMapLite	C2347026	0.0	268	274	Sample
+MetaMapLite	C0684224	0.0	275	281	Report
+MetaMapLite	C0700287	0.0	275	281	Report
+MetaMapLite	C2598112	0.0	283	297	ADMISSION DATE
+MetaMapLite	C1302393	0.0	283	297	ADMISSION DATE
+MetaMapLite	C2361123	0.0	311	325	DISCHARGE DATE
+MetaMapLite	C2361122	0.0	311	325	DISCHARGE DATE
+MetaMapLite	C0262512	0.0	339	365	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	350	357	PRESENT
+MetaMapLite	C0439234	0.0	384	388	year
+MetaMapLite	C0580836	0.0	389	392	old
+MetaMapLite	C0043157	0.0	393	398	white
+MetaMapLite	C0220938	0.0	393	398	white
+MetaMapLite	C0007457	0.0	393	398	white
+MetaMapLite	C0086582	0.0	399	403	male
+MetaMapLite	C3245459	0.0	404	411	veteran
+MetaMapLite	C0042610	0.0	404	411	veteran
+MetaMapLite	C0439064	0.0	417	425	multiple
+MetaMapLite	C0009488	0.0	426	439	comorbidities
+MetaMapLite	C1532396	0.0	451	476	history of bladder cancer
+MetaMapLite	C0332232	0.0	487	500	approximately
+MetaMapLite	C0439234	0.0	505	510	years
+MetaMapLite	C0019994	0.0	525	533	Hospital
+MetaMapLite	C0015252	0.0	551	560	resection
+MetaMapLite	C0728940	0.0	551	560	resection
+MetaMapLite	C0587438	0.0	598	610	Day Hospital
+MetaMapLite	C0010651	0.0	615	625	cystectomy
+MetaMapLite	C1552811	0.0	643	657	Urology Clinic
+MetaMapLite	C3812395	0.0	643	657	Urology Clinic
+MetaMapLite	C0034599	0.0	662	671	Radiology
+MetaMapLite	C0043299	0.0	662	671	Radiology
+MetaMapLite	C1962945	0.0	662	671	Radiology
+MetaMapLite	C0442592	0.0	672	678	Clinic
+MetaMapLite	C0489547	0.0	694	709	HOSPITAL COURSE
+MetaMapLite	C0587438	0.0	737	749	Day Hospital
+MetaMapLite	C0679106	0.0	753	765	anticipation
+MetaMapLite	C0042077	0.0	770	777	Urology
+MetaMapLite	C0038895	0.0	778	785	surgery
+MetaMapLite	C0543467	0.0	778	785	surgery
+MetaMapLite	C1261322	0.0	791	801	evaluation
+MetaMapLite	C0220825	0.0	791	801	evaluation
+MetaMapLite	C1623258	0.0	803	806	EKG
+MetaMapLite	C0013798	0.0	803	806	EKG
+MetaMapLite	C2243117	0.0	808	822	echocardiogram
+MetaMapLite	C0013516	0.0	808	822	echocardiogram
+MetaMapLite	C0205161	0.0	827	835	abnormal
+MetaMapLite	C0007189	0.0	839	849	Cardiology
+MetaMapLite	C1522601	0.0	875	882	cardiac
+MetaMapLite	C0018787	0.0	875	882	cardiac
+MetaMapLite	C0001443	0.0	883	892	adenosine
+MetaMapLite	C0038435	0.0	893	899	stress
+MetaMapLite	C1824234	0.0	900	903	MRI
+MetaMapLite	C0024485	0.0	900	903	MRI
+MetaMapLite	C0587658	0.0	900	903	MRI
+MetaMapLite	C0445247	0.0	924	928	same
+MetaMapLite	C1446409	0.0	933	941	positive
+MetaMapLite	C0205263	0.0	946	955	inducible
+MetaMapLite	C0022116	0.0	956	964	ischemia
+MetaMapLite	C2945599	0.0	966	970	mild
+MetaMapLite	C0205081	0.0	974	982	moderate
+MetaMapLite	C1179866	0.0	983	996	inferolateral
+MetaMapLite	C0021308	0.0	1012	1022	infarction
+MetaMapLite	C0347985	0.0	1028	1032	peri
+MetaMapLite	C0745412	0.0	1033	1049	infarct ischemia
+MetaMapLite	C1883712	0.0	1055	1063	addition
+MetaMapLite	C0332287	0.0	1055	1063	addition
+MetaMapLite	C0205263	0.0	1065	1074	inducible
+MetaMapLite	C0022116	0.0	1075	1083	ischemia
+MetaMapLite	C0542339	0.0	1096	1104	inferior
+MetaMapLite	C0678975	0.0	1096	1104	inferior
+MetaMapLite	C0205093	0.0	1105	1112	lateral
+MetaMapLite	C2362924	0.0	1113	1119	septum
+MetaMapLite	C1327729	0.0	1113	1119	septum
+MetaMapLite	C0936188	0.0	1113	1119	septum
+MetaMapLite	C0018795	0.0	1147	1168	heart catheterization
+MetaMapLite	C0005847	0.0	1189	1195	vessel
+MetaMapLite	C0010054	0.0	1196	1219	coronary artery disease
+MetaMapLite	C0010068	0.0	1196	1219	coronary artery disease
+MetaMapLite	C1956346	0.0	1196	1219	coronary artery disease
+MetaMapLite	C0205107	0.0	1231	1239	proximal
+MetaMapLite	C0205108	0.0	1265	1271	distal
+MetaMapLite	C0444598	0.0	1291	1294	mid
+MetaMapLite	C0333181	0.0	1307	1315	stenosed
+MetaMapLite	C0205108	0.0	1324	1330	distal
+MetaMapLite	C0439064	0.0	1369	1374	Multi
+MetaMapLite	C1517892	0.0	1375	1379	Link
+MetaMapLite	C1704666	0.0	1375	1379	Link
+MetaMapLite	C0042789	0.0	1380	1386	Vision
+MetaMapLite	C0441290	0.0	1392	1404	metal stents
+MetaMapLite	C0547047	0.0	1415	1423	decrease
+MetaMapLite	C0221198	0.0	1433	1440	lesions
+MetaMapLite	C1948041	0.0	1459	1471	intervention
+MetaMapLite	C0886296	0.0	1459	1471	intervention
+MetaMapLite	C1710443	0.0	1507	1512	Tower
+MetaMapLite	C0587571	0.0	1519	1537	Cardiology Service
+MetaMapLite	C0449738	0.0	1548	1557	direction
+MetaMapLite	C2347647	0.0	1600	1617	post-intervention
+MetaMapLite	C0489547	0.0	1618	1633	hospital course
+MetaMapLite	C0205360	0.0	1643	1649	stable
+MetaMapLite	C0184713	0.0	1654	1668	discharge home
+MetaMapLite	C1442085	0.0	1688	1700	instructions
+MetaMapLite	C0302828	0.0	1688	1700	instructions
+MetaMapLite	C0633084	0.0	1709	1715	Plavix
+MetaMapLite	C0332173	0.0	1716	1721	daily
+MetaMapLite	C0439231	0.0	1730	1735	month
+MetaMapLite	C0042077	0.0	1740	1747	Urology
+MetaMapLite	C0004448	0.0	1751	1756	aware
+MetaMapLite	C0445247	0.0	1764	1768	same
+MetaMapLite	C0012621	0.0	1770	1779	DISCHARGE
+MetaMapLite	C0030685	0.0	1770	1779	DISCHARGE
+MetaMapLite	C0518766	0.0	1786	1797	VITAL SIGNS
+MetaMapLite	C0005903	0.0	1800	1811	Temperature
+MetaMapLite	C0039476	0.0	1800	1811	Temperature
+MetaMapLite	C2197023	0.0	1818	1828	heart rate
+MetaMapLite	C0018810	0.0	1818	1828	heart rate
+MetaMapLite	C0035203	0.0	1833	1845	respirations
+MetaMapLite	C0005823	0.0	1850	1864	blood pressure
+MetaMapLite	C1272641	0.0	1850	1864	blood pressure
+MetaMapLite	C0018787	0.0	1873	1878	HEART
+MetaMapLite	C0205272	0.0	1881	1888	Regular
+MetaMapLite	C0871269	0.0	1898	1904	rhythm
+MetaMapLite	C1523018	0.0	1898	1904	rhythm
+MetaMapLite	C0024109	0.0	1906	1911	LUNGS
+MetaMapLite	C2963144	0.0	1914	1919	Clear
+MetaMapLite	C0004339	0.0	1923	1935	auscultation
+MetaMapLite	C0230168	0.0	1937	1944	ABDOMEN
+MetaMapLite	C0000726	0.0	1937	1944	ABDOMEN
+MetaMapLite	C0028754	0.0	1947	1952	Obese
+MetaMapLite	C0205358	0.0	1954	1958	soft
+MetaMapLite	C0520960	0.0	1960	1969	nontender
+MetaMapLite	C0230166	0.0	1972	1985	Lower abdomen
+MetaMapLite	C0573980	0.0	1978	1992	abdomen tender
+MetaMapLite	C0678226	0.0	2006	2012	due to
+MetaMapLite	C0699885	0.0	2013	2027	bladder cancer
+MetaMapLite	C0005684	0.0	2013	2027	bladder cancer
+MetaMapLite	C0230318	0.0	2029	2040	RIGHT GROIN
+MetaMapLite	C0205222	0.0	2043	2046	Dry
+MetaMapLite	C0205266	0.0	2051	2057	intact
+MetaMapLite	C0006318	0.0	2062	2067	bruit
+MetaMapLite	C0013491	0.0	2072	2082	ecchymosis
+MetaMapLite	C0018944	0.0	2087	2095	hematoma
+MetaMapLite	C0205108	0.0	2098	2104	Distal
+MetaMapLite	C0034107	0.0	2105	2111	pulses
+MetaMapLite	C0391850	0.0	2105	2111	pulses
+MetaMapLite	C0205266	0.0	2116	2122	intact
+MetaMapLite	C0012621	0.0	2124	2133	DISCHARGE
+MetaMapLite	C0030685	0.0	2124	2133	DISCHARGE
+MetaMapLite	C2263086	0.0	2141	2144	CBC
+MetaMapLite	C0009555	0.0	2141	2144	CBC
+MetaMapLite	C0007457	0.0	2147	2152	White
+MetaMapLite	C0220938	0.0	2147	2152	White
+MetaMapLite	C0043157	0.0	2147	2152	White
+MetaMapLite	C1705566	0.0	2153	2158	count
+MetaMapLite	C0750480	0.0	2153	2158	count
+MetaMapLite	C0019046	0.0	2164	2174	hemoglobin
+MetaMapLite	C0518014	0.0	2181	2191	hematocrit
+MetaMapLite	C0018935	0.0	2181	2191	hematocrit
+MetaMapLite	C1287267	0.0	2196	2210	platelet count
+MetaMapLite	C0032181	0.0	2196	2210	platelet count
+MetaMapLite	C0019018	0.0	2216	2230	hemoglobin A1c
+MetaMapLite	C0053932	0.0	2237	2240	BMP
+MetaMapLite	C0279266	0.0	2237	2240	BMP
+MetaMapLite	C3714642	0.0	2243	2249	Sodium
+MetaMapLite	C3541959	0.0	2243	2249	Sodium
+MetaMapLite	C0037473	0.0	2243	2249	Sodium
+MetaMapLite	C0032821	0.0	2255	2264	potassium
+MetaMapLite	C0017725	0.0	2294	2301	glucose
+MetaMapLite	C0023779	0.0	2308	2313	Lipid
+MetaMapLite	C0008377	0.0	2324	2335	Cholesterol
+MetaMapLite	C3715113	0.0	2360	2363	HDL
+MetaMapLite	C0025664	0.0	2377	2387	PROCEDURES
+MetaMapLite	C2700391	0.0	2377	2387	PROCEDURES
+MetaMapLite	C0412692	0.0	2408	2419	cardiac MRI
+MetaMapLite	C0038435	0.0	2430	2436	stress
+MetaMapLite	C0018795	0.0	2462	2483	heart catheterization
+MetaMapLite	C0085532	0.0	2485	2503	coronary angiogram
+MetaMapLite	C0007800	0.0	2510	2524	ventriculogram
+MetaMapLite	C0394239	0.0	2510	2524	ventriculogram
+MetaMapLite	C0190211	0.0	2526	2546	coronary angioplasty
+MetaMapLite	C0002997	0.0	2526	2546	coronary angioplasty
+MetaMapLite	C0439064	0.0	2557	2562	Multi
+MetaMapLite	C1517892	0.0	2563	2567	Link
+MetaMapLite	C1704666	0.0	2563	2567	Link
+MetaMapLite	C0042789	0.0	2568	2574	Vision
+MetaMapLite	C0441290	0.0	2580	2592	metal stents
+MetaMapLite	C2266673	0.0	2642	2664	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0442519	0.0	2689	2693	home
+MetaMapLite	C0205251	0.0	2709	2712	low
+MetaMapLite	C1550472	0.0	2709	2712	low
+MetaMapLite	C0205251	0.0	2709	2712	low
+MetaMapLite	C1550472	0.0	2709	2712	low
+MetaMapLite	C0036140	0.0	2728	2732	salt
+MetaMapLite	C0037494	0.0	2728	2732	salt
+MetaMapLite	C1550472	0.0	2715	2718	low
+MetaMapLite	C0205251	0.0	2715	2718	low
+MetaMapLite	C0008377	0.0	2738	2749	cholesterol
+MetaMapLite	C0018787	0.0	2755	2760	heart
+MetaMapLite	C0011878	0.0	2769	2782	diabetic diet
+MetaMapLite	C0687676	0.0	2802	2806	post
+MetaMapLite	C0205042	0.0	2807	2822	coronary artery
+MetaMapLite	C0397581	0.0	2816	2835	artery intervention
+MetaMapLite	C0439093	0.0	2870	2882	greater than
+MetaMapLite	C0439219	0.0	2886	2892	pounds
+MetaMapLite	C0439228	0.0	2903	2907	days
+MetaMapLite	C0013126	0.0	2924	2929	drive
+MetaMapLite	C0439228	0.0	2938	2942	days
+MetaMapLite	C0043047	0.0	2970	2975	water
+MetaMapLite	C0439230	0.0	2984	2989	weeks
+MetaMapLite	C0018246	0.0	2992	2997	Groin
+MetaMapLite	C0337950	0.0	2998	3007	site care
+MetaMapLite	C0030705	0.0	3022	3029	patient
+MetaMapLite	C0332152	0.0	3030	3038	prior to
+MetaMapLite	C0442519	0.0	3056	3060	home
+MetaMapLite	C1283174	0.0	3073	3078	check
+MetaMapLite	C0018246	0.0	3079	3084	groin
+MetaMapLite	C0019080	0.0	3089	3097	bleeding
+MetaMapLite	C0013604	0.0	3099	3104	edema
+MetaMapLite	C0220913	0.0	3110	3115	signs
+MetaMapLite	C0220912	0.0	3110	3115	signs
+MetaMapLite	C3714514	0.0	3119	3128	infection
+MetaMapLite	C0033131	0.0	3153	3175	primary care physician
+MetaMapLite	C0580931	0.0	3161	3165	care
+MetaMapLite	C0439230	0.0	3194	3199	weeks
+MetaMapLite	C0442592	0.0	3221	3227	clinic
+MetaMapLite	C0439230	0.0	3243	3248	weeks
+MetaMapLite	C0003629	0.0	3250	3261	appointment
+MetaMapLite	C0042077	0.0	3310	3317	Urology
+MetaMapLite	C0442592	0.0	3327	3333	clinic
+MetaMapLite	C1413503	0.0	3356	3361	clock
+MetaMapLite	C1707418	0.0	3356	3361	clock
+MetaMapLite	C0040405	0.0	3384	3391	CT scan
+MetaMapLite	C0040223	0.0	3400	3404	time
+MetaMapLite	C0012621	0.0	3406	3415	DISCHARGE
+MetaMapLite	C0030685	0.0	3406	3415	DISCHARGE
+MetaMapLite	C0011900	0.0	3416	3425	DIAGNOSES
+MetaMapLite	C1956346	0.0	3431	3454	Coronary artery disease
+MetaMapLite	C0010068	0.0	3431	3454	Coronary artery disease
+MetaMapLite	C0010054	0.0	3431	3454	Coronary artery disease
+MetaMapLite	C3176928	0.0	3447	3461	disease status
+MetaMapLite	C0231290	0.0	3455	3466	status post
+MetaMapLite	C0522523	0.0	3467	3479	percutaneous
+MetaMapLite	C0205042	0.0	3480	3495	coronary artery
+MetaMapLite	C0397581	0.0	3489	3508	artery intervention
+MetaMapLite	C1261316	0.0	3516	3537	right coronary artery
+MetaMapLite	C0699885	0.0	3558	3572	Bladder cancer
+MetaMapLite	C0005684	0.0	3558	3572	Bladder cancer
+MetaMapLite	C0011860	0.0	3578	3586	Diabetes
+MetaMapLite	C0011849	0.0	3578	3586	Diabetes
+MetaMapLite	C0242339	0.0	3592	3604	Dyslipidemia
+MetaMapLite	C0020538	0.0	3610	3622	Hypertension
+MetaMapLite	C0007282	0.0	3628	3651	Carotid artery stenosis
+MetaMapLite	C0231290	0.0	3653	3664	status post
+MetaMapLite	C0205090	0.0	3665	3670	right
+MetaMapLite	C0014099	0.0	3671	3693	carotid endarterectomy
+MetaMapLite	C0015252	0.0	3716	3726	resections
+MetaMapLite	C0005695	0.0	3734	3747	bladder tumor
+MetaMapLite	C0443203	0.0	3753	3760	Distant
+MetaMapLite	C1998241	0.0	3761	3784	history of appendectomy
+MetaMapLite	C0443203	0.0	3790	3797	Distant
+MetaMapLite	C0262926	0.0	3798	3805	history
+MetaMapLite	C2004062	0.0	3798	3805	history
+MetaMapLite	C0019665	0.0	3798	3805	history
+MetaMapLite	C0019664	0.0	3798	3805	history
+MetaMapLite	C0262512	0.0	3798	3805	history
+MetaMapLite	C0188412	0.0	3809	3822	ankle surgery
+MetaMapLite	C0743221	0.0	3834	3851	discharge summary
+MetaMapLite	C0010068	0.0	3853	3876	coronary artery disease
+MetaMapLite	C1956346	0.0	3853	3876	coronary artery disease
+MetaMapLite	C0010054	0.0	3853	3876	coronary artery disease
+MetaMapLite	C0018795	0.0	3878	3899	heart catheterization
+MetaMapLite	C0852949	0.0	3901	3915	artery disease
+MetaMapLite	C0025552	0.0	3922	3927	metal
+MetaMapLite	C0441290	0.0	3929	3941	metal stents
+MetaMapLite	C0397581	0.0	3943	3962	artery intervention
+MetaMapLite	C0699885	0.0	3964	3978	bladder cancer
+MetaMapLite	C0005684	0.0	3964	3978	bladder cancer
+MetaMapLite	C0205042	0.0	3980	3995	coronary artery
+MetaMapLite	C3245459	0.0	3997	4004	veteran
+MetaMapLite	C0042610	0.0	3997	4004	veteran
+MetaMapLite	C0524727	0.0	4006	4022	surgery, cardiac
+MetaMapLite	C0205263	0.0	4024	4033	inducible
+MetaMapLite	C0007430	0.0	4035	4050	catheterization
+MetaMapLite	C0022116	0.0	4052	4060	ischemia
+MetaMapLite	C0006826	0.0	4062	4068	cancer
+MetaMapLite	C0042077	0.0	4070	4077	urology
+MetaMapLite	C0005682	0.0	4089	4096	bladder
+MetaMapLite	C0018787	0.0	4098	4103	heart
+MetaMapLite	C0205042	0.0	4105	4121	artery, coronary

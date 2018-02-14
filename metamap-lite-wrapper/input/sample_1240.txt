@@ -1,0 +1,13 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - 11
+Description:  Hyperglycemia, cholelithiasis, obstructive sleep apnea, diabetes mellitus, hypertension, and cholecystitis.
+(Medical Transcription Sample Report)
+ADMISSION DIAGNOSES:  Hyperglycemia, cholelithiasis, obstructive sleep apnea, diabetes mellitus, and hypertension.
+DISCHARGE DIAGNOSES:  Hyperglycemia, cholelithiasis, obstructive sleep apnea, diabetes mellitus, hypertension, and cholecystitis.
+PROCEDURE:  Laparoscopic cholecystectomy.
+SERVICE:  Surgery.
+HISTORY OF PRESENT ILLNESS:  Ms. ABC is a 57-year-old woman.  She suffers from morbid obesity.  She also has diabetes and obstructive sleep apnea.  She was evaluated in the Bariatric Surgical Center for placement of a band.  During her workup, she was noted to have evidence of cholelithiasis.  It was felt that the patient would benefit from removal of her gallbladder prior to having band placement secondary to her diabetes and the risk of infection of the band.  The patient was scheduled to undergo her procedure on 12/31/09; however, at blood glucose check, the patient was noted to be hyperglycemic, her sugar was 438.  She was admitted to the hospital for treatment of her hyperglycemia.
+HOSPITAL COURSE:  Ms. ABC was admitted to the hospital.  She was seen by Dr. A.  He put her on an insulin drip.  Her sugars slowly did come down to normal down to between 115 and 134.  On the next day, she was then taken to the operating room, where she underwent her laparoscopic cholecystectomy.  She was noted to be a difficult intubation for the procedure.  There were some indications of chronic cholecystitis, a little bit of edema, mild edema and adhesions of omentum around the gallbladder.  She underwent the procedure.  She tolerated without difficulty.  She was recovered in the Postoperative Care Unit and then returned to the floor.  Her blood sugar postprocedure was noted to be 233.  She was started back on a sliding scale insulin.  She continued to do well and was felt to be stable for discharge following the procedure.
+DISCHARGE INSTRUCTIONS:  To return to the Medifast diet.  To continue with her blood glucose.  She needs to follow up with Dr. B, and she will see me next week on Friday.  We will determine if we will proceed with her lap band at that time.  She may shower.  She needs to keep her wounds clean and dry.  No heavy lifting.  No driving on narcotic pain medicines.  She needs to continue with her CPAP machine and continue to monitor her sugars.
+Keywords:
+discharge summary, medifast, hyperglycemia, laparoscopic cholecystectomy, medifast diet, cholecystitis, cholelithiasis, diabetes mellitus, hypertension, morbid obesity, obstructive sleep apnea, sleep apnea, diabetes,

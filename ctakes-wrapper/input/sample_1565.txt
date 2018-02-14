@@ -1,0 +1,12 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Ectopic Pregnancy - Discharge Summary
+Description:  A 31-year-old white female admitted to the hospital with pelvic pain and vaginal bleeding.  Right ruptured ectopic pregnancy with hemoperitoneum.   Anemia secondary to blood loss.
+(Medical Transcription Sample Report)
+HISTORY OF PRESENT ILLNESS:  This is the case of a 31-year-old white female admitted to the hospital with pelvic pain and vaginal bleeding.  The patient had a positive hCG with a negative sonogram and hCG titer of about 18,000.
+HOSPITAL COURSE:  The patient was admitted to the hospital with the diagnosis of a possible incomplete abortion, to rule out ectopic pregnancy or rupture of corpus luteal cyst.  The patient was kept in observation for 24 hours.  The sonogram stated there was no gestational sac, but there was a small mass within the uterus that could represent a gestational sac.  The patient was admitted to the hospital.  A repeat hCG titer done on the same day came back as 15,000, but then the following day, it came back as 18,000.  The diagnosis of a possible ruptured ectopic pregnancy was established.  The patient was taken to surgery and a laparotomy was performed with findings of a right ruptured ectopic pregnancy.  The right salpingectomy was performed with no complications.  The patient received 2 units of red packed cells.  On admission, her hemoglobin was 12.9, then in the afternoon it dropped to 8.1, and the following morning, it was 7.9.  Again, based on these findings, the severe abdominal pain, we made the diagnosis of ectopic and it was proved or confirmed at surgery.  The hospital course was uneventful.  There was no fever reported.  The abdomen was soft.  She had a normal bowel movement.  The patient was dismissed on 09/09/2007 to be followed in my office in 4 days.
+FINAL DIAGNOSES:
+1.  Right ruptured ectopic pregnancy with hemoperitoneum.
+2.  Anemia secondary to blood loss.
+PLAN:  The patient will be dismissed on pain medication and iron therapy.
+Keywords:
+discharge summary, anemia, blood loss, ruptured ectopic pregnancy, gestational sac, ectopic pregnancy, hemoperitoneum, gestational, ruptured, pregnancy, ectopic,

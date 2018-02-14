@@ -1,0 +1,251 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0596706	0.0	85	96	Hip Surgery
+MetaMapLite	C0678257	0.0	97	108	Description
+MetaMapLite	C0439234	0.0	116	120	year
+MetaMapLite	C0580836	0.0	121	124	old
+MetaMapLite	C0086287	0.0	125	131	female
+MetaMapLite	C0043210	0.0	125	131	female
+MetaMapLite	C0015780	0.0	125	131	female
+MetaMapLite	C0926821	0.0	163	181	right femoral head
+MetaMapLite	C0282229	0.0	184	205	Medical Transcription
+MetaMapLite	C2347026	0.0	206	212	Sample
+MetaMapLite	C0370003	0.0	206	212	Sample
+MetaMapLite	C0684224	0.0	213	219	Report
+MetaMapLite	C0700287	0.0	213	219	Report
+MetaMapLite	C0011900	0.0	231	240	DIAGNOSIS
+MetaMapLite	C1704338	0.0	231	240	DIAGNOSIS
+MetaMapLite	C0926821	0.0	263	281	right femoral head
+MetaMapLite	C1555319	0.0	283	302	DISCHARGE DIAGNOSIS
+MetaMapLite	C0926821	0.0	325	343	right femoral head
+MetaMapLite	C0027627	0.0	345	354	SECONDARY
+MetaMapLite	C0175668	0.0	345	354	SECONDARY
+MetaMapLite	C0011900	0.0	355	364	DIAGNOSES
+MetaMapLite	C0332152	0.0	365	373	PRIOR TO
+MetaMapLite	C0019993	0.0	374	389	HOSPITALIZATION
+MetaMapLite	C0240602	0.0	395	405	Opioid use
+MetaMapLite	C0524470	0.0	411	420	Right hip
+MetaMapLite	C0596706	0.0	417	428	hip surgery
+MetaMapLite	C0003611	0.0	434	446	Appendectomy
+MetaMapLite	C0017168	0.0	452	483	Gastroesophageal reflux disease
+MetaMapLite	C0232483	0.0	469	475	reflux
+MetaMapLite	C0017168	0.0	469	475	reflux
+MetaMapLite	C0795623	0.0	489	498	Hepatitis
+MetaMapLite	C0019159	0.0	489	498	Hepatitis
+MetaMapLite	C0019158	0.0	489	498	Hepatitis
+MetaMapLite	C0193388	0.0	512	524	liver biopsy
+MetaMapLite	C0005841	0.0	530	547	Blood transfusion
+MetaMapLite	C0337664	0.0	553	559	Smoker
+MetaMapLite	C1510467	0.0	565	571	Trauma
+MetaMapLite	C3714660	0.0	565	571	Trauma
+MetaMapLite	C3263723	0.0	565	571	Trauma
+MetaMapLite	C0439064	0.0	577	585	multiple
+MetaMapLite	C0524852	0.0	586	607	orthopedic procedures
+MetaMapLite	C0186190	0.0	613	628	Hip arthroscopy
+MetaMapLite	C0032790	0.0	630	636	POSTOP
+MetaMapLite	C0009488	0.0	637	650	COMORBIDITIES
+MetaMapLite	C0032790	0.0	653	659	Postop
+MetaMapLite	C0154286	0.0	660	683	acute blood loss anemia
+MetaMapLite	C0154298	0.0	660	683	acute blood loss anemia
+MetaMapLite	C0005841	0.0	694	705	transfusion
+MetaMapLite	C0199960	0.0	694	705	transfusion
+MetaMapLite	C1879316	0.0	694	705	transfusion
+MetaMapLite	C0032790	0.0	710	716	postop
+MetaMapLite	C0030193	0.0	717	721	pain
+MetaMapLite	C0025664	0.0	723	733	PROCEDURES
+MetaMapLite	C2700391	0.0	723	733	PROCEDURES
+MetaMapLite	C0347984	0.0	734	740	DURING
+MetaMapLite	C0019993	0.0	746	761	HOSPITALIZATION
+MetaMapLite	C0205090	0.0	764	769	Right
+MetaMapLite	C0040508	0.0	770	792	total hip arthroplasty
+MetaMapLite	C0015252	0.0	797	804	removal
+MetaMapLite	C0728940	0.0	797	804	removal
+MetaMapLite	C1523994	0.0	808	816	hardware
+MetaMapLite	C0009818	0.0	818	826	CONSULTS
+MetaMapLite	C0184567	0.0	829	839	Acute pain
+MetaMapLite	C0871489	0.0	840	844	team
+MetaMapLite	C0743223	0.0	854	865	DISPOSITION
+MetaMapLite	C0442519	0.0	868	872	Home
+MetaMapLite	C0262512	0.0	874	900	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	885	892	PRESENT
+MetaMapLite	C0489547	0.0	905	920	HOSPITAL COURSE
+MetaMapLite	C1522508	0.0	927	934	details
+MetaMapLite	C0442592	0.0	952	958	clinic
+MetaMapLite	C1317574	0.0	959	964	notes
+MetaMapLite	C1317574	0.0	972	977	notes
+MetaMapLite	C1282927	0.0	983	988	brief
+MetaMapLite	C0030705	0.0	994	1001	patient
+MetaMapLite	C0439234	0.0	1010	1014	year
+MetaMapLite	C0580836	0.0	1015	1018	old
+MetaMapLite	C0086287	0.0	1019	1025	female
+MetaMapLite	C0015780	0.0	1019	1025	female
+MetaMapLite	C0043210	0.0	1019	1025	female
+MetaMapLite	C0926821	0.0	1057	1075	right femoral head
+MetaMapLite	C0205210	0.0	1133	1141	clinical
+MetaMapLite	C2607943	0.0	1159	1167	findings
+MetaMapLite	C0205090	0.0	1194	1199	right
+MetaMapLite	C0040508	0.0	1200	1222	total hip arthroplasty
+MetaMapLite	C0015252	0.0	1227	1234	removal
+MetaMapLite	C0728940	0.0	1227	1234	removal
+MetaMapLite	C0580836	0.0	1238	1241	old
+MetaMapLite	C1523994	0.0	1242	1250	hardware
+MetaMapLite	C0035647	0.0	1279	1284	risks
+MetaMapLite	C0814225	0.0	1286	1294	benefits
+MetaMapLite	C1523987	0.0	1296	1307	alternative
+MetaMapLite	C0683525	0.0	1308	1315	options
+MetaMapLite	C0332149	0.0	1321	1329	possible
+MetaMapLite	C0085415	0.0	1330	1338	outcomes
+MetaMapLite	C0038895	0.0	1342	1349	surgery
+MetaMapLite	C0543467	0.0	1342	1349	surgery
+MetaMapLite	C0439228	0.0	1415	1418	day
+MetaMapLite	C0184666	0.0	1426	1435	admission
+MetaMapLite	C0205090	0.0	1494	1499	right
+MetaMapLite	C0040508	0.0	1500	1522	total hip arthroplasty
+MetaMapLite	C0015252	0.0	1527	1534	removal
+MetaMapLite	C0728940	0.0	1527	1534	removal
+MetaMapLite	C1523994	0.0	1538	1546	hardware
+MetaMapLite	C1171258	0.0	1559	1572	complications
+MetaMapLite	C0009566	0.0	1559	1572	complications
+MetaMapLite	C0034871	0.0	1603	1607	PACU
+MetaMapLite	C0237820	0.0	1612	1620	recovery
+MetaMapLite	C1555688	0.0	1612	1620	recovery
+MetaMapLite	C0032790	0.0	1625	1631	postop
+MetaMapLite	C0029355	0.0	1632	1642	orthopedic
+MetaMapLite	C0016249	0.0	1643	1648	floor
+MetaMapLite	C0009940	0.0	1653	1666	convalescence
+MetaMapLite	C2370841	0.0	1653	1666	convalescence
+MetaMapLite	C0949766	0.0	1668	1684	physical therapy
+MetaMapLite	C0699718	0.0	1668	1684	physical therapy
+MetaMapLite	C0012622	0.0	1690	1708	discharge planning
+MetaMapLite	C0853245	0.0	1711	1726	DVT prophylaxis
+MetaMapLite	C0728963	0.0	1746	1753	Lovenox
+MetaMapLite	C0032790	0.0	1756	1762	Postop
+MetaMapLite	C0030193	0.0	1763	1767	pain
+MetaMapLite	C0184567	0.0	1807	1817	Acute Pain
+MetaMapLite	C0871489	0.0	1818	1822	team
+MetaMapLite	C0032790	0.0	1825	1831	Postop
+MetaMapLite	C0154298	0.0	1832	1855	acute blood loss anemia
+MetaMapLite	C0154286	0.0	1832	1855	acute blood loss anemia
+MetaMapLite	C0005841	0.0	1873	1891	blood transfusions
+MetaMapLite	C0205411	0.0	1898	1906	adequate
+MetaMapLite	C0456079	0.0	1907	1912	level
+MetaMapLite	C1547707	0.0	1907	1912	level
+MetaMapLite	C2946261	0.0	1907	1912	level
+MetaMapLite	C0441889	0.0	1907	1912	level
+MetaMapLite	C0019046	0.0	1916	1926	hemoglobin
+MetaMapLite	C0949766	0.0	1929	1945	Physical therapy
+MetaMapLite	C0699718	0.0	1929	1945	Physical therapy
+MetaMapLite	C1318464	0.0	1950	1970	occupational therapy
+MetaMapLite	C0043227	0.0	2003	2007	work
+MetaMapLite	C0012621	0.0	2025	2034	discharge
+MetaMapLite	C0030685	0.0	2025	2034	discharge
+MetaMapLite	C0449297	0.0	2035	2044	clearance
+MetaMapLite	C0439228	0.0	2052	2055	day
+MetaMapLite	C0030685	0.0	2063	2072	discharge
+MetaMapLite	C0012621	0.0	2063	2072	discharge
+MetaMapLite	C0743223	0.0	2074	2085	DISPOSITION
+MetaMapLite	C0442519	0.0	2088	2092	Home
+MetaMapLite	C0439228	0.0	2102	2105	day
+MetaMapLite	C0030685	0.0	2113	2122	discharge
+MetaMapLite	C0012621	0.0	2113	2122	discharge
+MetaMapLite	C0277797	0.0	2132	2140	afebrile
+MetaMapLite	C0518766	0.0	2142	2153	vital signs
+MetaMapLite	C0205360	0.0	2159	2165	stable
+MetaMapLite	C0205178	0.0	2182	2187	acute
+MetaMapLite	C0231303	0.0	2188	2196	distress
+MetaMapLite	C0524470	0.0	2203	2212	right hip
+MetaMapLite	C0186094	0.0	2209	2221	hip incision
+MetaMapLite	C1947930	0.0	2226	2231	clean
+MetaMapLite	C0205222	0.0	2233	2236	dry
+MetaMapLite	C0205266	0.0	2242	2248	intact
+MetaMapLite	C0015385	0.0	2251	2260	Extremity
+MetaMapLite	C0687712	0.0	2265	2269	warm
+MetaMapLite	C0205170	0.0	2274	2278	well
+MetaMapLite	C1185625	0.0	2290	2302	Compartments
+MetaMapLite	C1382196	0.0	2290	2302	Compartments
+MetaMapLite	C0205358	0.0	2308	2312	soft
+MetaMapLite	C0425716	0.0	2315	2331	Capillary refill
+MetaMapLite	C0457385	0.0	2346	2353	seconds
+MetaMapLite	C0205108	0.0	2356	2362	Distal
+MetaMapLite	C0391850	0.0	2363	2369	pulses
+MetaMapLite	C0034107	0.0	2363	2369	pulses
+MetaMapLite	C0150312	0.0	2375	2382	present
+MetaMapLite	C0587081	0.0	2397	2416	LABORATORY FINDINGS
+MetaMapLite	C0007457	0.0	2419	2424	White
+MetaMapLite	C0220938	0.0	2419	2424	White
+MetaMapLite	C0043157	0.0	2419	2424	White
+MetaMapLite	C1705566	0.0	2425	2430	count
+MetaMapLite	C0750480	0.0	2425	2430	count
+MetaMapLite	C0019046	0.0	2440	2450	hemoglobin
+MetaMapLite	C0279266	0.0	2463	2466	BMP
+MetaMapLite	C0053932	0.0	2463	2466	BMP
+MetaMapLite	C2266673	0.0	2479	2501	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0549178	0.0	2504	2512	Continue
+MetaMapLite	C0012159	0.0	2513	2517	diet
+MetaMapLite	C0012155	0.0	2513	2517	diet
+MetaMapLite	C0441655	0.0	2529	2537	ACTIVITY
+MetaMapLite	C1318107	0.0	2540	2553	Weightbearing
+MetaMapLite	C0230415	0.0	2574	2595	right lower extremity
+MetaMapLite	C0181620	0.0	2619	2623	lift
+MetaMapLite	C0013126	0.0	2625	2630	drive
+MetaMapLite	C1299988	0.0	2632	2636	move
+MetaMapLite	C1269909	0.0	2632	2636	move
+MetaMapLite	C0560560	0.0	2632	2636	move
+MetaMapLite	C0578671	0.0	2632	2636	move
+MetaMapLite	C0016858	0.0	2637	2646	furniture
+MetaMapLite	C1514989	0.0	2651	2669	strenuous activity
+MetaMapLite	C0439230	0.0	2678	2683	weeks
+MetaMapLite	C0015967	0.0	2709	2730	increased temperature
+MetaMapLite	C0439093	0.0	2731	2743	greater than
+MetaMapLite	C1260956	0.0	2761	2768	redness
+MetaMapLite	C0332575	0.0	2761	2768	redness
+MetaMapLite	C0012621	0.0	2780	2788	drainage
+MetaMapLite	C2926602	0.0	2780	2788	drainage
+MetaMapLite	C0030193	0.0	2800	2804	pain
+MetaMapLite	C0521116	0.0	2829	2836	current
+MetaMapLite	C0030193	0.0	2837	2841	pain
+MetaMapLite	C0040808	0.0	2842	2849	regimen
+MetaMapLite	C2945654	0.0	2842	2849	regimen
+MetaMapLite	C0032790	0.0	2857	2863	postop
+MetaMapLite	C0029355	0.0	2864	2874	orthopedic
+MetaMapLite	C0030685	0.0	2875	2884	discharge
+MetaMapLite	C0012621	0.0	2875	2884	discharge
+MetaMapLite	C0039401	0.0	2885	2896	instruction
+MetaMapLite	C1442085	0.0	2885	2896	instruction
+MetaMapLite	C0302828	0.0	2885	2896	instruction
+MetaMapLite	C2349187	0.0	2897	2902	sheet
+MetaMapLite	C1522577	0.0	2904	2913	FOLLOW-UP
+MetaMapLite	C0589120	0.0	2904	2913	FOLLOW-UP
+MetaMapLite	C0003629	0.0	2914	2925	APPOINTMENT
+MetaMapLite	C1522577	0.0	2928	2937	Follow up
+MetaMapLite	C0439230	0.0	2956	2961	weeks
+MetaMapLite	C0743221	0.0	2973	2990	discharge summary
+MetaMapLite	C0015813	0.0	3007	3019	femoral head
+MetaMapLite	C0524470	0.0	3021	3030	right hip
+MetaMapLite	C0596706	0.0	3027	3038	hip surgery
+MetaMapLite	C1879316	0.0	3040	3051	transfusion
+MetaMapLite	C0005841	0.0	3040	3051	transfusion
+MetaMapLite	C0199960	0.0	3040	3051	transfusion
+MetaMapLite	C0003893	0.0	3053	3065	arthroplasty
+MetaMapLite	C0700235	0.0	3053	3065	arthroplasty
+MetaMapLite	C0015252	0.0	3067	3074	removal
+MetaMapLite	C0728940	0.0	3067	3074	removal
+MetaMapLite	C1523994	0.0	3078	3086	hardware
+MetaMapLite	C0040508	0.0	3088	3110	total hip arthroplasty
+MetaMapLite	C0596706	0.0	3112	3123	hip surgery
+MetaMapLite	C0439810	0.0	3125	3130	total
+MetaMapLite	C0019552	0.0	3131	3134	hip
+MetaMapLite	C0186193	0.0	3136	3152	hip arthroplasty
+MetaMapLite	C0728940	0.0	3154	3161	removal
+MetaMapLite	C0015252	0.0	3154	3161	removal
+MetaMapLite	C1523994	0.0	3163	3171	hardware
+MetaMapLite	C0015811	0.0	3173	3180	femoral
+MetaMapLite	C0019552	0.0	3182	3185	hip
+MetaMapLite	C0012621	0.0	3187	3196	discharge
+MetaMapLite	C0030685	0.0	3187	3196	discharge

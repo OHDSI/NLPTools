@@ -1,0 +1,20 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - 5
+Description:  A female with the past medical history of Ewing sarcoma, iron deficiency anemia, hypertension, and obesity.
+(Medical Transcription Sample Report)
+DATE OF ADMISSION:  MM/DD/YYYY.
+DATE OF DISCHARGE:  MM/DD/YYYY.
+REFERRING PHYSICIAN:  AB CD, M.D.
+ATTENDING PHYSICIAN AT DISCHARGE:  X Y, M.D.
+ADMITTING DIAGNOSES:
+1.  Ewing sarcoma.
+2.  Anemia.
+3.  Hypertension.
+4.  Hyperkalemia.
+PROCEDURES DURING HOSPITALIZATION:  Cycle seven Ifosfamide, mesna, and VP-16 chemotherapy.
+HISTORY OF PRESENT ILLNESS:  Ms. XXX is a pleasant 37-year-old African-American female with the past medical history of Ewing sarcoma, iron deficiency anemia, hypertension, and obesity.  She presented initially with a left frontal orbital swelling to Dr. XYZ on MM/DD/YYYY.  A biopsy revealed small round cells and repeat biopsy on MM/DD/YYYY also showed round cells consistent with Ewing sarcoma, genetic analysis indicated a T1122 translocation.  MRI on MM/DD/YYYY showed a 4 cm soft tissue mass without bony destruction.  CT showed similar result.  The patient received her first cycle of chemotherapy on MM/DD/YYYY.  On MM/DD/YYYY, she was admitted to the ED with nausea and vomitting and was admitted to the Hematology and Oncology A Service following her first course of chemotherapy.  She had her last course of chemotherapy on MM/DD/YYYY followed by radiation treatment to the ethmoid sinuses on MM/DD/YYYY.
+HOSPITAL COURSE:
+1.  Ewing sarcoma, she presented for cycle seven of VP-16, ifosfamide, and mesna infusions, which she tolerated well throughout the admission.
+2.  She was followed for hemorrhagic cystitis with urine dipsticks and only showed trace amounts of blood in the urine throughout the admission.
+Keywords:
+discharge summary, iron deficiency anemia, hypertension and obesity, iron deficiency, urine, anemia, hypertension, chemotherapy, discharge, ewing, sarcoma,

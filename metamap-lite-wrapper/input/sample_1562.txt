@@ -1,0 +1,19 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Hysterectomy - Discharge Summary
+Description:  The patient underwent a total vaginal hysterectomy.
+(Medical Transcription Sample Report)
+ADMISSION DIAGNOSES:
+1.  Menorrhagia.
+2.  Uterus enlargement.
+3.  Pelvic pain.
+DISCHARGE DIAGNOSIS:  Status post vaginal hysterectomy.
+COMPLICATIONS:  None.
+BRIEF HISTORY OF PRESENT ILLNESS:  This is a 36-year-old, gravida 3, para 3 female who presented initially to the office with abnormal menstrual bleeding and increase in flow during her period.  She also had symptoms of back pain, dysmenorrhea, and dysuria.  The symptoms had been worsening over time.  The patient was noted also to have increasing pelvic pain over the past 8 months and she was noted to have uterine enlargement upon examination.
+PROCEDURE:  The patient underwent a total vaginal hysterectomy.
+HOSPITAL COURSE:  The patient was admitted on 09/04/2007 to undergo total vaginal hysterectomy.  The procedure preceded as planned without complication.  Uterus was sent for pathologic analysis.  The patient was monitored in the hospital, 2 days postoperatively.  She recovered quite well and vitals remained stable.
+Laboratory studies, H&H were followed and appeared stable on 09/05/2007 with hemoglobin of 11.2 and hematocrit of 31.8.
+The patient was ready for discharge on Monday morning of 09/06/2007.
+LABORATORY FINDINGS:  Please see chart for full studies during admission.
+DISPOSITION:  The patient was discharged to home in stable condition.  She was instructed to follow up in the office postoperatively.
+Keywords:
+discharge summary, menorrhagia, uterus enlargement, pelvic pain, total vaginal hysterectomy, vaginal hysterectomy, uterus, vaginal, hysterectomy,

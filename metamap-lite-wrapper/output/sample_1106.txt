@@ -1,0 +1,253 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0027712	0.0	85	95	Nephrology
+MetaMapLite	C0678257	0.0	96	107	Description
+MetaMapLite	C0030705	0.0	110	117	Patient
+MetaMapLite	C0007134	0.0	128	148	renal cell carcinoma
+MetaMapLite	C0007634	0.0	134	138	cell
+MetaMapLite	C0268800	0.0	155	165	renal cyst
+MetaMapLite	C0035785	0.0	171	178	robotic
+MetaMapLite	C0393360	0.0	188	200	laparoscopic
+MetaMapLite	C0268800	0.0	206	216	renal cyst
+MetaMapLite	C0007778	0.0	217	230	decortication
+MetaMapLite	C2678502	0.0	217	230	decortication
+MetaMapLite	C1883291	0.0	235	245	cystoscopy
+MetaMapLite	C0010702	0.0	235	245	cystoscopy
+MetaMapLite	C0282229	0.0	248	269	Medical Transcription
+MetaMapLite	C2347026	0.0	270	276	Sample
+MetaMapLite	C0370003	0.0	270	276	Sample
+MetaMapLite	C0684224	0.0	277	283	Report
+MetaMapLite	C0700287	0.0	277	283	Report
+MetaMapLite	C0011900	0.0	295	304	DIAGNOSES
+MetaMapLite	C0007134	0.0	312	332	renal cell carcinoma
+MetaMapLite	C0007634	0.0	318	322	cell
+MetaMapLite	C0268800	0.0	339	349	renal cyst
+MetaMapLite	C1555319	0.0	351	370	DISCHARGE DIAGNOSIS
+MetaMapLite	C0007134	0.0	378	398	renal cell carcinoma
+MetaMapLite	C0007634	0.0	384	388	cell
+MetaMapLite	C0268800	0.0	405	415	renal cyst
+MetaMapLite	C0027627	0.0	417	426	SECONDARY
+MetaMapLite	C0175668	0.0	417	426	SECONDARY
+MetaMapLite	C0011900	0.0	427	436	DIAGNOSES
+MetaMapLite	C0024117	0.0	442	479	Chronic obstructive pulmonary disease
+MetaMapLite	C0549186	0.0	450	461	obstructive
+MetaMapLite	C0010054	0.0	485	508	Coronary artery disease
+MetaMapLite	C0010068	0.0	485	508	Coronary artery disease
+MetaMapLite	C1956346	0.0	485	508	Coronary artery disease
+MetaMapLite	C2700391	0.0	510	520	PROCEDURES
+MetaMapLite	C0025664	0.0	510	520	PROCEDURES
+MetaMapLite	C0035785	0.0	523	530	Robotic
+MetaMapLite	C0393360	0.0	540	552	laparoscopic
+MetaMapLite	C0268800	0.0	558	568	renal cyst
+MetaMapLite	C0007778	0.0	569	582	decortication
+MetaMapLite	C2678502	0.0	569	582	decortication
+MetaMapLite	C1883291	0.0	587	597	cystoscopy
+MetaMapLite	C0010702	0.0	587	597	cystoscopy
+MetaMapLite	C0262512	0.0	599	625	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	610	617	PRESENT
+MetaMapLite	C0439234	0.0	644	648	year
+MetaMapLite	C0580836	0.0	649	652	old
+MetaMapLite	C0086582	0.0	653	657	male
+MetaMapLite	C0011900	0.0	671	680	diagnosed
+MetaMapLite	C0007134	0.0	693	713	renal cell carcinoma
+MetaMapLite	C0007634	0.0	699	703	cell
+MetaMapLite	C0431718	0.0	719	739	multiple renal cysts
+MetaMapLite	C0587658	0.0	759	762	MRI
+MetaMapLite	C1824234	0.0	759	762	MRI
+MetaMapLite	C0024485	0.0	759	762	MRI
+MetaMapLite	C0230168	0.0	770	777	abdomen
+MetaMapLite	C0000726	0.0	770	777	abdomen
+MetaMapLite	C3829443	0.0	781	785	June
+MetaMapLite	C1306372	0.0	818	822	mass
+MetaMapLite	C0577559	0.0	818	822	mass
+MetaMapLite	C0929240	0.0	830	840	upper pole
+MetaMapLite	C0227665	0.0	853	859	kidney
+MetaMapLite	C0022646	0.0	853	859	kidney
+MetaMapLite	C0332290	0.0	860	875	consistent with
+MetaMapLite	C0019664	0.0	880	887	history
+MetaMapLite	C2004062	0.0	880	887	history
+MetaMapLite	C0262512	0.0	880	887	history
+MetaMapLite	C0262926	0.0	880	887	history
+MetaMapLite	C0019665	0.0	880	887	history
+MetaMapLite	C0007134	0.0	891	911	renal cell carcinoma
+MetaMapLite	C0007634	0.0	897	901	cell
+MetaMapLite	C1317574	0.0	917	921	note
+MetaMapLite	C0205208	0.0	952	957	solid
+MetaMapLite	C1824234	0.0	978	981	MRI
+MetaMapLite	C0024485	0.0	978	981	MRI
+MetaMapLite	C0587658	0.0	978	981	MRI
+MetaMapLite	C0557061	0.0	990	1000	discussion
+MetaMapLite	C2584313	0.0	990	1000	discussion
+MetaMapLite	C0439064	0.0	1004	1012	multiple
+MetaMapLite	C0376636	0.0	1013	1023	management
+MetaMapLite	C0679199	0.0	1024	1034	strategies
+MetaMapLite	C0030705	0.0	1044	1051	patient
+MetaMapLite	C0194086	0.0	1072	1091	partial nephrectomy
+MetaMapLite	C0401181	0.0	1102	1121	radical nephrectomy
+MetaMapLite	C0268800	0.0	1132	1142	renal cyst
+MetaMapLite	C2678502	0.0	1143	1156	decortication
+MetaMapLite	C0007778	0.0	1143	1156	decortication
+MetaMapLite	C0030705	0.0	1163	1170	patient
+MetaMapLite	C0332148	0.0	1174	1180	likely
+MetaMapLite	C2700391	0.0	1203	1212	procedure
+MetaMapLite	C0184661	0.0	1203	1212	procedure
+MetaMapLite	C0489547	0.0	1214	1229	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	1236	1243	patient
+MetaMapLite	C0268800	0.0	1273	1283	renal cyst
+MetaMapLite	C2678502	0.0	1284	1297	decortication
+MetaMapLite	C0007778	0.0	1284	1297	decortication
+MetaMapLite	C0205170	0.0	1301	1305	well
+MetaMapLite	C1883291	0.0	1311	1321	cystoscopy
+MetaMapLite	C0010702	0.0	1311	1321	cystoscopy
+MetaMapLite	C0332232	0.0	1342	1355	approximately
+MetaMapLite	C0268800	0.0	1370	1381	renal cysts
+MetaMapLite	C0547044	0.0	1390	1397	smaller
+MetaMapLite	C0700321	0.0	1390	1397	smaller
+MetaMapLite	C0268800	0.0	1398	1409	renal cysts
+MetaMapLite	C0205265	0.0	1415	1424	initially
+MetaMapLite	C1552853	0.0	1439	1447	contents
+MetaMapLite	C0456205	0.0	1439	1447	contents
+MetaMapLite	C0700198	0.0	1453	1462	aspirated
+MetaMapLite	C0012737	0.0	1475	1485	dissection
+MetaMapLite	C3821167	0.0	1493	1502	cyst wall
+MetaMapLite	C0439064	0.0	1519	1527	Multiple
+MetaMapLite	C0370003	0.0	1528	1537	specimens
+MetaMapLite	C3821167	0.0	1545	1554	cyst wall
+MetaMapLite	C0030664	0.0	1569	1578	pathology
+MetaMapLite	C0677042	0.0	1569	1578	pathology
+MetaMapLite	C0205469	0.0	1569	1578	pathology
+MetaMapLite	C0332232	0.0	1581	1594	Approximately
+MetaMapLite	C0475211	0.0	1599	1604	liter
+MetaMapLite	C0205207	0.0	1608	1614	cystic
+MetaMapLite	C1704353	0.0	1615	1620	fluid
+MetaMapLite	C0302908	0.0	1615	1620	fluid
+MetaMapLite	C0184661	0.0	1644	1653	procedure
+MetaMapLite	C2700391	0.0	1644	1653	procedure
+MetaMapLite	C0022646	0.0	1660	1665	renal
+MetaMapLite	C0004916	0.0	1666	1669	bed
+MetaMapLite	C0740166	0.0	1688	1698	hemostasis
+MetaMapLite	C0019116	0.0	1688	1698	hemostasis
+MetaMapLite	C0205411	0.0	1719	1727	adequate
+MetaMapLite	C1171258	0.0	1744	1757	complications
+MetaMapLite	C0009566	0.0	1744	1757	complications
+MetaMapLite	C2700391	0.0	1767	1776	procedure
+MetaMapLite	C0184661	0.0	1767	1776	procedure
+MetaMapLite	C0037179	0.0	1779	1785	Single
+MetaMapLite	C0087136	0.0	1779	1785	Single
+MetaMapLite	C0205171	0.0	1779	1785	Single
+MetaMapLite	C0013103	0.0	1789	1794	drain
+MetaMapLite	C0442504	0.0	1807	1812	place
+MetaMapLite	C0030705	0.0	1833	1840	patient
+MetaMapLite	C0577992	0.0	1851	1870	flexible cystoscopy
+MetaMapLite	C0439806	0.0	1890	1895	gross
+MetaMapLite	C0000769	0.0	1920	1933	abnormalities
+MetaMapLite	C0030851	0.0	1941	1947	penile
+MetaMapLite	C0458450	0.0	1952	1969	prostatic urethra
+MetaMapLite	C0458455	0.0	1952	1969	prostatic urethra
+MetaMapLite	C0439806	0.0	1988	1993	gross
+MetaMapLite	C0221198	0.0	1994	2001	lesions
+MetaMapLite	C0005682	0.0	2026	2033	bladder
+MetaMapLite	C0030705	0.0	2040	2047	patient
+MetaMapLite	C1705822	0.0	2061	2069	transfer
+MetaMapLite	C0040671	0.0	2061	2069	transfer
+MetaMapLite	C0034871	0.0	2077	2081	PACU
+MetaMapLite	C0019994	0.0	2106	2114	hospital
+MetaMapLite	C0016249	0.0	2115	2120	floor
+MetaMapLite	C0030705	0.0	2126	2135	patient's
+MetaMapLite	C0032790	0.0	2136	2149	postoperative
+MetaMapLite	C0750729	0.0	2150	2156	course
+MetaMapLite	C0012155	0.0	2189	2193	diet
+MetaMapLite	C0012159	0.0	2189	2193	diet
+MetaMapLite	C0441655	0.0	2198	2206	activity
+MetaMapLite	C0205179	0.0	2222	2230	advanced
+MetaMapLite	C0009566	0.0	2239	2251	complication
+MetaMapLite	C0032790	0.0	2257	2270	postoperative
+MetaMapLite	C0439228	0.0	2271	2274	day
+MetaMapLite	C0016204	0.0	2294	2300	flatus
+MetaMapLite	C0011135	0.0	2313	2328	bowel movements
+MetaMapLite	C0013103	0.0	2349	2354	drain
+MetaMapLite	C0032790	0.0	2375	2388	postoperative
+MetaMapLite	C0439228	0.0	2389	2392	day
+MetaMapLite	C0439228	0.0	2411	2414	day
+MetaMapLite	C0012621	0.0	2418	2427	discharge
+MetaMapLite	C0030685	0.0	2418	2427	discharge
+MetaMapLite	C0179804	0.0	2434	2448	Foley catheter
+MetaMapLite	C0332170	0.0	2468	2475	morning
+MetaMapLite	C0012621	0.0	2479	2488	discharge
+MetaMapLite	C0030685	0.0	2479	2488	discharge
+MetaMapLite	C0030705	0.0	2497	2504	patient
+MetaMapLite	C0042034	0.0	2529	2536	voiding
+MetaMapLite	C0008976	0.0	2537	2542	trial
+MetaMapLite	C0040223	0.0	2572	2576	time
+MetaMapLite	C0012621	0.0	2580	2589	discharge
+MetaMapLite	C0030685	0.0	2580	2589	discharge
+MetaMapLite	C0277797	0.0	2598	2606	afebrile
+MetaMapLite	C0518766	0.0	2613	2624	vital signs
+MetaMapLite	C0019010	0.0	2635	2646	hemodynamic
+MetaMapLite	C0205360	0.0	2647	2656	stability
+MetaMapLite	C0332120	0.0	2671	2682	evidence of
+MetaMapLite	C3714514	0.0	2683	2692	infection
+MetaMapLite	C0030705	0.0	2699	2706	patient
+MetaMapLite	C1521941	0.0	2788	2800	prescription
+MetaMapLite	C0030193	0.0	2805	2809	pain
+MetaMapLite	C0013227	0.0	2810	2821	medications
+MetaMapLite	C0205170	0.0	2825	2829	well
+MetaMapLite	C0282090	0.0	2833	2841	laxative
+MetaMapLite	C0743223	0.0	2843	2854	DISPOSITION
+MetaMapLite	C0442519	0.0	2860	2864	home
+MetaMapLite	C0012621	0.0	2866	2875	DISCHARGE
+MetaMapLite	C0030685	0.0	2866	2875	DISCHARGE
+MetaMapLite	C0012634	0.0	2876	2885	CONDITION
+MetaMapLite	C0205170	0.0	2888	2892	Good
+MetaMapLite	C0013227	0.0	2894	2905	MEDICATIONS
+MetaMapLite	C0746470	0.0	2928	2943	medication list
+MetaMapLite	C1553891	0.0	2928	2943	medication list
+MetaMapLite	C1442085	0.0	2945	2957	INSTRUCTIONS
+MetaMapLite	C0302828	0.0	2945	2957	INSTRUCTIONS
+MetaMapLite	C0030705	0.0	2964	2971	patient
+MetaMapLite	C0337611	0.0	2990	2997	contact
+MetaMapLite	C0332158	0.0	2990	2997	contact
+MetaMapLite	C0442603	0.0	3008	3014	office
+MetaMapLite	C0015967	0.0	3019	3024	fever
+MetaMapLite	C0424755	0.0	3019	3024	fever
+MetaMapLite	C0439093	0.0	3025	3037	greater than
+MetaMapLite	C0030200	0.0	3045	3061	intractable pain
+MetaMapLite	C0027497	0.0	3063	3069	nausea
+MetaMapLite	C0042963	0.0	3071	3079	vomiting
+MetaMapLite	C2699424	0.0	3094	3102	concerns
+MetaMapLite	C1522577	0.0	3104	3112	FOLLOWUP
+MetaMapLite	C0030705	0.0	3119	3126	patient
+MetaMapLite	C0032790	0.0	3161	3174	postoperative
+MetaMapLite	C1283174	0.0	3175	3180	check
+MetaMapLite	C0004448	0.0	3224	3229	aware
+MetaMapLite	C0003629	0.0	3238	3249	appointment
+MetaMapLite	C0743221	0.0	3261	3278	discharge summary
+MetaMapLite	C0007778	0.0	3280	3293	decortication
+MetaMapLite	C2678502	0.0	3280	3293	decortication
+MetaMapLite	C0010702	0.0	3295	3305	cystoscopy
+MetaMapLite	C1883291	0.0	3295	3305	cystoscopy
+MetaMapLite	C0030193	0.0	3307	3311	pain
+MetaMapLite	C0027497	0.0	3313	3319	nausea
+MetaMapLite	C0042963	0.0	3321	3329	vomiting
+MetaMapLite	C0268800	0.0	3331	3341	renal cyst
+MetaMapLite	C0007778	0.0	3342	3355	decortication
+MetaMapLite	C2678502	0.0	3342	3355	decortication
+MetaMapLite	C0007134	0.0	3357	3377	renal cell carcinoma
+MetaMapLite	C0007634	0.0	3363	3367	cell
+MetaMapLite	C0035785	0.0	3379	3386	robotic
+MetaMapLite	C0268800	0.0	3397	3407	renal cyst
+MetaMapLite	C1546765	0.0	3403	3414	cyst, renal
+MetaMapLite	C0035785	0.0	3416	3423	robotic
+MetaMapLite	C0393360	0.0	3425	3437	laparoscopic
+MetaMapLite	C0027695	0.0	3439	3450	nephrectomy
+MetaMapLite	C0010709	0.0	3452	3457	cysts
+MetaMapLite	C0007634	0.0	3459	3463	cell
+MetaMapLite	C0007097	0.0	3465	3474	carcinoma
+MetaMapLite	C0012621	0.0	3476	3485	discharge
+MetaMapLite	C0030685	0.0	3476	3485	discharge

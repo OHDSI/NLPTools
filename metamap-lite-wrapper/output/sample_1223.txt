@@ -1,0 +1,94 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0025500	0.0	85	97	Mesothelioma
+MetaMapLite	C1290375	0.0	85	97	Mesothelioma
+MetaMapLite	C0678257	0.0	98	109	Description
+MetaMapLite	C0030705	0.0	114	121	patient
+MetaMapLite	C1318968	0.0	127	149	preoperative diagnosis
+MetaMapLite	C0205090	0.0	153	158	right
+MetaMapLite	C1709576	0.0	159	171	pleural mass
+MetaMapLite	C1318969	0.0	176	199	postoperative diagnosis
+MetaMapLite	C1290375	0.0	203	215	mesothelioma
+MetaMapLite	C0025500	0.0	203	215	mesothelioma
+MetaMapLite	C0282229	0.0	218	239	Medical Transcription
+MetaMapLite	C2347026	0.0	240	246	Sample
+MetaMapLite	C0370003	0.0	240	246	Sample
+MetaMapLite	C0684224	0.0	247	253	Report
+MetaMapLite	C0700287	0.0	247	253	Report
+MetaMapLite	C1318968	0.0	255	277	PREOPERATIVE DIAGNOSIS
+MetaMapLite	C0205090	0.0	280	285	Right
+MetaMapLite	C1709576	0.0	286	298	pleural mass
+MetaMapLite	C1318969	0.0	300	323	POSTOPERATIVE DIAGNOSIS
+MetaMapLite	C1290375	0.0	326	338	Mesothelioma
+MetaMapLite	C0025500	0.0	326	338	Mesothelioma
+MetaMapLite	C0025664	0.0	340	350	PROCEDURES
+MetaMapLite	C2700391	0.0	340	350	PROCEDURES
+MetaMapLite	C0884358	0.0	351	360	PERFORMED
+MetaMapLite	C0443220	0.0	366	374	Flexible
+MetaMapLite	C0006290	0.0	375	387	bronchoscopy
+MetaMapLite	C0025065	0.0	393	408	Mediastinoscopy
+MetaMapLite	C0205090	0.0	414	419	Right
+MetaMapLite	C0039991	0.0	420	431	thoracotomy
+MetaMapLite	C0442030	0.0	437	445	Parietal
+MetaMapLite	C0176531	0.0	446	460	pleural biopsy
+MetaMapLite	C0009818	0.0	462	470	CONSULTS
+MetaMapLite	C0009818	0.0	472	480	Consults
+MetaMapLite	C0019993	0.0	502	517	hospitalization
+MetaMapLite	C0243005	0.0	532	550	Radiation Oncology
+MetaMapLite	C2183259	0.0	532	550	Radiation Oncology
+MetaMapLite	C0034060	0.0	556	574	Pulmonary Medicine
+MetaMapLite	C0025098	0.0	580	596	Medical Oncology
+MetaMapLite	C1513817	0.0	602	615	Cancer Center
+MetaMapLite	C0871489	0.0	616	620	Team
+MetaMapLite	C3536731	0.0	634	649	Massage therapy
+MetaMapLite	C0489547	0.0	659	674	HOSPITAL COURSE
+MetaMapLite	C0239966	0.0	681	699	patient's hospital
+MetaMapLite	C0489547	0.0	691	706	hospital course
+MetaMapLite	C0205307	0.0	711	723	unremarkable
+MetaMapLite	C0030193	0.0	730	734	pain
+MetaMapLite	C3853142	0.0	739	754	well controlled
+MetaMapLite	C0812144	0.0	763	771	epidural
+MetaMapLite	C0228134	0.0	763	771	epidural
+MetaMapLite	C0002903	0.0	791	801	Anesthesia
+MetaMapLite	C2219802	0.0	791	801	Anesthesia
+MetaMapLite	C0040223	0.0	811	815	time
+MetaMapLite	C0012621	0.0	819	828	discharge
+MetaMapLite	C0030685	0.0	819	828	discharge
+MetaMapLite	C0030705	0.0	834	841	patient
+MetaMapLite	C0439841	0.0	846	856	ambulatory
+MetaMapLite	C0421203	0.0	883	894	home oxygen
+MetaMapLite	C0470187	0.0	895	904	available
+MetaMapLite	C0001927	0.0	931	940	albuterol
+MetaMapLite	C0027524	0.0	941	950	nebulizer
+MetaMapLite	C0087111	0.0	951	961	treatments
+MetaMapLite	C0087111	0.0	963	973	treatments
+MetaMapLite	C1521941	0.0	1019	1031	prescription
+MetaMapLite	C0483514	0.0	1036	1043	Vicodin
+MetaMapLite	C1304888	0.0	1048	1060	pain control
+MetaMapLite	C0442603	0.0	1101	1107	office
+MetaMapLite	C0439230	0.0	1115	1119	week
+MetaMapLite	C0039985	0.0	1127	1138	chest x-ray
+MetaMapLite	C0181620	0.0	1166	1170	lift
+MetaMapLite	C0439093	0.0	1194	1206	greater than
+MetaMapLite	C0439219	0.0	1210	1216	pounds
+MetaMapLite	C0013126	0.0	1244	1249	drive
+MetaMapLite	C0442603	0.0	1281	1287	office
+MetaMapLite	C0030193	0.0	1303	1307	pain
+MetaMapLite	C0013227	0.0	1308	1319	medications
+MetaMapLite	C0743221	0.0	1331	1348	discharge summary
+MetaMapLite	C0443220	0.0	1350	1358	flexible
+MetaMapLite	C0006290	0.0	1359	1371	bronchoscopy
+MetaMapLite	C0025065	0.0	1373	1388	mediastinoscopy
+MetaMapLite	C0205090	0.0	1390	1395	right
+MetaMapLite	C0039991	0.0	1396	1407	thoracotomy
+MetaMapLite	C0176531	0.0	1409	1423	pleural biopsy
+MetaMapLite	C1709576	0.0	1425	1437	pleural mass
+MetaMapLite	C1290375	0.0	1439	1451	mesothelioma
+MetaMapLite	C0025500	0.0	1439	1451	mesothelioma
+MetaMapLite	C0278627	0.0	1453	1461	oncology

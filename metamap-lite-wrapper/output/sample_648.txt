@@ -1,0 +1,170 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0678257	0.0	87	98	Description
+MetaMapLite	C0030705	0.0	101	108	Patient
+MetaMapLite	C0277786	0.0	114	124	complaints
+MetaMapLite	C0013404	0.0	128	147	shortness of breath
+MetaMapLite	C0742811	0.0	170	193	acute COPD exacerbation
+MetaMapLite	C0282229	0.0	196	217	Medical Transcription
+MetaMapLite	C0370003	0.0	218	224	Sample
+MetaMapLite	C2347026	0.0	218	224	Sample
+MetaMapLite	C0700287	0.0	225	231	Report
+MetaMapLite	C0684224	0.0	225	231	Report
+MetaMapLite	C1628992	0.0	233	252	ADMISSION DIAGNOSIS
+MetaMapLite	C0024117	0.0	262	299	Chronic obstructive pulmonary disease
+MetaMapLite	C0549186	0.0	270	281	obstructive
+MetaMapLite	C0032285	0.0	304	313	Pneumonia
+MetaMapLite	C0018802	0.0	318	342	Congestive heart failure
+MetaMapLite	C0011849	0.0	347	364	Diabetes mellitus
+MetaMapLite	C0442874	0.0	369	379	Neuropathy
+MetaMapLite	C0860603	0.0	384	391	Anxiety
+MetaMapLite	C0003467	0.0	384	391	Anxiety
+MetaMapLite	C0020676	0.0	396	410	Hypothyroidism
+MetaMapLite	C1579931	0.0	415	425	Depression
+MetaMapLite	C0011570	0.0	415	425	Depression
+MetaMapLite	C0011581	0.0	415	425	Depression
+MetaMapLite	C0344315	0.0	415	425	Depression
+MetaMapLite	C0349217	0.0	415	425	Depression
+MetaMapLite	C0020538	0.0	430	442	Hypertension
+MetaMapLite	C1555319	0.0	444	463	DISCHARGE DIAGNOSIS
+MetaMapLite	C0730607	0.0	473	517	Severe chronic obstructive pulmonary disease
+MetaMapLite	C0549186	0.0	488	499	obstructive
+MetaMapLite	C0011849	0.0	522	539	Diabetes mellitus
+MetaMapLite	C0020676	0.0	544	558	Hypothyroidism
+MetaMapLite	C0278060	0.0	571	584	mental status
+MetaMapLite	C0013144	0.0	591	600	somnolent
+MetaMapLite	C0332148	0.0	602	608	likely
+MetaMapLite	C0175668	0.0	609	621	secondary to
+MetaMapLite	C0013227	0.0	622	633	medications
+MetaMapLite	C0441994	0.0	648	653	Lower
+MetaMapLite	C0017181	0.0	654	676	gastrointestinal bleed
+MetaMapLite	C0231290	0.0	681	692	Status post
+MetaMapLite	C0332189	0.0	693	703	episode of
+MetaMapLite	C0004238	0.0	704	723	atrial fibrillation
+MetaMapLite	C0231290	0.0	728	739	Status post
+MetaMapLite	C0019080	0.0	753	758	bleed
+MetaMapLite	C0030685	0.0	760	769	DISCHARGE
+MetaMapLite	C0012621	0.0	760	769	DISCHARGE
+MetaMapLite	C0013227	0.0	770	781	MEDICATIONS
+MetaMapLite	C0001927	0.0	786	795	Albuterol
+MetaMapLite	C0699034	0.0	814	819	Xanax
+MetaMapLite	C0719166	0.0	835	846	Cardizem CD
+MetaMapLite	C0332173	0.0	854	859	daily
+MetaMapLite	C0282139	0.0	864	870	Colace
+MetaMapLite	C0060282	0.0	888	900	Iron sulfate
+MetaMapLite	C0020258	0.0	918	921	NPH
+MetaMapLite	C0439148	0.0	925	930	units
+MetaMapLite	C0443315	0.0	931	943	subcutaneous
+MetaMapLite	C0591130	0.0	954	962	Atrovent
+MetaMapLite	C0360714	0.0	981	987	Statin
+MetaMapLite	C0991537	0.0	988	1003	oral suspension
+MetaMapLite	C1699290	0.0	1017	1022	swish
+MetaMapLite	C0376414	0.0	1036	1041	Paxil
+MetaMapLite	C0332173	0.0	1048	1053	daily
+MetaMapLite	C0989247	0.0	1059	1075	Prednisone 20 mg
+MetaMapLite	C0332173	0.0	1076	1081	daily
+MetaMapLite	C1514497	0.0	1087	1095	Darvocet
+MetaMapLite	C0305805	0.0	1096	1110	Darvocet-N 100
+MetaMapLite	C0030193	0.0	1125	1129	pain
+MetaMapLite	C0025559	0.0	1135	1144	Metamucil
+MetaMapLite	C1968515	0.0	1149	1153	pack
+MetaMapLite	C0728762	0.0	1165	1174	Synthroid
+MetaMapLite	C0439211	0.0	1178	1181	mcg
+MetaMapLite	C0332173	0.0	1182	1187	daily
+MetaMapLite	C0939400	0.0	1193	1199	Nexium
+MetaMapLite	C0332173	0.0	1206	1211	daily
+MetaMapLite	C0489547	0.0	1213	1228	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	1234	1241	patient
+MetaMapLite	C0439234	0.0	1251	1255	year
+MetaMapLite	C0580836	0.0	1256	1259	old
+MetaMapLite	C0277786	0.0	1279	1289	complaints
+MetaMapLite	C0013404	0.0	1293	1312	shortness of breath
+MetaMapLite	C0742811	0.0	1335	1358	acute COPD exacerbation
+MetaMapLite	C0019994	0.0	1396	1404	hospital
+MetaMapLite	C0279755	0.0	1418	1421	AMA
+MetaMapLite	C0002461	0.0	1418	1421	AMA
+MetaMapLite	C2825862	0.0	1418	1421	AMA
+MetaMapLite	C0042153	0.0	1445	1448	use
+MetaMapLite	C1299581	0.0	1463	1467	able
+MetaMapLite	C0205087	0.0	1489	1494	later
+MetaMapLite	C0439834	0.0	1499	1505	slowly
+MetaMapLite	C3714496	0.0	1535	1539	COPD
+MetaMapLite	C0018896	0.0	1549	1559	assistance
+MetaMapLite	C0024109	0.0	1563	1572	pulmonary
+MetaMapLite	C2709248	0.0	1563	1572	pulmonary
+MetaMapLite	C0039869	0.0	1582	1589	thought
+MetaMapLite	C0006277	0.0	1598	1608	bronchitis
+MetaMapLite	C0149514	0.0	1598	1608	bronchitis
+MetaMapLite	C0205170	0.0	1612	1616	well
+MetaMapLite	C0003232	0.0	1638	1649	antibiotics
+MetaMapLite	C0019993	0.0	1658	1673	hospitalization
+MetaMapLite	C0205178	0.0	1688	1693	acute
+MetaMapLite	C0441994	0.0	1694	1699	lower
+MetaMapLite	C0021708	0.0	1732	1751	intensive care unit
+MetaMapLite	C0580931	0.0	1742	1746	care
+MetaMapLite	C1277078	0.0	1774	1789	red blood cells
+MetaMapLite	C0014792	0.0	1774	1789	red blood cells
+MetaMapLite	C0014245	0.0	1819	1828	endoscopy
+MetaMapLite	C1510475	0.0	1840	1860	diverticular disease
+MetaMapLite	C0009368	0.0	1876	1881	colon
+MetaMapLite	C0015127	0.0	1913	1918	cause
+MetaMapLite	C0019080	0.0	1922	1932	hemorrhage
+MetaMapLite	C0633084	0.0	1934	1940	Plavix
+MetaMapLite	C0439228	0.0	1971	1975	days
+MetaMapLite	C0728963	0.0	1977	1984	Lovenox
+MetaMapLite	C0205170	0.0	1993	1997	well
+MetaMapLite	C1517331	0.0	2002	2009	further
+MetaMapLite	C0220913	0.0	2010	2015	signs
+MetaMapLite	C0220912	0.0	2010	2015	signs
+MetaMapLite	C0019080	0.0	2019	2027	bleeding
+MetaMapLite	C0030705	0.0	2033	2042	patient's
+MetaMapLite	C1998827	0.0	2043	2061	respiratory status
+MetaMapLite	C2598168	0.0	2043	2061	respiratory status
+MetaMapLite	C0439834	0.0	2066	2072	slowly
+MetaMapLite	C0168634	0.0	2084	2092	baseline
+MetaMapLite	C1442488	0.0	2084	2092	baseline
+MetaMapLite	C0030685	0.0	2101	2111	discharged
+MetaMapLite	C0013227	0.0	2138	2149	medications
+MetaMapLite	C1522577	0.0	2151	2159	Followup
+MetaMapLite	C0011900	0.0	2179	2189	diagnostic
+MetaMapLite	C0348026	0.0	2179	2189	diagnostic
+MetaMapLite	C2709248	0.0	2190	2199	pulmonary
+MetaMapLite	C0024109	0.0	2190	2199	pulmonary
+MetaMapLite	C0029921	0.0	2208	2218	outpatient
+MetaMapLite	C1522577	0.0	2242	2250	followup
+MetaMapLite	C0029921	0.0	2274	2284	outpatient
+MetaMapLite	C0743221	0.0	2304	2321	discharge summary
+MetaMapLite	C0024117	0.0	2323	2360	chronic obstructive pulmonary disease
+MetaMapLite	C0549186	0.0	2331	2342	obstructive
+MetaMapLite	C0032285	0.0	2362	2371	pneumonia
+MetaMapLite	C0018802	0.0	2373	2397	congestive heart failure
+MetaMapLite	C0011849	0.0	2399	2416	diabetes mellitus
+MetaMapLite	C0442874	0.0	2418	2428	neuropathy
+MetaMapLite	C0860603	0.0	2430	2437	anxiety
+MetaMapLite	C0003467	0.0	2430	2437	anxiety
+MetaMapLite	C0020676	0.0	2439	2453	hypothyroidism
+MetaMapLite	C0011570	0.0	2455	2465	depression
+MetaMapLite	C0011581	0.0	2455	2465	depression
+MetaMapLite	C0344315	0.0	2455	2465	depression
+MetaMapLite	C0349217	0.0	2455	2465	depression
+MetaMapLite	C1579931	0.0	2455	2465	depression
+MetaMapLite	C0020538	0.0	2467	2479	hypertension
+MetaMapLite	C0225386	0.0	2494	2500	breath
+MetaMapLite	C0549186	0.0	2502	2513	obstructive
+MetaMapLite	C0455540	0.0	2514	2531	pulmonary disease
+MetaMapLite	C0024115	0.0	2514	2531	pulmonary disease
+MetaMapLite	C0455540	0.0	2533	2550	pulmonary disease
+MetaMapLite	C0024115	0.0	2533	2550	pulmonary disease
+MetaMapLite	C0030685	0.0	2552	2561	discharge
+MetaMapLite	C0012621	0.0	2552	2561	discharge
+MetaMapLite	C1881212	0.0	2563	2570	inhaler
+MetaMapLite	C0021461	0.0	2563	2570	inhaler
+MetaMapLite	C2709248	0.0	2592	2601	pulmonary
+MetaMapLite	C0024109	0.0	2592	2601	pulmonary
+MetaMapLite	C0225386	0.0	2603	2609	breath

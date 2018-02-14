@@ -1,0 +1,28 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Leiomyosarcoma
+Description:  Discharge summary of patient with leiomyosarcoma and history of pulmonary embolism, subdural hematoma, pancytopenia, and pneumonia.
+(Medical Transcription Sample Report)
+ADMITTING DIAGNOSES:
+1.  Leiomyosarcoma.
+2.  History of pulmonary embolism.
+3.  History of subdural hematoma.
+4.  Pancytopenia.
+5.  History of pneumonia.
+PROCEDURES DURING HOSPITALIZATION:
+1.  Cycle six of CIVI-CAD (Cytoxan, Adriamycin, and DTIC) from 07/22/2008 to 07/29/2008.
+2.  CTA, chest PE study showing no evidence for pulmonary embolism.
+3.  Head CT showing no evidence of acute intracranial abnormalities.
+4.  Sinus CT, normal mini-CT of the paranasal sinuses.
+HISTORY OF PRESENT ILLNESS:  Ms. ABC is a pleasant 66-year-old Caucasian female who first palpated a mass in the left posterior arm in spring of 2007.  The mass increased in size and she was seen by her primary care physician and referred to orthopedic surgeon.  MRI showed inflammation and was thought to be secondary to rheumatoid arthritis.  The mass increased in size.  She eventually underwent a partial resection found to have pathologic grade 2 leiomyosarcoma, margins were impossible to assess, but were likely positive.  She was evaluated by Dr. X and Dr. Y and a decision was made to proceed with preoperative chemotherapy.  She began treatment with CIVI-CAD in December 2007.  Her course was complicated by pulmonary embolus, pneumonia, and subdural hematoma while on anticoagulation.  She eventually underwent surgical resection on May 1, 2008 with small area of residual disease, but otherwise clear margins.
+HOSPITAL COURSE:
+1.  Leiomyosarcoma, the patient was admitted to Hem/Onco B Service under attending Dr. XYZ for cycle six of continuous IV infusion Cytoxan, Adriamycin, and DTIC, which she tolerated well.
+2.  History of pulmonary embolism.  Upon admission, the patient reported an approximate two-week history of dyspnea on exertion and some mild chest pain.  She underwent a CTA, which showed no evidence of pulmonary embolism and the patient was started on prophylactic doses of Lovenox at 40 mg a day.  She had no further complaints throughout the hospitalization with any shortness of breath or chest pain.
+3.  History of subdural hematoma, also on admission the patient noted some mild intermittent headaches that were fleeting in nature, several a day that would resolve on their own.  Her headaches were not responding to pain medication and so on 07/24/2008, we obtained a head CT that showed no evidence of acute intracranial abnormalities.  The patient also had a history of sinusitis and so a sinus CT scan was obtained, which was normal.
+4.  Pancytopenia.  On admission, the patient's white blood count was 3.4, hemoglobin 11.3, platelet count 82, and ANC of 2400.  The patient's counts were followed throughout admission.  She did not require transfusion of red blood cells or platelets; however, on 07/26/2008 her ANC did dip to 900 and she was placed on neutropenic diet.  At discharge her ANC is back up to 1100 and she is taken off neutropenic diet.  Her white blood cell count at discharge was 1.4 and her hemoglobin was 11.2 with a platelet count of 140.
+5.  History of pneumonia.  During admission, the patient did not exhibit any signs or symptoms of pneumonia.
+DISPOSITION:  Home in stable condition.
+DIET:  Regular and less neutropenic.
+ACTIVITY:  Resume same activity.
+FOLLOWUP:  The patient will have lab work at Dr. XYZ on 08/05/2008 and she will also return to the cancer center on 08/12/2008 at 10:20 a.m.  The patient is also advised to monitor for any fevers greater than 100.5 and should she have any further problems in the meantime to please call in to be seen sooner.
+Keywords:
+discharge summary, leiomyosarcoma, embolism, hematoma, pneumonia, acute intracranial abnormalities, white blood, platelet count, blood cells, neutropenic diet, subdural hematoma, pulmonary embolism, intracranial, pancytopenia, neutropenic, subdural, pulmonary,

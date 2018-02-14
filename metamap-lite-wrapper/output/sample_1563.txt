@@ -1,0 +1,303 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0029882	0.0	65	77	Otitis Media
+MetaMapLite	C0743221	0.0	80	97	Discharge Summary
+MetaMapLite	C2348322	0.0	90	109	Summary
+Description
+MetaMapLite	C0015967	0.0	112	117	Fever
+MetaMapLite	C0424755	0.0	112	117	Fever
+MetaMapLite	C0029882	0.0	119	131	otitis media
+MetaMapLite	C0332149	0.0	137	145	possible
+MetaMapLite	C0036690	0.0	146	152	sepsis
+MetaMapLite	C0243026	0.0	146	152	sepsis
+MetaMapLite	C0282229	0.0	155	176	Medical Transcription
+MetaMapLite	C0370003	0.0	177	183	Sample
+MetaMapLite	C2347026	0.0	177	183	Sample
+MetaMapLite	C0684224	0.0	184	190	Report
+MetaMapLite	C0700287	0.0	184	190	Report
+MetaMapLite	C0011900	0.0	202	211	DIAGNOSES
+MetaMapLite	C0424755	0.0	217	222	Fever
+MetaMapLite	C0015967	0.0	217	222	Fever
+MetaMapLite	C0029882	0.0	228	240	Otitis media
+MetaMapLite	C0332149	0.0	246	254	Possible
+MetaMapLite	C0243026	0.0	255	261	sepsis
+MetaMapLite	C0036690	0.0	255	261	sepsis
+MetaMapLite	C0262512	0.0	263	289	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	274	281	PRESENT
+MetaMapLite	C0030705	0.0	296	303	patient
+MetaMapLite	C0439231	0.0	312	317	month
+MetaMapLite	C0580836	0.0	318	321	old
+MetaMapLite	C0086582	0.0	322	326	male
+MetaMapLite	C0442603	0.0	347	353	office
+MetaMapLite	C0439228	0.0	356	359	day
+MetaMapLite	C0332152	0.0	360	368	prior to
+MetaMapLite	C0184666	0.0	369	378	admission
+MetaMapLite	C0439228	0.0	396	399	day
+MetaMapLite	C0019664	0.0	400	407	history
+MetaMapLite	C2004062	0.0	400	407	history
+MetaMapLite	C0262512	0.0	400	407	history
+MetaMapLite	C0262926	0.0	400	407	history
+MetaMapLite	C0019665	0.0	400	407	history
+MetaMapLite	C0424755	0.0	411	416	fever
+MetaMapLite	C0015967	0.0	411	416	fever
+MetaMapLite	C0205250	0.0	440	444	high
+MetaMapLite	C0456628	0.0	454	463	degrees F
+MetaMapLite	C2077828	0.0	481	499	intermittent cough
+MetaMapLite	C0027424	0.0	501	517	nasal congestion
+MetaMapLite	C2136984	0.0	501	517	nasal congestion
+MetaMapLite	C1260880	0.0	523	533	rhinorrhea
+MetaMapLite	C2004062	0.0	541	548	history
+MetaMapLite	C0019665	0.0	541	548	history
+MetaMapLite	C0262926	0.0	541	548	history
+MetaMapLite	C0019664	0.0	541	548	history
+MetaMapLite	C0262512	0.0	541	548	history
+MetaMapLite	C0015230	0.0	552	558	rashes
+MetaMapLite	C0699142	0.0	580	587	Tylenol
+MetaMapLite	C0593507	0.0	592	597	Advil
+MetaMapLite	C0015967	0.0	619	625	fevers
+MetaMapLite	C0424755	0.0	635	640	fever
+MetaMapLite	C0015967	0.0	635	640	fever
+MetaMapLite	C1160636	0.0	711	720	breathing
+MetaMapLite	C0004048	0.0	711	720	breathing
+MetaMapLite	C0035203	0.0	711	720	breathing
+MetaMapLite	C0030551	0.0	725	732	parents
+MetaMapLite	C0442603	0.0	749	755	office
+MetaMapLite	C0439228	0.0	763	766	day
+MetaMapLite	C0184666	0.0	770	779	admission
+MetaMapLite	C0455458	0.0	781	801	PAST MEDICAL HISTORY
+MetaMapLite	C0237881	0.0	804	815	Significant
+MetaMapLite	C0750502	0.0	804	815	Significant
+MetaMapLite	C1135241	0.0	837	853	weeks' gestation
+MetaMapLite	C0005612	0.0	861	873	birth weight
+MetaMapLite	C0439219	0.0	879	885	pounds
+MetaMapLite	C0439218	0.0	892	897	ounce
+MetaMapLite	C0031809	0.0	899	919	PHYSICAL EXAMINATION
+MetaMapLite	C0205081	0.0	938	948	moderately
+MetaMapLite	C1881878	0.0	938	948	moderately
+MetaMapLite	C0231218	0.0	949	952	ill
+MetaMapLite	C0023380	0.0	967	976	lethargic
+MetaMapLite	C1512338	0.0	979	984	HEENT
+MetaMapLite	C0034121	0.0	1015	1021	Pupils
+MetaMapLite	C0205163	0.0	1026	1031	equal
+MetaMapLite	C0332490	0.0	1033	1038	round
+MetaMapLite	C0205332	0.0	1044	1052	reactive
+MetaMapLite	C0023693	0.0	1056	1061	light
+MetaMapLite	C0041445	0.0	1064	1082	Tympanic membranes
+MetaMapLite	C1260956	0.0	1088	1091	red
+MetaMapLite	C0221205	0.0	1096	1102	yellow
+MetaMapLite	C0029053	0.0	1108	1114	opaque
+MetaMapLite	C1261286	0.0	1108	1114	opaque
+MetaMapLite	C1456808	0.0	1129	1134	Nares
+MetaMapLite	C0595944	0.0	1129	1134	Nares
+MetaMapLite	C0175566	0.0	1140	1146	patent
+MetaMapLite	C0030650	0.0	1140	1146	patent
+MetaMapLite	C0521367	0.0	1149	1159	Oropharynx
+MetaMapLite	C2137009	0.0	1149	1159	Oropharynx
+MetaMapLite	C0750482	0.0	1164	1172	slightly
+MetaMapLite	C0205381	0.0	1173	1178	moist
+MetaMapLite	C0332585	0.0	1183	1187	pink
+MetaMapLite	C0027530	0.0	1190	1194	Neck
+MetaMapLite	C0205358	0.0	1199	1203	soft
+MetaMapLite	C0332254	0.0	1208	1214	supple
+MetaMapLite	C0018787	0.0	1232	1237	Heart
+MetaMapLite	C0205272	0.0	1241	1248	regular
+MetaMapLite	C0871269	0.0	1258	1264	rhythm
+MetaMapLite	C1523018	0.0	1258	1264	rhythm
+MetaMapLite	C0018808	0.0	1273	1280	murmurs
+MetaMapLite	C0024109	0.0	1283	1288	Lungs
+MetaMapLite	C0004048	0.0	1316	1325	breathing
+MetaMapLite	C1160636	0.0	1316	1325	breathing
+MetaMapLite	C0035203	0.0	1316	1325	breathing
+MetaMapLite	C0205081	0.0	1327	1335	moderate
+MetaMapLite	C0231835	0.0	1336	1345	tachypnea
+MetaMapLite	C0240859	0.0	1351	1356	rales
+MetaMapLite	C0034642	0.0	1351	1356	rales
+MetaMapLite	C0035508	0.0	1358	1365	rhonchi
+MetaMapLite	C0043144	0.0	1369	1376	wheezes
+MetaMapLite	C0230168	0.0	1390	1397	Abdomen
+MetaMapLite	C0000726	0.0	1390	1397	Abdomen
+MetaMapLite	C0205358	0.0	1400	1404	Soft
+MetaMapLite	C0520960	0.0	1406	1415	nontender
+MetaMapLite	C0205177	0.0	1432	1438	Active
+MetaMapLite	C0232693	0.0	1439	1451	bowel sounds
+MetaMapLite	C0205494	0.0	1454	1464	Neurologic
+MetaMapLite	C0205170	0.0	1477	1481	good
+MetaMapLite	C0517349	0.0	1482	1497	muscle strength
+MetaMapLite	C0205307	0.0	1499	1505	normal
+MetaMapLite	C0010268	0.0	1513	1527	Cranial nerves
+MetaMapLite	C0205266	0.0	1555	1561	intact
+MetaMapLite	C0587081	0.0	1563	1582	LABORATORY FINDINGS
+MetaMapLite	C0013832	0.0	1592	1604	electrolytes
+MetaMapLite	C0017725	0.0	1630	1637	glucose
+MetaMapLite	C0442816	0.0	1663	1676	normal limits
+MetaMapLite	C0023508	0.0	1679	1701	White blood cell count
+MetaMapLite	C0427512	0.0	1679	1701	White blood cell count
+MetaMapLite	C0027950	0.0	1719	1730	neutrophils
+MetaMapLite	C0024264	0.0	1736	1747	lymphocytes
+MetaMapLite	C0026473	0.0	1753	1762	monocytes
+MetaMapLite	C0332299	0.0	1764	1777	suggestive of
+MetaMapLite	C0042769	0.0	1780	1795	viral infection
+MetaMapLite	C0042014	0.0	1798	1808	Urinalysis
+MetaMapLite	C3715036	0.0	1813	1823	completely
+MetaMapLite	C0205197	0.0	1813	1823	completely
+MetaMapLite	C0205307	0.0	1824	1836	unremarkable
+MetaMapLite	C0039985	0.0	1839	1850	Chest x-ray
+MetaMapLite	C2984009	0.0	1860	1870	suboptimal
+MetaMapLite	C0004048	0.0	1871	1882	inspiration
+MetaMapLite	C0332120	0.0	1891	1902	evidence of
+MetaMapLite	C0205178	0.0	1906	1911	acute
+MetaMapLite	C1184743	0.0	1912	1919	process
+MetaMapLite	C1522240	0.0	1912	1919	process
+MetaMapLite	C0817096	0.0	1927	1932	chest
+MetaMapLite	C0489547	0.0	1934	1949	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	1956	1963	patient
+MetaMapLite	C0019994	0.0	1984	1992	hospital
+MetaMapLite	C2184084	0.0	2007	2024	clear liquid diet
+MetaMapLite	C0441655	0.0	2027	2035	Activity
+MetaMapLite	C0545131	0.0	2054	2075	CBC with differential
+MetaMapLite	C0200949	0.0	2077	2090	blood culture
+MetaMapLite	C0013832	0.0	2092	2104	electrolytes
+MetaMapLite	C0017725	0.0	2127	2134	glucose
+MetaMapLite	C0430404	0.0	2144	2157	urine culture
+MetaMapLite	C0039985	0.0	2177	2188	Chest x-ray
+MetaMapLite	C0205170	0.0	2204	2208	well
+MetaMapLite	C0449911	0.0	2216	2221	views
+MetaMapLite	C0332149	0.0	2240	2248	possible
+MetaMapLite	C0032285	0.0	2249	2258	pneumonia
+MetaMapLite	C0034108	0.0	2261	2275	Pulse oximetry
+MetaMapLite	C0333051	0.0	2302	2307	shift
+MetaMapLite	C0179574	0.0	2342	2355	nasal cannula
+MetaMapLite	C0522534	0.0	2362	2373	saturations
+MetaMapLite	C0439092	0.0	2379	2383	less
+MetaMapLite	C2986716	0.0	2407	2414	quarter
+MetaMapLite	C2825406	0.0	2407	2414	quarter
+MetaMapLite	C0445115	0.0	2418	2431	normal saline
+MetaMapLite	C0439227	0.0	2445	2449	hour
+MetaMapLite	C3843214	0.0	2466	2480	slightly above
+MetaMapLite	C0024501	0.0	2481	2492	maintenance
+MetaMapLite	C1552861	0.0	2501	2505	help
+MetaMapLite	C1321013	0.0	2511	2520	hydration
+MetaMapLite	C0007561	0.0	2536	2547	ceftriaxone
+MetaMapLite	C0556983	0.0	2558	2568	once daily
+MetaMapLite	C1292734	0.0	2572	2577	treat
+MetaMapLite	C1254021	0.0	2585	2590	media
+MetaMapLite	C0332149	0.0	2595	2603	possible
+MetaMapLite	C0243026	0.0	2604	2610	sepsis
+MetaMapLite	C0036690	0.0	2604	2610	sepsis
+MetaMapLite	C0699142	0.0	2627	2634	Tylenol
+MetaMapLite	C0020740	0.0	2639	2648	ibuprofen
+MetaMapLite	C0015967	0.0	2663	2669	fevers
+MetaMapLite	C0439583	0.0	2672	2681	Overnight
+MetaMapLite	C0483415	0.0	2699	2717	oxygen saturations
+MetaMapLite	C1321095	0.0	2718	2722	drop
+MetaMapLite	C0030054	0.0	2737	2743	oxygen
+MetaMapLite	C0439583	0.0	2744	2753	overnight
+MetaMapLite	C0024109	0.0	2760	2765	lungs
+MetaMapLite	C2963144	0.0	2775	2780	clear
+MetaMapLite	C0001927	0.0	2828	2837	albuterol
+MetaMapLite	C0439227	0.0	2855	2860	hours
+MetaMapLite	C1552861	0.0	2864	2868	help
+MetaMapLite	C0205170	0.0	2878	2882	good
+MetaMapLite	C0035245	0.0	2883	2896	lung function
+MetaMapLite	C0028661	0.0	2903	2909	nurses
+MetaMapLite	C1516084	0.0	2929	2936	attempt
+MetaMapLite	C0043084	0.0	2940	2944	wean
+MetaMapLite	C0332149	0.0	2951	2959	possible
+MetaMapLite	C0725066	0.0	2964	2971	advance
+MetaMapLite	C0012159	0.0	2976	2980	diet
+MetaMapLite	C0012155	0.0	2976	2980	diet
+MetaMapLite	C0453847	0.0	2996	3009	clear liquids
+MetaMapLite	C0205170	0.0	3010	3014	well
+MetaMapLite	C0036082	0.0	3024	3030	saline
+MetaMapLite	C1552861	0.0	3041	3045	help
+MetaMapLite	C0449580	0.0	3073	3081	mobility
+MetaMapLite	C0425245	0.0	3073	3081	mobility
+MetaMapLite	C0030705	0.0	3091	3098	patient
+MetaMapLite	C0205170	0.0	3108	3112	well
+MetaMapLite	C0587117	0.0	3127	3134	evening
+MetaMapLite	C1517331	0.0	3143	3150	further
+MetaMapLite	C0030054	0.0	3151	3157	oxygen
+MetaMapLite	C1514873	0.0	3158	3169	requirement
+MetaMapLite	C0015967	0.0	3194	3200	fevers
+MetaMapLite	C0424755	0.0	3194	3199	fever
+MetaMapLite	C0015967	0.0	3194	3199	fever
+MetaMapLite	C0205156	0.0	3240	3248	previous
+MetaMapLite	C1552607	0.0	3240	3248	previous
+MetaMapLite	C0439228	0.0	3249	3252	day
+MetaMapLite	C0040223	0.0	3262	3266	time
+MetaMapLite	C0483415	0.0	3288	3306	oxygen saturations
+MetaMapLite	C3846005	0.0	3310	3318	room air
+MetaMapLite	C0005903	0.0	3324	3335	temperature
+MetaMapLite	C0039476	0.0	3324	3335	temperature
+MetaMapLite	C0456628	0.0	3344	3353	degrees F
+MetaMapLite	C2963144	0.0	3360	3365	clear
+MetaMapLite	C0024109	0.0	3366	3371	lungs
+MetaMapLite	C1524062	0.0	3387	3397	additional
+MetaMapLite	C0178602	0.0	3398	3402	dose
+MetaMapLite	C0035750	0.0	3406	3414	Rocephin
+MetaMapLite	C1548787	0.0	3449	3460	appropriate
+MetaMapLite	C0332170	0.0	3491	3498	morning
+MetaMapLite	C0012634	0.0	3500	3509	CONDITION
+MetaMapLite	C0030705	0.0	3517	3524	PATIENT
+MetaMapLite	C0030685	0.0	3528	3537	DISCHARGE
+MetaMapLite	C0012621	0.0	3528	3537	DISCHARGE
+MetaMapLite	C0483415	0.0	3555	3573	oxygen saturations
+MetaMapLite	C3846005	0.0	3577	3585	room air
+MetaMapLite	C1517331	0.0	3594	3601	further
+MetaMapLite	C0240526	0.0	3610	3615	night
+MetaMapLite	C0277797	0.0	3632	3640	afebrile
+MetaMapLite	C1517331	0.0	3659	3666	further
+MetaMapLite	C0043229	0.0	3677	3694	work of breathing
+MetaMapLite	C0012621	0.0	3696	3705	DISCHARGE
+MetaMapLite	C0030685	0.0	3696	3705	DISCHARGE
+MetaMapLite	C0011900	0.0	3706	3715	DIAGNOSES
+MetaMapLite	C0856467	0.0	3721	3743	Bilateral otitis media
+MetaMapLite	C0015967	0.0	3749	3754	Fever
+MetaMapLite	C0424755	0.0	3749	3754	Fever
+MetaMapLite	C0270724	0.0	3756	3760	PLAN
+MetaMapLite	C0032074	0.0	3756	3760	PLAN
+MetaMapLite	C0012621	0.0	3775	3784	discharge
+MetaMapLite	C0030685	0.0	3775	3784	discharge
+MetaMapLite	C0012155	0.0	3806	3810	diet
+MetaMapLite	C0012159	0.0	3806	3810	diet
+MetaMapLite	C0441655	0.0	3814	3822	activity
+MetaMapLite	C0285868	0.0	3842	3849	Omnicef
+MetaMapLite	C2984062	0.0	3854	3861	mg/5 mL
+MetaMapLite	C1704619	0.0	3866	3874	teaspoon
+MetaMapLite	C1533179	0.0	3866	3874	teaspoon
+MetaMapLite	C0556983	0.0	3880	3890	once daily
+MetaMapLite	C1508823	0.0	3935	3949	primary doctor
+MetaMapLite	C0585026	0.0	3968	3975	Tuesday
+MetaMapLite	C0030551	0.0	3978	3985	Parents
+MetaMapLite	C0205314	0.0	4018	4021	new
+MetaMapLite	C0683368	0.0	4022	4030	symptoms
+MetaMapLite	C1457887	0.0	4022	4030	symptoms
+MetaMapLite	C0332156	0.0	4050	4056	return
+MetaMapLite	C1299586	0.0	4060	4072	difficulties
+MetaMapLite	C0004048	0.0	4078	4087	breathing
+MetaMapLite	C1160636	0.0	4078	4087	breathing
+MetaMapLite	C0035203	0.0	4078	4087	breathing
+MetaMapLite	C0023380	0.0	4101	4109	lethargy
+MetaMapLite	C0743221	0.0	4121	4138	discharge summary
+MetaMapLite	C0243026	0.0	4140	4146	sepsis
+MetaMapLite	C0036690	0.0	4140	4146	sepsis
+MetaMapLite	C0010200	0.0	4148	4153	cough
+MetaMapLite	C0027424	0.0	4155	4171	nasal congestion
+MetaMapLite	C2136984	0.0	4155	4171	nasal congestion
+MetaMapLite	C1260880	0.0	4173	4183	rhinorrhea
+MetaMapLite	C0483415	0.0	4185	4203	oxygen saturations
+MetaMapLite	C0029882	0.0	4205	4217	otitis media
+MetaMapLite	C0029877	0.0	4205	4211	otitis
+MetaMapLite	C0004048	0.0	4227	4236	breathing
+MetaMapLite	C0035203	0.0	4227	4236	breathing
+MetaMapLite	C1160636	0.0	4227	4236	breathing
+MetaMapLite	C0024109	0.0	4238	4243	lungs
+MetaMapLite	C2137009	0.0	4245	4255	oropharynx
+MetaMapLite	C0521367	0.0	4245	4255	oropharynx
+MetaMapLite	C0424755	0.0	4257	4262	fever
+MetaMapLite	C0015967	0.0	4257	4262	fever

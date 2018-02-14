@@ -1,0 +1,278 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0023269	0.0	65	79	Leiomyosarcoma
+MetaMapLite	C0678257	0.0	80	91	Description
+MetaMapLite	C0743221	0.0	94	111	Discharge summary
+MetaMapLite	C0030705	0.0	115	122	patient
+MetaMapLite	C0023269	0.0	128	142	leiomyosarcoma
+MetaMapLite	C0455537	0.0	147	176	history of pulmonary embolism
+MetaMapLite	C0585968	0.0	147	176	history of pulmonary embolism
+MetaMapLite	C0018946	0.0	178	195	subdural hematoma
+MetaMapLite	C0030312	0.0	197	209	pancytopenia
+MetaMapLite	C0032285	0.0	215	224	pneumonia
+MetaMapLite	C0282229	0.0	227	248	Medical Transcription
+MetaMapLite	C0370003	0.0	249	255	Sample
+MetaMapLite	C2347026	0.0	249	255	Sample
+MetaMapLite	C0700287	0.0	256	262	Report
+MetaMapLite	C0684224	0.0	256	262	Report
+MetaMapLite	C0011900	0.0	274	283	DIAGNOSES
+MetaMapLite	C0023269	0.0	289	303	Leiomyosarcoma
+MetaMapLite	C0585968	0.0	309	338	History of pulmonary embolism
+MetaMapLite	C0455537	0.0	309	338	History of pulmonary embolism
+MetaMapLite	C1997612	0.0	344	372	History of subdural hematoma
+MetaMapLite	C0030312	0.0	378	390	Pancytopenia
+MetaMapLite	C2004062	0.0	396	403	History
+MetaMapLite	C0019665	0.0	396	403	History
+MetaMapLite	C0262926	0.0	396	403	History
+MetaMapLite	C0019664	0.0	396	403	History
+MetaMapLite	C0262512	0.0	396	403	History
+MetaMapLite	C0032285	0.0	407	416	pneumonia
+MetaMapLite	C0025664	0.0	418	428	PROCEDURES
+MetaMapLite	C2700391	0.0	418	428	PROCEDURES
+MetaMapLite	C0347984	0.0	429	435	DURING
+MetaMapLite	C0019993	0.0	436	451	HOSPITALIZATION
+MetaMapLite	C1511572	0.0	457	462	Cycle
+MetaMapLite	C3813548	0.0	475	478	CAD
+MetaMapLite	C0699319	0.0	480	487	Cytoxan
+MetaMapLite	C0085752	0.0	489	499	Adriamycin
+MetaMapLite	C0010927	0.0	505	509	DTIC
+MetaMapLite	C3813556	0.0	546	549	CTA
+MetaMapLite	C3540513	0.0	546	549	CTA
+MetaMapLite	C0817096	0.0	551	556	chest
+MetaMapLite	C0557651	0.0	560	565	study
+MetaMapLite	C2603343	0.0	560	565	study
+MetaMapLite	C0332120	0.0	577	585	evidence
+MetaMapLite	C0034065	0.0	590	608	pulmonary embolism
+MetaMapLite	C0581407	0.0	614	621	Head CT
+MetaMapLite	C0881943	0.0	614	621	Head CT
+MetaMapLite	C0202691	0.0	614	621	Head CT
+MetaMapLite	C0332120	0.0	633	644	evidence of
+MetaMapLite	C0205178	0.0	645	650	acute
+MetaMapLite	C0524466	0.0	651	663	intracranial
+MetaMapLite	C0000769	0.0	664	677	abnormalities
+MetaMapLite	C1525617	0.0	683	691	Sinus CT
+MetaMapLite	C0205307	0.0	693	699	normal
+MetaMapLite	C0445542	0.0	700	704	mini
+MetaMapLite	C0030471	0.0	715	732	paranasal sinuses
+MetaMapLite	C0262512	0.0	734	760	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	745	752	PRESENT
+MetaMapLite	C2987187	0.0	776	784	pleasant
+MetaMapLite	C0439234	0.0	788	792	year
+MetaMapLite	C0580836	0.0	793	796	old
+MetaMapLite	C0043157	0.0	797	806	Caucasian
+MetaMapLite	C0007457	0.0	797	806	Caucasian
+MetaMapLite	C0015780	0.0	807	813	female
+MetaMapLite	C0043210	0.0	807	813	female
+MetaMapLite	C0086287	0.0	807	813	female
+MetaMapLite	C0205435	0.0	818	823	first
+MetaMapLite	C0577559	0.0	835	839	mass
+MetaMapLite	C1306372	0.0	835	839	mass
+MetaMapLite	C0205095	0.0	852	861	posterior
+MetaMapLite	C0446516	0.0	862	865	arm
+MetaMapLite	C0241232	0.0	869	875	spring
+MetaMapLite	C1306372	0.0	890	894	mass
+MetaMapLite	C0577559	0.0	890	894	mass
+MetaMapLite	C0456389	0.0	908	912	size
+MetaMapLite	C0033131	0.0	937	959	primary care physician
+MetaMapLite	C0580931	0.0	945	949	care
+MetaMapLite	C0334891	0.0	976	994	orthopedic surgeon
+MetaMapLite	C0587658	0.0	997	1000	MRI
+MetaMapLite	C1824234	0.0	997	1000	MRI
+MetaMapLite	C0024485	0.0	997	1000	MRI
+MetaMapLite	C0021368	0.0	1008	1020	inflammation
+MetaMapLite	C0039869	0.0	1029	1036	thought
+MetaMapLite	C0175668	0.0	1043	1055	secondary to
+MetaMapLite	C0003873	0.0	1056	1076	rheumatoid arthritis
+MetaMapLite	C0577559	0.0	1083	1087	mass
+MetaMapLite	C1306372	0.0	1083	1087	mass
+MetaMapLite	C0456389	0.0	1101	1105	size
+MetaMapLite	C0184908	0.0	1135	1152	partial resection
+MetaMapLite	C1521733	0.0	1167	1177	pathologic
+MetaMapLite	C0687696	0.0	1178	1185	grade 2
+MetaMapLite	C0023269	0.0	1186	1200	leiomyosarcoma
+MetaMapLite	C0332148	0.0	1246	1252	likely
+MetaMapLite	C1446409	0.0	1253	1261	positive
+MetaMapLite	C0679006	0.0	1307	1315	decision
+MetaMapLite	C2347669	0.0	1341	1366	preoperative chemotherapy
+MetaMapLite	C0087111	0.0	1379	1388	treatment
+MetaMapLite	C0039798	0.0	1379	1388	treatment
+MetaMapLite	C3813548	0.0	1399	1402	CAD
+MetaMapLite	C3830550	0.0	1406	1414	December
+MetaMapLite	C0750729	0.0	1426	1432	course
+MetaMapLite	C2046122	0.0	1462	1469	embolus
+MetaMapLite	C0032285	0.0	1471	1480	pneumonia
+MetaMapLite	C0018946	0.0	1486	1503	subdural hematoma
+MetaMapLite	C2917212	0.0	1513	1528	anticoagulation
+MetaMapLite	C0003281	0.0	1513	1528	anticoagulation
+MetaMapLite	C0015252	0.0	1556	1574	surgical resection
+MetaMapLite	C0728940	0.0	1556	1574	surgical resection
+MetaMapLite	C3812381	0.0	1578	1581	May
+MetaMapLite	C0700321	0.0	1595	1600	small
+MetaMapLite	C0205146	0.0	1601	1605	area
+MetaMapLite	C0543478	0.0	1609	1625	residual disease
+MetaMapLite	C2963144	0.0	1641	1646	clear
+MetaMapLite	C0489547	0.0	1656	1671	HOSPITAL COURSE
+MetaMapLite	C0023269	0.0	1677	1691	Leiomyosarcoma
+MetaMapLite	C0030705	0.0	1697	1704	patient
+MetaMapLite	C3245478	0.0	1732	1739	Service
+MetaMapLite	C0557854	0.0	1732	1739	Service
+MetaMapLite	C1511572	0.0	1768	1773	cycle
+MetaMapLite	C0549178	0.0	1781	1791	continuous
+MetaMapLite	C0021440	0.0	1792	1803	IV infusion
+MetaMapLite	C0699319	0.0	1804	1811	Cytoxan
+MetaMapLite	C0085752	0.0	1813	1823	Adriamycin
+MetaMapLite	C0010927	0.0	1829	1833	DTIC
+MetaMapLite	C0205170	0.0	1855	1859	well
+MetaMapLite	C0455537	0.0	1865	1894	History of pulmonary embolism
+MetaMapLite	C0585968	0.0	1865	1894	History of pulmonary embolism
+MetaMapLite	C0184666	0.0	1902	1911	admission
+MetaMapLite	C0030705	0.0	1917	1924	patient
+MetaMapLite	C0332232	0.0	1937	1948	approximate
+MetaMapLite	C0439230	0.0	1953	1957	week
+MetaMapLite	C2004062	0.0	1958	1965	history
+MetaMapLite	C0019665	0.0	1958	1965	history
+MetaMapLite	C0019664	0.0	1958	1965	history
+MetaMapLite	C0262512	0.0	1958	1965	history
+MetaMapLite	C0262926	0.0	1958	1965	history
+MetaMapLite	C0231807	0.0	1969	1988	dyspnea on exertion
+MetaMapLite	C2945599	0.0	1998	2002	mild
+MetaMapLite	C0008031	0.0	2003	2013	chest pain
+MetaMapLite	C3813556	0.0	2032	2035	CTA
+MetaMapLite	C3540513	0.0	2032	2035	CTA
+MetaMapLite	C0332120	0.0	2053	2064	evidence of
+MetaMapLite	C0034065	0.0	2065	2083	pulmonary embolism
+MetaMapLite	C0030705	0.0	2092	2099	patient
+MetaMapLite	C0445202	0.0	2115	2127	prophylactic
+MetaMapLite	C0728963	0.0	2137	2144	Lovenox
+MetaMapLite	C0439228	0.0	2156	2159	day
+MetaMapLite	C0277786	0.0	2181	2191	complaints
+MetaMapLite	C0019993	0.0	2207	2222	hospitalization
+MetaMapLite	C0013404	0.0	2232	2251	shortness of breath
+MetaMapLite	C0008031	0.0	2255	2265	chest pain
+MetaMapLite	C1997612	0.0	2271	2299	History of subdural hematoma
+MetaMapLite	C0184666	0.0	2309	2318	admission
+MetaMapLite	C0030705	0.0	2323	2330	patient
+MetaMapLite	C2945599	0.0	2342	2346	mild
+MetaMapLite	C1168188	0.0	2347	2369	intermittent headaches
+MetaMapLite	C0591516	0.0	2380	2388	fleeting
+MetaMapLite	C1262865	0.0	2392	2398	nature
+MetaMapLite	C0349590	0.0	2392	2398	nature
+MetaMapLite	C0443302	0.0	2400	2407	several
+MetaMapLite	C0439228	0.0	2410	2413	day
+MetaMapLite	C2699488	0.0	2425	2432	resolve
+MetaMapLite	C0018681	0.0	2452	2461	headaches
+MetaMapLite	C0002771	0.0	2485	2500	pain medication
+MetaMapLite	C0202691	0.0	2537	2544	head CT
+MetaMapLite	C0332120	0.0	2560	2571	evidence of
+MetaMapLite	C0205178	0.0	2572	2577	acute
+MetaMapLite	C0524466	0.0	2578	2590	intracranial
+MetaMapLite	C0000769	0.0	2591	2604	abnormalities
+MetaMapLite	C0030705	0.0	2611	2618	patient
+MetaMapLite	C0262926	0.0	2630	2637	history
+MetaMapLite	C0019665	0.0	2630	2637	history
+MetaMapLite	C0019664	0.0	2630	2637	history
+MetaMapLite	C0262512	0.0	2630	2637	history
+MetaMapLite	C2004062	0.0	2630	2637	history
+MetaMapLite	C0037199	0.0	2641	2650	sinusitis
+MetaMapLite	C0040405	0.0	2666	2673	CT scan
+MetaMapLite	C0205307	0.0	2698	2704	normal
+MetaMapLite	C0030312	0.0	2710	2722	Pancytopenia
+MetaMapLite	C0184666	0.0	2728	2737	admission
+MetaMapLite	C0030705	0.0	2743	2752	patient's
+MetaMapLite	C1821144	0.0	2753	2770	white blood count
+MetaMapLite	C0019046	0.0	2780	2790	hemoglobin
+MetaMapLite	C0750480	0.0	2806	2811	count
+MetaMapLite	C1705566	0.0	2806	2811	count
+MetaMapLite	C0948762	0.0	2820	2823	ANC
+MetaMapLite	C0030705	0.0	2838	2847	patient's
+MetaMapLite	C0439157	0.0	2848	2854	counts
+MetaMapLite	C0184666	0.0	2880	2889	admission
+MetaMapLite	C0086252	0.0	2912	2942	transfusion of red blood cells
+MetaMapLite	C0005821	0.0	2946	2955	platelets
+MetaMapLite	C0948762	0.0	2984	2987	ANC
+MetaMapLite	C0012155	0.0	3037	3041	diet
+MetaMapLite	C0012159	0.0	3037	3041	diet
+MetaMapLite	C0030685	0.0	3047	3056	discharge
+MetaMapLite	C0012621	0.0	3047	3056	discharge
+MetaMapLite	C0948762	0.0	3061	3064	ANC
+MetaMapLite	C0004600	0.0	3068	3072	back
+MetaMapLite	C0012155	0.0	3117	3121	diet
+MetaMapLite	C0012159	0.0	3117	3121	diet
+MetaMapLite	C0427512	0.0	3128	3150	white blood cell count
+MetaMapLite	C0023508	0.0	3128	3150	white blood cell count
+MetaMapLite	C0012621	0.0	3154	3163	discharge
+MetaMapLite	C0030685	0.0	3154	3163	discharge
+MetaMapLite	C0019046	0.0	3180	3190	hemoglobin
+MetaMapLite	C1287267	0.0	3207	3221	platelet count
+MetaMapLite	C0032181	0.0	3207	3221	platelet count
+MetaMapLite	C0262512	0.0	3234	3241	History
+MetaMapLite	C2004062	0.0	3234	3241	History
+MetaMapLite	C0019665	0.0	3234	3241	History
+MetaMapLite	C0262926	0.0	3234	3241	History
+MetaMapLite	C0019664	0.0	3234	3241	History
+MetaMapLite	C0032285	0.0	3245	3254	pneumonia
+MetaMapLite	C0184666	0.0	3264	3273	admission
+MetaMapLite	C0030705	0.0	3279	3286	patient
+MetaMapLite	C0015272	0.0	3295	3302	exhibit
+MetaMapLite	C0220913	0.0	3307	3312	signs
+MetaMapLite	C0220912	0.0	3307	3312	signs
+MetaMapLite	C0683368	0.0	3316	3324	symptoms
+MetaMapLite	C1457887	0.0	3316	3324	symptoms
+MetaMapLite	C0032285	0.0	3328	3337	pneumonia
+MetaMapLite	C0743223	0.0	3339	3350	DISPOSITION
+MetaMapLite	C0442519	0.0	3353	3357	Home
+MetaMapLite	C0677946	0.0	3361	3377	stable condition
+MetaMapLite	C3538874	0.0	3361	3377	stable condition
+MetaMapLite	C0012159	0.0	3379	3383	DIET
+MetaMapLite	C0012155	0.0	3379	3383	DIET
+MetaMapLite	C0205272	0.0	3386	3393	Regular
+MetaMapLite	C0439092	0.0	3398	3402	less
+MetaMapLite	C0441655	0.0	3416	3424	ACTIVITY
+MetaMapLite	C3242342	0.0	3427	3433	Resume
+MetaMapLite	C0445247	0.0	3434	3438	same
+MetaMapLite	C0441655	0.0	3439	3447	activity
+MetaMapLite	C1522577	0.0	3449	3457	FOLLOWUP
+MetaMapLite	C0030705	0.0	3464	3471	patient
+MetaMapLite	C0332156	0.0	3534	3540	return
+MetaMapLite	C1513817	0.0	3548	3561	cancer center
+MetaMapLite	C0030705	0.0	3595	3602	patient
+MetaMapLite	C1521743	0.0	3622	3629	monitor
+MetaMapLite	C1704646	0.0	3622	3629	monitor
+MetaMapLite	C0150369	0.0	3622	3629	monitor
+MetaMapLite	C0181904	0.0	3622	3629	monitor
+MetaMapLite	C0030695	0.0	3622	3629	monitor
+MetaMapLite	C0596972	0.0	3622	3629	monitor
+MetaMapLite	C0015967	0.0	3638	3644	fevers
+MetaMapLite	C0439093	0.0	3645	3657	greater than
+MetaMapLite	C1546466	0.0	3696	3704	problems
+MetaMapLite	C0743221	0.0	3768	3785	discharge summary
+MetaMapLite	C0023269	0.0	3787	3801	leiomyosarcoma
+MetaMapLite	C0013922	0.0	3803	3811	embolism
+MetaMapLite	C0018944	0.0	3813	3821	hematoma
+MetaMapLite	C0032285	0.0	3823	3832	pneumonia
+MetaMapLite	C0205178	0.0	3834	3839	acute
+MetaMapLite	C0524466	0.0	3840	3852	intracranial
+MetaMapLite	C0000769	0.0	3853	3866	abnormalities
+MetaMapLite	C0043157	0.0	3868	3873	white
+MetaMapLite	C0007457	0.0	3868	3873	white
+MetaMapLite	C0220938	0.0	3868	3873	white
+MetaMapLite	C0005767	0.0	3874	3879	blood
+MetaMapLite	C0229664	0.0	3874	3879	blood
+MetaMapLite	C0032181	0.0	3881	3902	platelet count, blood
+MetaMapLite	C1705566	0.0	3890	3895	count
+MetaMapLite	C0750480	0.0	3890	3895	count
+MetaMapLite	C0005773	0.0	3897	3908	blood cells
+MetaMapLite	C0012155	0.0	3922	3926	diet
+MetaMapLite	C0012159	0.0	3922	3926	diet
+MetaMapLite	C0018946	0.0	3928	3945	subdural hematoma
+MetaMapLite	C0034065	0.0	3947	3965	pulmonary embolism
+MetaMapLite	C0524466	0.0	3967	3979	intracranial
+MetaMapLite	C0030312	0.0	3981	3993	pancytopenia
+MetaMapLite	C0038541	0.0	4008	4016	subdural
+MetaMapLite	C2709248	0.0	4018	4027	pulmonary
+MetaMapLite	C0024109	0.0	4018	4027	pulmonary

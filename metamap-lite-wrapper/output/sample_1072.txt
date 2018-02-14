@@ -1,0 +1,105 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0001442	0.0	65	87	Mullerian Adenosarcoma
+MetaMapLite	C0678257	0.0	88	99	Description
+MetaMapLite	C0743221	0.0	102	119	Discharge summary
+MetaMapLite	C0030705	0.0	125	132	patient
+MetaMapLite	C1881358	0.0	151	161	large mass
+MetaMapLite	C0007874	0.0	182	188	cervix
+MetaMapLite	C0282229	0.0	191	212	Medical Transcription
+MetaMapLite	C0370003	0.0	213	219	Sample
+MetaMapLite	C2347026	0.0	213	219	Sample
+MetaMapLite	C0700287	0.0	220	226	Report
+MetaMapLite	C0684224	0.0	220	226	Report
+MetaMapLite	C0332137	0.0	228	247	PRINCIPAL DIAGNOSIS
+MetaMapLite	C0001442	0.0	250	272	Mullerian adenosarcoma
+MetaMapLite	C0262512	0.0	274	300	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	285	292	PRESENT
+MetaMapLite	C0030705	0.0	307	314	patient
+MetaMapLite	C0439234	0.0	323	327	year
+MetaMapLite	C0580836	0.0	328	331	old
+MetaMapLite	C1881358	0.0	350	360	large mass
+MetaMapLite	C0007874	0.0	381	387	cervix
+MetaMapLite	C0031809	0.0	389	402	PHYSICAL EXAM
+MetaMapLite	C0817096	0.0	404	409	CHEST
+MetaMapLite	C2963144	0.0	412	417	Clear
+MetaMapLite	C0018808	0.0	432	444	heart murmur
+MetaMapLite	C0000726	0.0	446	453	ABDOMEN
+MetaMapLite	C0230168	0.0	446	453	ABDOMEN
+MetaMapLite	C0520960	0.0	456	465	Nontender
+MetaMapLite	C0559769	0.0	467	473	PELVIC
+MetaMapLite	C0030797	0.0	467	473	PELVIC
+MetaMapLite	C1881358	0.0	487	497	large mass
+MetaMapLite	C0042232	0.0	505	511	vagina
+MetaMapLite	C0489547	0.0	513	528	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	535	542	patient
+MetaMapLite	C0038895	0.0	551	558	surgery
+MetaMapLite	C0543467	0.0	551	558	surgery
+MetaMapLite	C0439228	0.0	566	569	day
+MetaMapLite	C0184666	0.0	573	582	admission
+MetaMapLite	C0032790	0.0	589	602	postoperative
+MetaMapLite	C0750729	0.0	603	609	course
+MetaMapLite	C0015967	0.0	624	629	fever
+MetaMapLite	C0424755	0.0	624	629	fever
+MetaMapLite	C1258215	0.0	634	639	ileus
+MetaMapLite	C0030705	0.0	646	653	patient
+MetaMapLite	C0031843	0.0	669	677	function
+MetaMapLite	C0542341	0.0	669	677	function
+MetaMapLite	C0332170	0.0	706	713	morning
+MetaMapLite	C0205441	0.0	721	728	seventh
+MetaMapLite	C0032790	0.0	729	742	postoperative
+MetaMapLite	C0439228	0.0	743	746	day
+MetaMapLite	C0038895	0.0	748	758	OPERATIONS
+MetaMapLite	C3244305	0.0	748	758	OPERATIONS
+MetaMapLite	C3244306	0.0	748	758	OPERATIONS
+MetaMapLite	C3829447	0.0	761	765	July
+MetaMapLite	C0404079	0.0	777	805	Total abdominal hysterectomy
+MetaMapLite	C0195495	0.0	807	838	bilateral salpingo-oophorectomy
+MetaMapLite	C0012621	0.0	840	849	DISCHARGE
+MetaMapLite	C0030685	0.0	840	849	DISCHARGE
+MetaMapLite	C0012634	0.0	850	859	CONDITION
+MetaMapLite	C0205360	0.0	862	868	Stable
+MetaMapLite	C0270724	0.0	870	874	PLAN
+MetaMapLite	C0032074	0.0	870	874	PLAN
+MetaMapLite	C0030705	0.0	881	888	patient
+MetaMapLite	C0035253	0.0	904	908	rest
+MetaMapLite	C0205265	0.0	909	918	initially
+MetaMapLite	C0205329	0.0	924	935	progressive
+MetaMapLite	C0080331	0.0	936	946	ambulation
+MetaMapLite	C0945826	0.0	936	946	ambulation
+MetaMapLite	C0206244	0.0	975	982	lifting
+MetaMapLite	C0009253	0.0	1004	1015	intercourse
+MetaMapLite	C0015967	0.0	1039	1045	fevers
+MetaMapLite	C0012621	0.0	1047	1055	drainage
+MetaMapLite	C2926602	0.0	1047	1055	drainage
+MetaMapLite	C0019080	0.0	1057	1065	bleeding
+MetaMapLite	C0030193	0.0	1070	1074	pain
+MetaMapLite	C0241889	0.0	1077	1091	Family history
+MetaMapLite	C1705495	0.0	1077	1091	Family history
+MetaMapLite	C3714536	0.0	1093	1107	social history
+MetaMapLite	C1458132	0.0	1113	1125	psychosocial
+MetaMapLite	C0542298	0.0	1113	1125	psychosocial
+MetaMapLite	C0037444	0.0	1140	1153	social worker
+MetaMapLite	C0030705	0.0	1160	1167	patient
+MetaMapLite	C0442603	0.0	1189	1195	office
+MetaMapLite	C0439230	0.0	1203	1207	week
+MetaMapLite	C0030664	0.0	1209	1218	PATHOLOGY
+MetaMapLite	C0205469	0.0	1209	1218	PATHOLOGY
+MetaMapLite	C0677042	0.0	1209	1218	PATHOLOGY
+MetaMapLite	C0001442	0.0	1221	1243	Mullerian adenosarcoma
+MetaMapLite	C0013227	0.0	1245	1256	MEDICATIONS
+MetaMapLite	C0086787	0.0	1259	1267	Percocet
+MetaMapLite	C0030193	0.0	1294	1298	pain
+MetaMapLite	C0743221	0.0	1310	1327	discharge summary
+MetaMapLite	C0007874	0.0	1329	1335	cervix
+MetaMapLite	C0015967	0.0	1337	1343	fevers
+MetaMapLite	C0012621	0.0	1345	1353	drainage
+MetaMapLite	C2926602	0.0	1345	1353	drainage
+MetaMapLite	C0019080	0.0	1355	1363	bleeding
+MetaMapLite	C0001442	0.0	1365	1387	mullerian adenosarcoma
+MetaMapLite	C0001442	0.0	1400	1412	adenosarcoma

@@ -1,0 +1,131 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0042077	0.0	65	72	Urology
+MetaMapLite	C0743221	0.0	73	90	Discharge Summary
+MetaMapLite	C2348322	0.0	83	102	Summary
+Description
+MetaMapLite	C0086409	0.0	105	113	Hispanic
+MetaMapLite	C0150904	0.0	114	126	male patient
+MetaMapLite	C0033572	0.0	160	168	prostate
+MetaMapLite	C1457887	0.0	173	181	symptoms
+MetaMapLite	C0683368	0.0	173	181	symptoms
+MetaMapLite	C0005694	0.0	185	209	bladder neck obstruction
+MetaMapLite	C0027530	0.0	193	197	neck
+MetaMapLite	C0282229	0.0	212	233	Medical Transcription
+MetaMapLite	C0370003	0.0	234	240	Sample
+MetaMapLite	C2347026	0.0	234	240	Sample
+MetaMapLite	C0700287	0.0	241	247	Report
+MetaMapLite	C0684224	0.0	241	247	Report
+MetaMapLite	C0025664	0.0	249	259	PROCEDURES
+MetaMapLite	C2700391	0.0	249	259	PROCEDURES
+MetaMapLite	C0010707	0.0	261	278	Cystourethroscopy
+MetaMapLite	C0040771	0.0	283	318	transurethral resection of prostate
+MetaMapLite	C0015252	0.0	297	306	resection
+MetaMapLite	C0728940	0.0	297	306	resection
+MetaMapLite	C0009566	0.0	320	333	COMPLICATIONS
+MetaMapLite	C1171258	0.0	320	333	COMPLICATIONS
+MetaMapLite	C0549184	0.0	335	339	None
+MetaMapLite	C0456148	0.0	335	339	None
+MetaMapLite	C0011900	0.0	351	360	DIAGNOSIS
+MetaMapLite	C1704338	0.0	351	360	DIAGNOSIS
+MetaMapLite	C0241705	0.0	362	380	Difficulty voiding
+MetaMapLite	C0019665	0.0	382	389	HISTORY
+MetaMapLite	C0019664	0.0	382	389	HISTORY
+MetaMapLite	C0262512	0.0	382	389	HISTORY
+MetaMapLite	C2004062	0.0	382	389	HISTORY
+MetaMapLite	C0262926	0.0	382	389	HISTORY
+MetaMapLite	C0439234	0.0	399	403	year
+MetaMapLite	C0580836	0.0	404	407	old
+MetaMapLite	C0086409	0.0	408	416	Hispanic
+MetaMapLite	C0150904	0.0	417	429	male patient
+MetaMapLite	C0033572	0.0	463	471	prostate
+MetaMapLite	C1457887	0.0	476	484	symptoms
+MetaMapLite	C0683368	0.0	476	484	symptoms
+MetaMapLite	C0005694	0.0	488	512	bladder neck obstruction
+MetaMapLite	C0027530	0.0	496	500	neck
+MetaMapLite	C0031809	0.0	515	535	Physical examination
+MetaMapLite	C2349205	0.0	545	557	normal heart
+MetaMapLite	C0024109	0.0	562	567	lungs
+MetaMapLite	C0230168	0.0	570	577	Abdomen
+MetaMapLite	C0000726	0.0	570	577	Abdomen
+MetaMapLite	C0205160	0.0	582	590	negative
+MetaMapLite	C0205161	0.0	595	603	abnormal
+MetaMapLite	C2607943	0.0	604	612	findings
+MetaMapLite	C1705214	0.0	614	629	LABORATORY DATA
+MetaMapLite	C0005844	0.0	659	670	Blood group
+MetaMapLite	C0005810	0.0	659	670	Blood group
+MetaMapLite	C0600103	0.0	659	670	Blood group
+MetaMapLite	C1446409	0.0	681	689	positive
+MetaMapLite	C0019046	0.0	691	701	Hemoglobin
+MetaMapLite	C0018935	0.0	706	716	Hematocrit
+MetaMapLite	C0518014	0.0	706	716	Hematocrit
+MetaMapLite	C0033706	0.0	723	734	Prothrombin
+MetaMapLite	C0040223	0.0	735	739	time
+MetaMapLite	C0457385	0.0	745	752	seconds
+MetaMapLite	C0030605	0.0	754	757	PTT
+MetaMapLite	C0030685	0.0	765	774	Discharge
+MetaMapLite	C0012621	0.0	765	774	Discharge
+MetaMapLite	C0019046	0.0	776	786	hemoglobin
+MetaMapLite	C0518014	0.0	797	807	hematocrit
+MetaMapLite	C0018935	0.0	797	807	hematocrit
+MetaMapLite	C0039985	0.0	815	826	Chest x-ray
+MetaMapLite	C0580836	0.0	837	840	old
+MetaMapLite	C0740451	0.0	841	862	granulomatous disease
+MetaMapLite	C0205307	0.0	874	880	normal
+MetaMapLite	C1623258	0.0	883	886	EKG
+MetaMapLite	C0013798	0.0	883	886	EKG
+MetaMapLite	C0205307	0.0	891	897	normal
+MetaMapLite	C0750729	0.0	899	905	COURSE
+MetaMapLite	C0019994	0.0	913	921	HOSPITAL
+MetaMapLite	C0030705	0.0	927	934	patient
+MetaMapLite	C0033572	0.0	962	970	prostate
+MetaMapLite	C0032790	0.0	973	986	Postoperative
+MetaMapLite	C0750729	0.0	987	993	course
+MetaMapLite	C0443334	0.0	998	1011	uncomplicated
+MetaMapLite	C0807321	0.0	1017	1033	pathology report
+MetaMapLite	C0040223	0.0	1052	1056	time
+MetaMapLite	C1547307	0.0	1098	1110	satisfactory
+MetaMapLite	C0012634	0.0	1111	1120	condition
+MetaMapLite	C0455911	0.0	1128	1147	good urinary stream
+MetaMapLite	C0547040	0.0	1149	1156	minimal
+MetaMapLite	C0221752	0.0	1157	1166	hematuria
+MetaMapLite	C0018965	0.0	1157	1166	hematuria
+MetaMapLite	C1154231	0.0	1175	1185	Bactrim DS
+MetaMapLite	C0439228	0.0	1192	1195	day
+MetaMapLite	C0439228	0.0	1204	1208	days
+MetaMapLite	C1442989	0.0	1216	1224	standard
+MetaMapLite	C0038895	0.0	1239	1246	surgery
+MetaMapLite	C0543467	0.0	1239	1246	surgery
+MetaMapLite	C0039401	0.0	1247	1258	instruction
+MetaMapLite	C0302828	0.0	1247	1258	instruction
+MetaMapLite	C1442085	0.0	1247	1258	instruction
+MetaMapLite	C2349187	0.0	1259	1264	sheet
+MetaMapLite	C1555319	0.0	1266	1285	DISCHARGE DIAGNOSIS
+MetaMapLite	C0033572	0.0	1297	1305	prostate
+MetaMapLite	C0205183	0.0	1311	1317	benign
+MetaMapLite	C0005694	0.0	1318	1342	bladder neck obstruction
+MetaMapLite	C0027530	0.0	1326	1330	neck
+MetaMapLite	C0442603	0.0	1365	1371	office
+MetaMapLite	C0439230	0.0	1379	1383	week
+MetaMapLite	C0205117	0.0	1399	1403	next
+MetaMapLite	C0470187	0.0	1404	1413	available
+MetaMapLite	C0029921	0.0	1420	1430	outpatient
+MetaMapLite	C0743221	0.0	1442	1459	discharge summary
+MetaMapLite	C0010707	0.0	1471	1488	cystourethroscopy
+MetaMapLite	C0241705	0.0	1490	1508	difficulty voiding
+MetaMapLite	C0005694	0.0	1510	1534	bladder neck obstruction
+MetaMapLite	C0027530	0.0	1518	1522	neck
+MetaMapLite	C0033572	0.0	1564	1572	prostate
+MetaMapLite	C0040771	0.0	1574	1609	transurethral resection of prostate
+MetaMapLite	C0015252	0.0	1588	1597	resection
+MetaMapLite	C0728940	0.0	1588	1597	resection
+MetaMapLite	C0232851	0.0	1611	1625	urinary stream
+MetaMapLite	C0227716	0.0	1627	1639	bladder neck
+MetaMapLite	C0027530	0.0	1635	1639	neck
+MetaMapLite	C0028778	0.0	1646	1657	obstruction
+MetaMapLite	C0033572	0.0	1659	1667	prostate

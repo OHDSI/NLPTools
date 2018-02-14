@@ -1,0 +1,15 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - Cholelithiasis
+Description:  Patient with complaint of symptomatic cholelithiasis.
+(Medical Transcription Sample Report)
+ADMISSION DIAGNOSIS:  Symptomatic cholelithiasis.
+DISCHARGE DIAGNOSIS:  Symptomatic cholelithiasis.
+SERVICE:  Surgery.
+CONSULTS:  None.
+HISTORY OF PRESENT ILLNESS:  Ms. ABC is a 27-year-old woman who apparently presented with complaint of symptomatic cholelithiasis.  She was afebrile.  She was taken by Dr. X to the operating room.
+HOSPITAL COURSE:  The patient underwent a procedure.  She tolerated without difficulty.  She had her pain controlled with p.o. pain medicine.  She was afebrile.  She is tolerating liquid diet.  It was felt that the patient is stable for discharge.  She did complain of bladder spasms when she urinated and she did say that she has a history of chronic UTIs.  We will check a UA and urine culture prior to discharge.  I will give her prescription for ciprofloxacin that she can take for 3 days presumptively and I have discharged her home with omeprazole and Colace to take over-the-counter for constipation and we will send her home with Percocet for pain.  Her labs were within normal limits.  She did have an elevated white blood cell count, but I believe this is just leukemoid reaction, but she is afebrile, and if she does have UTI, may also be related.  Her labs in terms of her bilirubin were within normal limits.  Her LFTs were slightly elevated, I do believe this is related to the cautery used on the liver bed.  They were 51 and 83 for the AST and ALT respectively.  I feel that she looks good for discharge.
+DISCHARGE INSTRUCTIONS:  Clear liquid diet x48 hours and she can return to her Medifast, she may shower.  She needs to keep her wound clean and dry.  She is not to engage in any heavy lifting greater than 10 pounds x2 weeks.  No driving for 1 to 2 weeks.  She must be able to stop in an emergency and be off narcotic meds, no strenuous activity, but she needs to maintain mobility.  She can resume her medications per med rec sheets.
+DISCHARGE MEDICATIONS:  As previously mentioned.
+FOLLOWUP:  We will follow up on both urinalysis and cultures.  She is instructed to follow up with Dr. X in 2 weeks.  She needs to call for any shortness of breath, temperature greater than 101.5, chest pain, intractable nausea, vomiting, and abdominal pain, any redness, swelling or foul smelling drainage from her wounds.
+Keywords:
+discharge summary, medifast, liquid diet, symptomatic cholelithiasis, symptomatic, cholelithiasis, discharge,

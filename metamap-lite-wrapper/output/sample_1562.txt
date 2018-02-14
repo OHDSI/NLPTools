@@ -1,0 +1,152 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0020699	0.0	65	77	Hysterectomy
+MetaMapLite	C0743221	0.0	80	97	Discharge Summary
+MetaMapLite	C2348322	0.0	90	109	Summary
+Description
+MetaMapLite	C0030705	0.0	116	123	patient
+MetaMapLite	C1735887	0.0	136	162	total vaginal hysterectomy
+MetaMapLite	C0282229	0.0	165	186	Medical Transcription
+MetaMapLite	C0370003	0.0	187	193	Sample
+MetaMapLite	C2347026	0.0	187	193	Sample
+MetaMapLite	C0700287	0.0	194	200	Report
+MetaMapLite	C0684224	0.0	194	200	Report
+MetaMapLite	C0184666	0.0	202	211	ADMISSION
+MetaMapLite	C0011900	0.0	212	221	DIAGNOSES
+MetaMapLite	C0025323	0.0	227	238	Menorrhagia
+MetaMapLite	C0151994	0.0	244	262	Uterus enlargement
+MetaMapLite	C0850758	0.0	268	279	Pelvic pain
+MetaMapLite	C3539889	0.0	268	279	Pelvic pain
+MetaMapLite	C3539895	0.0	268	279	Pelvic pain
+MetaMapLite	C3539896	0.0	268	279	Pelvic pain
+MetaMapLite	C0030794	0.0	268	279	Pelvic pain
+MetaMapLite	C2032396	0.0	268	279	Pelvic pain
+MetaMapLite	C2032395	0.0	268	279	Pelvic pain
+MetaMapLite	C3539893	0.0	268	279	Pelvic pain
+MetaMapLite	C3539022	0.0	268	279	Pelvic pain
+MetaMapLite	C3539891	0.0	268	279	Pelvic pain
+MetaMapLite	C3539023	0.0	268	279	Pelvic pain
+MetaMapLite	C3539892	0.0	268	279	Pelvic pain
+MetaMapLite	C3539020	0.0	268	279	Pelvic pain
+MetaMapLite	C3539890	0.0	268	279	Pelvic pain
+MetaMapLite	C0848203	0.0	268	279	Pelvic pain
+MetaMapLite	C1555319	0.0	281	300	DISCHARGE DIAGNOSIS
+MetaMapLite	C0231290	0.0	303	314	Status post
+MetaMapLite	C0020700	0.0	315	335	vaginal hysterectomy
+MetaMapLite	C0009566	0.0	337	350	COMPLICATIONS
+MetaMapLite	C1171258	0.0	337	350	COMPLICATIONS
+MetaMapLite	C0549184	0.0	353	357	None
+MetaMapLite	C0456148	0.0	353	357	None
+MetaMapLite	C1282927	0.0	359	364	BRIEF
+MetaMapLite	C0262512	0.0	365	391	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	376	383	PRESENT
+MetaMapLite	C0439234	0.0	407	411	year
+MetaMapLite	C0580836	0.0	412	415	old
+MetaMapLite	C1277583	0.0	417	426	gravida 3
+MetaMapLite	C0233072	0.0	428	434	para 3
+MetaMapLite	C0086287	0.0	435	441	female
+MetaMapLite	C0015780	0.0	435	441	female
+MetaMapLite	C0043210	0.0	435	441	female
+MetaMapLite	C0205265	0.0	456	465	initially
+MetaMapLite	C0442603	0.0	473	479	office
+MetaMapLite	C0025345	0.0	485	503	abnormal menstrual
+MetaMapLite	C0019080	0.0	504	512	bleeding
+MetaMapLite	C0442805	0.0	517	525	increase
+MetaMapLite	C0806140	0.0	529	533	flow
+MetaMapLite	C0439531	0.0	545	551	period
+MetaMapLite	C0683368	0.0	567	575	symptoms
+MetaMapLite	C1457887	0.0	567	575	symptoms
+MetaMapLite	C0004604	0.0	579	588	back pain
+MetaMapLite	C1963071	0.0	579	588	back pain
+MetaMapLite	C0013390	0.0	590	602	dysmenorrhea
+MetaMapLite	C0013428	0.0	608	615	dysuria
+MetaMapLite	C1457887	0.0	622	630	symptoms
+MetaMapLite	C0683368	0.0	622	630	symptoms
+MetaMapLite	C0040223	0.0	655	659	time
+MetaMapLite	C0030705	0.0	666	673	patient
+MetaMapLite	C2032396	0.0	708	719	pelvic pain
+MetaMapLite	C3539020	0.0	708	719	pelvic pain
+MetaMapLite	C0850758	0.0	708	719	pelvic pain
+MetaMapLite	C2032395	0.0	708	719	pelvic pain
+MetaMapLite	C3539896	0.0	708	719	pelvic pain
+MetaMapLite	C0848203	0.0	708	719	pelvic pain
+MetaMapLite	C3539895	0.0	708	719	pelvic pain
+MetaMapLite	C3539023	0.0	708	719	pelvic pain
+MetaMapLite	C3539892	0.0	708	719	pelvic pain
+MetaMapLite	C3539893	0.0	708	719	pelvic pain
+MetaMapLite	C3539890	0.0	708	719	pelvic pain
+MetaMapLite	C3539022	0.0	708	719	pelvic pain
+MetaMapLite	C3539891	0.0	708	719	pelvic pain
+MetaMapLite	C0030794	0.0	708	719	pelvic pain
+MetaMapLite	C3539889	0.0	708	719	pelvic pain
+MetaMapLite	C0439231	0.0	736	742	months
+MetaMapLite	C0151994	0.0	769	788	uterine enlargement
+MetaMapLite	C0184661	0.0	807	816	PROCEDURE
+MetaMapLite	C2700391	0.0	807	816	PROCEDURE
+MetaMapLite	C0030705	0.0	823	830	patient
+MetaMapLite	C1735887	0.0	843	869	total vaginal hysterectomy
+MetaMapLite	C0489547	0.0	871	886	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	893	900	patient
+MetaMapLite	C1735887	0.0	939	965	total vaginal hysterectomy
+MetaMapLite	C0184661	0.0	972	981	procedure
+MetaMapLite	C2700391	0.0	972	981	procedure
+MetaMapLite	C0009566	0.0	1010	1022	complication
+MetaMapLite	C0042149	0.0	1025	1031	Uterus
+MetaMapLite	C1521733	0.0	1045	1055	pathologic
+MetaMapLite	C0936012	0.0	1056	1064	analysis
+MetaMapLite	C1524024	0.0	1056	1064	analysis
+MetaMapLite	C0030705	0.0	1071	1078	patient
+MetaMapLite	C0019994	0.0	1100	1108	hospital
+MetaMapLite	C0439228	0.0	1112	1116	days
+MetaMapLite	C0205170	0.0	1155	1159	well
+MetaMapLite	C0205360	0.0	1180	1186	stable
+MetaMapLite	C0681827	0.0	1188	1206	Laboratory studies
+MetaMapLite	C0205360	0.0	1239	1245	stable
+MetaMapLite	C0019046	0.0	1265	1275	hemoglobin
+MetaMapLite	C0018935	0.0	1288	1298	hematocrit
+MetaMapLite	C0518014	0.0	1288	1298	hematocrit
+MetaMapLite	C0030705	0.0	1312	1319	patient
+MetaMapLite	C2314972	0.0	1324	1343	ready for discharge
+MetaMapLite	C0585024	0.0	1347	1353	Monday
+MetaMapLite	C0332170	0.0	1354	1361	morning
+MetaMapLite	C0587081	0.0	1377	1396	LABORATORY FINDINGS
+MetaMapLite	C0684240	0.0	1410	1415	chart
+MetaMapLite	C0007963	0.0	1410	1415	chart
+MetaMapLite	C0443225	0.0	1420	1424	full
+MetaMapLite	C0947630	0.0	1425	1432	studies
+MetaMapLite	C0184666	0.0	1440	1449	admission
+MetaMapLite	C0743223	0.0	1451	1462	DISPOSITION
+MetaMapLite	C0030705	0.0	1469	1476	patient
+MetaMapLite	C0442519	0.0	1495	1499	home
+MetaMapLite	C3538874	0.0	1503	1519	stable condition
+MetaMapLite	C0677946	0.0	1503	1519	stable condition
+MetaMapLite	C0442603	0.0	1561	1567	office
+MetaMapLite	C0743221	0.0	1595	1612	discharge summary
+MetaMapLite	C0025323	0.0	1614	1625	menorrhagia
+MetaMapLite	C0151994	0.0	1627	1645	uterus enlargement
+MetaMapLite	C0030794	0.0	1647	1658	pelvic pain
+MetaMapLite	C3539889	0.0	1647	1658	pelvic pain
+MetaMapLite	C0850758	0.0	1647	1658	pelvic pain
+MetaMapLite	C3539890	0.0	1647	1658	pelvic pain
+MetaMapLite	C3539022	0.0	1647	1658	pelvic pain
+MetaMapLite	C3539891	0.0	1647	1658	pelvic pain
+MetaMapLite	C3539020	0.0	1647	1658	pelvic pain
+MetaMapLite	C2032395	0.0	1647	1658	pelvic pain
+MetaMapLite	C2032396	0.0	1647	1658	pelvic pain
+MetaMapLite	C0848203	0.0	1647	1658	pelvic pain
+MetaMapLite	C3539896	0.0	1647	1658	pelvic pain
+MetaMapLite	C3539895	0.0	1647	1658	pelvic pain
+MetaMapLite	C3539023	0.0	1647	1658	pelvic pain
+MetaMapLite	C3539892	0.0	1647	1658	pelvic pain
+MetaMapLite	C3539893	0.0	1647	1658	pelvic pain
+MetaMapLite	C1735887	0.0	1660	1686	total vaginal hysterectomy
+MetaMapLite	C0020700	0.0	1674	1695	hysterectomy, vaginal
+MetaMapLite	C0020700	0.0	1688	1708	vaginal hysterectomy
+MetaMapLite	C0042149	0.0	1710	1716	uterus
+MetaMapLite	C0042232	0.0	1718	1725	vaginal
+MetaMapLite	C0020699	0.0	1727	1739	hysterectomy

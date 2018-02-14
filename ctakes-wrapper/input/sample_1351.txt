@@ -1,0 +1,31 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - Urology & Nephrology
+Description:  Solitary left kidney with obstruction and hypertension and chronic renal insufficiency, plus a Pseudomonas urinary tract infection.
+(Medical Transcription Sample Report)
+ADMITTING DIAGNOSES:  Solitary left kidney with obstruction, and hypertension, and chronic renal insufficiency.
+DISCHARGE DIAGNOSES:  Solitary left kidney with obstruction and hypertension and chronic renal insufficiency, plus a Pseudomonas urinary tract infection.
+PROCEDURES:  Cystoscopy under anesthesia, ureteroscopy, an attempted tube placement, stent removal with retrograde pyelography, percutaneous tube placement, and nephrostomy by Radiology.
+PERTINENT LABORATORIES:  Creatinine of 1.4.  During the hospitalization it was decreased to 0.8 and Pseudomonas urinary tract infection, positive culture sensitive to ceftazidime and ciprofloxacin.
+HISTORY OF PRESENT ILLNESS:  The patient is a 3-1/2-year-old boy with a solitary kidney, had a ureteropelvic junction repair performed by Dr. Y, in the past, unfortunately, it was thought still be obstructed.  A stent was placed approximately 6 weeks ago after urethroscopic placement with some difficulty.  Plan was to remove the stent.  At the time of removal, we were unable to place another tube within the collecting system, and the patient was admitted for percutaneous nephrostomy placement.  He has had no recent cold or flu.  He has problems with hypertension for which he is on enalapril at home in addition to his Macrodantin prophylaxis.
+PAST MEDICAL HISTORY:  The patient has no known allergies.  Multiple urinary tract infection, solitary kidney, and previous surgeries as mentioned above.
+REVIEW OF SYSTEMS:  A 14-organ system review of systems is negative except for the history of present illness.  He also has history of being a 34-week preemie twin.
+ALLERGIES:  No known allergies.
+FAMILY HISTORY:  Unremarkable without any bleeding or anesthetic problems.
+SOCIAL HISTORY:  The patient lives at home with his parents, 2 brothers, and a sister.
+IMMUNIZATIONS:  Up-to-date.
+MEDICATIONS:  On admission was Macrodantin, hydralazine, and enalapril.
+PHYSICAL EXAMINATION:
+GENERAL:  The patient is an active little boy.
+HEENT:  The head and neck exam was grossly normal.  He had no oral, ocular, or nasal discharge.
+LUNGS:  Exam was normal without wheezing.
+HEART:  Without murmur or gallops.
+ABDOMEN:  Soft, without mass or tenderness with a well-healed flank incision.
+GU:  Uncircumcised male with bilaterally descended testes.
+EXTREMITIES:  He has full range of motion in all 4 extremities.
+SKIN:  Warm, pink, and dry.
+NEUROLOGIC:  Grossly intact.
+BACK:  He has normal back.  Normal gait.
+HOSPITAL COURSE:  The patient was admitted to the hospital after inability to place a ureteral stent via ureteroscopy and cystoscopy.  He was made NPO.  He had a fever at first time with elevated creatinine.  He was also evaluated and treated by Dr. X, for fluid management, hypertensive management, and gave him some hydralazine and Lasix to improve his urine output, in addition to manage his blood pressure.  Once the percutaneous tube was placed, we found that his urine culture grew Pseudomonas, so he was kept on Fortaz, and was switched over to ciprofloxacin without difficulty.  He, otherwise, did well with continuing decrease his creatinine at the time of discharge to home.
+The patient was discharged home in stable condition with ciprofloxacin, enalapril, and recommendation for followup in Urology in 1 to 2 weeks for the surgical correction in 2 to 3 weeks of repeat pyeloplasty or possible ureterocalicostomy.  The patient had draining nephrostomy tube without difficulty.
+Keywords:
+discharge summary, cystoscopy, ureteroscopy, pyelography, nephrostomy, pseudomonas urinary tract infection, solitary left kidney, urinary tract infection, percutaneous tube, solitary kidney, renal insufficiency, hypertension, pseudomonas,

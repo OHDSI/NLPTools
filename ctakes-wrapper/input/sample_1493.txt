@@ -1,0 +1,40 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - Multiple Trauma
+Description:  Aftercare of multiple trauma from an motor vehicle accident.
+(Medical Transcription Sample Report)
+ADMITTING DIAGNOSIS:  Aftercare of multiple trauma from an motor vehicle accident.
+DISCHARGE DIAGNOSES:
+1.  Aftercare following surgery for injury and trauma.
+2.  Decubitus ulcer, lower back.
+3.  Alcohol induced persisting dementia.
+4.  Anemia.
+5.  Hypokalemia.
+6.  Aftercare healing traumatic fracture of the lower arm.
+7.  Alcohol abuse, not otherwise specified.
+8.  Aftercare healing traumatic lower leg fracture.
+9.  Open wound of the scalp.
+10.  Cervical disk displacement with myelopathy.
+11.  Episodic mood disorder.
+12.  Anxiety disorder.
+13.  Nervousness.
+14.  Psychosis.
+15.  Generalized pain.
+16.  Insomnia.
+17.  Pain in joint pelvic region/thigh.
+18.  Motor vehicle traffic accident, not otherwise specified.
+PRINCIPAL PROCEDURES:  None.
+HISTORY OF PRESENT ILLNESS:  As per Dr. X without any changes or corrections.
+HOSPITAL COURSE:  This is a 50-year-old male, who is initially transferred from Medical Center after treatment for multiple fractures after a motor vehicle accident.  He had a left tibial plateau fracture, right forearm fracture with ORIF, head laceration, and initially some symptoms of head injury.  When he was initially transferred to HealthSouth, he was status post ORIF for his right forearm.  He had a brace placed in the left leg for his left tibial plateau fracture.  He was confused initially and initially started on rehab.  He was diagnosed with some acute psychosis and thought problems likely related to his alcohol abuse history.  He did well from orthopedic standpoint.  He did have a small sacral decubitus ulcer, which was well controlled with the wound care team and healed quite nicely.  He did have some anemia initially and he had dropped down in to the low 9, but he was 9.2 with his lowest on 06/11/2008, which had responded well to iron treatment and by the time of discharge, he was lower at 11.0.  He made slow progress from therapy.  His confusion gradually cleared.  He did have some problems with insomnia and was placed on Seroquel to help with both of his moods and other issues and he did quite well with this.  He did require some Ativan for agitation.  He was on chronic pain medications as an outpatient.  His medications were adjusted here and he did well with this as well.  The patient was followed throughout his entire stay with case management and discussions were made with them and the psychologist concerning the placement upon discharge to an acute alcohol rehab facility; however, the patient refused throughout this entire stay.  We did have orthopedic followup.  He was taken out of his right leg brace the week of 06/16/2008.  He did well with therapy.  Overall, he was doing much and much better.  He had progressed with the therapy to the point where that he was comfortable to go home and receive outpatient therapy and follow up with his primary care physician.  On 06/20/2008, with all parties in agreement, the patient was discharged to home in stable condition.
+At the time of discharge, the patient's ambulatory status was much better.  He was using a wheeled walker.  He was able to bear weight on his left leg.  His pain level had been well controlled and his moods had improved dramatically.  He was no longer having any signs of agitation or confusion and he seemed to be at a stable baseline.  His anemia had resolved almost completely and he was doing quite well.
+MEDICATIONS:  On discharge included:
+1.  Calcium with vitamin D 1 tablet twice a day.
+2.  Ferrous sulfate 325 mg t.i.d.
+3.  Multivitamin 1 daily.
+4.  He was on nicotine patch 21 mg per 24 hour.
+5.  He was on Seroquel 25 mg at bedtime.
+6.  He was on Xenaderm for his sacral pressure ulcer.
+7.  He was on Vicodin p.r.n. for pain.
+8.  Ativan 1 mg b.i.d. for anxiety and otherwise he is doing quite well.
+The patient was told to follow up with his orthopedist Dr. Y and also with his primary care physician upon discharge.
+Keywords:
+discharge summary, injury, trauma, multiple trauma, motor vehicle accident, decubitus ulcer, vehicle accident, discharge, aftercare, healing,

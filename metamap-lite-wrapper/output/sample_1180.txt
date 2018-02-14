@@ -1,0 +1,307 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C1145670	0.0	85	104	Respiratory Failure
+MetaMapLite	C0678257	0.0	105	116	Description
+MetaMapLite	C0030705	0.0	123	130	patient
+MetaMapLite	C1184743	0.0	173	180	process
+MetaMapLite	C1522240	0.0	173	180	process
+MetaMapLite	C0235329	0.0	188	211	small bowel obstruction
+MetaMapLite	C0282229	0.0	214	235	Medical Transcription
+MetaMapLite	C0370003	0.0	236	242	Sample
+MetaMapLite	C2347026	0.0	236	242	Sample
+MetaMapLite	C0684224	0.0	243	249	Report
+MetaMapLite	C0700287	0.0	243	249	Report
+MetaMapLite	C1555319	0.0	251	270	DISCHARGE DIAGNOSIS
+MetaMapLite	C1145670	0.0	276	295	Respiratory failure
+MetaMapLite	C0020649	0.0	310	321	Hypotension
+MetaMapLite	C3163620	0.0	310	321	Hypotension
+MetaMapLite	C0002873	0.0	336	361	Anemia of chronic disease
+MetaMapLite	C0205360	0.0	362	368	stable
+MetaMapLite	C0151603	0.0	374	382	Anasarca
+MetaMapLite	C0033684	0.0	398	405	Protein
+MetaMapLite	C0205088	0.0	436	445	End-stage
+MetaMapLite	C0023895	0.0	446	459	liver disease
+MetaMapLite	C2186532	0.0	446	459	liver disease
+MetaMapLite	C2004062	0.0	461	468	HISTORY
+MetaMapLite	C0019665	0.0	461	468	HISTORY
+MetaMapLite	C0019664	0.0	461	468	HISTORY
+MetaMapLite	C0262512	0.0	461	468	HISTORY
+MetaMapLite	C0262926	0.0	461	468	HISTORY
+MetaMapLite	C0489547	0.0	473	488	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	495	502	patient
+MetaMapLite	C1184743	0.0	545	552	process
+MetaMapLite	C1522240	0.0	545	552	process
+MetaMapLite	C0235329	0.0	560	583	small bowel obstruction
+MetaMapLite	C0011135	0.0	590	604	bowel function
+MetaMapLite	C1313790	0.0	636	639	TPN
+MetaMapLite	C1420583	0.0	636	639	TPN
+MetaMapLite	C3813711	0.0	636	639	TPN
+MetaMapLite	C0332152	0.0	640	648	prior to
+MetaMapLite	C0019994	0.0	659	667	Hospital
+MetaMapLite	C3813711	0.0	689	692	TPN
+MetaMapLite	C1313790	0.0	689	692	TPN
+MetaMapLite	C1420583	0.0	689	692	TPN
+MetaMapLite	C0040223	0.0	708	712	time
+MetaMapLite	C0003618	0.0	727	735	appetite
+MetaMapLite	C1512806	0.0	749	755	intake
+MetaMapLite	C3251814	0.0	749	755	intake
+MetaMapLite	C0030705	0.0	781	788	patient
+MetaMapLite	C0332189	0.0	796	803	episode
+MetaMapLite	C1272641	0.0	825	839	blood pressure
+MetaMapLite	C0005823	0.0	825	839	blood pressure
+MetaMapLite	C0439064	0.0	876	884	multiple
+MetaMapLite	C0439228	0.0	885	889	days
+MetaMapLite	C0021708	0.0	897	916	Intensive Care Unit
+MetaMapLite	C0580931	0.0	907	911	Care
+MetaMapLite	C0013030	0.0	920	928	dopamine
+MetaMapLite	C1552961	0.0	938	943	point
+MetaMapLite	C2347617	0.0	938	943	point
+MetaMapLite	C1272705	0.0	953	965	unsuccessful
+MetaMapLite	C0043084	0.0	969	976	weaning
+MetaMapLite	C0013030	0.0	989	997	dopamine
+MetaMapLite	C0332232	0.0	1009	1022	approximately
+MetaMapLite	C0439228	0.0	1026	1030	days
+MetaMapLite	C0449381	0.0	1071	1081	parameters
+MetaMapLite	C0013030	0.0	1113	1121	dopamine
+MetaMapLite	C1272641	0.0	1146	1160	blood pressure
+MetaMapLite	C0005823	0.0	1146	1160	blood pressure
+MetaMapLite	C1299586	0.0	1169	1179	difficulty
+MetaMapLite	C0030705	0.0	1186	1193	patient
+MetaMapLite	C1552861	0.0	1222	1226	help
+MetaMapLite	C0231940	0.0	1236	1247	oxygenation
+MetaMapLite	C0282636	0.0	1236	1247	oxygenation
+MetaMapLite	C0032285	0.0	1295	1304	pneumonia
+MetaMapLite	C0876226	0.0	1347	1352	Zyvox
+MetaMapLite	C0721336	0.0	1357	1365	Levaquin
+MetaMapLite	C0699601	0.0	1370	1378	Diflucan
+MetaMapLite	C0521116	0.0	1396	1405	currently
+MetaMapLite	C3841449	0.0	1412	1423	much better
+MetaMapLite	C0587117	0.0	1456	1463	evening
+MetaMapLite	C0332272	0.0	1496	1502	better
+MetaMapLite	C0332120	0.0	1517	1528	evidence of
+MetaMapLite	C1260956	0.0	1529	1536	redness
+MetaMapLite	C0332575	0.0	1529	1536	redness
+MetaMapLite	C0559522	0.0	1571	1578	genital
+MetaMapLite	C0441994	0.0	1583	1588	lower
+MetaMapLite	C1720043	0.0	1589	1605	abdominal region
+MetaMapLite	C0235437	0.0	1627	1642	dependent edema
+MetaMapLite	C0151603	0.0	1650	1658	anasarca
+MetaMapLite	C0030705	0.0	1665	1672	patient
+MetaMapLite	C0439228	0.0	1725	1729	days
+MetaMapLite	C2986411	0.0	1764	1775	improvement
+MetaMapLite	C0332170	0.0	1799	1806	morning
+MetaMapLite	C0030705	0.0	1812	1819	patient
+MetaMapLite	C0205178	0.0	1831	1836	acute
+MetaMapLite	C0231303	0.0	1837	1845	distress
+MetaMapLite	C1301808	0.0	1851	1857	states
+MetaMapLite	C0205170	0.0	1872	1876	good
+MetaMapLite	C1547538	0.0	1932	1940	facility
+MetaMapLite	C0580931	0.0	1955	1959	care
+MetaMapLite	C0034992	0.0	1964	1978	rehabilitation
+MetaMapLite	C0034991	0.0	1964	1978	rehabilitation
+MetaMapLite	C1306847	0.0	1964	1978	rehabilitation
+MetaMapLite	C0868963	0.0	2006	2012	Garden
+MetaMapLite	C0178572	0.0	2013	2018	Court
+MetaMapLite	C2239221	0.0	2019	2043	skilled nursing facility
+MetaMapLite	C0037265	0.0	2019	2043	skilled nursing facility
+MetaMapLite	C0012621	0.0	2045	2054	DISCHARGE
+MetaMapLite	C0030685	0.0	2045	2054	DISCHARGE
+MetaMapLite	C0013227	0.0	2055	2066	MEDICATIONS
+MetaMapLite	C1442085	0.0	2067	2079	INSTRUCTIONS
+MetaMapLite	C0302828	0.0	2067	2079	INSTRUCTIONS
+MetaMapLite	C0876139	0.0	2111	2119	Protonix
+MetaMapLite	C0332173	0.0	2126	2131	daily
+MetaMapLite	C1123382	0.0	2133	2153	metoclopramide 10 mg
+MetaMapLite	C0439227	0.0	2162	2167	hours
+MetaMapLite	C0876226	0.0	2169	2174	Zyvox
+MetaMapLite	C0332173	0.0	2182	2187	daily
+MetaMapLite	C0439228	0.0	2194	2198	days
+MetaMapLite	C0699601	0.0	2200	2208	Diflucan
+MetaMapLite	C0332173	0.0	2221	2226	daily
+MetaMapLite	C0439228	0.0	2233	2237	days
+MetaMapLite	C0701009	0.0	2239	2244	Bumex
+MetaMapLite	C0332173	0.0	2255	2260	daily
+MetaMapLite	C0700004	0.0	2262	2268	Megace
+MetaMapLite	C0218063	0.0	2289	2295	Ensure
+MetaMapLite	C1998602	0.0	2314	2319	meals
+MetaMapLite	C0876088	0.0	2325	2332	MiraLax
+MetaMapLite	C0332173	0.0	2344	2349	daily
+MetaMapLite	C0030705	0.0	2356	2363	patient
+MetaMapLite	C0949766	0.0	2384	2400	physical therapy
+MetaMapLite	C0699718	0.0	2384	2400	physical therapy
+MetaMapLite	C1552861	0.0	2404	2408	help
+MetaMapLite	C0018896	0.0	2414	2424	assistance
+MetaMapLite	C0872279	0.0	2428	2445	strength training
+MetaMapLite	C0686904	0.0	2468	2472	need
+MetaMapLite	C0027552	0.0	2468	2472	need
+MetaMapLite	C0035239	0.0	2473	2489	respiratory care
+MetaMapLite	C0043227	0.0	2493	2497	work
+MetaMapLite	C1555582	0.0	2519	2526	initial
+MetaMapLite	C0205265	0.0	2519	2526	initial
+MetaMapLite	C0419008	0.0	2557	2573	pressure support
+MetaMapLite	C0032740	0.0	2581	2585	PEEP
+MetaMapLite	C0428167	0.0	2592	2596	FIO2
+MetaMapLite	C0030705	0.0	2610	2617	patient
+MetaMapLite	C0027552	0.0	2623	2627	need
+MetaMapLite	C0686904	0.0	2623	2627	need
+MetaMapLite	C1321597	0.0	2630	2641	sleep study
+MetaMapLite	C0162701	0.0	2630	2641	sleep study
+MetaMapLite	C0028688	0.0	2653	2665	nursing home
+MetaMapLite	C1299581	0.0	2674	2678	able
+MetaMapLite	C0031809	0.0	2690	2710	PHYSICAL EXAMINATION
+MetaMapLite	C0518766	0.0	2712	2723	VITAL SIGNS
+MetaMapLite	C0439228	0.0	2733	2736	day
+MetaMapLite	C0012621	0.0	2740	2749	discharge
+MetaMapLite	C0030685	0.0	2740	2749	discharge
+MetaMapLite	C2197023	0.0	2751	2761	heart rate
+MetaMapLite	C0018810	0.0	2751	2761	heart rate
+MetaMapLite	C0231832	0.0	2766	2782	respiratory rate
+MetaMapLite	C1272641	0.0	2787	2801	blood pressure
+MetaMapLite	C0005823	0.0	2787	2801	blood pressure
+MetaMapLite	C0039476	0.0	2810	2821	temperature
+MetaMapLite	C0005903	0.0	2810	2821	temperature
+MetaMapLite	C0205246	0.0	2840	2847	GENERAL
+MetaMapLite	C0205170	0.0	2852	2856	well
+MetaMapLite	C0007457	0.0	2867	2872	white
+MetaMapLite	C0043157	0.0	2867	2872	white
+MetaMapLite	C0220938	0.0	2867	2872	white
+MetaMapLite	C0086582	0.0	2873	2877	male
+MetaMapLite	C0750489	0.0	2896	2904	apparent
+MetaMapLite	C0231303	0.0	2905	2913	distress
+MetaMapLite	C1512338	0.0	2915	2920	HEENT
+MetaMapLite	C0205307	0.0	2923	2935	Unremarkable
+MetaMapLite	C0007226	0.0	2937	2951	CARDIOVASCULAR
+MetaMapLite	C1446409	0.0	2954	2962	Positive
+MetaMapLite	C0018808	0.0	2978	2984	murmur
+MetaMapLite	C0024109	0.0	3004	3009	LUNGS
+MetaMapLite	C2963144	0.0	3012	3017	Clear
+MetaMapLite	C0004339	0.0	3021	3033	auscultation
+MetaMapLite	C0043144	0.0	3054	3061	wheezes
+MetaMapLite	C0034642	0.0	3065	3073	crackles
+MetaMapLite	C0000726	0.0	3075	3082	ABDOMEN
+MetaMapLite	C0230168	0.0	3075	3082	ABDOMEN
+MetaMapLite	C1446409	0.0	3085	3093	Positive
+MetaMapLite	C0232693	0.0	3098	3110	bowel sounds
+MetaMapLite	C0205358	0.0	3113	3117	Soft
+MetaMapLite	C0205246	0.0	3152	3163	generalized
+MetaMapLite	C1260956	0.0	3164	3171	redness
+MetaMapLite	C0332575	0.0	3164	3171	redness
+MetaMapLite	C1720043	0.0	3183	3199	abdominal region
+MetaMapLite	C0018246	0.0	3204	3209	groin
+MetaMapLite	C0184511	0.0	3229	3237	improved
+MetaMapLite	C0449450	0.0	3250	3262	presentation
+MetaMapLite	C0439230	0.0	3268	3272	week
+MetaMapLite	C0205146	0.0	3296	3300	area
+MetaMapLite	C0278454	0.0	3324	3335	EXTREMITIES
+MetaMapLite	C0015385	0.0	3324	3335	EXTREMITIES
+MetaMapLite	C1547282	0.0	3338	3342	Show
+MetaMapLite	C0010520	0.0	3358	3366	cyanosis
+MetaMapLite	C0239340	0.0	3387	3408	lower extremity edema
+MetaMapLite	C0205108	0.0	3413	3419	distal
+MetaMapLite	C0232157	0.0	3420	3432	pedal pulses
+MetaMapLite	C0150312	0.0	3437	3444	present
+MetaMapLite	C0205494	0.0	3446	3456	NEUROLOGIC
+MetaMapLite	C0030705	0.0	3463	3470	patient
+MetaMapLite	C0239110	0.0	3474	3479	alert
+MetaMapLite	C0027361	0.0	3496	3502	person
+MetaMapLite	C0442504	0.0	3507	3512	place
+MetaMapLite	C0239110	0.0	3521	3526	alert
+MetaMapLite	C0004448	0.0	3531	3536	aware
+MetaMapLite	C1282914	0.0	3540	3552	surroundings
+MetaMapLite	C1299586	0.0	3575	3587	difficulties
+MetaMapLite	C0009676	0.0	3593	3602	confusion
+MetaMapLite	C0497254	0.0	3616	3631	MUSCULOSKELETAL
+MetaMapLite	C2707260	0.0	3616	3631	MUSCULOSKELETAL
+MetaMapLite	C0030705	0.0	3638	3645	patient
+MetaMapLite	C0278454	0.0	3656	3667	extremities
+MetaMapLite	C0015385	0.0	3656	3667	extremities
+MetaMapLite	C1299586	0.0	3676	3686	difficulty
+MetaMapLite	C3714552	0.0	3700	3704	weak
+MetaMapLite	C0205246	0.0	3708	3715	general
+MetaMapLite	C1705214	0.0	3717	3732	LABORATORY DATA
+MetaMapLite	C0022877	0.0	3735	3738	Lab
+MetaMapLite	C0043227	0.0	3739	3743	work
+MetaMapLite	C0750526	0.0	3749	3754	today
+MetaMapLite	C0220938	0.0	3777	3782	White
+MetaMapLite	C0007457	0.0	3777	3782	White
+MetaMapLite	C0043157	0.0	3777	3782	White
+MetaMapLite	C1705566	0.0	3783	3788	count
+MetaMapLite	C0750480	0.0	3783	3788	count
+MetaMapLite	C0019046	0.0	3794	3804	hemoglobin
+MetaMapLite	C0518014	0.0	3811	3821	hematocrit
+MetaMapLite	C0018935	0.0	3811	3821	hematocrit
+MetaMapLite	C0032181	0.0	3832	3846	platelet count
+MetaMapLite	C1287267	0.0	3832	3846	platelet count
+MetaMapLite	C3536863	0.0	3857	3869	Electrolytes
+MetaMapLite	C0013832	0.0	3857	3869	Electrolytes
+MetaMapLite	C0037473	0.0	3875	3881	sodium
+MetaMapLite	C0032821	0.0	3887	3896	potassium
+MetaMapLite	C0596019	0.0	3902	3910	chloride
+MetaMapLite	C0860710	0.0	3915	3918	CO2
+MetaMapLite	C0017725	0.0	3923	3930	glucose
+MetaMapLite	C0006675	0.0	3964	3971	Calcium
+MetaMapLite	C3714611	0.0	3964	3971	Calcium
+MetaMapLite	C0006726	0.0	3964	3971	Calcium
+MetaMapLite	C3540037	0.0	3964	3971	Calcium
+MetaMapLite	C2936886	0.0	3964	3971	Calcium
+MetaMapLite	C0031705	0.0	3977	3987	phosphorus
+MetaMapLite	C1615057	0.0	3977	3987	phosphorus
+MetaMapLite	C0700321	0.0	3993	3999	little
+MetaMapLite	C0205250	0.0	4000	4004	high
+MetaMapLite	C0024467	0.0	4013	4022	magnesium
+MetaMapLite	C0032074	0.0	4041	4045	PLAN
+MetaMapLite	C0270724	0.0	4041	4045	PLAN
+MetaMapLite	C0012621	0.0	4048	4057	Discharge
+MetaMapLite	C0030685	0.0	4048	4057	Discharge
+MetaMapLite	C0019994	0.0	4078	4086	Hospital
+MetaMapLite	C0868963	0.0	4104	4110	Garden
+MetaMapLite	C0178572	0.0	4111	4116	Court
+MetaMapLite	C1548534	0.0	4117	4120	SNF
+MetaMapLite	C0034991	0.0	4154	4159	rehab
+MetaMapLite	C0009647	0.0	4164	4176	conditioning
+MetaMapLite	C0443252	0.0	4190	4199	long-term
+MetaMapLite	C0032074	0.0	4200	4208	planning
+MetaMapLite	C0184713	0.0	4217	4231	discharge home
+MetaMapLite	C0262512	0.0	4243	4250	history
+MetaMapLite	C0262926	0.0	4243	4250	history
+MetaMapLite	C2004062	0.0	4243	4250	history
+MetaMapLite	C0019665	0.0	4243	4250	history
+MetaMapLite	C0019664	0.0	4243	4250	history
+MetaMapLite	C0205088	0.0	4254	4263	end-stage
+MetaMapLite	C2186532	0.0	4264	4277	liver disease
+MetaMapLite	C0023895	0.0	4264	4277	liver disease
+MetaMapLite	C0023890	0.0	4283	4292	cirrhosis
+MetaMapLite	C0085555	0.0	4329	4336	hospice
+MetaMapLite	C0019947	0.0	4329	4336	hospice
+MetaMapLite	C0030685	0.0	4342	4351	discharge
+MetaMapLite	C0012621	0.0	4342	4351	discharge
+MetaMapLite	C0015576	0.0	4358	4364	family
+MetaMapLite	C0205265	0.0	4365	4374	initially
+MetaMapLite	C0030705	0.0	4395	4402	patient
+MetaMapLite	C0442519	0.0	4403	4407	home
+MetaMapLite	C3714552	0.0	4423	4427	weak
+MetaMapLite	C3843660	0.0	4441	4449	too much
+MetaMapLite	C0018896	0.0	4450	4460	assistance
+MetaMapLite	C1550456	0.0	4489	4495	option
+MetaMapLite	C0040223	0.0	4504	4508	time
+MetaMapLite	C0743221	0.0	4520	4537	discharge summary
+MetaMapLite	C1145670	0.0	4539	4558	respiratory failure
+MetaMapLite	C0020649	0.0	4560	4571	hypotension
+MetaMapLite	C0002871	0.0	4573	4579	anemia
+MetaMapLite	C1300072	0.0	4595	4600	stage
+MetaMapLite	C2186532	0.0	4601	4614	liver disease
+MetaMapLite	C0023895	0.0	4601	4614	liver disease
+MetaMapLite	C1184743	0.0	4626	4633	process
+MetaMapLite	C1522240	0.0	4626	4633	process
+MetaMapLite	C0021843	0.0	4635	4652	bowel obstruction
+MetaMapLite	C0005823	0.0	4654	4668	blood pressure
+MetaMapLite	C1272641	0.0	4654	4668	blood pressure
+MetaMapLite	C0013030	0.0	4670	4678	dopamine
+MetaMapLite	C0030685	0.0	4680	4689	discharge
+MetaMapLite	C0012621	0.0	4680	4689	discharge

@@ -1,0 +1,53 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - Peripheral vascular disease
+Description:  The patient with multiple medical conditions including coronary artery disease, hypothyroidism, and severe peripheral vascular disease status post multiple revascularizations.
+(Medical Transcription Sample Report)
+ADMITTING DIAGNOSIS:  A nonhealing right below-knee amputation.
+DISCHARGE DIAGNOSIS:  A nonhealing right below-knee amputation.
+SECONDARY DIAGNOSES:  Include:
+1.  Peripheral vascular disease, bilateral carotid artery stenosis status post bilateral carotid endarterectomies.
+2.  Peripheral vascular disease status post aortobifemoral bypass and bilateral femoropopliteal bypass grafting.
+3.  Hypertension.
+4.  Diverticulosis.
+5.  Hypothyroidism.
+6.  Chronic renal insufficiency.
+7.  Status post open incision and drainage of an intestinal abscess at an unknown point.
+DETERMINATION:  Status post right below-knee amputation.
+OPERATIONS PERFORMED:
+1.  Extensive debridement of right below-knee amputation with debridement of skin, subcutaneous tissue, muscle, and bone on July 17, 2008.
+2.  Irrigation and debridement of right below-knee amputation wound on July 21, 2008, July 24, 2008, July 28, 2008, and August 1, 2008.
+HISTORY OF PRESENT ILLNESS:  The patient is an 89-year-old gentleman with multiple medical conditions including coronary artery disease, hypothyroidism, and severe peripheral vascular disease status post multiple revascularizations, and a right below-knee amputation in June 2008 following a thrombosis of his right femoropopliteal bypass graft.  Following his amputation, he had poor wound healing.  He presented to the ED with pain in his right lower extremity on July 9, 2008.  Due to concern for infection at that time, he was started on oral Keflex and instructed to follow up with the Vascular Clinic as scheduled.  At his follow-up appointment, it was decided to re-admit The patient for debridement and revision of his stump wound.
+HOSPITAL COURSE:  Briefly, The patient underwent extensive debridement of his right below-knee amputation wound on July 17, 2008.  He underwent debridement of skin, subcutaneous tissue, muscle, and bone to remove the necrotic tissue from the stump.  A wound VAC. was also placed to help accelerate wound healing.  The patient's postoperative course was complicated initially by acute blood-loss anemia, requiring blood transfusion.  He returned to the OR on Monday, July 21, 2008 for irrigation and debridement of his right below-knee amputation and a wound VAC change.  Again, on July 24, 2008, and then again on July 28, 2008, The patient returned to the operating room for irrigation and debridement of his wound and wound VAC change.  Following his procedure on July 28, 2008, The patient began having recurrent episodes of diarrhea, prompting stool cultures and C. difficile assay to be sent.  He was also started on Flagyl, empirically.  C. difficile assay returned positive and the decision was made to continue Flagyl for a full 14-day course.  On July 31, 2008, the patient began experiencing shortness of breath and wheezing after standing to be weighed.  His vital signs remained stable.  However, his oxygen saturation dropped to 93%, improving only to 97% after an addition of 2 liters by nasal cannula.  A chest x-ray revealed bilateral pleural effusions and bibasilar atelectasis in addition to some pulmonary edema diffusely.  The patient's IV fluids were decreased.  He was given p.r.n. albuterol and infusion of Lasix, resulting in significant urine output.  His symptoms of shortness of breath gradually improved.  On August 1, 2008, he returned to the OR for final irrigation and debridement of his below-knee amputation.  Again, a wound VAC was placed.  Postoperatively, he did well.  His Foley catheter was removed.  His vital signs remained stable, and his respiratory status also remained stable.  Arrangements were made for home health and wound VAC care upon discharge.
+DISCHARGE CONDITION:  The patient is resting comfortably.  He denies shortness of breath or chest pain.  He has mild bibasilar wheezing, but breathing is otherwise nonlabored.  All other exams normal.
+DISCHARGE MEDICATIONS:
+1.  Acetaminophen 325 mg daily.
+2.  Albuterol 2 puffs every six hours as needed.
+3.  Vitamin C 500 mg one to two times daily.
+4.  Aspirin 81 mg daily.
+5.  Symbicort 1 puff every morning and 1 puff every evening.
+6.  Tums p.r.n.
+7.  Calcium 600 mg plus vitamin D daily.
+8.  Plavix 75 mg daily.
+9.  Clorazepate dipotassium 7.5 mg every six hours as needed.
+10.  Lexapro 10 mg daily at bedtime.
+11.  Hydrochlorothiazide 25 mg one-half tablet daily.
+12.  Ibuprofen 200 mg three pills as needed.
+13.  Imdur 30 mg daily.
+14.  Levoxyl 112 mcg daily.
+15.  Ativan 0.5 mg one-half tablet every six hours as needed.
+16.  Lopressor 50 mg one-half tablet twice daily.
+17.  Flagyl 500 mg every six hours for 10 days.
+18.  Multivitamin daily.
+19.  Nitrostat 0.4 mg to take as directed.
+20.  Omeprazole 20 mg daily.
+21.  Oxycodone-acetaminophen 5/325 mg every four to six hours as needed for pain.
+22.  Lyrica 25 mg daily at bedtime.
+23.  Zocor 40 mg one-half tablet daily at bedtime.
+24.  Tramadol 50 mg two pills every four to six hours as needed for pain.
+25.  Diovan 160 mg daily.
+26.  Zinc sulfate 220 mg daily.
+DISCHARGE DIET:  The patient is instructed to consume an adult 250 g consistent carbohydrate diet.
+DISCHARGE INSTRUCTIONS:  The patient is instructed only to ambulate with crutches or a walker.  He is not to drive, move furniture, or do strenuous activity until advised to do so after his followup.  He will also have skilled nursing come to his home to monitor and change his wound VAC and home health physical and occupational therapy.  He is instructed also to call the vascular clinic with questions or concerns or if he has a temperature greater than 101, severe pain, nausea, vomiting, or redness or foul odor from his wound.
+FOLLOWUP:  The patient is instructed to follow up with Dr. X in Vascular Clinic in four weeks.  His appointment has been scheduled.  He is also scheduled for an appointment with his primary care physician on Monday, August 11, 2008.
+Keywords:
+discharge summary, peripheral vascular disease, carotid artery stenosis, aortobifemoral bypass, hypertension, diverticulosis, carotid endarterectomies, vascular disease, wound vac, knee amputation, amputation, artery, revascularizations, bypass, vac, peripheral, disease, vascular, knee,

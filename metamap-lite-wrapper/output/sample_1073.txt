@@ -1,0 +1,131 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C1705285	0.0	72	80	mutation
+MetaMapLite	C0026882	0.0	72	80	mutation
+MetaMapLite	C0678257	0.0	81	92	Description
+MetaMapLite	C0743221	0.0	95	112	Discharge summary
+MetaMapLite	C0030705	0.0	118	125	patient
+MetaMapLite	C1705285	0.0	140	148	mutation
+MetaMapLite	C0026882	0.0	140	148	mutation
+MetaMapLite	C0282229	0.0	151	172	Medical Transcription
+MetaMapLite	C2347026	0.0	173	179	Sample
+MetaMapLite	C0370003	0.0	173	179	Sample
+MetaMapLite	C0684224	0.0	180	186	Report
+MetaMapLite	C0700287	0.0	180	186	Report
+MetaMapLite	C0012621	0.0	188	197	DISCHARGE
+MetaMapLite	C0030685	0.0	188	197	DISCHARGE
+MetaMapLite	C0011900	0.0	198	207	DIAGNOSES
+MetaMapLite	C0026882	0.0	217	225	mutation
+MetaMapLite	C1705285	0.0	217	225	mutation
+MetaMapLite	C0262512	0.0	227	253	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	238	245	PRESENT
+MetaMapLite	C0030705	0.0	260	267	patient
+MetaMapLite	C0439234	0.0	276	280	year
+MetaMapLite	C0580836	0.0	281	284	old
+MetaMapLite	C0026882	0.0	299	307	mutation
+MetaMapLite	C1705285	0.0	299	307	mutation
+MetaMapLite	C0337514	0.0	314	320	sister
+MetaMapLite	C0006142	0.0	329	342	breast cancer
+MetaMapLite	C0678222	0.0	329	342	breast cancer
+MetaMapLite	C0001779	0.0	346	349	age
+MetaMapLite	C0011011	0.0	361	369	daughter
+MetaMapLite	C0006142	0.0	374	387	breast cancer
+MetaMapLite	C0678222	0.0	374	387	breast cancer
+MetaMapLite	C0001779	0.0	391	394	age
+MetaMapLite	C0031809	0.0	399	419	PHYSICAL EXAMINATION
+MetaMapLite	C0817096	0.0	426	431	chest
+MetaMapLite	C2963144	0.0	436	441	clear
+MetaMapLite	C0000726	0.0	448	455	abdomen
+MetaMapLite	C0230168	0.0	448	455	abdomen
+MetaMapLite	C0520960	0.0	460	469	nontender
+MetaMapLite	C0200045	0.0	472	490	Pelvic examination
+MetaMapLite	C0018808	0.0	512	524	heart murmur
+MetaMapLite	C0489547	0.0	526	541	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	548	555	patient
+MetaMapLite	C0543467	0.0	566	573	surgery
+MetaMapLite	C0038895	0.0	566	573	surgery
+MetaMapLite	C0439228	0.0	581	584	day
+MetaMapLite	C0184666	0.0	588	597	admission
+MetaMapLite	C0032790	0.0	607	620	postoperative
+MetaMapLite	C0750729	0.0	621	627	course
+MetaMapLite	C0277797	0.0	636	644	afebrile
+MetaMapLite	C0205307	0.0	649	661	unremarkable
+MetaMapLite	C0030705	0.0	668	675	patient
+MetaMapLite	C0542341	0.0	691	699	function
+MetaMapLite	C0031843	0.0	691	699	function
+MetaMapLite	C0332170	0.0	726	733	morning
+MetaMapLite	C1706303	0.0	741	747	fourth
+MetaMapLite	C0205438	0.0	741	747	fourth
+MetaMapLite	C0032790	0.0	748	761	postoperative
+MetaMapLite	C0439228	0.0	762	765	day
+MetaMapLite	C0038895	0.0	767	777	OPERATIONS
+MetaMapLite	C3244305	0.0	767	777	OPERATIONS
+MetaMapLite	C3244306	0.0	767	777	OPERATIONS
+MetaMapLite	C0025664	0.0	782	792	PROCEDURES
+MetaMapLite	C2700391	0.0	782	792	PROCEDURES
+MetaMapLite	C0404079	0.0	795	823	Total abdominal hysterectomy
+MetaMapLite	C0195495	0.0	824	855	bilateral salpingo-oophorectomy
+MetaMapLite	C0015252	0.0	861	870	resection
+MetaMapLite	C0728940	0.0	861	870	resection
+MetaMapLite	C0739153	0.0	874	887	ovarian fossa
+MetaMapLite	C0031153	0.0	888	898	peritoneum
+MetaMapLite	C3829447	0.0	910	914	July
+MetaMapLite	C0030664	0.0	925	934	PATHOLOGY
+MetaMapLite	C0205469	0.0	925	934	PATHOLOGY
+MetaMapLite	C0677042	0.0	925	934	PATHOLOGY
+MetaMapLite	C0439208	0.0	943	947	gram
+MetaMapLite	C0042149	0.0	948	954	uterus
+MetaMapLite	C0334044	0.0	963	972	dysplasia
+MetaMapLite	C0006826	0.0	976	982	cancer
+MetaMapLite	C0012634	0.0	984	993	CONDITION
+MetaMapLite	C0012621	0.0	997	1006	DISCHARGE
+MetaMapLite	C0030685	0.0	997	1006	DISCHARGE
+MetaMapLite	C0205360	0.0	1009	1015	Stable
+MetaMapLite	C0032074	0.0	1017	1021	PLAN
+MetaMapLite	C0270724	0.0	1017	1021	PLAN
+MetaMapLite	C0030705	0.0	1028	1035	patient
+MetaMapLite	C0035253	0.0	1051	1055	rest
+MetaMapLite	C0205265	0.0	1056	1065	initially
+MetaMapLite	C0205329	0.0	1071	1082	progressive
+MetaMapLite	C0945826	0.0	1083	1093	ambulation
+MetaMapLite	C0206244	0.0	1117	1124	lifting
+MetaMapLite	C0009253	0.0	1137	1148	intercourse
+MetaMapLite	C0015967	0.0	1175	1181	fevers
+MetaMapLite	C0012621	0.0	1183	1191	drainage
+MetaMapLite	C2926602	0.0	1183	1191	drainage
+MetaMapLite	C0019080	0.0	1193	1201	bleeding
+MetaMapLite	C0030193	0.0	1206	1210	pain
+MetaMapLite	C1522577	0.0	1213	1222	Follow up
+MetaMapLite	C0442603	0.0	1229	1235	office
+MetaMapLite	C0439230	0.0	1244	1249	weeks
+MetaMapLite	C0241889	0.0	1252	1266	Family history
+MetaMapLite	C3714536	0.0	1268	1282	social history
+MetaMapLite	C1458132	0.0	1284	1296	psychosocial
+MetaMapLite	C0542298	0.0	1284	1296	psychosocial
+MetaMapLite	C0037444	0.0	1311	1324	social worker
+MetaMapLite	C0012621	0.0	1326	1335	DISCHARGE
+MetaMapLite	C0030685	0.0	1326	1335	DISCHARGE
+MetaMapLite	C0013227	0.0	1336	1347	MEDICATIONS
+MetaMapLite	C0086787	0.0	1350	1358	Percocet
+MetaMapLite	C0439227	0.0	1377	1382	hours
+MetaMapLite	C0030193	0.0	1390	1394	pain
+MetaMapLite	C0743221	0.0	1406	1423	discharge summary
+MetaMapLite	C1705285	0.0	1432	1440	mutation
+MetaMapLite	C0026882	0.0	1432	1440	mutation
+MetaMapLite	C1705285	0.0	1450	1458	mutation
+MetaMapLite	C0026882	0.0	1450	1458	mutation
+MetaMapLite	C0006142	0.0	1460	1473	breast cancer
+MetaMapLite	C0678222	0.0	1460	1473	breast cancer
+MetaMapLite	C1705285	0.0	1480	1488	mutation
+MetaMapLite	C0026882	0.0	1480	1488	mutation
+MetaMapLite	C0006141	0.0	1490	1496	breast
+MetaMapLite	C0032790	0.0	1498	1511	postoperative
+MetaMapLite	C0031153	0.0	1513	1523	peritoneum
+MetaMapLite	C0012621	0.0	1531	1540	discharge
+MetaMapLite	C0030685	0.0	1531	1540	discharge
+MetaMapLite	C0006826	0.0	1542	1548	cancer

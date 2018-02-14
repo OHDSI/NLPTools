@@ -1,0 +1,382 @@
+2018-02-06 15:38:17 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:17 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:18 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:18 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:18 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:18 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:18 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:18 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:19 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:19 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:19 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:19 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:19 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:19 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:19 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:19 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:20 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:20 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:20 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:20 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:20 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:20 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:20 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:20 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:21 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:21 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:21 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:21 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:21 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:21 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:22 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:22 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:22 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:22 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:22 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:22 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:22 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:22 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:23 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:24 [main] INFO  MetaMapLite:419 - passage relations: [id: R0
+infons: {type=ABBR}
+nodes: [refid: SF0
+role: ShortForm
+, refid: LF0
+role: LongForm
+]
+, id: R1
+infons: {type=ABBR}
+nodes: [refid: SF1
+role: ShortForm
+, refid: LF1
+role: LongForm
+]
+, id: R2
+infons: {type=ABBR}
+nodes: [refid: SF2
+role: ShortForm
+, refid: LF2
+role: LongForm
+]
+]
+2018-02-06 15:38:24 [main] INFO  MetaMapLite:420 - passage annotations: [id: SF0
+{type=ABBR, ABBR=ShortForm}locations: [1096:2]
+text: OR
+, id: LF0
+{type=ABBR, ABBR=LongForm}locations: [1080:14]
+text: operating room
+, id: SF1
+{type=ABBR, ABBR=ShortForm}locations: [1351:3]
+text: DVT
+, id: LF1
+{type=ABBR, ABBR=LongForm}locations: [1327:22]
+text: deep venous thrombosis
+, id: SF2
+{type=ABBR, ABBR=ShortForm}locations: [1552:3]
+text: CPM
+, id: LF2
+{type=ABBR, ABBR=LongForm}locations: [1525:25]
+text: Continuous passive motion
+]
+2018-02-06 15:38:24 [main] INFO  MarkAbbreviations:104 - text -> deep venous thrombosis -> DVT
+2018-02-06 15:38:24 [main] INFO  MarkAbbreviations:104 - text -> DVT -> deep venous thrombosis
+2018-02-06 15:38:24 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:24 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:24 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:24 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:24 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:24 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:24 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:24 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:25 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:26 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:26 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:26 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:26 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:26 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:26 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:26 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:26 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:27 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:27 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:27 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:27 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:27 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:27 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-06 15:38:28 [main] INFO  MetaMapLite:419 - passage relations: [id: R3
+infons: {type=ABBR}
+nodes: [refid: SF3
+role: ShortForm
+, refid: LF3
+role: LongForm
+]
+, id: R4
+infons: {type=ABBR}
+nodes: [refid: SF4
+role: ShortForm
+, refid: LF4
+role: LongForm
+]
+, id: R5
+infons: {type=ABBR}
+nodes: [refid: SF5
+role: ShortForm
+, refid: LF5
+role: LongForm
+]
+]
+2018-02-06 15:38:28 [main] INFO  MetaMapLite:420 - passage annotations: [id: SF3
+{type=ABBR, ABBR=ShortForm}locations: [1865:4]
+text: ADHD
+, id: LF3
+{type=ABBR, ABBR=LongForm}locations: [1865:40]
+text: Attention Deficit Hyperactivity Disorder
+, id: SF4
+{type=ABBR, ABBR=ShortForm}locations: [1943:3]
+text: ODD
+, id: LF4
+{type=ABBR, ABBR=LongForm}locations: [1943:29]
+text: Oppositional Defiant Disorder
+, id: SF5
+{type=ABBR, ABBR=ShortForm}locations: [2523:3]
+text: RTC
+, id: LF5
+{type=ABBR, ABBR=LongForm}locations: [2523:28]
+text: Residential Treatment Center
+]
+2018-02-06 15:38:28 [main] INFO  MarkAbbreviations:104 - text -> ADHD -> Attention Deficit Hyperactivity Disorder
+2018-02-06 15:38:28 [main] INFO  MarkAbbreviations:104 - text -> Attention Deficit Hyperactivity Disorder -> ADHD
+2018-02-06 15:38:28 [main] INFO  MarkAbbreviations:104 - text -> ODD -> Oppositional Defiant Disorder
+2018-02-06 15:38:28 [main] INFO  MarkAbbreviations:104 - text -> Oppositional Defiant Disorder -> ODD
+2018-02-06 15:38:28 [main] INFO  MetaMapLite:419 - passage relations: [id: R6
+infons: {type=ABBR}
+nodes: [refid: SF6
+role: ShortForm
+, refid: LF6
+role: LongForm
+]
+]
+2018-02-06 15:38:28 [main] INFO  MetaMapLite:420 - passage annotations: [id: SF6
+{type=ABBR, ABBR=ShortForm}locations: [3382:3]
+text: RTC
+, id: LF6
+{type=ABBR, ABBR=LongForm}locations: [3382:28]
+text: Residential Treatment Center
+]
+2018-02-06 15:38:28 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-06 15:38:28 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:24 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:24 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:25 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:25 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:25 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:25 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:25 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:25 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:26 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:26 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:26 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:26 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:27 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:27 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:27 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:27 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:27 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:27 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:27 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:27 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:27 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:27 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:28 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:28 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:28 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:28 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:28 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:28 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:28 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:28 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:29 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:29 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:29 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:29 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:30 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:31 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:31 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:31 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:31 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:31 [main] INFO  MetaMapLite:419 - passage relations: [id: R0
+infons: {type=ABBR}
+nodes: [refid: SF0
+role: ShortForm
+, refid: LF0
+role: LongForm
+]
+, id: R1
+infons: {type=ABBR}
+nodes: [refid: SF1
+role: ShortForm
+, refid: LF1
+role: LongForm
+]
+, id: R2
+infons: {type=ABBR}
+nodes: [refid: SF2
+role: ShortForm
+, refid: LF2
+role: LongForm
+]
+]
+2018-02-14 10:46:31 [main] INFO  MetaMapLite:420 - passage annotations: [id: SF0
+{type=ABBR, ABBR=ShortForm}locations: [1096:2]
+text: OR
+, id: LF0
+{type=ABBR, ABBR=LongForm}locations: [1080:14]
+text: operating room
+, id: SF1
+{type=ABBR, ABBR=ShortForm}locations: [1351:3]
+text: DVT
+, id: LF1
+{type=ABBR, ABBR=LongForm}locations: [1327:22]
+text: deep venous thrombosis
+, id: SF2
+{type=ABBR, ABBR=ShortForm}locations: [1552:3]
+text: CPM
+, id: LF2
+{type=ABBR, ABBR=LongForm}locations: [1525:25]
+text: Continuous passive motion
+]
+2018-02-14 10:46:31 [main] INFO  MarkAbbreviations:104 - text -> deep venous thrombosis -> DVT
+2018-02-14 10:46:31 [main] INFO  MarkAbbreviations:104 - text -> DVT -> deep venous thrombosis
+2018-02-14 10:46:31 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:31 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:31 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:31 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:32 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:33 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:34 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:34 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:34 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:34 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:35 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:35 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:35 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:35 [main] INFO  MetaMapLite:420 - passage annotations: []
+2018-02-14 10:46:35 [main] INFO  MetaMapLite:419 - passage relations: [id: R3
+infons: {type=ABBR}
+nodes: [refid: SF3
+role: ShortForm
+, refid: LF3
+role: LongForm
+]
+, id: R4
+infons: {type=ABBR}
+nodes: [refid: SF4
+role: ShortForm
+, refid: LF4
+role: LongForm
+]
+, id: R5
+infons: {type=ABBR}
+nodes: [refid: SF5
+role: ShortForm
+, refid: LF5
+role: LongForm
+]
+]
+2018-02-14 10:46:35 [main] INFO  MetaMapLite:420 - passage annotations: [id: SF3
+{type=ABBR, ABBR=ShortForm}locations: [1865:4]
+text: ADHD
+, id: LF3
+{type=ABBR, ABBR=LongForm}locations: [1865:40]
+text: Attention Deficit Hyperactivity Disorder
+, id: SF4
+{type=ABBR, ABBR=ShortForm}locations: [1943:3]
+text: ODD
+, id: LF4
+{type=ABBR, ABBR=LongForm}locations: [1943:29]
+text: Oppositional Defiant Disorder
+, id: SF5
+{type=ABBR, ABBR=ShortForm}locations: [2523:3]
+text: RTC
+, id: LF5
+{type=ABBR, ABBR=LongForm}locations: [2523:28]
+text: Residential Treatment Center
+]
+2018-02-14 10:46:35 [main] INFO  MarkAbbreviations:104 - text -> ADHD -> Attention Deficit Hyperactivity Disorder
+2018-02-14 10:46:35 [main] INFO  MarkAbbreviations:104 - text -> Attention Deficit Hyperactivity Disorder -> ADHD
+2018-02-14 10:46:35 [main] INFO  MarkAbbreviations:104 - text -> ODD -> Oppositional Defiant Disorder
+2018-02-14 10:46:35 [main] INFO  MarkAbbreviations:104 - text -> Oppositional Defiant Disorder -> ODD
+2018-02-14 10:46:35 [main] INFO  MetaMapLite:419 - passage relations: [id: R6
+infons: {type=ABBR}
+nodes: [refid: SF6
+role: ShortForm
+, refid: LF6
+role: LongForm
+]
+]
+2018-02-14 10:46:35 [main] INFO  MetaMapLite:420 - passage annotations: [id: SF6
+{type=ABBR, ABBR=ShortForm}locations: [3382:3]
+text: RTC
+, id: LF6
+{type=ABBR, ABBR=LongForm}locations: [3382:28]
+text: Residential Treatment Center
+]
+2018-02-14 10:46:36 [main] INFO  MetaMapLite:419 - passage relations: []
+2018-02-14 10:46:36 [main] INFO  MetaMapLite:420 - passage annotations: []

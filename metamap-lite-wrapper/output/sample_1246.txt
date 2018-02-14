@@ -1,0 +1,163 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0017125	0.0	65	79	Gastric Bypass
+MetaMapLite	C2348322	0.0	80	99	Summary
+Description
+MetaMapLite	C0030705	0.0	102	109	Patient
+MetaMapLite	C0393360	0.0	127	139	laparoscopic
+MetaMapLite	C0585179	0.0	140	164	Roux-en-Y gastric bypass
+MetaMapLite	C0282229	0.0	167	188	Medical Transcription
+MetaMapLite	C2347026	0.0	189	195	Sample
+MetaMapLite	C0370003	0.0	189	195	Sample
+MetaMapLite	C0684224	0.0	196	202	Report
+MetaMapLite	C0700287	0.0	196	202	Report
+MetaMapLite	C0205088	0.0	204	209	FINAL
+MetaMapLite	C0011900	0.0	210	219	DIAGNOSES
+MetaMapLite	C0028756	0.0	224	238	Morbid obesity
+MetaMapLite	C0231290	0.0	240	251	status post
+MetaMapLite	C0393360	0.0	252	264	laparoscopic
+MetaMapLite	C0585179	0.0	265	289	Roux-en-Y gastric bypass
+MetaMapLite	C0020538	0.0	295	307	Hypertension
+MetaMapLite	C0520679	0.0	313	336	Obstructive sleep apnea
+MetaMapLite	C0199451	0.0	341	345	CPAP
+MetaMapLite	C1424863	0.0	341	345	CPAP
+MetaMapLite	C3241922	0.0	347	356	OPERATION
+MetaMapLite	C0543467	0.0	347	356	OPERATION
+MetaMapLite	C0184661	0.0	361	370	PROCEDURE
+MetaMapLite	C2700391	0.0	361	370	PROCEDURE
+MetaMapLite	C0393360	0.0	373	385	Laparoscopic
+MetaMapLite	C0585179	0.0	386	410	Roux-en-Y gastric bypass
+MetaMapLite	C1282927	0.0	412	417	BRIEF
+MetaMapLite	C0489547	0.0	418	433	HOSPITAL COURSE
+MetaMapLite	C1552616	0.0	434	441	SUMMARY
+MetaMapLite	C1706244	0.0	434	441	SUMMARY
+MetaMapLite	C0439234	0.0	457	461	year
+MetaMapLite	C0580836	0.0	462	465	old
+MetaMapLite	C0086582	0.0	466	470	male
+MetaMapLite	C0332185	0.0	486	494	recently
+MetaMapLite	C0205099	0.0	512	518	Center
+MetaMapLite	C1261322	0.0	523	533	evaluation
+MetaMapLite	C0220825	0.0	523	533	evaluation
+MetaMapLite	C0087111	0.0	538	547	treatment
+MetaMapLite	C0039798	0.0	538	547	treatment
+MetaMapLite	C0028756	0.0	564	578	morbid obesity
+MetaMapLite	C0009488	0.0	594	607	comorbidities
+MetaMapLite	C1442989	0.0	620	628	standard
+MetaMapLite	C0220825	0.0	639	649	evaluation
+MetaMapLite	C1261322	0.0	639	649	evaluation
+MetaMapLite	C0009818	0.0	651	659	consults
+MetaMapLite	C1555329	0.0	678	683	preop
+MetaMapLite	C0043096	0.0	701	712	weight loss
+MetaMapLite	C0679106	0.0	716	728	anticipation
+MetaMapLite	C0439608	0.0	732	740	elective
+MetaMapLite	C1456587	0.0	741	758	bariatric surgery
+MetaMapLite	C0445247	0.0	780	784	same
+MetaMapLite	C0282046	0.0	785	796	day surgery
+MetaMapLite	C1184743	0.0	797	804	process
+MetaMapLite	C1522240	0.0	797	804	process
+MetaMapLite	C0439608	0.0	809	817	elective
+MetaMapLite	C0017125	0.0	818	832	gastric bypass
+MetaMapLite	C0205170	0.0	844	848	well
+MetaMapLite	C0034871	0.0	867	871	PACU
+MetaMapLite	C0016249	0.0	889	894	floor
+MetaMapLite	C0205547	0.0	899	906	routine
+MetaMapLite	C0032786	0.0	907	925	postoperative care
+MetaMapLite	C0853245	0.0	935	950	DVT prophylaxis
+MetaMapLite	C0019134	0.0	976	983	heparin
+MetaMapLite	C0770546	0.0	976	983	heparin
+MetaMapLite	C1279919	0.0	985	990	early
+MetaMapLite	C0332183	0.0	995	1003	frequent
+MetaMapLite	C0300926	0.0	1004	1016	mobilization
+MetaMapLite	C0185112	0.0	1004	1016	mobilization
+MetaMapLite	C2080791	0.0	1004	1016	mobilization
+MetaMapLite	C1304888	0.0	1050	1062	pain control
+MetaMapLite	C1424863	0.0	1095	1099	CPAP
+MetaMapLite	C0199451	0.0	1095	1099	CPAP
+MetaMapLite	C0205314	0.0	1127	1130	new
+MetaMapLite	C0553534	0.0	1131	1146	cardiopulmonary
+MetaMapLite	C0277786	0.0	1147	1157	complaints
+MetaMapLite	C0032790	0.0	1160	1166	Postop
+MetaMapLite	C0439228	0.0	1167	1170	day
+MetaMapLite	C0442816	0.0	1187	1200	normal limits
+MetaMapLite	C1299581	0.0	1202	1206	able
+MetaMapLite	C0439659	0.0	1221	1226	start
+MetaMapLite	C0453847	0.0	1237	1250	clear liquids
+MetaMapLite	C0439218	0.0	1256	1262	ounces
+MetaMapLite	C0439227	0.0	1267	1271	hour
+MetaMapLite	C0205170	0.0	1292	1296	well
+MetaMapLite	C0439841	0.0	1306	1316	ambulatory
+MetaMapLite	C0553534	0.0	1325	1340	cardiopulmonary
+MetaMapLite	C0277786	0.0	1341	1351	complaints
+MetaMapLite	C2700116	0.0	1356	1363	unusual
+MetaMapLite	C0015967	0.0	1364	1369	fever
+MetaMapLite	C0424755	0.0	1364	1369	fever
+MetaMapLite	C0683368	0.0	1384	1392	symptoms
+MetaMapLite	C1457887	0.0	1384	1392	symptoms
+MetaMapLite	C1561503	0.0	1402	1408	second
+MetaMapLite	C0457385	0.0	1402	1408	second
+MetaMapLite	C0205436	0.0	1402	1408	second
+MetaMapLite	C0032790	0.0	1409	1422	postoperative
+MetaMapLite	C0439228	0.0	1423	1426	day
+MetaMapLite	C1299581	0.0	1432	1436	able
+MetaMapLite	C0725066	0.0	1440	1447	advance
+MetaMapLite	C0439218	0.0	1456	1462	ounces
+MetaMapLite	C0439227	0.0	1467	1471	hour
+MetaMapLite	C0205170	0.0	1488	1492	well
+MetaMapLite	C1299581	0.0	1501	1505	able
+MetaMapLite	C0012621	0.0	1509	1518	discharge
+MetaMapLite	C0030685	0.0	1509	1518	discharge
+MetaMapLite	C0205360	0.0	1522	1528	stable
+MetaMapLite	C0012634	0.0	1542	1551	condition
+MetaMapLite	C0750526	0.0	1552	1557	today
+MetaMapLite	C0750526	0.0	1586	1591	today
+MetaMapLite	C0205170	0.0	1595	1599	well
+MetaMapLite	C2266673	0.0	1601	1623	DISCHARGE INSTRUCTIONS
+MetaMapLite	C1552866	0.0	1626	1633	Include
+MetaMapLite	C0332257	0.0	1626	1633	Include
+MetaMapLite	C0003629	0.0	1637	1648	appointment
+MetaMapLite	C0442603	0.0	1656	1662	office
+MetaMapLite	C0439230	0.0	1675	1679	week
+MetaMapLite	C2827738	0.0	1693	1700	interim
+MetaMapLite	C0750502	0.0	1708	1719	significant
+MetaMapLite	C0237881	0.0	1708	1719	significant
+MetaMapLite	C0277786	0.0	1731	1741	complaints
+MetaMapLite	C0871893	0.0	1744	1751	Scripts
+MetaMapLite	C0684240	0.0	1764	1769	chart
+MetaMapLite	C0007963	0.0	1764	1769	chart
+MetaMapLite	C0028978	0.0	1774	1784	omeprazole
+MetaMapLite	C0553262	0.0	1789	1795	Lortab
+MetaMapLite	C2349187	0.0	1806	1811	sheet
+MetaMapLite	C0453847	0.0	1864	1877	clear liquids
+MetaMapLite	C0442519	0.0	1881	1885	home
+MetaMapLite	C0018017	0.0	1887	1891	goal
+MetaMapLite	C0560718	0.0	1895	1909	ounces per day
+MetaMapLite	C0441655	0.0	1920	1928	activity
+MetaMapLite	C0442519	0.0	1932	1936	home
+MetaMapLite	C0439539	0.0	1945	1950	heavy
+MetaMapLite	C0206244	0.0	1951	1958	lifting
+MetaMapLite	C0541748	0.0	1978	1984	shower
+MetaMapLite	C0013103	0.0	2004	2009	drain
+MetaMapLite	C0337950	0.0	2010	2019	site care
+MetaMapLite	C0886052	0.0	2024	2034	wound care
+MetaMapLite	C0442603	0.0	2072	2078	office
+MetaMapLite	C0205117	0.0	2086	2090	next
+MetaMapLite	C0439230	0.0	2091	2095	week
+MetaMapLite	C2827738	0.0	2119	2126	interim
+MetaMapLite	C0750502	0.0	2134	2145	significant
+MetaMapLite	C0237881	0.0	2134	2145	significant
+MetaMapLite	C0277786	0.0	2157	2167	complaints
+MetaMapLite	C0743221	0.0	2179	2196	discharge summary
+MetaMapLite	C0393360	0.0	2208	2220	laparoscopic
+MetaMapLite	C0585179	0.0	2221	2245	roux-en-y gastric bypass
+MetaMapLite	C0002804	0.0	2247	2256	roux-en-y
+MetaMapLite	C0453847	0.0	2268	2281	clear liquids
+MetaMapLite	C0017125	0.0	2283	2297	gastric bypass
+MetaMapLite	C0393360	0.0	2299	2311	laparoscopic
+MetaMapLite	C1704242	0.0	2313	2320	gastric
+MetaMapLite	C0038351	0.0	2313	2320	gastric
+MetaMapLite	C0741847	0.0	2333	2339	bypass

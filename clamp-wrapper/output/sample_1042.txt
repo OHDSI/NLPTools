@@ -1,0 +1,50 @@
+description	female with the past medical history of Ewing sarcoma , iron deficiency anemia , hypertension ,	143-156	Ewing sarcoma	CLAMP	C0553580 SNOMEDCT_US[76909002]	02/14/2018	02/14/2018 10:53:19	True		
+description	past medical history of Ewing sarcoma , iron deficiency anemia , hypertension , and obesity . ( Medical	158-180	iron deficiency anemia	CLAMP	C0085576 SNOMEDCT_US[234349007]	02/14/2018	02/14/2018 10:53:19	True		
+description	Ewing sarcoma , iron deficiency anemia , hypertension , and obesity . ( Medical Transcription	182-194	hypertension	CLAMP	C0020538 SNOMEDCT_US[38341003]	02/14/2018	02/14/2018 10:53:19	True		
+description	deficiency anemia , hypertension , and obesity . ( Medical Transcription Sample Report )	200-207	obesity	CLAMP	C0028754 SNOMEDCT_US[414916001, 414915002]	02/14/2018	02/14/2018 10:53:19	True		
+references	: X Y , M . D . ADMITTING DIAGNOSES : 1 . Ewing sarcoma . 2 . Anemia . 3 . Hypertension . 4 .	415-428	Ewing sarcoma	CLAMP	C0553580 SNOMEDCT_US[76909002]	02/14/2018	02/14/2018 10:53:19	True		
+references	DIAGNOSES : 1 . Ewing sarcoma . 2 . Anemia . 3 . Hypertension . 4 . Hyperkalemia .	434-440	Anemia	CLAMP	C0002871 SNOMEDCT_US[271737000]	02/14/2018	02/14/2018 10:53:19	True		
+references	: 1 . Ewing sarcoma . 2 . Anemia . 3 . Hypertension . 4 . Hyperkalemia .	446-458	Hypertension	CLAMP	C0020538 SNOMEDCT_US[38341003]	02/14/2018	02/14/2018 10:53:19	True		
+references	. 2 . Anemia . 3 . Hypertension . 4 . Hyperkalemia .	464-476	Hyperkalemia	CLAMP	C0020461 SNOMEDCT_US[166689004, 14140009, 238142003]	02/14/2018	02/14/2018 10:53:19	True		
+procedures	DURING HOSPITALIZATION : Cycle seven Ifosfamide , mesna , and VP - 16 chemotherapy .	526-536	Ifosfamide	CLAMP	C0020823, RxNorm=[5657], Generic=[5657]	02/14/2018	02/14/2018 10:53:19	True		
+procedures	: Cycle seven Ifosfamide , mesna , and VP - 16 chemotherapy .	538-543	mesna	CLAMP	C0000294, RxNorm=[44], Generic=[44]	02/14/2018	02/14/2018 10:53:19	True		
+procedures	: Cycle seven Ifosfamide , mesna , and VP - 16 chemotherapy .	549-567	VP-16 chemotherapy	CLAMP	C0280551	02/14/2018	02/14/2018 10:53:19	True		
+procedures	: Cycle seven Ifosfamide , mesna , and VP - 16 chemotherapy .	549-554	VP-16	CLAMP	RxNorm=[227469], Generic=[227469]	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	female with the past medical history of Ewing sarcoma , iron deficiency anemia , hypertension ,	689-702	Ewing sarcoma	CLAMP	C0553580 SNOMEDCT_US[76909002]	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	past medical history of Ewing sarcoma , iron deficiency anemia , hypertension , and obesity . She	704-726	iron deficiency anemia	CLAMP	C0085576 SNOMEDCT_US[234349007]	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	Ewing sarcoma , iron deficiency anemia , hypertension , and obesity . She presented initially	728-740	hypertension	CLAMP	C0020538 SNOMEDCT_US[38341003]	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	deficiency anemia , hypertension , and obesity . She presented initially with a left	746-753	obesity	CLAMP	C0028754 SNOMEDCT_US[414916001, 414915002]	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	obesity . She presented initially with a left frontal orbital swelling to Dr . XYZ on MM / DD / YYYY . A biopsy	785-816	a left frontal orbital swelling	CLAMP	null	02/14/2018	02/14/2018 10:53:19	True		BDL=[left frontal orbital]
+history_present_illness	swelling to Dr . XYZ on MM / DD / YYYY . A biopsy revealed small round cells and repeat	844-852	A biopsy	CLAMP	C0176531	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	. XYZ on MM / DD / YYYY . A biopsy revealed small round cells and repeat biopsy on MM / DD / YYYY also	862-879	small round cells	CLAMP	null	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	A biopsy revealed small round cells and repeat biopsy on MM / DD / YYYY also showed round cells	884-897	repeat biopsy	CLAMP	C0205341	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	repeat biopsy on MM / DD / YYYY also showed round cells consistent with Ewing sarcoma , genetic	924-935	round cells	CLAMP	C4048304 SNOMEDCT_US[73506006]	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	also showed round cells consistent with Ewing sarcoma , genetic analysis indicated a T1122	952-965	Ewing sarcoma	CLAMP	C0553580 SNOMEDCT_US[76909002]	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	cells consistent with Ewing sarcoma , genetic analysis indicated a T1122 translocation . MRI	967-983	genetic analysis	CLAMP	C0796344	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	sarcoma , genetic analysis indicated a T1122 translocation . MRI on MM / DD / YYYY showed a 4 cm soft	996-1015	T1122 translocation	CLAMP	null	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	. MRI on MM / DD / YYYY showed a 4 cm soft tissue mass without bony destruction . CT showed	1043-1066	a 4 cm soft tissue mass	CLAMP	null	02/14/2018	02/14/2018 10:53:19	True		BDL=[soft tissue]
+history_present_illness	showed a 4 cm soft tissue mass without bony destruction . CT showed similar result . The	1075-1091	bony destruction	CLAMP	C0192107 SNOMEDCT_US[6119006]	02/14/2018	02/14/2018 10:53:19	False		NEG=[without], BDL=[bony]
+history_present_illness	tissue mass without bony destruction . CT showed similar result . The patient	1094-1096	CT	CLAMP	C0079164	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	similar result . The patient received her first cycle of chemotherapy on MM / DD / YYYY . On MM / DD / YYYY , she was	1142-1173	her first cycle of chemotherapy	CLAMP	C1302181	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	/ YYYY , she was admitted to the ED with nausea and vomitting and was admitted to the	1237-1243	nausea	CLAMP	C0027497 SNOMEDCT_US[422587007]	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	was admitted to the ED with nausea and vomitting and was admitted to the Hematology and	1248-1257	vomitting	CLAMP	C0042965 SNOMEDCT_US[1985008]	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	and Oncology A Service following her first course of chemotherapy . She had her last course of	1326-1358	her first course of chemotherapy	CLAMP	C1628986	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	first course of chemotherapy . She had her last course of chemotherapy on MM / DD / YYYY followed by radiation	1369-1400	her last course of chemotherapy	CLAMP	C1628986	02/14/2018	02/14/2018 10:53:19	True		
+history_present_illness	chemotherapy on MM / DD / YYYY followed by radiation treatment to the ethmoid sinuses on MM / DD / YYYY .	1427-1446	radiation treatment	CLAMP	C3871222	02/14/2018	02/14/2018 10:53:19	True		
+hospital_course	HOSPITAL COURSE : 1 . Ewing sarcoma , she presented for cycle seven of VP - 16	1506-1519	Ewing sarcoma	CLAMP	C0553580 SNOMEDCT_US[76909002]	02/14/2018	02/14/2018 10:53:19	True		
+hospital_course	, she presented for cycle seven of VP - 16 , ifosfamide , and mesna infusions , which	1554-1559	VP-16	CLAMP	RxNorm=[227469], Generic=[227469]	02/14/2018	02/14/2018 10:53:19	True		
+hospital_course	she presented for cycle seven of VP - 16 , ifosfamide , and mesna infusions , which she	1561-1571	ifosfamide	CLAMP	C0020823, RxNorm=[5657], Generic=[5657]	02/14/2018	02/14/2018 10:53:19	True		
+hospital_course	cycle seven of VP - 16 , ifosfamide , and mesna infusions , which she tolerated well throughout	1577-1592	mesna infusions	CLAMP	C0000294	02/14/2018	02/14/2018 10:53:19	True		
+hospital_course	cycle seven of VP - 16 , ifosfamide , and mesna infusions , which she tolerated well	1577-1582	mesna	CLAMP	C0000294, RxNorm=[44], Generic=[44]	02/14/2018	02/14/2018 10:53:19	True		
+hospital_course	the admission . 2 . She was followed for hemorrhagic cystitis with urine dipsticks and only showed	1670-1690	hemorrhagic cystitis	CLAMP	C0085692 SNOMEDCT_US[87696004]	02/14/2018	02/14/2018 10:53:19	True		
+hospital_course	followed for hemorrhagic cystitis with urine dipsticks and only showed trace amounts of blood	1696-1711	urine dipsticks	CLAMP	C0430370	02/14/2018	02/14/2018 10:53:19	True		
+hospital_course	with urine dipsticks and only showed trace amounts of blood in the urine throughout the admission . Keywords :	1728-1763	trace amounts of blood in the urine	CLAMP	null	02/14/2018	02/14/2018 10:53:19	True		SEV=[trace], BDL=[urine]
+discharge_summary	discharge summary , iron deficiency anemia , hypertension and obesity , iron	1819-1841	iron deficiency anemia	CLAMP	C0085576 SNOMEDCT_US[234349007]	02/14/2018	02/14/2018 10:53:19	True		
+discharge_summary	summary , iron deficiency anemia , hypertension and obesity , iron deficiency , urine ,	1843-1855	hypertension	CLAMP	C0020538 SNOMEDCT_US[38341003]	02/14/2018	02/14/2018 10:53:19	True		
+discharge_summary	deficiency anemia , hypertension and obesity , iron deficiency , urine , anemia ,	1860-1867	obesity	CLAMP	C0028754 SNOMEDCT_US[414916001, 414915002]	02/14/2018	02/14/2018 10:53:19	True		
+discharge_summary	anemia , hypertension and obesity , iron deficiency , urine , anemia , hypertension ,	1869-1884	iron deficiency	CLAMP	C0240066 SNOMEDCT_US[35240004]	02/14/2018	02/14/2018 10:53:19	True		
+discharge_summary	and obesity , iron deficiency , urine , anemia , hypertension , chemotherapy , discharge ,	1893-1899	anemia	CLAMP	C0002871 SNOMEDCT_US[271737000]	02/14/2018	02/14/2018 10:53:19	True		
+discharge_summary	, iron deficiency , urine , anemia , hypertension , chemotherapy , discharge , ewing ,	1901-1913	hypertension	CLAMP	C0020538 SNOMEDCT_US[38341003]	02/14/2018	02/14/2018 10:53:19	True		
+discharge_summary	, urine , anemia , hypertension , chemotherapy , discharge , ewing , sarcoma ,	1915-1927	chemotherapy	CLAMP	C0392920	02/14/2018	02/14/2018 10:53:19	True		
+discharge_summary	hypertension , chemotherapy , discharge , ewing , sarcoma ,	1940-1945	ewing	CLAMP	C0553580 SNOMEDCT_US[76909002]	02/14/2018	02/14/2018 10:53:19	True		
+discharge_summary	, chemotherapy , discharge , ewing , sarcoma ,	1947-1954	sarcoma	CLAMP	C1299262 SNOMEDCT_US[372151005]	02/14/2018	02/14/2018 10:53:19	True		

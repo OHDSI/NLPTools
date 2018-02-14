@@ -1,0 +1,30 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Psychiatric Discharge Summary - 2
+Description:  Discharge summary of a patient with depression and high risk behavior.
+(Medical Transcription Sample Report)
+DISCHARGE SUMMARY
+SUMMARY OF TREATMENT PLANNING:  This discharge is at the family's request.
+IDENTIFIED PROBLEMS/OUTCOMES:
+1.   Depression.
+2.   High risk behavior.
+The patient easily was very depressed and anxious with paranoia.  The patient has improved, but is at high risk for relapse.  She needs RTC level of care.
+INTERVENTIONS:  A developmentally appropriate, group-oriented therapy program was the primary treatment modality.  The attending psychiatrist provided evaluation for and management of psychotropic medications.  The clinical therapist facilitated individual, group, and family therapy.
+COURSE IN HOSPITAL:  The patient was in the hospital from 06/11/04 until 07/13/04.  The most prominent symptoms and behaviors while the patient was here were the following: Perceptual disturbances, disorganized thoughts, she was suspicious at times, at some point she was complaining of audiovisual hallucinations.  She was quiet showing a flat affect, irritable, anxious and depressed moods, tearful at times, homesick, limited interaction with peers.  She was attending groups, however, was showing limited participation.  She was superficial, not really working too much on her issues, more focused on how soon she was going to be discharged more than working on her issues.  She stated &quot;strange feelings and sensations&quot;.  The patient has shown some improvement in general.  However, she is not completely stable yet, and she sometimes is of relapse.  She is probably just waiting for the discharge to the next level of care, which is the RTC program.  However, the patient's family will not follow our recommendations in this respect at this point.
+DIAGNOSTIC AND THERAPEUTIC TEST/EVALUATIONS:  A sleep-deprived EEG was done and was normal.  EKG was also done and it seems to be grossly normal as well.
+CONSULTATIONS:  The patient was seen by one of our medical consultants for H&P for clearance to continue psychiatric treatment.  Basic blood work was done including basic metabolic panel, CBC, TSH, UA, and urine drug screen.  Per our medical consultant, thyroid dysfunction by history, however, thyroid panel, T3, T4, and TSH results are within normal limits.  History of asthma, by history, and also history of heart murmur (not heard during H&P exam).  CBC: Hematocrit of 35.5, low; absolute monocytes of 0.5, high; otherwise essentially normal lab results.
+FINAL DIAGNOSIS:
+AXIS    I:        Major depression, recurrent, with psychotic features.
+AXIS   II:  Deferred.
+AXIS  III:        No acute major medical conditions.
+AXIS  IV:        Psychosocial stressors.
+AXIS   V:         GAF: 50 to 60, current.
+CONDITIONS ON DISCHARGE:  The patient is alert, oriented to time, place, person, and situation.  She denies suicidal or homicidal ideas at present exploration.  She denies perception disturbances.  She does not seem to be responding to internal stimuli at this point.  She verbally contracted for safety.
+PROGNOSIS:  Guarded.
+DISCHARGE PLAN:  The patient will be discharged per family's request.  She will continue treatment at hospital.  The intake appointment will be on 07/21/04 at 2:00 p.m.
+NOTE: Treatment team recommendation for the patient is RTC (Residential Treatment Center) program.  However, legal guardian will not follow our recommendations at this point.
+DISCHARGE INSTRUCTIONS:  The patient should visit her family doctor, cardiologist, and OB/GYN doctor for regular annual checkups.  She should visit all of these doctors in regard to her lab results and/or her physical (medical conditions).  Please see under consultations.
+DISCHARGE MEDICATION:  Seroquel 25 mg p.o. a.m. #30 pills no refills; Seroquel 50 mg p.o. q.h.s; Benadryl 50 mg p.o. q. 6h p.r.n. for anxiety or agitation #30 pills; Wellbutrin XL 300 mg p.o. q.a.m.; vitamin E 400 IU p.o. q.d. #30 pills; Restoril 25 mg p.o. p.r.n. for anxiety #16 pills.
+Note: Watch for the possibility of galactorrhea.  Of note: The patient had galactorrhea (lactation) as a side effect from the use of Risperdal.  Do not give Risperdal.
+The patient and patient's legal guardian were well oriented by me, the therapist in charge, and nursing staff.
+Keywords:
+discharge summary, psychiatric, depression, gaf, high risk behavior, psychosocial stressors, rtc, residential treatment center, anxious, paranoia, psychiatric treatment, psychotropic medications, sleep-deprived eeg, legal guardian, discharge, oriented, axis,

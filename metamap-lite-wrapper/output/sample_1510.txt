@@ -1,0 +1,182 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C2348322	0.0	75	94	Summary
+Description
+MetaMapLite	C0030705	0.0	97	104	Patient
+MetaMapLite	C0863093	0.0	114	127	cold symptoms
+MetaMapLite	C0006277	0.0	144	154	bronchitis
+MetaMapLite	C0149514	0.0	144	154	bronchitis
+MetaMapLite	C0003232	0.0	160	171	antibiotics
+MetaMapLite	C0282229	0.0	174	195	Medical Transcription
+MetaMapLite	C0370003	0.0	196	202	Sample
+MetaMapLite	C2347026	0.0	196	202	Sample
+MetaMapLite	C0700287	0.0	203	209	Report
+MetaMapLite	C0684224	0.0	203	209	Report
+MetaMapLite	C0012621	0.0	211	220	DISCHARGE
+MetaMapLite	C0030685	0.0	211	220	DISCHARGE
+MetaMapLite	C0011900	0.0	221	230	DIAGNOSES
+MetaMapLite	C0264490	0.0	236	261	Acute respiratory failure
+MetaMapLite	C0205082	0.0	277	283	Severe
+MetaMapLite	C0149514	0.0	284	294	bronchitis
+MetaMapLite	C0006277	0.0	284	294	bronchitis
+MetaMapLite	C0264490	0.0	306	331	acute respiratory failure
+MetaMapLite	C1272745	0.0	333	342	improving
+MetaMapLite	C0022661	0.0	357	378	chronic renal failure
+MetaMapLite	C0205082	0.0	394	400	Severe
+MetaMapLite	C0020538	0.0	401	413	hypertension
+MetaMapLite	C0520863	0.0	429	450	Diastolic dysfunction
+MetaMapLite	C1306645	0.0	452	457	X-ray
+MetaMapLite	C0043309	0.0	452	457	X-ray
+MetaMapLite	C0012621	0.0	461	470	discharge
+MetaMapLite	C0030685	0.0	461	470	discharge
+MetaMapLite	C0700148	0.0	488	498	congestion
+MetaMapLite	C1417808	0.0	507	510	BNP
+MetaMapLite	C2982014	0.0	507	510	BNP
+MetaMapLite	C1095989	0.0	507	510	BNP
+MetaMapLite	C0205307	0.0	514	520	normal
+MetaMapLite	C0027627	0.0	522	531	SECONDARY
+MetaMapLite	C0175668	0.0	522	531	SECONDARY
+MetaMapLite	C0011900	0.0	532	541	DIAGNOSES
+MetaMapLite	C0020473	0.0	547	561	Hyperlipidemia
+MetaMapLite	C0332185	0.0	567	573	Recent
+MetaMapLite	C0220825	0.0	574	584	evaluation
+MetaMapLite	C1261322	0.0	574	584	evaluation
+MetaMapLite	C0087111	0.0	589	598	treatment
+MetaMapLite	C0039798	0.0	589	598	treatment
+MetaMapLite	C0018795	0.0	610	633	cardiac catheterization
+MetaMapLite	C0010068	0.0	658	681	coronary artery disease
+MetaMapLite	C1956346	0.0	658	681	coronary artery disease
+MetaMapLite	C0010054	0.0	658	681	coronary artery disease
+MetaMapLite	C0262926	0.0	694	701	history
+MetaMapLite	C0019665	0.0	694	701	history
+MetaMapLite	C0019664	0.0	694	701	history
+MetaMapLite	C0262512	0.0	694	701	history
+MetaMapLite	C2004062	0.0	694	701	history
+MetaMapLite	C0007104	0.0	705	728	carcinoma of the breast
+MetaMapLite	C0238033	0.0	705	728	carcinoma of the breast
+MetaMapLite	C0262926	0.0	741	748	history
+MetaMapLite	C2004062	0.0	741	748	history
+MetaMapLite	C0019665	0.0	741	748	history
+MetaMapLite	C0019664	0.0	741	748	history
+MetaMapLite	C0262512	0.0	741	748	history
+MetaMapLite	C2222799	0.0	752	769	right nephrectomy
+MetaMapLite	C1334103	0.0	775	792	Allergic rhinitis
+MetaMapLite	C2607914	0.0	775	792	Allergic rhinitis
+MetaMapLite	C0489547	0.0	794	809	HOSPITAL COURSE
+MetaMapLite	C0439234	0.0	819	823	year
+MetaMapLite	C0580836	0.0	824	827	old
+MetaMapLite	C0030705	0.0	828	835	patient
+MetaMapLite	C0863093	0.0	845	858	cold symptoms
+MetaMapLite	C0149514	0.0	875	885	bronchitis
+MetaMapLite	C0006277	0.0	875	885	bronchitis
+MetaMapLite	C0003232	0.0	891	902	antibiotics
+MetaMapLite	C1518422	0.0	905	908	Not
+MetaMapLite	C0205166	0.0	909	913	long
+MetaMapLite	C0030705	0.0	924	931	patient
+MetaMapLite	C0025885	0.0	946	952	Mexico
+MetaMapLite	C0030705	0.0	958	965	patient
+MetaMapLite	C0205329	0.0	981	992	progressive
+MetaMapLite	C0013404	0.0	993	1012	shortness of breath
+MetaMapLite	C0562508	0.0	1026	1040	emergency room
+MetaMapLite	C0205082	0.0	1046	1052	severe
+MetaMapLite	C0238767	0.0	1053	1062	bilateral
+MetaMapLite	C0034642	0.0	1076	1088	crepitations
+MetaMapLite	C0043299	0.0	1091	1097	X-rays
+MetaMapLite	C0885876	0.0	1091	1097	X-rays
+MetaMapLite	C0043309	0.0	1091	1097	X-rays
+MetaMapLite	C1306645	0.0	1091	1097	X-rays
+MetaMapLite	C0700148	0.0	1123	1133	congestion
+MetaMapLite	C0332448	0.0	1137	1148	infiltrates
+MetaMapLite	C1417808	0.0	1157	1160	BNP
+MetaMapLite	C2982014	0.0	1157	1160	BNP
+MetaMapLite	C1095989	0.0	1157	1160	BNP
+MetaMapLite	C0442816	0.0	1172	1185	normal limits
+MetaMapLite	C0030705	0.0	1192	1199	patient
+MetaMapLite	C0242184	0.0	1212	1219	hypoxic
+MetaMapLite	C0179574	0.0	1236	1249	nasal cannula
+MetaMapLite	C0021708	0.0	1276	1295	Intensive Care Unit
+MetaMapLite	C0580931	0.0	1286	1290	Care
+MetaMapLite	C0030705	0.0	1302	1309	patient
+MetaMapLite	C0240526	0.0	1339	1344	night
+MetaMapLite	C1880496	0.0	1364	1373	empirical
+MetaMapLite	C0699992	0.0	1377	1382	Lasix
+MetaMapLite	C1555582	0.0	1385	1392	Initial
+MetaMapLite	C0205265	0.0	1385	1392	Initial
+MetaMapLite	C0183753	0.0	1393	1397	swab
+MetaMapLite	C1261188	0.0	1393	1397	swab
+MetaMapLite	C1446409	0.0	1402	1410	positive
+MetaMapLite	C2242741	0.0	1415	1432	MRSA colonization
+MetaMapLite	C0009450	0.0	1449	1467	infectious disease
+MetaMapLite	C0039798	0.0	1497	1506	treatment
+MetaMapLite	C0087111	0.0	1497	1506	treatment
+MetaMapLite	C0030705	0.0	1546	1555	patient's
+MetaMapLite	C0004048	0.0	1556	1565	breathing
+MetaMapLite	C0035203	0.0	1556	1565	breathing
+MetaMapLite	C1160636	0.0	1556	1565	breathing
+MetaMapLite	C0034642	0.0	1605	1617	crepitations
+MetaMapLite	C0523807	0.0	1622	1635	O2 saturation
+MetaMapLite	C3846005	0.0	1646	1654	room air
+MetaMapLite	C0030705	0.0	1661	1668	patient
+MetaMapLite	C0015259	0.0	1686	1694	exercise
+MetaMapLite	C0523807	0.0	1695	1703	oximetry
+MetaMapLite	C0205225	0.0	1710	1714	main
+MetaMapLite	C0277786	0.0	1715	1724	complaint
+MetaMapLite	C0027424	0.0	1728	1744	nasal congestion
+MetaMapLite	C2136984	0.0	1728	1744	nasal congestion
+MetaMapLite	C0038317	0.0	1763	1770	steroid
+MetaMapLite	C0461725	0.0	1771	1782	nasal spray
+MetaMapLite	C0030705	0.0	1789	1796	patient
+MetaMapLite	C0007189	0.0	1809	1819	Cardiology
+MetaMapLite	C0001645	0.0	1856	1869	beta blockers
+MetaMapLite	C0520863	0.0	1874	1895	diastolic dysfunction
+MetaMapLite	C0030705	0.0	1902	1909	patient
+MetaMapLite	C0521116	0.0	1949	1958	currently
+MetaMapLite	C0442027	0.0	1962	1966	oral
+MetaMapLite	C0038317	0.0	1967	1975	steroids
+MetaMapLite	C0439228	0.0	2008	2012	days
+MetaMapLite	C0743223	0.0	2014	2025	DISPOSITION
+MetaMapLite	C0030705	0.0	2032	2039	patient
+MetaMapLite	C0442519	0.0	2060	2064	home
+MetaMapLite	C0030685	0.0	2066	2075	DISCHARGE
+MetaMapLite	C0012621	0.0	2066	2075	DISCHARGE
+MetaMapLite	C0013227	0.0	2076	2087	MEDICATIONS
+MetaMapLite	C0025859	0.0	2093	2103	Metoprolol
+MetaMapLite	C0989915	0.0	2126	2143	Simvastatin 20 mg
+MetaMapLite	C0332173	0.0	2149	2154	daily
+MetaMapLite	C1718097	0.0	2156	2171	NEW MEDICATIONS
+MetaMapLite	C0989247	0.0	2177	2193	Prednisone 20 mg
+MetaMapLite	C0332173	0.0	2199	2204	daily
+MetaMapLite	C0439228	0.0	2215	2219	days
+MetaMapLite	C0461725	0.0	2233	2244	nasal spray
+MetaMapLite	C0332173	0.0	2245	2250	daily
+MetaMapLite	C0439228	0.0	2258	2262	days
+MetaMapLite	C0523807	0.0	2276	2284	oximetry
+MetaMapLite	C0030705	0.0	2309	2316	patient
+MetaMapLite	C0421203	0.0	2330	2341	home oxygen
+MetaMapLite	C1522577	0.0	2343	2352	FOLLOW UP
+MetaMapLite	C0030705	0.0	2359	2366	patient
+MetaMapLite	C0034060	0.0	2387	2398	Pulmonology
+MetaMapLite	C0439230	0.0	2413	2419	week's
+MetaMapLite	C0040223	0.0	2420	2424	time
+MetaMapLite	C0175906	0.0	2434	2446	cardiologist
+MetaMapLite	C0439230	0.0	2470	2475	weeks
+MetaMapLite	C0040223	0.0	2477	2481	time
+MetaMapLite	C0743221	0.0	2493	2510	discharge summary
+MetaMapLite	C0264490	0.0	2512	2537	acute respiratory failure
+MetaMapLite	C0149514	0.0	2539	2556	bronchitis, acute
+MetaMapLite	C0403462	0.0	2551	2581	acute on chronic renal failure
+MetaMapLite	C0205082	0.0	2583	2589	severe
+MetaMapLite	C0235222	0.0	2590	2613	hypertension, diastolic
+MetaMapLite	C0031847	0.0	2614	2625	dysfunction
+MetaMapLite	C0277785	0.0	2614	2625	dysfunction
+MetaMapLite	C0863093	0.0	2627	2640	cold symptoms
+MetaMapLite	C0038317	0.0	2645	2653	steroids
+MetaMapLite	C0461725	0.0	2655	2666	nasal spray
+MetaMapLite	C0028429	0.0	2668	2673	nasal
+MetaMapLite	C0038317	0.0	2675	2683	steroids

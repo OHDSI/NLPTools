@@ -1,0 +1,37 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - Lymphoma
+Description:  Diffuse Large B-cell Lymphoma
+(Medical Transcription Sample Report)
+DISCHARGE DIAGNOSES:
+1.  Central nervous system lymphoma.
+2.  Gram-negative bacteremia.
+3.  Pancytopenia.
+4.  Hypertension.
+5.  Perianal rash.
+6.  Diabetes mellitus.
+7.  Hypoxia.
+8.  Seizure prophylaxis.
+9.  Acute kidney injury.
+PROCEDURES DURING HOSPITALIZATION:
+1.  Cycle five high-dose methotrexate.
+2.  Rituxan weekly.
+3.  Chest x-ray.
+4.  Wound consult.
+HISTORY OF PRESENT ILLNESS:  Ms. ABC is a pleasant 60-year-old Caucasian female who was diagnosed in April 2008 with diffuse large B-cell lymphoma after she developed visual saltation, changes, and confusion.  Further staging revealed borderline mediastinal pretracheal lymphadenopathy but was otherwise unremarkable.  She began high-dose methotrexate in mid May 2008; courses of methotrexate have been complicated by prolonged methotrexate levels, mental confusion, and mania.  During cycle three, repeat MRI showed interval worsening of disease, and Rituxan was added to her regimen.  Ms. ABC had a repeat MRI on July 24, 2008 prior to this admission, which showed significant improvement in her CNS disease.
+HOSPITAL COURSE:  Ms. ABC was admitted to the Hematology B Service under attending Dr. Z.
+1.  CNS lymphoma.  Upon admission, she was started on her Rituxan, which she tolerated well.  She was then hydrated with bicarbonate solution to a urine pH of 8.  She received methotrexate 5 g/m2.  24-hour creatinine was 0.9, 48-hour methotrexate level was elevated at 2.08.  This was likely secondary to the need to initiate treatment with antibiotics secondary to infection.  Her leucovorin was increased to 100 mg/m2.  72-hour methotrexate level was 0.58.  96-hour methotrexate was 0.16, and 19-hour was 0.08.  She continued additional four doses of oral leucovorin.  Her creatinine improved.  On day prior to discharge, she received her weekly dose of Rituxan.  She will return for Rituxan next week and then return for an appointment with Dr. X on August 18, 2008 with plans for admission for next cycle of methotrexate.
+2.  Gram-negative bacteremia.  On the morning of June 27, 2008, Ms. ABC did spike a fever.  She was started on empiric antibiotics with cefepime and vancomycin.  Cultures were drawn peripherally and from the Port-A-Cath which both grew out Gram-negative rods within 12 hours.  After being initiated on IV antibiotics, she remained afebrile for the remainder of the hospitalization.  Both cultures eventually grew out Proteus mirabilis, which was pansensitive.  She had three additional blood cultures, which were all negative.  On the day prior to discharge, she was transitioned to oral Cipro and remained afebrile.  We had intended to send her home with oral antibiotics; however, by day of discharge, she was pancytopenic and it was decided that she should be discharged to complete a 14-day course of IV antibiotics with cefepime.  She will continue this with the assistance of home health services.  She was advised to follow neutropenic precautions and labs will be followed closely as an outpatient.  She understands if she develops a fever greater than 100.5, she should call to return immediately for admission.
+3.  Pancytopenia.  On the day of discharge, the patient was pancytopenic with white count of 0.7, ANC of 500, hemoglobin 8.5, hematocrit 24.8, and platelet count 38, 000.  Her labs will be followed closely as an outpatient.  During the admission, we did obtain a HIT antibody, which was negative.  Heparin was held until this level was returned.  She was placed on Arixtra for prophylaxis against thrombus.  It is thought that her decreasing counts may be secondary to infection; however, if she continues to be pancytopenic, she will have a repeat bone marrow as an outpatient.
+4.  Hypertension.  Blood pressure remained stable throughout the admission.  She will continue lisinopril daily.
+5.  Perianal rash.  Upon admission, she was found to have worsening of a candidal rash in the perianal region.  A wound consult was obtained.  They recommended Aloe Vesta foam and Silver gel to the area topically.  She was also continued on Diflucan 200 mg daily.  She will complete a 10-day course.
+6.  Diabetes mellitus.  At the time of admission, she was found to have hyperglycemia.  She was started on sliding scale insulin and eventually started on long-acting Lantus insulin.  She will be discharged with the regimen of Lantus 35 units at bedtime and continue the sliding scale as needed.
+7.  Hypoxia.  She did have evidence of decreased saturations.  There was concern that she may have a pneumonia, which was treated with vancomycin for possible hospital acquired pneumonia; however, upon further review of the blood cultures improved, chest x-ray consistent with atelectasis and normal saturations that this was likely secondary to increased fluids associated with methotrexate and atelectasis from being confined to bed.
+8.  Seizure prophylaxis.  She will continue Keppra twice daily.
+9.  Acute kidney injury.  She did have a bump in the creatinine when methotrexate level was elevated.  This resolved by the time of discharge.  Creatinine on day of discharge is 0.9.  This will be followed as an outpatient.
+DISPOSITION:  To home in stable condition with home health services.
+DISCHARGE MEDICATIONS:  See separate sheet attached.
+DIET:  Neutropenic diabetic.
+ACTIVITY:  Resume same activity.
+FOLLOWUP:  With weekly lab work and plans for admission on August 18, 2008.  Ms. ABC was advised if she has any problems or concerns in the interim and needs to be seen sooner, she should call.
+Keywords:
+discharge summary, lymphoma, diffuse large b-cell lymphoma, cns lymphoma, diffuse large b cell, home health services, day of discharge, methotrexate levels, methotrexate, discharge, admission,

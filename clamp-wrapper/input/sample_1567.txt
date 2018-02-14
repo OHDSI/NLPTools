@@ -1,0 +1,35 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - 13
+Description:  Bradycardia, dizziness, diabetes, hypertension, abdominal pain, and sick sinus syndrome.
+(Medical Transcription Sample Report)
+ADMITTING DIAGNOSES:
+1.  Bradycardia.
+2.  Dizziness.
+3.  Diabetes.
+4.  Hypertension.
+5.  Abdominal pain.
+DISCHARGE DIAGNOSIS:  Sick sinus syndrome.  The rest of her past medical history remained the same.
+PROCEDURES DONE:  Permanent pacemaker placement after temporary internal pacemaker.
+HOSPITAL COURSE:  The patient was admitted to the intensive care unit.  Dr. X was consulted.  A temporary intracardiac pacemaker was placed.  Consultation was requested to Dr. Y. He considered the need to have a permanent pacemaker after reviewing electrocardiograms and telemetry readings.  The patient remained in sinus rhythm with severe bradycardias, but all of them one to one transmission.  This was considered to be a sick sinus syndrome.  Permanent pacemaker was placed on 09/05/2007 with right atrium appendage and right ventricular apex electrode placement.  This is a Medtronic pacemaker.  After this, the patient remained with pain in the left side of the chest in the upper area as expected, but well controlled.  Right femoral artery catheter was removed.  The patient remained with good pulses in the right lower extremity with no hematoma.  Other problem was the patient's blood pressure, which on 09/05/2007 was found at 180/90.  Medication was adjusted to benazepril 20 mg a day.  Norvasc 5 mg was added as well.  Her blood pressure has remained better, being today 144/74 and 129/76.
+FINAL DIAGNOSES:  Sick sinus syndrome.  The rest of her past medical history remained without change, which are:
+1.  Diabetes mellitus.
+2.  History of peptic ulcer disease.
+3.  Hypertension.
+4.  Insomnia.
+5.  Osteoarthritis.
+PLAN:  The patient is discharged home to continue her previous home medications, which are:
+1.  Actos 45 mg a day.
+2.  Bisacodyl 10 mg p.o. daily p.r.n. constipation.
+3.  Cosopt eye drops, 1 drop in each eye 2 times a day.
+4.  Famotidine 20 mg 1 tablet p.o. b.i.d.
+5.  Lotemax 0.5% eye drops, 1 drop in each eye 4 times a day.
+6.  Lotensin (benazepril) increased to 20 mg a day.
+7.  Triazolam 0.125 mg p.o. at bedtime.
+8.  Milk of Magnesia suspension 30 mL daily for constipation.
+9.  Tylenol No.  3, one to two tablets every 6 hours p.r.n. pain.
+10.  Promethazine 25 mg IM every 6 hours p.r.n. nausea or vomiting.
+11.  Tylenol 325 mg tablets every 4 to 6 hours as needed for pain.
+12.  The patient will finish cefazolin 1 g IV every 6 hours, total 5 dosages after pacemaker placement.
+DISCHARGE INSTRUCTIONS:  Follow up in the office in 10 days for staple removal.  Resume home activities as tolerated with no starch, sugar-free diet.
+Keywords:
+discharge summary, bradycardia, abdominal pain, diabetes, dizziness, hypertension, sick sinus syndrome, permanent pacemaker, abdominal, syndrome, sinus, pacemaker,

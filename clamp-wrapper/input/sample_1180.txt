@@ -1,0 +1,27 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - Respiratory Failure
+Description:  The patient was admitted after undergoing a drawn out process with a small bowel obstruction.
+(Medical Transcription Sample Report)
+DISCHARGE DIAGNOSIS:
+1.  Respiratory failure improved.
+2.  Hypotension resolved.
+3.  Anemia of chronic disease stable.
+4.  Anasarca improving.
+5.  Protein malnourishment improving.
+6.  End-stage liver disease.
+HISTORY AND HOSPITAL COURSE:  The patient was admitted after undergoing a drawn out process with a small bowel obstruction.  His bowel function started to improve.  He was on TPN prior to coming to Hospital.  He has remained on TPN throughout his time here, but his appetite and his p.o. intake have improved some.  The patient had an episode while here where his blood pressure bottomed out requiring him to spend multiple days in the Intensive Care Unit on dopamine.  At one point, we were unsuccessful at weaning him off the dopamine, but after approximately 11 days, he finally started to tolerate weaning parameters, was successfully removed from dopamine, and has maintained his blood pressure without difficulty.  The patient also was requiring BiPAP to help with his oxygenation and it appeared that he developed a left-sided pneumonia.  This has been treated successfully with Zyvox and Levaquin and Diflucan.  He seems to be currently doing much better.  He is only using BiPAP in the evening.  As stated above, he is eating better.  He had some evidence of redness and exquisite swelling around his genital and lower abdominal region.  This may be mainly dependent edema versus anasarca.  The patient has been diuresed aggressively over the last 4 to 5 days, and this seems to have made some improvement in his swelling.  This morning, the patient denies any acute distress.  He states he is feeling good and understands that he is being discharged to another facility for continued care and rehabilitation.  He will be discharged to Garden Court skilled nursing facility.
+DISCHARGE MEDICATIONS/INSTRUCTIONS:  He is going to be going with Protonix 40 mg daily, metoclopramide 10 mg every 6 hours, Zyvox 600 mg daily for 5 days, Diflucan 150 mg p.o. daily for 3 days, Bumex 2 mg p.o. daily, Megace 400 mg p.o. b.i.d., Ensure 1 can t.i.d. with meals, and MiraLax 17 gm p.o. daily.  The patient is going to require physical therapy to help with assistance in strength training.  He is also going to need respiratory care to work with his BiPAP.  His initial settings are at a rate of 20, pressure support of 12, PEEP of 6, FIO2 of 40%.  The patient will need a sleep study, which the nursing home will be able to set up.
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  On the day of discharge, heart rate 99, respiratory rate 20, blood pressure 102/59, temperature 98.2, O2 sat 97%.
+GENERAL:  A well-developed white male who appears in no apparent distress.
+HEENT:  Unremarkable.
+CARDIOVASCULAR:  Positive S1, S2 without murmur, rubs, or gallops.
+LUNGS:  Clear to auscultation bilaterally without wheezes or crackles.
+ABDOMEN:  Positive for bowel sounds.  Soft, nondistended.  He does have some generalized redness around his abdominal region and groin.  This does appear improved compared to presentation last week.  The swelling in this area also appears improved.
+EXTREMITIES:  Show no clubbing or cyanosis.  He does have some lower extremity edema, 2+ distal pedal pulses are present.
+NEUROLOGIC:  The patient is alert and oriented to person and place.  He is alert and aware of surroundings.  We have not had any difficulties with confusion here lately.
+MUSCULOSKELETAL:  The patient moves all extremities without difficulty.  He is just weak in general.
+LABORATORY DATA:  Lab work done today shows the following:  White count 4.2, hemoglobin 10.2, hematocrit 30.6, and platelet count 184,000.  Electrolytes show sodium 139, potassium 4.1, chloride 98, CO2 26, glucose 79, BUN 56, and creatinine 1.4.  Calcium 8.8, phosphorus is a little high at 5.5, magnesium 2.2, albumin 3.9.
+PLAN:  Discharge this gentleman from Hospital and admit him to Garden Court SNF where they can continue with his rehab and conditioning.  Hopefully, long-term planning will be discharge home.  He has a history of end-stage liver disease with cirrhosis, which may make him a candidate for hospice upon discharge.  The family initially wanted to bring the patient home, but he is too weak and requires too much assistance to adequately consider this option at this time.
+Keywords:
+discharge summary, respiratory failure, hypotension, anemia, anasarca, end-stage liver disease, drawn out process, bowel obstruction, blood pressure, dopamine, discharge,

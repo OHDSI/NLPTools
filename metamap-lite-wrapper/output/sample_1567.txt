@@ -1,0 +1,197 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0678257	0.0	88	99	Description
+MetaMapLite	C0428977	0.0	102	113	Bradycardia
+MetaMapLite	C0012833	0.0	115	124	dizziness
+MetaMapLite	C0042571	0.0	115	124	dizziness
+MetaMapLite	C0011860	0.0	126	134	diabetes
+MetaMapLite	C0011849	0.0	126	134	diabetes
+MetaMapLite	C0020538	0.0	136	148	hypertension
+MetaMapLite	C0000737	0.0	150	164	abdominal pain
+MetaMapLite	C0037052	0.0	170	189	sick sinus syndrome
+MetaMapLite	C0282229	0.0	192	213	Medical Transcription
+MetaMapLite	C2347026	0.0	214	220	Sample
+MetaMapLite	C0370003	0.0	214	220	Sample
+MetaMapLite	C0700287	0.0	221	227	Report
+MetaMapLite	C0684224	0.0	221	227	Report
+MetaMapLite	C0011900	0.0	239	248	DIAGNOSES
+MetaMapLite	C0428977	0.0	254	265	Bradycardia
+MetaMapLite	C0012833	0.0	271	280	Dizziness
+MetaMapLite	C0042571	0.0	271	280	Dizziness
+MetaMapLite	C0011860	0.0	286	294	Diabetes
+MetaMapLite	C0011849	0.0	286	294	Diabetes
+MetaMapLite	C0020538	0.0	300	312	Hypertension
+MetaMapLite	C0000737	0.0	318	332	Abdominal pain
+MetaMapLite	C1555319	0.0	334	353	DISCHARGE DIAGNOSIS
+MetaMapLite	C0037052	0.0	356	375	Sick sinus syndrome
+MetaMapLite	C0035253	0.0	382	386	rest
+MetaMapLite	C0262926	0.0	399	414	medical history
+MetaMapLite	C0445247	0.0	428	432	same
+MetaMapLite	C0025664	0.0	434	444	PROCEDURES
+MetaMapLite	C2700391	0.0	434	444	PROCEDURES
+MetaMapLite	C2926072	0.0	452	481	Permanent pacemaker placement
+MetaMapLite	C2924511	0.0	452	481	Permanent pacemaker placement
+MetaMapLite	C3245481	0.0	488	497	temporary
+MetaMapLite	C0205374	0.0	488	497	temporary
+MetaMapLite	C0205102	0.0	498	506	internal
+MetaMapLite	C0030163	0.0	507	516	pacemaker
+MetaMapLite	C0489547	0.0	518	533	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	540	547	patient
+MetaMapLite	C0021708	0.0	568	587	intensive care unit
+MetaMapLite	C3245481	0.0	614	623	temporary
+MetaMapLite	C0205374	0.0	614	623	temporary
+MetaMapLite	C0729936	0.0	624	636	intracardiac
+MetaMapLite	C0030163	0.0	637	646	pacemaker
+MetaMapLite	C0009818	0.0	660	672	Consultation
+MetaMapLite	C0027552	0.0	715	719	need
+MetaMapLite	C0686904	0.0	715	719	need
+MetaMapLite	C0281945	0.0	730	749	permanent pacemaker
+MetaMapLite	C0013798	0.0	766	784	electrocardiograms
+MetaMapLite	C0039451	0.0	789	798	telemetry
+MetaMapLite	C0034754	0.0	799	807	readings
+MetaMapLite	C0030705	0.0	814	821	patient
+MetaMapLite	C1523018	0.0	840	846	rhythm
+MetaMapLite	C0871269	0.0	840	846	rhythm
+MetaMapLite	C0205082	0.0	852	858	severe
+MetaMapLite	C0428977	0.0	859	871	bradycardias
+MetaMapLite	C0040722	0.0	900	912	transmission
+MetaMapLite	C0037052	0.0	943	962	sick sinus syndrome
+MetaMapLite	C0281945	0.0	965	984	Permanent pacemaker
+MetaMapLite	C0225845	0.0	1015	1037	right atrium appendage
+MetaMapLite	C0225883	0.0	1042	1059	right ventricular
+MetaMapLite	C0013812	0.0	1065	1074	electrode
+MetaMapLite	C1705652	0.0	1065	1074	electrode
+MetaMapLite	C0441587	0.0	1075	1084	placement
+MetaMapLite	C0030163	0.0	1107	1116	pacemaker
+MetaMapLite	C0030705	0.0	1135	1142	patient
+MetaMapLite	C0030193	0.0	1157	1161	pain
+MetaMapLite	C0441987	0.0	1174	1178	side
+MetaMapLite	C0817096	0.0	1186	1191	chest
+MetaMapLite	C1282910	0.0	1199	1204	upper
+MetaMapLite	C0205146	0.0	1205	1209	area
+MetaMapLite	C3853142	0.0	1227	1242	well controlled
+MetaMapLite	C1281566	0.0	1245	1265	Right femoral artery
+MetaMapLite	C0226447	0.0	1245	1265	Right femoral artery
+MetaMapLite	C1704454	0.0	1266	1274	catheter
+MetaMapLite	C0085590	0.0	1266	1274	catheter
+MetaMapLite	C0030705	0.0	1293	1300	patient
+MetaMapLite	C0205170	0.0	1315	1319	good
+MetaMapLite	C0391850	0.0	1320	1326	pulses
+MetaMapLite	C0034107	0.0	1320	1326	pulses
+MetaMapLite	C0230415	0.0	1334	1355	right lower extremity
+MetaMapLite	C0018944	0.0	1364	1372	hematoma
+MetaMapLite	C0033213	0.0	1381	1388	problem
+MetaMapLite	C0030705	0.0	1397	1406	patient's
+MetaMapLite	C1272641	0.0	1407	1421	blood pressure
+MetaMapLite	C0005823	0.0	1407	1421	blood pressure
+MetaMapLite	C0013227	0.0	1465	1475	Medication
+MetaMapLite	C3244316	0.0	1465	1475	Medication
+MetaMapLite	C0439228	0.0	1511	1514	day
+MetaMapLite	C0162712	0.0	1517	1524	Norvasc
+MetaMapLite	C0205170	0.0	1543	1547	well
+MetaMapLite	C1272641	0.0	1554	1568	blood pressure
+MetaMapLite	C0005823	0.0	1554	1568	blood pressure
+MetaMapLite	C0332272	0.0	1582	1588	better
+MetaMapLite	C0750526	0.0	1596	1601	today
+MetaMapLite	C0205088	0.0	1621	1626	FINAL
+MetaMapLite	C0011900	0.0	1627	1636	DIAGNOSES
+MetaMapLite	C0037052	0.0	1639	1658	Sick sinus syndrome
+MetaMapLite	C0035253	0.0	1665	1669	rest
+MetaMapLite	C0262926	0.0	1682	1697	medical history
+MetaMapLite	C0443172	0.0	1715	1721	change
+MetaMapLite	C0392747	0.0	1715	1721	change
+MetaMapLite	C0011849	0.0	1738	1755	Diabetes mellitus
+MetaMapLite	C0375803	0.0	1761	1792	History of peptic ulcer disease
+MetaMapLite	C0455546	0.0	1761	1792	History of peptic ulcer disease
+MetaMapLite	C0020538	0.0	1798	1810	Hypertension
+MetaMapLite	C0917801	0.0	1816	1824	Insomnia
+MetaMapLite	C0029408	0.0	1830	1844	Osteoarthritis
+MetaMapLite	C0270724	0.0	1846	1850	PLAN
+MetaMapLite	C0032074	0.0	1846	1850	PLAN
+MetaMapLite	C0030705	0.0	1857	1864	patient
+MetaMapLite	C0030685	0.0	1868	1878	discharged
+MetaMapLite	C0442519	0.0	1879	1883	home
+MetaMapLite	C0205156	0.0	1900	1908	previous
+MetaMapLite	C1552607	0.0	1900	1908	previous
+MetaMapLite	C0442519	0.0	1909	1913	home
+MetaMapLite	C0013227	0.0	1914	1925	medications
+MetaMapLite	C0875954	0.0	1942	1947	Actos
+MetaMapLite	C0439228	0.0	1956	1959	day
+MetaMapLite	C0984175	0.0	1965	1980	Bisacodyl 10 mg
+MetaMapLite	C0332173	0.0	1986	1991	daily
+MetaMapLite	C0009806	0.0	1999	2011	constipation
+MetaMapLite	C0015399	0.0	2024	2033	eye drops
+MetaMapLite	C1321095	0.0	2028	2032	drop
+MetaMapLite	C0015392	0.0	2050	2053	eye
+MetaMapLite	C0040223	0.0	2056	2061	times
+MetaMapLite	C0439228	0.0	2064	2067	day
+MetaMapLite	C0985942	0.0	2073	2089	Famotidine 20 mg
+MetaMapLite	C1705223	0.0	2092	2098	tablet
+MetaMapLite	C0039225	0.0	2092	2098	tablet
+MetaMapLite	C0721435	0.0	2115	2122	Lotemax
+MetaMapLite	C0015399	0.0	2128	2137	eye drops
+MetaMapLite	C1321095	0.0	2132	2136	drop
+MetaMapLite	C0015392	0.0	2154	2157	eye
+MetaMapLite	C0040223	0.0	2160	2165	times
+MetaMapLite	C0439228	0.0	2168	2171	day
+MetaMapLite	C0721436	0.0	2177	2185	Lotensin
+MetaMapLite	C0053091	0.0	2187	2197	benazepril
+MetaMapLite	C0439228	0.0	2220	2223	day
+MetaMapLite	C0990913	0.0	2229	2247	Triazolam 0.125 mg
+MetaMapLite	C0521112	0.0	2256	2263	bedtime
+MetaMapLite	C0358586	0.0	2269	2296	Milk of Magnesia suspension
+MetaMapLite	C0024477	0.0	2277	2285	Magnesia
+MetaMapLite	C0332173	0.0	2303	2308	daily
+MetaMapLite	C0009806	0.0	2313	2325	constipation
+MetaMapLite	C0699142	0.0	2331	2338	Tylenol
+MetaMapLite	C0039225	0.0	2358	2365	tablets
+MetaMapLite	C0439227	0.0	2374	2379	hours
+MetaMapLite	C0030193	0.0	2387	2391	pain
+MetaMapLite	C0033405	0.0	2398	2410	Promethazine
+MetaMapLite	C0439227	0.0	2428	2433	hours
+MetaMapLite	C0027497	0.0	2441	2447	nausea
+MetaMapLite	C0042963	0.0	2451	2459	vomiting
+MetaMapLite	C0699142	0.0	2466	2473	Tylenol
+MetaMapLite	C0039225	0.0	2481	2488	tablets
+MetaMapLite	C0439227	0.0	2502	2507	hours
+MetaMapLite	C0030193	0.0	2522	2526	pain
+MetaMapLite	C0030705	0.0	2537	2544	patient
+MetaMapLite	C1706059	0.0	2550	2556	finish
+MetaMapLite	C0007546	0.0	2557	2566	cefazolin
+MetaMapLite	C0439227	0.0	2582	2587	hours
+MetaMapLite	C0439810	0.0	2589	2594	total
+MetaMapLite	C0178602	0.0	2597	2604	dosages
+MetaMapLite	C0747130	0.0	2611	2630	pacemaker placement
+MetaMapLite	C2266673	0.0	2632	2654	DISCHARGE INSTRUCTIONS
+MetaMapLite	C1522577	0.0	2657	2666	Follow up
+MetaMapLite	C0442603	0.0	2674	2680	office
+MetaMapLite	C0439228	0.0	2687	2691	days
+MetaMapLite	C0204864	0.0	2696	2710	staple removal
+MetaMapLite	C3242342	0.0	2713	2719	Resume
+MetaMapLite	C0442519	0.0	2720	2724	home
+MetaMapLite	C2239122	0.0	2725	2735	activities
+MetaMapLite	C0441655	0.0	2725	2735	activities
+MetaMapLite	C0038179	0.0	2757	2763	starch
+MetaMapLite	C1261199	0.0	2765	2780	sugar-free diet
+MetaMapLite	C0332296	0.0	2771	2775	free
+MetaMapLite	C0743221	0.0	2792	2809	discharge summary
+MetaMapLite	C0428977	0.0	2811	2822	bradycardia
+MetaMapLite	C0000737	0.0	2824	2838	abdominal pain
+MetaMapLite	C0011860	0.0	2840	2848	diabetes
+MetaMapLite	C0011849	0.0	2840	2848	diabetes
+MetaMapLite	C0042571	0.0	2850	2859	dizziness
+MetaMapLite	C0012833	0.0	2850	2859	dizziness
+MetaMapLite	C0020538	0.0	2861	2873	hypertension
+MetaMapLite	C0037052	0.0	2875	2894	sick sinus syndrome
+MetaMapLite	C0281945	0.0	2896	2915	permanent pacemaker
+MetaMapLite	C0000726	0.0	2917	2926	abdominal
+MetaMapLite	C0039082	0.0	2928	2936	syndrome
+MetaMapLite	C1305231	0.0	2938	2943	sinus
+MetaMapLite	C0030471	0.0	2938	2943	sinus
+MetaMapLite	C0030163	0.0	2945	2954	pacemaker

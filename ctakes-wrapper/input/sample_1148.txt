@@ -1,0 +1,19 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - Cerebral Palsy
+Description:   a pleasant 62-year-old male with cerebral palsy
+(Medical Transcription Sample Report)
+DISCHARGE DIAGNOSES:
+1.  Bilateral lower extremity cellulitis secondary to bilateral tinea pedis.
+2.  Prostatic hypertrophy with bladder outlet obstruction.
+3.  Cerebral palsy.
+DISCHARGE INSTRUCTIONS:  The patient would be discharged on his usual Valium 10-20 mg at bedtime for spasticity, Flomax 0.4 mg daily, cefazolin 500 mg q.i.d., and Lotrimin cream between toes b.i.d. for an additional two weeks.  He will be followed in the office.
+HISTORY OF PRESENT ILLNESS:  This is a pleasant 62-year-old male with cerebral palsy.  The patient was recently admitted to Hospital with lower extremity cellulitis.  This resolved, however, recurred in both legs.  Examination at the time of this admission demonstrated peeling of the skin and excoriation between all of his toes on both feet consistent with tinea pedis.
+PAST MEDICAL/FAMILY/SOCIAL HISTORY:  As per the admission record.
+REVIEW OF SYSTEMS:  As per the admission record.
+PHYSICAL EXAMINATION:  As per the admission record.
+LABORATORY STUDIES:  At the time of admission, his white blood cell count was 8200 with a normal differential, hemoglobin 13.6, hematocrit 40.6 with normal indices, and platelet count was 250,000.  Comprehensive metabolic profile was unremarkable, except for a nonfasting blood sugar of 137, lactic acid was 0.8.  Urine demonstrated 4-9 red blood cells per high-powered field with 2+ bacteria.  Blood culture and wound cultures were unremarkable.  Chest x-ray was unremarkable.
+HOSPITAL COURSE:  The patient was admitted to the General Medical floor and treated with intravenous ceftriaxone and topical Lotrimin.  On this regimen, his lower extremity edema and erythema resolved quite rapidly.
+Because of urinary frequency, a bladder scan was done suggesting about 600 cc of residual urine.  A Foley catheter was inserted and was productive of approximately 500 cc of urine.  The patient was prescribed Flomax 0.4 mg daily.  24 hours later, the Foley catheter was removed and a bladder scan demonstrated 60 cc of residual urine after approximately eight hours.
+At the time of this dictation, the patient was ambulating minimally, however, not sufficiently to resume independent living.
+Keywords:
+discharge summary, bilateral lower extremity cellulitis, cerebral palsy, ambulating, bilateral tinea pedis, lower extremity cellulitis, cerebral, palsy, discharge,

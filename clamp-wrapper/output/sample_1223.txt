@@ -1,0 +1,24 @@
+NONEHEADER	Sample Name : Discharge Summary - Mesothelioma	85-97	Mesothelioma	CLAMP	C1290375 SNOMEDCT_US[109378008]	02/14/2018	02/14/2018 10:54:04	True		
+description	patient with preoperative diagnosis of right pleural mass and postoperative diagnosis of	153-171	right pleural mass	CLAMP	null	02/14/2018	02/14/2018 10:54:04	True		BDL=[right pleural]
+description	mass and postoperative diagnosis of mesothelioma . ( Medical Transcription Sample Report )	203-215	mesothelioma	CLAMP	C1290375 SNOMEDCT_US[109378008]	02/14/2018	02/14/2018 10:54:04	True		
+description	Sample Report ) PREOPERATIVE DIAGNOSIS : Right pleural mass . POSTOPERATIVE DIAGNOSIS : Mesothelioma	280-298	Right pleural mass	CLAMP	null	02/14/2018	02/14/2018 10:54:04	True		BDL=[Right pleural]
+description	pleural mass . POSTOPERATIVE DIAGNOSIS : Mesothelioma .	326-338	Mesothelioma	CLAMP	C1290375 SNOMEDCT_US[109378008]	02/14/2018	02/14/2018 10:54:04	True		
+procedures	PROCEDURES PERFORMED : 1 . Flexible bronchoscopy . 2 . Mediastinoscopy . 3 . Right	366-387	Flexible bronchoscopy	CLAMP	C1301741	02/14/2018	02/14/2018 10:54:04	True		
+procedures	: 1 . Flexible bronchoscopy . 2 . Mediastinoscopy . 3 . Right thoracotomy . 4 . Parietal	393-408	Mediastinoscopy	CLAMP	C0025065	02/14/2018	02/14/2018 10:54:04	True		
+procedures	bronchoscopy . 2 . Mediastinoscopy . 3 . Right thoracotomy . 4 . Parietal pleural biopsy . CONSULTS :	414-431	Right thoracotomy	CLAMP	C0039991	02/14/2018	02/14/2018 10:54:04	True		
+procedures	. 3 . Right thoracotomy . 4 . Parietal pleural biopsy . CONSULTS : Consults obtained during	437-460	Parietal pleural biopsy	CLAMP	C0738094	02/14/2018	02/14/2018 10:54:04	True		
+procedures	included : 1 . Radiation Oncology . 2 . Pulmonary Medicine . 3 .	556-574	Pulmonary Medicine	CLAMP	C0034060	02/14/2018	02/14/2018 10:54:04	True		
+hospital_course	' s hospital course was unremarkable . Her pain was well controlled with an epidural	726-734	Her pain	CLAMP	null	02/14/2018	02/14/2018 10:54:04	True		
+hospital_course	. Her pain was well controlled with an epidural that was placed by Anesthesia . At the	763-771	epidural	CLAMP	C0592511	02/14/2018	02/14/2018 10:54:04	True		
+hospital_course	available . She was discharged with albuterol nebulizer treatments , treatments were to be q . i . d . She was	931-961	albuterol nebulizer treatments	CLAMP	C3194938	02/14/2018	02/14/2018 10:54:04	True	q.i.d	temporal=[q.i.d]
+hospital_course	available . She was discharged with albuterol nebulizer treatments , treatments were	931-940	albuterol	CLAMP	C0001927, RxNorm=[435], Generic=[435]	02/14/2018	02/14/2018 10:54:04	True		FREQ=[q.i.d]
+hospital_course	was discharged with a prescription for Vicodin for pain control . She is to follow up	1036-1043	Vicodin	CLAMP	C0483514, RxNorm=[128793], Generic=[128793]	02/14/2018	02/14/2018 10:54:04	True		
+hospital_course	with a prescription for Vicodin for pain control . She is to follow up with Dr . X in the	1048-1060	pain control	CLAMP	C1304888	02/14/2018	02/14/2018 10:54:04	True		
+hospital_course	Dr . X in the office in one week with a chest x - ray . She is instructed not to lift , push	1127-1138	chest x-ray	CLAMP	C0177737	02/14/2018	02/14/2018 10:54:04	True	one week	temporal=[one week]
+hospital_course	she sees us in the office and is off her pain medications . Keywords :	1299-1319	her pain medications	CLAMP	C0446375	02/14/2018	02/14/2018 10:54:04	False		
+discharge_summary	discharge summary , flexible bronchoscopy , mediastinoscopy , right thoracotomy ,	1350-1371	flexible bronchoscopy	CLAMP	C1301741	02/14/2018	02/14/2018 10:54:04	True		
+discharge_summary	summary , flexible bronchoscopy , mediastinoscopy , right thoracotomy , pleural biopsy ,	1373-1388	mediastinoscopy	CLAMP	C0025065	02/14/2018	02/14/2018 10:54:04	True		
+discharge_summary	flexible bronchoscopy , mediastinoscopy , right thoracotomy , pleural biopsy , pleural mass ,	1390-1407	right thoracotomy	CLAMP	C0039991	02/14/2018	02/14/2018 10:54:04	True		
+discharge_summary	, mediastinoscopy , right thoracotomy , pleural biopsy , pleural mass , mesothelioma , oncology ,	1409-1423	pleural biopsy	CLAMP	C0176531	02/14/2018	02/14/2018 10:54:04	True		
+discharge_summary	, right thoracotomy , pleural biopsy , pleural mass , mesothelioma , oncology ,	1425-1437	pleural mass	CLAMP	C1709576 SNOMEDCT_US[6480001000004101]	02/14/2018	02/14/2018 10:54:04	True		BDL=[pleural]
+discharge_summary	, pleural biopsy , pleural mass , mesothelioma , oncology ,	1439-1451	mesothelioma	CLAMP	C1290375 SNOMEDCT_US[109378008]	02/14/2018	02/14/2018 10:54:04	True		

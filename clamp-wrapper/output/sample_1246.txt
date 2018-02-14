@@ -1,0 +1,32 @@
+description	Description : Patient discharged after laparoscopic Roux - en - Y gastric bypass . ( Medical Transcription Sample Report )	127-164	laparoscopic Roux-en-Y gastric bypass	CLAMP	C0585179	02/14/2018	02/14/2018 10:54:10	True		
+description	Sample Report ) FINAL DIAGNOSES 1 . Morbid obesity , status post laparoscopic Roux - en - Y	224-238	Morbid obesity	CLAMP	C0028756 SNOMEDCT_US[238136002, 83911000119104]	02/14/2018	02/14/2018 10:54:10	True		
+description	1 . Morbid obesity , status post laparoscopic Roux - en - Y gastric bypass . 2 . Hypertension . 3 . Obstructive	252-289	laparoscopic Roux-en-Y gastric bypass	CLAMP	C0585179	02/14/2018	02/14/2018 10:54:10	True		
+description	Roux - en - Y gastric bypass . 2 . Hypertension . 3 . Obstructive sleep apnea , on CPAP .	295-307	Hypertension	CLAMP	C0020538 SNOMEDCT_US[38341003]	02/14/2018	02/14/2018 10:54:10	True		
+description	Y gastric bypass . 2 . Hypertension . 3 . Obstructive sleep apnea , on CPAP .	313-336	Obstructive sleep apnea	CLAMP	C0520679 SNOMEDCT_US[78275009]	02/14/2018	02/14/2018 10:54:10	True		
+description	. 3 . Obstructive sleep apnea , on CPAP .	341-345	CPAP	CLAMP	C0199451	02/14/2018	02/14/2018 10:54:10	True		
+operative_procedural	OPERATION AND PROCEDURE : Laparoscopic Roux - en - Y gastric bypass .	373-410	Laparoscopic Roux-en-Y gastric bypass	CLAMP	C0585179	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	recently to the Bariatric Center for evaluation and treatment of longstanding morbid	523-533	evaluation	CLAMP	C0220825	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	Center for evaluation and treatment of longstanding morbid obesity and associated comorbidities .	551-578	longstanding morbid obesity	CLAMP	null	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	morbid obesity and associated comorbidities . Underwent standard bariatric	594-607	comorbidities	CLAMP	C1275743 SNOMEDCT_US[398192003]	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	associated comorbidities . Underwent standard bariatric evaluation , consults , diagnostics , and preop	620-649	standard bariatric evaluation	CLAMP	C1450026	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	bariatric evaluation , consults , diagnostics , and preop Medifast induced weight loss	661-672	diagnostics	CLAMP	C0348026	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	evaluation , consults , diagnostics , and preop Medifast induced weight loss in anticipation of elective bariatric	678-712	preop Medifast induced weight loss	CLAMP	C0488043	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	induced weight loss in anticipation of elective bariatric surgery . Taken to the OR via same day surgery	732-758	elective bariatric surgery	CLAMP	C1456587	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	the OR via same day surgery process for elective gastric bypass , tolerated well , recovered in the PACU ,	809-832	elective gastric bypass	CLAMP	C0017125	02/14/2018	02/14/2018 10:54:10	True	same day	temporal=[same day]
+hospital_course	in the PACU , and sent to the floor for routine postoperative care . There , DVT prophylaxis was continued	899-925	routine postoperative care	CLAMP	C0032786	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	for routine postoperative care . There , DVT prophylaxis was continued with subcu heparin , early	935-950	DVT prophylaxis	CLAMP	C0853245	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	, DVT prophylaxis was continued with subcu heparin , early and frequent mobilization , and	970-983	subcu heparin	CLAMP	C0019134	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	prophylaxis was continued with subcu heparin , early and frequent mobilization , and	976-983	heparin	CLAMP	C0019134, RxNorm=[235473], Generic=[235473]	02/14/2018	02/14/2018 10:54:10	True		RUT=[subcu]
+hospital_course	was continued with subcu heparin , early and frequent mobilization , and SCDs . PCA was utilized for pain	985-1016	early and frequent mobilization	CLAMP	C0013459	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	, early and frequent mobilization , and SCDs . PCA was utilized for pain control ,	1022-1026	SCDs	CLAMP	C0085298	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	and frequent mobilization , and SCDs . PCA was utilized for pain control ,	1029-1032	PCA	CLAMP	RxNorm=[1025540], Generic=[1025540]	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	, and SCDs . PCA was utilized for pain control , efficaciously , he utilized the CPAP ,	1050-1062	pain control	CLAMP	C1304888	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	control , efficaciously , he utilized the CPAP , was monitored , and had no new	1095-1099	CPAP	CLAMP	C0199451	02/14/2018	02/14/2018 10:54:10	True		
+hospital_course	the CPAP , was monitored , and had no new cardiopulmonary complaints . Postop day # 1 , labs within normal	1131-1157	cardiopulmonary complaints	CLAMP	null	02/14/2018	02/14/2018 10:54:10	False		NEG=[no new], BDL=[cardiopulmonary]
+hospital_course	well . He was ambulatory , had no cardiopulmonary complaints , no unusual fever or concerning	1325-1351	cardiopulmonary complaints	CLAMP	null	02/14/2018	02/14/2018 10:54:10	False		NEG=[no], BDL=[cardiopulmonary]
+hospital_course	, had no cardiopulmonary complaints , no unusual fever or concerning symptoms . By the second	1356-1369	unusual fever	CLAMP	null	02/14/2018	02/14/2018 10:54:10	False		NEG=[no]
+discharge_instructions	. Scripts left in the chart for omeprazole and Lortab .	1774-1784	omeprazole	CLAMP	C0028978, RxNorm=[7646], Generic=[7646]	02/14/2018	02/14/2018 10:54:10	True		
+discharge_instructions	left in the chart for omeprazole and Lortab .	1789-1795	Lortab	CLAMP	C0553262, RxNorm=[144254], Generic=[144254]	02/14/2018	02/14/2018 10:54:10	True		
+discharge_summary	discharge summary , medifast , laparoscopic roux - en - y gastric bypass , roux - en - y , bariatric clear liquids ,	2208-2245	laparoscopic roux-en-y gastric bypass	CLAMP	C0585179	02/14/2018	02/14/2018 10:54:10	True		
+discharge_summary	, roux - en - y , bariatric clear liquids , gastric bypass , laparoscopic , gastric , bariatric ,	2283-2297	gastric bypass	CLAMP	C0017125	02/14/2018	02/14/2018 10:54:10	True		
+discharge_summary	, laparoscopic , gastric , bariatric , bypass ,	2333-2339	bypass	CLAMP	C0741847	02/14/2018	02/14/2018 10:54:10	True		

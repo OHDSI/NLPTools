@@ -1,0 +1,164 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0007789	0.0	85	99	Cerebral Palsy
+MetaMapLite	C0678257	0.0	100	111	Description
+MetaMapLite	C2987187	0.0	117	125	pleasant
+MetaMapLite	C0439234	0.0	129	133	year
+MetaMapLite	C0580836	0.0	134	137	old
+MetaMapLite	C0086582	0.0	138	142	male
+MetaMapLite	C0007789	0.0	148	162	cerebral palsy
+MetaMapLite	C0282229	0.0	164	185	Medical Transcription
+MetaMapLite	C0370003	0.0	186	192	Sample
+MetaMapLite	C2347026	0.0	186	192	Sample
+MetaMapLite	C0700287	0.0	193	199	Report
+MetaMapLite	C0684224	0.0	193	199	Report
+MetaMapLite	C0030685	0.0	201	210	DISCHARGE
+MetaMapLite	C0012621	0.0	201	210	DISCHARGE
+MetaMapLite	C0011900	0.0	211	220	DIAGNOSES
+MetaMapLite	C0238767	0.0	226	235	Bilateral
+MetaMapLite	C0343024	0.0	236	262	lower extremity cellulitis
+MetaMapLite	C0015385	0.0	242	251	extremity
+MetaMapLite	C0175668	0.0	263	275	secondary to
+MetaMapLite	C0238767	0.0	276	285	bilateral
+MetaMapLite	C0040259	0.0	286	297	tinea pedis
+MetaMapLite	C0005001	0.0	303	324	Prostatic hypertrophy
+MetaMapLite	C0005694	0.0	330	356	bladder outlet obstruction
+MetaMapLite	C1998466	0.0	338	344	outlet
+MetaMapLite	C1709362	0.0	338	344	outlet
+MetaMapLite	C0007789	0.0	362	376	Cerebral palsy
+MetaMapLite	C2266673	0.0	378	400	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0030705	0.0	407	414	patient
+MetaMapLite	C3538928	0.0	442	447	usual
+MetaMapLite	C0521112	0.0	467	474	bedtime
+MetaMapLite	C0026838	0.0	479	489	spasticity
+MetaMapLite	C0662903	0.0	491	497	Flomax
+MetaMapLite	C0332173	0.0	505	510	daily
+MetaMapLite	C0007546	0.0	512	521	cefazolin
+MetaMapLite	C0699670	0.0	541	549	Lotrimin
+MetaMapLite	C0700385	0.0	550	555	cream
+MetaMapLite	C0040357	0.0	564	568	toes
+MetaMapLite	C1524062	0.0	583	593	additional
+MetaMapLite	C0439230	0.0	598	603	weeks
+MetaMapLite	C0442603	0.0	633	639	office
+MetaMapLite	C0262512	0.0	641	667	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	652	659	PRESENT
+MetaMapLite	C2987187	0.0	680	688	pleasant
+MetaMapLite	C0439234	0.0	692	696	year
+MetaMapLite	C0580836	0.0	697	700	old
+MetaMapLite	C0086582	0.0	701	705	male
+MetaMapLite	C0007789	0.0	711	725	cerebral palsy
+MetaMapLite	C0030705	0.0	732	739	patient
+MetaMapLite	C0332185	0.0	744	752	recently
+MetaMapLite	C0019994	0.0	765	773	Hospital
+MetaMapLite	C0343024	0.0	779	805	lower extremity cellulitis
+MetaMapLite	C0015385	0.0	785	794	extremity
+MetaMapLite	C1140621	0.0	849	853	legs
+MetaMapLite	C0040223	0.0	875	879	time
+MetaMapLite	C0184666	0.0	888	897	admission
+MetaMapLite	C1123023	0.0	926	930	skin
+MetaMapLite	C0015256	0.0	935	946	excoriation
+MetaMapLite	C0040357	0.0	966	970	toes
+MetaMapLite	C0016504	0.0	979	983	feet
+MetaMapLite	C0347981	0.0	979	983	feet
+MetaMapLite	C0332290	0.0	984	999	consistent with
+MetaMapLite	C0040259	0.0	1000	1011	tinea pedis
+MetaMapLite	C0205476	0.0	1018	1025	MEDICAL
+MetaMapLite	C0015576	0.0	1026	1032	FAMILY
+MetaMapLite	C3714536	0.0	1033	1047	SOCIAL HISTORY
+MetaMapLite	C0184666	0.0	1061	1070	admission
+MetaMapLite	C0034869	0.0	1071	1077	record
+MetaMapLite	C0488565	0.0	1079	1096	REVIEW OF SYSTEMS
+MetaMapLite	C0488564	0.0	1079	1096	REVIEW OF SYSTEMS
+MetaMapLite	C0489633	0.0	1079	1096	REVIEW OF SYSTEMS
+MetaMapLite	C0184666	0.0	1110	1119	admission
+MetaMapLite	C0034869	0.0	1120	1126	record
+MetaMapLite	C0031809	0.0	1128	1148	PHYSICAL EXAMINATION
+MetaMapLite	C0184666	0.0	1162	1171	admission
+MetaMapLite	C0034869	0.0	1172	1178	record
+MetaMapLite	C0681827	0.0	1180	1198	LABORATORY STUDIES
+MetaMapLite	C0040223	0.0	1208	1212	time
+MetaMapLite	C0184666	0.0	1216	1225	admission
+MetaMapLite	C0023508	0.0	1231	1253	white blood cell count
+MetaMapLite	C0427512	0.0	1231	1253	white blood cell count
+MetaMapLite	C0205307	0.0	1270	1276	normal
+MetaMapLite	C0443199	0.0	1277	1289	differential
+MetaMapLite	C0019046	0.0	1291	1301	hemoglobin
+MetaMapLite	C0518014	0.0	1308	1318	hematocrit
+MetaMapLite	C0018935	0.0	1308	1318	hematocrit
+MetaMapLite	C0205307	0.0	1329	1335	normal
+MetaMapLite	C1287267	0.0	1349	1363	platelet count
+MetaMapLite	C0032181	0.0	1349	1363	platelet count
+MetaMapLite	C1880156	0.0	1378	1391	Comprehensive
+MetaMapLite	C0205307	0.0	1414	1426	unremarkable
+MetaMapLite	C2585491	0.0	1441	1451	nonfasting
+MetaMapLite	C0005802	0.0	1452	1463	blood sugar
+MetaMapLite	C0064582	0.0	1472	1483	lactic acid
+MetaMapLite	C0042036	0.0	1494	1499	Urine
+MetaMapLite	C1277078	0.0	1517	1532	red blood cells
+MetaMapLite	C0014792	0.0	1517	1532	red blood cells
+MetaMapLite	C0205250	0.0	1537	1541	high
+MetaMapLite	C0032863	0.0	1542	1549	powered
+MetaMapLite	C2349184	0.0	1550	1555	field
+MetaMapLite	C2346620	0.0	1550	1555	field
+MetaMapLite	C3539073	0.0	1550	1555	field
+MetaMapLite	C1521738	0.0	1550	1555	field
+MetaMapLite	C0004611	0.0	1564	1572	bacteria
+MetaMapLite	C1510439	0.0	1564	1572	bacteria
+MetaMapLite	C0200949	0.0	1575	1588	Blood culture
+MetaMapLite	C0043250	0.0	1593	1598	wound
+MetaMapLite	C3263723	0.0	1593	1598	wound
+MetaMapLite	C0010453	0.0	1599	1607	cultures
+MetaMapLite	C0205307	0.0	1613	1625	unremarkable
+MetaMapLite	C0039985	0.0	1628	1639	Chest x-ray
+MetaMapLite	C0205307	0.0	1644	1656	unremarkable
+MetaMapLite	C0489547	0.0	1658	1673	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	1680	1687	patient
+MetaMapLite	C0205246	0.0	1708	1715	General
+MetaMapLite	C0205476	0.0	1716	1723	Medical
+MetaMapLite	C0016249	0.0	1724	1729	floor
+MetaMapLite	C0348016	0.0	1747	1758	intravenous
+MetaMapLite	C0007561	0.0	1759	1770	ceftriaxone
+MetaMapLite	C0332237	0.0	1775	1782	topical
+MetaMapLite	C0699670	0.0	1783	1791	Lotrimin
+MetaMapLite	C2945654	0.0	1802	1809	regimen
+MetaMapLite	C0040808	0.0	1802	1809	regimen
+MetaMapLite	C0239340	0.0	1815	1836	lower extremity edema
+MetaMapLite	C0041834	0.0	1841	1849	erythema
+MetaMapLite	C0439831	0.0	1865	1872	rapidly
+MetaMapLite	C0042023	0.0	1885	1902	urinary frequency
+MetaMapLite	C1096192	0.0	1906	1918	bladder scan
+MetaMapLite	C0278024	0.0	1955	1969	residual urine
+MetaMapLite	C0179804	0.0	1974	1988	Foley catheter
+MetaMapLite	C0332232	0.0	2024	2037	approximately
+MetaMapLite	C0042036	0.0	2048	2053	urine
+MetaMapLite	C0030705	0.0	2060	2067	patient
+MetaMapLite	C0662903	0.0	2083	2089	Flomax
+MetaMapLite	C0332173	0.0	2097	2102	daily
+MetaMapLite	C0439227	0.0	2108	2113	hours
+MetaMapLite	C0205087	0.0	2114	2119	later
+MetaMapLite	C0179804	0.0	2125	2139	Foley catheter
+MetaMapLite	C1096192	0.0	2158	2170	bladder scan
+MetaMapLite	C0278024	0.0	2193	2207	residual urine
+MetaMapLite	C0332232	0.0	2214	2227	approximately
+MetaMapLite	C0439227	0.0	2234	2239	hours
+MetaMapLite	C0040223	0.0	2248	2252	time
+MetaMapLite	C0030705	0.0	2276	2283	patient
+MetaMapLite	C0021189	0.0	2346	2364	independent living
+MetaMapLite	C0743221	0.0	2376	2393	discharge summary
+MetaMapLite	C0238767	0.0	2395	2404	bilateral
+MetaMapLite	C0343024	0.0	2405	2431	lower extremity cellulitis
+MetaMapLite	C0015385	0.0	2411	2420	extremity
+MetaMapLite	C0007789	0.0	2433	2447	cerebral palsy
+MetaMapLite	C0238767	0.0	2461	2470	bilateral
+MetaMapLite	C0040259	0.0	2471	2482	tinea pedis
+MetaMapLite	C0343024	0.0	2484	2510	lower extremity cellulitis
+MetaMapLite	C0015385	0.0	2490	2499	extremity
+MetaMapLite	C0522224	0.0	2522	2527	palsy
+MetaMapLite	C0012621	0.0	2529	2538	discharge
+MetaMapLite	C0030685	0.0	2529	2538	discharge

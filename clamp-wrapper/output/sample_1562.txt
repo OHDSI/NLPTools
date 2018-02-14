@@ -1,0 +1,30 @@
+NONEHEADER	: Discharge Summary Sample Name : Hysterectomy - Discharge Summary	65-77	Hysterectomy	CLAMP	C0020699	02/14/2018	02/14/2018 10:54:30	True		
+description	Description : The patient underwent a total vaginal hysterectomy . ( Medical Transcription Sample Report )	134-162	a total vaginal hysterectomy	CLAMP	C1735887	02/14/2018	02/14/2018 10:54:30	True		
+description	Sample Report ) ADMISSION DIAGNOSES : 1 . Menorrhagia . 2 . Uterus enlargement . 3 . Pelvic	227-238	Menorrhagia	CLAMP	C0025323 SNOMEDCT_US[386692008]	02/14/2018	02/14/2018 10:54:30	True		
+description	DIAGNOSES : 1 . Menorrhagia . 2 . Uterus enlargement . 3 . Pelvic pain . DISCHARGE DIAGNOSIS :	244-262	Uterus enlargement	CLAMP	C0151994 SNOMEDCT_US[198319004]	02/14/2018	02/14/2018 10:54:30	True		BDL=[Uterus]
+description	. 2 . Uterus enlargement . 3 . Pelvic pain . DISCHARGE DIAGNOSIS : Status post	268-279	Pelvic pain	CLAMP	C0030794 SNOMEDCT_US[30473006]	02/14/2018	02/14/2018 10:54:30	True		BDL=[Pelvic]
+description	pain . DISCHARGE DIAGNOSIS : Status post vaginal hysterectomy .	315-335	vaginal hysterectomy	CLAMP	C0020700	02/14/2018	02/14/2018 10:54:30	True		
+complications	presented initially to the office with abnormal menstrual bleeding and increase in flow during her period .	485-512	abnormal menstrual bleeding	CLAMP	null	02/14/2018	02/14/2018 10:54:30	True		BDL=[menstrual]
+complications	with abnormal menstrual bleeding and increase in flow during her period . She also had symptoms of back pain ,	517-551	increase in flow during her period	CLAMP	null	02/14/2018	02/14/2018 10:54:30	True		COU=[increase]
+complications	her period . She also had symptoms of back pain , dysmenorrhea , and dysuria . The	579-588	back pain	CLAMP	C0004604 SNOMEDCT_US[161891005]	02/14/2018	02/14/2018 10:54:30	True		BDL=[back]
+complications	. She also had symptoms of back pain , dysmenorrhea , and dysuria . The symptoms had been	590-602	dysmenorrhea	CLAMP	C0013390 SNOMEDCT_US[266599000, 431416001, 289900009]	02/14/2018	02/14/2018 10:54:30	True		
+complications	of back pain , dysmenorrhea , and dysuria . The symptoms had been worsening over	608-615	dysuria	CLAMP	C0013428 SNOMEDCT_US[49650001]	02/14/2018	02/14/2018 10:54:30	True		
+complications	, and dysuria . The symptoms had been worsening over time . The patient was noted also	640-649	worsening	CLAMP	C0332271 SNOMEDCT_US[230993007]	02/14/2018	02/14/2018 10:54:30	True		
+complications	. The patient was noted also to have increasing pelvic pain over the past 8 months and she was	697-719	increasing pelvic pain	CLAMP	null	02/14/2018	02/14/2018 10:54:30	True	the past 8 months	COU=[increasing], BDL=[pelvic], temporal=[the past 8 months]
+complications	past 8 months and she was noted to have uterine enlargement upon examination .	769-788	uterine enlargement	CLAMP	C0151994 SNOMEDCT_US[198319004]	02/14/2018	02/14/2018 10:54:30	True	the past 8 months	temporal=[the past 8 months]
+complications	noted to have uterine enlargement upon examination .	794-805	examination	CLAMP	C0031809	02/14/2018	02/14/2018 10:54:30	True	the past 8 months	temporal=[the past 8 months]
+procedures	PROCEDURE : The patient underwent a total vaginal hysterectomy .	841-869	a total vaginal hysterectomy	CLAMP	C1735887	02/14/2018	02/14/2018 10:54:30	True		
+hospital_course	was admitted on 09 / 04 / 2007 to undergo total vaginal hysterectomy . The procedure preceded as planned	939-965	total vaginal hysterectomy	CLAMP	C1735887	02/14/2018	02/14/2018 10:54:30	True	2007	temporal=[2007]
+hospital_course	procedure preceded as planned without complication . Uterus was sent for pathologic	1010-1022	complication	CLAMP	C0231242 SNOMEDCT_US[255302009]	02/14/2018	02/14/2018 10:54:30	False		NEG=[without]
+hospital_course	complication . Uterus was sent for pathologic analysis . The patient was monitored in the	1045-1064	pathologic analysis	CLAMP	C0200760	02/14/2018	02/14/2018 10:54:30	True		
+hospital_course	. She recovered quite well and vitals remained stable . Laboratory studies , H &	1164-1170	vitals	CLAMP	C0442732	02/14/2018	02/14/2018 10:54:30	True		
+hospital_course	quite well and vitals remained stable . Laboratory studies , H & H were followed and appeared stable	1188-1206	Laboratory studies	CLAMP	C0681827	02/14/2018	02/14/2018 10:54:30	True		
+hospital_course	remained stable . Laboratory studies , H & H were followed and appeared stable on 09	1208-1211	H&H	CLAMP	C0033727	02/14/2018	02/14/2018 10:54:30	True		
+hospital_course	and appeared stable on 09 / 05 / 2007 with hemoglobin of 11 . 2 and hematocrit of 31 . 8 . The	1265-1275	hemoglobin	CLAMP	C0019046	02/14/2018	02/14/2018 10:54:30	True		labvalue=[11.2]
+hospital_course	09 / 05 / 2007 with hemoglobin of 11 . 2 and hematocrit of 31 . 8 . The patient was ready for	1288-1298	hematocrit	CLAMP	C0018935	02/14/2018	02/14/2018 10:54:30	True		labvalue=[31.8]
+discharge_summary	discharge summary , menorrhagia , uterus enlargement , pelvic pain , total	1614-1625	menorrhagia	CLAMP	C0025323 SNOMEDCT_US[386692008]	02/14/2018	02/14/2018 10:54:30	True		
+discharge_summary	discharge summary , menorrhagia , uterus enlargement , pelvic pain , total vaginal	1627-1645	uterus enlargement	CLAMP	C0151994 SNOMEDCT_US[198319004]	02/14/2018	02/14/2018 10:54:30	True		BDL=[uterus]
+discharge_summary	, menorrhagia , uterus enlargement , pelvic pain , total vaginal hysterectomy , vaginal	1647-1658	pelvic pain	CLAMP	C0030794 SNOMEDCT_US[30473006]	02/14/2018	02/14/2018 10:54:30	True		BDL=[pelvic]
+discharge_summary	, uterus enlargement , pelvic pain , total vaginal hysterectomy , vaginal hysterectomy , uterus , vaginal ,	1660-1686	total vaginal hysterectomy	CLAMP	C1735887	02/14/2018	02/14/2018 10:54:30	True		
+discharge_summary	pain , total vaginal hysterectomy , vaginal hysterectomy , uterus , vaginal , hysterectomy ,	1688-1708	vaginal hysterectomy	CLAMP	C0020700	02/14/2018	02/14/2018 10:54:30	True		
+discharge_summary	vaginal hysterectomy , uterus , vaginal , hysterectomy ,	1727-1739	hysterectomy	CLAMP	C0020699	02/14/2018	02/14/2018 10:54:30	True		

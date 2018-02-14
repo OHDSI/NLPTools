@@ -1,0 +1,97 @@
+NONEHEADER	: Discharge Summary Sample Name : Otitis Media - Discharge Summary	65-77	Otitis Media	CLAMP	C0029882 SNOMEDCT_US[65363002]	02/14/2018	02/14/2018 10:54:33	True		
+description	Description : Fever , otitis media , and possible sepsis . (	112-117	Fever	CLAMP	C0424755 SNOMEDCT_US[248427009]	02/14/2018	02/14/2018 10:54:33	True		
+description	Description : Fever , otitis media , and possible sepsis . ( Medical	119-131	otitis media	CLAMP	C0029882 SNOMEDCT_US[65363002]	02/14/2018	02/14/2018 10:54:33	True		
+description	: Fever , otitis media , and possible sepsis . ( Medical Transcription Sample Report )	146-152	sepsis	CLAMP	C0243026 SNOMEDCT_US[91302008]	02/14/2018	02/14/2018 10:54:33	True		UNC=[possible]
+description	Sample Report ) ADMITTING DIAGNOSES : 1 . Fever . 2 . Otitis media . 3 . Possible sepsis .	217-222	Fever	CLAMP	C0424755 SNOMEDCT_US[248427009]	02/14/2018	02/14/2018 10:54:33	True		
+description	) ADMITTING DIAGNOSES : 1 . Fever . 2 . Otitis media . 3 . Possible sepsis .	228-240	Otitis media	CLAMP	C0029882 SNOMEDCT_US[65363002]	02/14/2018	02/14/2018 10:54:33	True		
+description	Fever . 2 . Otitis media . 3 . Possible sepsis .	255-261	sepsis	CLAMP	C0243026 SNOMEDCT_US[91302008]	02/14/2018	02/14/2018 10:54:33	True		UNC=[Possible]
+history_present_illness	. He has had a 2 - day history of fever that has gone up to as high as 103 . 6	411-416	fever	CLAMP	C0424755 SNOMEDCT_US[248427009]	02/14/2018	02/14/2018 10:54:33	True	2-day	temporal=[2-day]
+history_present_illness	as 103 . 6 degrees F . He has also had intermittent cough , nasal congestion , and rhinorrhea and	481-499	intermittent cough	CLAMP	null	02/14/2018	02/14/2018 10:54:33	True		
+history_present_illness	F . He has also had intermittent cough , nasal congestion , and rhinorrhea and no history of	501-517	nasal congestion	CLAMP	C0027424 SNOMEDCT_US[68235000]	02/14/2018	02/14/2018 10:54:33	True		BDL=[nasal]
+history_present_illness	cough , nasal congestion , and rhinorrhea and no history of rashes . He has been	523-533	rhinorrhea	CLAMP	C1260880 SNOMEDCT_US[397746007, 64531003, 267101005]	02/14/2018	02/14/2018 10:54:33	True		
+history_present_illness	, and rhinorrhea and no history of rashes . He has been taking Tylenol and Advil	552-558	rashes	CLAMP	C0015230 SNOMEDCT_US[112625008, 271807003]	02/14/2018	02/14/2018 10:54:33	False		NEG=[no history of]
+history_present_illness	history of rashes . He has been taking Tylenol and Advil to help decrease the fevers ,	580-587	Tylenol	CLAMP	RxNorm=[202433], Generic=[202433]	02/14/2018	02/14/2018 10:54:33	True		
+history_present_illness	rashes . He has been taking Tylenol and Advil to help decrease the fevers , but the	592-597	Advil	CLAMP	RxNorm=[153010], Generic=[153010]	02/14/2018	02/14/2018 10:54:33	True		
+history_present_illness	Tylenol and Advil to help decrease the fevers , but the fever has continued to rise .	619-625	fevers	CLAMP	C0424755 SNOMEDCT_US[248427009]	02/14/2018	02/14/2018 10:54:33	True		
+history_present_illness	to help decrease the fevers , but the fever has continued to rise . He was noted to	635-640	fever	CLAMP	C0424755 SNOMEDCT_US[248427009]	02/14/2018	02/14/2018 10:54:33	True		
+history_present_illness	to rise . He was noted to have some increased workup of breathing and parents returned to the office on	691-720	increased workup of breathing	CLAMP	null	02/14/2018	02/14/2018 10:54:33	True	the day	temporal=[the day]
+past_medical_history	born at 33 weeks ' gestation with a birth weight of 5 pounds and 1 ounce .	861-873	birth weight	CLAMP	C0005612	02/14/2018	02/14/2018 10:54:33	True	33 weeks	labvalue=[5 pounds and 1 ounce], temporal=[33 weeks]
+physical_examination	PHYSICAL EXAMINATION : On exam , he was moderately ill appearing and	925-929	exam	CLAMP	C0582103	02/14/2018	02/14/2018 10:54:33	True		
+physical_examination	: On exam , he was moderately ill appearing and lethargic . HEENT : Atraumatic ,	949-962	ill appearing	CLAMP	null	02/14/2018	02/14/2018 10:54:33	True		SEV=[moderately]
+physical_examination	, he was moderately ill appearing and lethargic . HEENT : Atraumatic , normocephalic .	967-976	lethargic	CLAMP	C0023380 SNOMEDCT_US[214264003]	02/14/2018	02/14/2018 10:54:33	True		
+physical_examination	to light . Tympanic membranes were red and yellow , and opaque bilaterally .	1088-1091	red	CLAMP	C0332575 SNOMEDCT_US[386713009]	02/14/2018	02/14/2018 10:54:33	True		BDL=[Tympanic membranes]
+physical_examination	light . Tympanic membranes were red and yellow , and opaque bilaterally . Nares were	1096-1102	yellow	CLAMP	C0221205 SNOMEDCT_US[371244009, 263935005]	02/14/2018	02/14/2018 10:54:33	True		BDL=[Tympanic membranes]
+physical_examination	pink . Neck was soft and supple without masses . Heart is regular rate and rhythm	1223-1229	masses	CLAMP	C1306372 SNOMEDCT_US[118538004]	02/14/2018	02/14/2018 10:54:33	False		NEG=[without], BDL=[Neck]
+physical_examination	masses . Heart is regular rate and rhythm without murmurs . Lungs showed	1258-1264	rhythm	CLAMP	C0871269	02/14/2018	02/14/2018 10:54:33	True		
+physical_examination	is regular rate and rhythm without murmurs . Lungs showed increased workup of	1273-1280	murmurs	CLAMP	C0018808 SNOMEDCT_US[421493004, 414786004, 88610006]	02/14/2018	02/14/2018 10:54:33	False		NEG=[without], BDL=[Heart]
+physical_examination	rhythm without murmurs . Lungs showed increased workup of breathing , moderate tachypnea . No rales , rhonchi	1296-1325	increased workup of breathing	CLAMP	null	02/14/2018	02/14/2018 10:54:33	True		BDL=[Lungs]
+physical_examination	showed increased workup of breathing , moderate tachypnea . No rales , rhonchi or wheezes were	1327-1345	moderate tachypnea	CLAMP	null	02/14/2018	02/14/2018 10:54:33	True		SEV=[moderate], BDL=[Lungs]
+physical_examination	of breathing , moderate tachypnea . No rales , rhonchi or wheezes were noted .	1351-1356	rales	CLAMP	C0240859 SNOMEDCT_US[284520004]	02/14/2018	02/14/2018 10:54:33	False		NEG=[No]
+physical_examination	, moderate tachypnea . No rales , rhonchi or wheezes were noted . Abdomen : Soft ,	1358-1365	rhonchi	CLAMP	C0035508 SNOMEDCT_US[24612001]	02/14/2018	02/14/2018 10:54:33	False		NEG=[No]
+physical_examination	tachypnea . No rales , rhonchi or wheezes were noted . Abdomen : Soft , nontender ,	1369-1376	wheezes	CLAMP	C0043144 SNOMEDCT_US[56018004]	02/14/2018	02/14/2018 10:54:33	False		NEG=[No]
+physical_examination	or wheezes were noted . Abdomen : Soft , nontender , nondistended .	1406-1415	nontender	CLAMP	C0520960 SNOMEDCT_US[300821004]	02/14/2018	02/14/2018 10:54:33	True		BDL=[Abdomen]
+physical_examination	were noted . Abdomen : Soft , nontender , nondistended .	1417-1429	nondistended	CLAMP	null	02/14/2018	02/14/2018 10:54:33	True		BDL=[Abdomen]
+activity	Active bowel sounds . Neurologic exam showed good muscle strength , normal	1454-1469	Neurologic exam	CLAMP	C0027853	02/14/2018	02/14/2018 10:54:33	True		
+activity	intact . LABORATORY FINDINGS : He had electrolytes , BUN and creatinine , and glucose all of	1592-1604	electrolytes	CLAMP	C0013832	02/14/2018	02/14/2018 10:54:33	True		
+activity	FINDINGS : He had electrolytes , BUN and creatinine , and glucose all of	1606-1609	BUN	CLAMP	C0005845	02/14/2018	02/14/2018 10:54:33	True		
+activity	FINDINGS : He had electrolytes , BUN and creatinine , and glucose all of which were within	1614-1624	creatinine	CLAMP	C0010294	02/14/2018	02/14/2018 10:54:33	True		
+activity	electrolytes , BUN and creatinine , and glucose all of which were within normal limits .	1630-1637	glucose	CLAMP	C0017725	02/14/2018	02/14/2018 10:54:33	True		
+activity	of which were within normal limits . White blood cell count was 8 . 6 with 61 % neutrophils , 21 %	1679-1701	White blood cell count	CLAMP	C0023508	02/14/2018	02/14/2018 10:54:33	True		labvalue=[8.6]
+activity	White blood cell count was 8 . 6 with 61 % neutrophils , 21 % lymphocytes , 17 % monocytes ,	1719-1730	neutrophils	CLAMP	C0027950	02/14/2018	02/14/2018 10:54:33	True		labvalue=[61%]
+activity	count was 8 . 6 with 61 % neutrophils , 21 % lymphocytes , 17 % monocytes , suggestive of a viral	1736-1747	lymphocytes	CLAMP	C0024264	02/14/2018	02/14/2018 10:54:33	True		labvalue=[21%]
+activity	61 % neutrophils , 21 % lymphocytes , 17 % monocytes , suggestive of a viral infection .	1753-1762	monocytes	CLAMP	C0026473	02/14/2018	02/14/2018 10:54:33	True		labvalue=[17%]
+activity	, 17 % monocytes , suggestive of a viral infection . Urinalysis was completely	1780-1795	viral infection	CLAMP	C0042769 SNOMEDCT_US[34014006]	02/14/2018	02/14/2018 10:54:33	True		UNC=[suggestive of]
+activity	, suggestive of a viral infection . Urinalysis was completely unremarkable . Chest x -	1798-1808	Urinalysis	CLAMP	C0042014	02/14/2018	02/14/2018 10:54:33	True		
+activity	was completely unremarkable . Chest x - ray showed a suboptimal inspiration , but no	1839-1850	Chest x-ray	CLAMP	C0177737	02/14/2018	02/14/2018 10:54:33	True		
+activity	unremarkable . Chest x - ray showed a suboptimal inspiration , but no evidence of an acute process in	1860-1882	suboptimal inspiration	CLAMP	null	02/14/2018	02/14/2018 10:54:33	True		
+activity	inspiration , but no evidence of an acute process in the chest .	1903-1932	an acute process in the chest	CLAMP	null	02/14/2018	02/14/2018 10:54:33	False		NEG=[no evidence of], BDL=[chest]
+activity	Activity is as tolerates . CBC with differential , blood culture , electrolytes , BUN , and	2054-2075	CBC with differential	CLAMP	C0200630	02/14/2018	02/14/2018 10:54:33	True		
+activity	as tolerates . CBC with differential , blood culture , electrolytes , BUN , and creatinine ,	2077-2090	blood culture	CLAMP	C0200949	02/14/2018	02/14/2018 10:54:33	True		
+activity	CBC with differential , blood culture , electrolytes , BUN , and creatinine , glucose , UA , and	2092-2104	electrolytes	CLAMP	C0013832	02/14/2018	02/14/2018 10:54:33	True		
+activity	, blood culture , electrolytes , BUN , and creatinine , glucose , UA , and urine	2106-2109	BUN	CLAMP	C0005845	02/14/2018	02/14/2018 10:54:33	True		
+activity	, blood culture , electrolytes , BUN , and creatinine , glucose , UA , and urine culture all	2115-2125	creatinine	CLAMP	C0010294	02/14/2018	02/14/2018 10:54:33	True		
+activity	, electrolytes , BUN , and creatinine , glucose , UA , and urine culture all were ordered	2127-2134	glucose	CLAMP	C0017725	02/14/2018	02/14/2018 10:54:33	True		
+activity	, BUN , and creatinine , glucose , UA , and urine culture all were ordered .	2136-2138	UA	CLAMP	C0042014	02/14/2018	02/14/2018 10:54:33	True		
+activity	, BUN , and creatinine , glucose , UA , and urine culture all were ordered . Chest x - ray was	2144-2157	urine culture	CLAMP	C0430404	02/14/2018	02/14/2018 10:54:33	True		
+activity	, and urine culture all were ordered . Chest x - ray was ordered as well with 2 views to	2177-2188	Chest x-ray	CLAMP	C0177737	02/14/2018	02/14/2018 10:54:33	True		
+activity	with 2 views to evaluate for a possible pneumonia . Pulse oximetry checks were ordered	2249-2258	pneumonia	CLAMP	C3714636 SNOMEDCT_US[205237003]	02/14/2018	02/14/2018 10:54:33	False		UNC=[evaluate for possible]
+activity	to evaluate for a possible pneumonia . Pulse oximetry checks were ordered every shift and as	2261-2275	Pulse oximetry	CLAMP	C0034108	02/14/2018	02/14/2018 10:54:33	True		
+activity	ordered every shift and as needed with O2 ordered per nasal cannula if O2	2327-2329	O2	CLAMP	C0030054	02/14/2018	02/14/2018 10:54:33	True		
+activity	with O2 ordered per nasal cannula if O2 saturations were less that 94 % . Gave D5 and	2359-2373	O2 saturations	CLAMP	C0523807	02/14/2018	02/14/2018 10:54:33	True		labvalue=[less that 94%]
+activity	less that 94 % . Gave D5 and quarter of normal saline at 45 mL per hour , which was just	2418-2431	normal saline	CLAMP	C0445115, RxNorm=[125464], Generic=[125464]	02/14/2018	02/14/2018 10:54:33	True		STRENGTH=[45 mL]
+activity	above maintenance rate to help with hydration . He was given ceftriaxone 500 mg IV	2511-2520	hydration	CLAMP	C1321013	02/14/2018	02/14/2018 10:54:33	True		
+activity	to help with hydration . He was given ceftriaxone 500 mg IV once daily to treat otitis	2536-2547	ceftriaxone	CLAMP	C4050978, RxNorm=[1665004], Generic=[2193]	02/14/2018	02/14/2018 10:54:33	True		RUT=[IV], FREQ=[once daily], STRENGTH=[500 mg]
+activity	500 mg IV once daily to treat otitis media and possible sepsis , and I will add	2578-2590	otitis media	CLAMP	C0029882 SNOMEDCT_US[65363002]	02/14/2018	02/14/2018 10:54:33	False	daily	CON=[as needed], temporal=[daily]
+activity	to treat otitis media and possible sepsis , and I will add Tylenol and ibuprofen	2604-2610	sepsis	CLAMP	C0243026 SNOMEDCT_US[91302008]	02/14/2018	02/14/2018 10:54:33	False	daily	CON=[as needed], UNC=[possible], temporal=[daily]
+activity	and possible sepsis , and I will add Tylenol and ibuprofen as needed for fevers .	2627-2634	Tylenol	CLAMP	RxNorm=[202433], Generic=[202433]	02/14/2018	02/14/2018 10:54:33	True		
+activity	sepsis , and I will add Tylenol and ibuprofen as needed for fevers . Overnight , he	2639-2648	ibuprofen	CLAMP	C0020740, RxNorm=[5640], Generic=[5640]	02/14/2018	02/14/2018 10:54:33	True		NEC=[as needed]
+activity	add Tylenol and ibuprofen as needed for fevers . Overnight , he did have his oxygen	2663-2669	fevers	CLAMP	C0015967	02/14/2018	02/14/2018 10:54:33	True		
+activity	for fevers . Overnight , he did have his oxygen saturations drop and went into oxygen overnight .	2699-2717	oxygen saturations	CLAMP	C0483415	02/14/2018	02/14/2018 10:54:33	True	Overnight overnight	temporal=[Overnight overnight]
+activity	clear , but because of the need for O2 , we instituted albuterol aerosols every	2810-2812	O2	CLAMP	C0030054	02/14/2018	02/14/2018 10:54:33	True		
+activity	of the need for O2 , we instituted albuterol aerosols every 6 hours to help maintain good	2828-2846	albuterol aerosols	CLAMP	C3495622	02/14/2018	02/14/2018 10:54:33	True	every 6 hours	temporal=[every 6 hours]
+activity	of the need for O2 , we instituted albuterol aerosols every 6 hours to help maintain	2828-2837	albuterol	CLAMP	C0001927, RxNorm=[435], Generic=[435]	02/14/2018	02/14/2018 10:54:33	True		FREQ=[every 6 hours]
+activity	were instructed to attempt to wean O2 if possible and advance the diet . He	2945-2947	O2	CLAMP	C0030054	02/14/2018	02/14/2018 10:54:33	True		
+activity	was doing clear liquids well and so I saline locked to help to accommodate improve	3024-3030	saline	CLAMP	RxNorm=[789982], Generic=[789982]	02/14/2018	02/14/2018 10:54:33	True		
+activity	the following evening with no further oxygen requirement . He continued to spike	3151-3157	oxygen	CLAMP	C0030054	02/14/2018	02/14/2018 10:54:33	False	the following evening	temporal=[the following evening]
+activity	requirement . He continued to spike fevers but last fever was around 13 : 45 on the	3194-3200	fevers	CLAMP	C0424755 SNOMEDCT_US[248427009]	02/14/2018	02/14/2018 10:54:33	True		
+activity	. He continued to spike fevers but last fever was around 13 : 45 on the previous day .	3205-3215	last fever	CLAMP	null	02/14/2018	02/14/2018 10:54:33	True	the previous day	temporal=[the previous day]
+activity	45 on the previous day . At the time of exam , he had 100 % oxygen saturations on room	3270-3274	exam	CLAMP	C0582103	02/14/2018	02/14/2018 10:54:33	True		
+activity	day . At the time of exam , he had 100 % oxygen saturations on room air with temperature of 99 . 3	3288-3306	oxygen saturations	CLAMP	C0483415	02/14/2018	02/14/2018 10:54:33	True		labvalue=[100%]
+activity	% oxygen saturations on room air with temperature of 99 . 3 degrees F . with clear lungs .	3324-3335	temperature	CLAMP	C0039476	02/14/2018	02/14/2018 10:54:33	True		labvalue=[99.3 degrees]
+activity	lungs . He was given additional dose of Rocephin when it was felt that it would be	3406-3414	Rocephin	CLAMP	C0035750, RxNorm=[9449], Generic=[9449]	02/14/2018	02/14/2018 10:54:33	True		
+condition	PATIENT AT DISCHARGE : He was at 100 % oxygen saturations on room air with no further dips at	3555-3573	oxygen saturations	CLAMP	C0483415	02/14/2018	02/14/2018 10:54:33	True		labvalue=[100%]
+condition	afebrile and was having no further increased work of breathing .	3667-3694	increased work of breathing	CLAMP	null	02/14/2018	02/14/2018 10:54:33	False		NEG=[no further], COU=[increased]
+diagnoses	DISCHARGE DIAGNOSES : 1 . Bilateral otitis media . 2 . Fever .	3721-3743	Bilateral otitis media	CLAMP	C0581369 SNOMEDCT_US[194286008]	02/14/2018	02/14/2018 10:54:33	True		BDL=[otitis media]
+diagnoses	: 1 . Bilateral otitis media . 2 . Fever .	3749-3754	Fever	CLAMP	C0424755 SNOMEDCT_US[248427009]	02/14/2018	02/14/2018 10:54:33	True		
+plan	in diet or activity . He was continued Omnicef 125 mg / 5 mL one teaspoon p . o . once	3842-3849	Omnicef	CLAMP	C1592068, RxNorm=[574341], Generic=[83099]	02/14/2018	02/14/2018 10:54:33	True		RUT=[p.o.], DOSEAMT=[one teaspoon], FREQ=[once daily], STRENGTH=[125 mg/5 mL]
+plan	Parents were instructed also to call if new symptoms occurred or he had return if	4018-4030	new symptoms	CLAMP	C1275491 SNOMEDCT_US[420816009]	02/14/2018	02/14/2018 10:54:33	False		CON=[if call]
+plan	symptoms occurred or he had return if difficulties with breathing or increased lethargy . Keywords :	4060-4087	difficulties with breathing	CLAMP	null	02/14/2018	02/14/2018 10:54:33	True		
+plan	if difficulties with breathing or increased lethargy . Keywords :	4091-4109	increased lethargy	CLAMP	null	02/14/2018	02/14/2018 10:54:33	True		
+discharge_summary	discharge summary , sepsis , cough , nasal congestion , rhinorrhea ,	4140-4146	sepsis	CLAMP	C0243026 SNOMEDCT_US[91302008]	02/14/2018	02/14/2018 10:54:33	True		
+discharge_summary	discharge summary , sepsis , cough , nasal congestion , rhinorrhea , oxygen	4148-4153	cough	CLAMP	C0687152 SNOMEDCT_US[289114008]	02/14/2018	02/14/2018 10:54:33	True		
+discharge_summary	discharge summary , sepsis , cough , nasal congestion , rhinorrhea , oxygen saturations , otitis	4155-4171	nasal congestion	CLAMP	C0027424 SNOMEDCT_US[68235000]	02/14/2018	02/14/2018 10:54:33	True		BDL=[nasal]
+discharge_summary	, sepsis , cough , nasal congestion , rhinorrhea , oxygen saturations , otitis media ,	4173-4183	rhinorrhea	CLAMP	C1260880 SNOMEDCT_US[397746007, 64531003, 267101005]	02/14/2018	02/14/2018 10:54:33	True		
+discharge_summary	, cough , nasal congestion , rhinorrhea , oxygen saturations , otitis media , otitis , breathing , lungs	4185-4203	oxygen saturations	CLAMP	C0483415	02/14/2018	02/14/2018 10:54:33	True		
+discharge_summary	, rhinorrhea , oxygen saturations , otitis media , otitis , breathing , lungs , oropharynx ,	4205-4217	otitis media	CLAMP	C0029882 SNOMEDCT_US[65363002]	02/14/2018	02/14/2018 10:54:33	True		
+discharge_summary	, oxygen saturations , otitis media , otitis , breathing , lungs , oropharynx , fever ,	4219-4225	otitis	CLAMP	C0029877 SNOMEDCT_US[43275000]	02/14/2018	02/14/2018 10:54:33	True		
+discharge_summary	, otitis , breathing , lungs , oropharynx , fever ,	4257-4262	fever	CLAMP	C0424755 SNOMEDCT_US[248427009]	02/14/2018	02/14/2018 10:54:33	True		

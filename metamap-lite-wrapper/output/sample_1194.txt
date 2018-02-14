@@ -1,0 +1,382 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0024299	0.0	85	93	Lymphoma
+MetaMapLite	C0678257	0.0	94	105	Description
+MetaMapLite	C0079744	0.0	108	137	Diffuse Large B-cell Lymphoma
+MetaMapLite	C0549177	0.0	116	121	Large
+MetaMapLite	C0282229	0.0	139	160	Medical Transcription
+MetaMapLite	C0370003	0.0	161	167	Sample
+MetaMapLite	C2347026	0.0	161	167	Sample
+MetaMapLite	C0684224	0.0	168	174	Report
+MetaMapLite	C0700287	0.0	168	174	Report
+MetaMapLite	C0012621	0.0	176	185	DISCHARGE
+MetaMapLite	C0030685	0.0	176	185	DISCHARGE
+MetaMapLite	C0011900	0.0	186	195	DIAGNOSES
+MetaMapLite	C0742472	0.0	201	232	Central nervous system lymphoma
+MetaMapLite	C0027763	0.0	209	223	nervous system
+MetaMapLite	C0744471	0.0	238	262	Gram-negative bacteremia
+MetaMapLite	C0205160	0.0	243	251	negative
+MetaMapLite	C0030312	0.0	268	280	Pancytopenia
+MetaMapLite	C0020538	0.0	286	298	Hypertension
+MetaMapLite	C0240705	0.0	304	317	Perianal rash
+MetaMapLite	C0011849	0.0	323	340	Diabetes mellitus
+MetaMapLite	C0242184	0.0	346	353	Hypoxia
+MetaMapLite	C0877340	0.0	359	378	Seizure prophylaxis
+MetaMapLite	C2609414	0.0	384	403	Acute kidney injury
+MetaMapLite	C0022660	0.0	384	403	Acute kidney injury
+MetaMapLite	C0025664	0.0	405	415	PROCEDURES
+MetaMapLite	C2700391	0.0	405	415	PROCEDURES
+MetaMapLite	C0347984	0.0	416	422	DURING
+MetaMapLite	C0019993	0.0	423	438	HOSPITALIZATION
+MetaMapLite	C1511572	0.0	444	449	Cycle
+MetaMapLite	C0205250	0.0	455	459	high
+MetaMapLite	C0178602	0.0	460	464	dose
+MetaMapLite	C0025677	0.0	465	477	methotrexate
+MetaMapLite	C0732355	0.0	483	490	Rituxan
+MetaMapLite	C0332174	0.0	491	497	weekly
+MetaMapLite	C0039985	0.0	503	514	Chest x-ray
+MetaMapLite	C3263723	0.0	520	525	Wound
+MetaMapLite	C0043250	0.0	520	525	Wound
+MetaMapLite	C0262512	0.0	535	561	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	546	553	PRESENT
+MetaMapLite	C2987187	0.0	577	585	pleasant
+MetaMapLite	C0439234	0.0	589	593	year
+MetaMapLite	C0580836	0.0	594	597	old
+MetaMapLite	C0043157	0.0	598	607	Caucasian
+MetaMapLite	C0007457	0.0	598	607	Caucasian
+MetaMapLite	C0043210	0.0	608	614	female
+MetaMapLite	C0015780	0.0	608	614	female
+MetaMapLite	C0086287	0.0	608	614	female
+MetaMapLite	C0011900	0.0	623	632	diagnosed
+MetaMapLite	C3811652	0.0	636	641	April
+MetaMapLite	C3715024	0.0	636	641	April
+MetaMapLite	C3715025	0.0	636	641	April
+MetaMapLite	C0079744	0.0	652	681	diffuse large B-cell lymphoma
+MetaMapLite	C0549177	0.0	660	665	large
+MetaMapLite	C0234621	0.0	702	708	visual
+MetaMapLite	C0443172	0.0	720	727	changes
+MetaMapLite	C0392747	0.0	720	727	changes
+MetaMapLite	C0009676	0.0	733	742	confusion
+MetaMapLite	C1517331	0.0	745	752	Further
+MetaMapLite	C0332305	0.0	753	760	staging
+MetaMapLite	C0205189	0.0	770	780	borderline
+MetaMapLite	C1522718	0.0	781	792	mediastinal
+MetaMapLite	C0025066	0.0	781	792	mediastinal
+MetaMapLite	C1264065	0.0	793	820	pretracheal lymphadenopathy
+MetaMapLite	C0205307	0.0	839	851	unremarkable
+MetaMapLite	C0205250	0.0	864	868	high
+MetaMapLite	C0178602	0.0	869	873	dose
+MetaMapLite	C0025677	0.0	874	886	methotrexate
+MetaMapLite	C0444598	0.0	890	893	mid
+MetaMapLite	C0750729	0.0	904	911	courses
+MetaMapLite	C0025677	0.0	915	927	methotrexate
+MetaMapLite	C0025677	0.0	963	975	methotrexate
+MetaMapLite	C0441889	0.0	976	982	levels
+MetaMapLite	C0009676	0.0	984	1000	mental confusion
+MetaMapLite	C0338831	0.0	1006	1011	mania
+MetaMapLite	C1511572	0.0	1021	1026	cycle
+MetaMapLite	C1824234	0.0	1041	1044	MRI
+MetaMapLite	C0024485	0.0	1041	1044	MRI
+MetaMapLite	C0587658	0.0	1041	1044	MRI
+MetaMapLite	C1272706	0.0	1052	1060	interval
+MetaMapLite	C0012634	0.0	1074	1081	disease
+MetaMapLite	C0732355	0.0	1087	1094	Rituxan
+MetaMapLite	C2945654	0.0	1112	1119	regimen
+MetaMapLite	C0040808	0.0	1112	1119	regimen
+MetaMapLite	C0205341	0.0	1136	1142	repeat
+MetaMapLite	C0587658	0.0	1143	1146	MRI
+MetaMapLite	C1824234	0.0	1143	1146	MRI
+MetaMapLite	C0024485	0.0	1143	1146	MRI
+MetaMapLite	C3829447	0.0	1150	1154	July
+MetaMapLite	C0332152	0.0	1164	1172	prior to
+MetaMapLite	C0184666	0.0	1178	1187	admission
+MetaMapLite	C0237881	0.0	1202	1213	significant
+MetaMapLite	C0750502	0.0	1202	1213	significant
+MetaMapLite	C2986411	0.0	1214	1225	improvement
+MetaMapLite	C0007682	0.0	1233	1244	CNS disease
+MetaMapLite	C0489547	0.0	1246	1261	HOSPITAL COURSE
+MetaMapLite	C0018941	0.0	1292	1302	Hematology
+MetaMapLite	C2183233	0.0	1292	1302	Hematology
+MetaMapLite	C0018943	0.0	1292	1302	Hematology
+MetaMapLite	C0557854	0.0	1305	1312	Service
+MetaMapLite	C3245478	0.0	1305	1312	Service
+MetaMapLite	C0742472	0.0	1340	1352	CNS lymphoma
+MetaMapLite	C0184666	0.0	1360	1369	admission
+MetaMapLite	C0732355	0.0	1394	1401	Rituxan
+MetaMapLite	C0205170	0.0	1423	1427	well
+MetaMapLite	C0720930	0.0	1443	1451	hydrated
+MetaMapLite	C0005367	0.0	1457	1468	bicarbonate
+MetaMapLite	C0037633	0.0	1469	1477	solution
+MetaMapLite	C0042044	0.0	1483	1491	urine pH
+MetaMapLite	C0025677	0.0	1512	1524	methotrexate
+MetaMapLite	C0439227	0.0	1537	1541	hour
+MetaMapLite	C0010294	0.0	1542	1552	creatinine
+MetaMapLite	C0439227	0.0	1565	1569	hour
+MetaMapLite	C0202421	0.0	1570	1588	methotrexate level
+MetaMapLite	C0332148	0.0	1621	1627	likely
+MetaMapLite	C0175668	0.0	1628	1640	secondary to
+MetaMapLite	C0686904	0.0	1645	1649	need
+MetaMapLite	C0027552	0.0	1645	1649	need
+MetaMapLite	C0039798	0.0	1662	1671	treatment
+MetaMapLite	C0087111	0.0	1662	1671	treatment
+MetaMapLite	C0003232	0.0	1677	1688	antibiotics
+MetaMapLite	C0442886	0.0	1689	1711	secondary to infection
+MetaMapLite	C0023413	0.0	1718	1728	leucovorin
+MetaMapLite	C1319266	0.0	1750	1755	mg/m2
+MetaMapLite	C0439227	0.0	1761	1765	hour
+MetaMapLite	C0202421	0.0	1766	1784	methotrexate level
+MetaMapLite	C0439227	0.0	1799	1803	hour
+MetaMapLite	C0025677	0.0	1804	1816	methotrexate
+MetaMapLite	C0439227	0.0	1834	1838	hour
+MetaMapLite	C1524062	0.0	1864	1874	additional
+MetaMapLite	C0178602	0.0	1880	1885	doses
+MetaMapLite	C0442027	0.0	1889	1893	oral
+MetaMapLite	C0023413	0.0	1894	1904	leucovorin
+MetaMapLite	C0010294	0.0	1911	1921	creatinine
+MetaMapLite	C0439228	0.0	1936	1939	day
+MetaMapLite	C0332152	0.0	1940	1948	prior to
+MetaMapLite	C0012621	0.0	1949	1958	discharge
+MetaMapLite	C0030685	0.0	1949	1958	discharge
+MetaMapLite	C0332174	0.0	1977	1983	weekly
+MetaMapLite	C0178602	0.0	1984	1988	dose
+MetaMapLite	C0732355	0.0	1992	1999	Rituxan
+MetaMapLite	C0332156	0.0	2011	2017	return
+MetaMapLite	C0732355	0.0	2022	2029	Rituxan
+MetaMapLite	C0439230	0.0	2035	2039	week
+MetaMapLite	C0332156	0.0	2049	2055	return
+MetaMapLite	C0003629	0.0	2063	2074	appointment
+MetaMapLite	C3831448	0.0	2089	2095	August
+MetaMapLite	C0184666	0.0	2120	2129	admission
+MetaMapLite	C0205117	0.0	2134	2138	next
+MetaMapLite	C1511572	0.0	2139	2144	cycle
+MetaMapLite	C0025677	0.0	2148	2160	methotrexate
+MetaMapLite	C0744471	0.0	2166	2190	Gram-negative bacteremia
+MetaMapLite	C0205160	0.0	2171	2179	negative
+MetaMapLite	C0332170	0.0	2200	2207	morning
+MetaMapLite	C3829443	0.0	2211	2215	June
+MetaMapLite	C0015967	0.0	2246	2251	fever
+MetaMapLite	C0424755	0.0	2246	2251	fever
+MetaMapLite	C1880496	0.0	2273	2280	empiric
+MetaMapLite	C0003232	0.0	2281	2292	antibiotics
+MetaMapLite	C0055003	0.0	2298	2306	cefepime
+MetaMapLite	C0042313	0.0	2311	2321	vancomycin
+MetaMapLite	C0010453	0.0	2324	2332	Cultures
+MetaMapLite	C3495140	0.0	2370	2381	Port-A-Cath
+MetaMapLite	C0935727	0.0	2370	2381	Port-A-Cath
+MetaMapLite	C0314752	0.0	2402	2420	Gram-negative rods
+MetaMapLite	C0205160	0.0	2407	2415	negative
+MetaMapLite	C0439227	0.0	2431	2436	hours
+MetaMapLite	C0003232	0.0	2467	2478	antibiotics
+MetaMapLite	C0277797	0.0	2493	2501	afebrile
+MetaMapLite	C0019993	0.0	2527	2542	hospitalization
+MetaMapLite	C0010453	0.0	2550	2558	cultures
+MetaMapLite	C0033701	0.0	2579	2596	Proteus mirabilis
+MetaMapLite	C1524062	0.0	2637	2647	additional
+MetaMapLite	C0005767	0.0	2648	2653	blood
+MetaMapLite	C0229664	0.0	2648	2653	blood
+MetaMapLite	C0010453	0.0	2654	2662	cultures
+MetaMapLite	C0205160	0.0	2679	2687	negative
+MetaMapLite	C0439228	0.0	2697	2700	day
+MetaMapLite	C0332152	0.0	2701	2709	prior to
+MetaMapLite	C0012621	0.0	2710	2719	discharge
+MetaMapLite	C0030685	0.0	2710	2719	discharge
+MetaMapLite	C0442027	0.0	2745	2749	oral
+MetaMapLite	C0701042	0.0	2750	2755	Cipro
+MetaMapLite	C0277797	0.0	2769	2777	afebrile
+MetaMapLite	C0442519	0.0	2808	2812	home
+MetaMapLite	C0442027	0.0	2818	2822	oral
+MetaMapLite	C0003232	0.0	2823	2834	antibiotics
+MetaMapLite	C0439228	0.0	2848	2851	day
+MetaMapLite	C0012621	0.0	2855	2864	discharge
+MetaMapLite	C0030685	0.0	2855	2864	discharge
+MetaMapLite	C0205197	0.0	2939	2947	complete
+MetaMapLite	C0439228	0.0	2953	2956	day
+MetaMapLite	C0750729	0.0	2957	2963	course
+MetaMapLite	C0003232	0.0	2970	2981	antibiotics
+MetaMapLite	C0055003	0.0	2987	2995	cefepime
+MetaMapLite	C0018896	0.0	3030	3040	assistance
+MetaMapLite	C1317851	0.0	3044	3055	home health
+MetaMapLite	C0018747	0.0	3049	3064	health services
+MetaMapLite	C1882442	0.0	3105	3116	precautions
+MetaMapLite	C0029921	0.0	3157	3167	outpatient
+MetaMapLite	C0424755	0.0	3204	3209	fever
+MetaMapLite	C0015967	0.0	3204	3209	fever
+MetaMapLite	C0439093	0.0	3210	3222	greater than
+MetaMapLite	C0332156	0.0	3249	3255	return
+MetaMapLite	C0205548	0.0	3256	3267	immediately
+MetaMapLite	C0184666	0.0	3272	3281	admission
+MetaMapLite	C0030312	0.0	3287	3299	Pancytopenia
+MetaMapLite	C0439228	0.0	3309	3312	day
+MetaMapLite	C0030685	0.0	3316	3325	discharge
+MetaMapLite	C0012621	0.0	3316	3325	discharge
+MetaMapLite	C0030705	0.0	3331	3338	patient
+MetaMapLite	C0220938	0.0	3361	3366	white
+MetaMapLite	C0007457	0.0	3361	3366	white
+MetaMapLite	C0043157	0.0	3361	3366	white
+MetaMapLite	C1705566	0.0	3367	3372	count
+MetaMapLite	C0750480	0.0	3367	3372	count
+MetaMapLite	C0948762	0.0	3381	3384	ANC
+MetaMapLite	C0019046	0.0	3393	3403	hemoglobin
+MetaMapLite	C0518014	0.0	3409	3419	hematocrit
+MetaMapLite	C0018935	0.0	3409	3419	hematocrit
+MetaMapLite	C0032181	0.0	3430	3444	platelet count
+MetaMapLite	C1287267	0.0	3430	3444	platelet count
+MetaMapLite	C0029921	0.0	3495	3505	outpatient
+MetaMapLite	C0184666	0.0	3519	3528	admission
+MetaMapLite	C0272285	0.0	3546	3549	HIT
+MetaMapLite	C1708373	0.0	3546	3549	HIT
+MetaMapLite	C3665580	0.0	3550	3558	antibody
+MetaMapLite	C0003241	0.0	3550	3558	antibody
+MetaMapLite	C0205160	0.0	3570	3578	negative
+MetaMapLite	C0019134	0.0	3581	3588	Heparin
+MetaMapLite	C0770546	0.0	3581	3588	Heparin
+MetaMapLite	C2946261	0.0	3609	3614	level
+MetaMapLite	C0456079	0.0	3609	3614	level
+MetaMapLite	C1547707	0.0	3609	3614	level
+MetaMapLite	C0441889	0.0	3609	3614	level
+MetaMapLite	C1099665	0.0	3648	3655	Arixtra
+MetaMapLite	C0087086	0.0	3680	3688	thrombus
+MetaMapLite	C0302148	0.0	3680	3688	thrombus
+MetaMapLite	C0039869	0.0	3697	3704	thought
+MetaMapLite	C0442886	0.0	3739	3761	secondary to infection
+MetaMapLite	C0205341	0.0	3825	3831	repeat
+MetaMapLite	C0869673	0.0	3832	3843	bone marrow
+MetaMapLite	C0005953	0.0	3832	3843	bone marrow
+MetaMapLite	C0029921	0.0	3850	3860	outpatient
+MetaMapLite	C0020538	0.0	3866	3878	Hypertension
+MetaMapLite	C1272641	0.0	3881	3895	Blood pressure
+MetaMapLite	C0005823	0.0	3881	3895	Blood pressure
+MetaMapLite	C0205360	0.0	3905	3911	stable
+MetaMapLite	C0184666	0.0	3927	3936	admission
+MetaMapLite	C0332173	0.0	3968	3973	daily
+MetaMapLite	C0240705	0.0	3979	3992	Perianal rash
+MetaMapLite	C0184666	0.0	4000	4009	admission
+MetaMapLite	C0006836	0.0	4048	4056	candidal
+MetaMapLite	C0015230	0.0	4057	4061	rash
+MetaMapLite	C1275631	0.0	4069	4084	perianal region
+MetaMapLite	C0442158	0.0	4069	4084	perianal region
+MetaMapLite	C0718407	0.0	4135	4145	Aloe Vesta
+MetaMapLite	C0991510	0.0	4146	4150	foam
+MetaMapLite	C0037125	0.0	4155	4161	Silver
+MetaMapLite	C1305285	0.0	4155	4161	Silver
+MetaMapLite	C0947651	0.0	4155	4161	Silver
+MetaMapLite	C1382104	0.0	4162	4165	gel
+MetaMapLite	C0017243	0.0	4162	4165	gel
+MetaMapLite	C0205146	0.0	4173	4177	area
+MetaMapLite	C0699601	0.0	4216	4224	Diflucan
+MetaMapLite	C0332173	0.0	4232	4237	daily
+MetaMapLite	C0205197	0.0	4249	4257	complete
+MetaMapLite	C0439228	0.0	4263	4266	day
+MetaMapLite	C0750729	0.0	4267	4273	course
+MetaMapLite	C0011849	0.0	4279	4296	Diabetes mellitus
+MetaMapLite	C0040223	0.0	4306	4310	time
+MetaMapLite	C0184666	0.0	4314	4323	admission
+MetaMapLite	C0020456	0.0	4347	4360	hyperglycemia
+MetaMapLite	C0349674	0.0	4390	4395	scale
+MetaMapLite	C0175659	0.0	4390	4395	scale
+MetaMapLite	C0021641	0.0	4396	4403	insulin
+MetaMapLite	C1579433	0.0	4396	4403	insulin
+MetaMapLite	C1533581	0.0	4396	4403	insulin
+MetaMapLite	C3714501	0.0	4396	4403	insulin
+MetaMapLite	C0205166	0.0	4430	4434	long
+MetaMapLite	C0876064	0.0	4442	4448	Lantus
+MetaMapLite	C0021641	0.0	4449	4456	insulin
+MetaMapLite	C2945654	0.0	4491	4498	regimen
+MetaMapLite	C0040808	0.0	4491	4498	regimen
+MetaMapLite	C0876064	0.0	4502	4508	Lantus
+MetaMapLite	C0439148	0.0	4512	4517	units
+MetaMapLite	C0521112	0.0	4521	4528	bedtime
+MetaMapLite	C0349674	0.0	4554	4559	scale
+MetaMapLite	C0175659	0.0	4554	4559	scale
+MetaMapLite	C0242184	0.0	4575	4582	Hypoxia
+MetaMapLite	C0332120	0.0	4598	4609	evidence of
+MetaMapLite	C0522534	0.0	4620	4631	saturations
+MetaMapLite	C2699424	0.0	4644	4651	concern
+MetaMapLite	C0032285	0.0	4672	4681	pneumonia
+MetaMapLite	C0042313	0.0	4706	4716	vancomycin
+MetaMapLite	C0332149	0.0	4721	4729	possible
+MetaMapLite	C0949083	0.0	4730	4757	hospital acquired pneumonia
+MetaMapLite	C1517331	0.0	4773	4780	further
+MetaMapLite	C0282443	0.0	4781	4787	review
+MetaMapLite	C1552617	0.0	4781	4787	review
+MetaMapLite	C0005767	0.0	4795	4800	blood
+MetaMapLite	C0229664	0.0	4795	4800	blood
+MetaMapLite	C0010453	0.0	4801	4809	cultures
+MetaMapLite	C0184511	0.0	4810	4818	improved
+MetaMapLite	C0039985	0.0	4820	4831	chest x-ray
+MetaMapLite	C0332290	0.0	4832	4847	consistent with
+MetaMapLite	C0004144	0.0	4848	4859	atelectasis
+MetaMapLite	C0205307	0.0	4864	4870	normal
+MetaMapLite	C0522534	0.0	4871	4882	saturations
+MetaMapLite	C0332148	0.0	4897	4903	likely
+MetaMapLite	C0175668	0.0	4904	4916	secondary to
+MetaMapLite	C0302908	0.0	4927	4933	fluids
+MetaMapLite	C0025677	0.0	4950	4962	methotrexate
+MetaMapLite	C0004144	0.0	4967	4978	atelectasis
+MetaMapLite	C0004916	0.0	5002	5005	bed
+MetaMapLite	C0877340	0.0	5011	5030	Seizure prophylaxis
+MetaMapLite	C0876060	0.0	5051	5057	Keppra
+MetaMapLite	C0585361	0.0	5058	5069	twice daily
+MetaMapLite	C2609414	0.0	5075	5094	Acute kidney injury
+MetaMapLite	C0022660	0.0	5075	5094	Acute kidney injury
+MetaMapLite	C0202421	0.0	5140	5158	methotrexate level
+MetaMapLite	C0040223	0.0	5195	5199	time
+MetaMapLite	C0012621	0.0	5203	5212	discharge
+MetaMapLite	C0030685	0.0	5203	5212	discharge
+MetaMapLite	C0010294	0.0	5215	5225	Creatinine
+MetaMapLite	C0439228	0.0	5229	5232	day
+MetaMapLite	C0012621	0.0	5203	5212	discharge
+MetaMapLite	C0030685	0.0	5203	5212	discharge
+MetaMapLite	C0029921	0.0	5283	5293	outpatient
+MetaMapLite	C0743223	0.0	5295	5306	DISPOSITION
+MetaMapLite	C0442519	0.0	5312	5316	home
+MetaMapLite	C3538874	0.0	5320	5336	stable condition
+MetaMapLite	C0677946	0.0	5320	5336	stable condition
+MetaMapLite	C1317851	0.0	5342	5353	home health
+MetaMapLite	C0018747	0.0	5347	5362	health services
+MetaMapLite	C0012621	0.0	5364	5373	DISCHARGE
+MetaMapLite	C0030685	0.0	5364	5373	DISCHARGE
+MetaMapLite	C0013227	0.0	5374	5385	MEDICATIONS
+MetaMapLite	C0443299	0.0	5392	5400	separate
+MetaMapLite	C2349187	0.0	5401	5406	sheet
+MetaMapLite	C0012159	0.0	5417	5421	DIET
+MetaMapLite	C0012155	0.0	5417	5421	DIET
+MetaMapLite	C0241863	0.0	5436	5444	diabetic
+MetaMapLite	C0441655	0.0	5446	5454	ACTIVITY
+MetaMapLite	C3242342	0.0	5457	5463	Resume
+MetaMapLite	C0445247	0.0	5464	5468	same
+MetaMapLite	C0441655	0.0	5469	5477	activity
+MetaMapLite	C1522577	0.0	5479	5487	FOLLOWUP
+MetaMapLite	C0332174	0.0	5495	5501	weekly
+MetaMapLite	C0043227	0.0	5506	5510	work
+MetaMapLite	C0184666	0.0	5525	5534	admission
+MetaMapLite	C3831448	0.0	5538	5544	August
+MetaMapLite	C1546466	0.0	5591	5599	problems
+MetaMapLite	C2699424	0.0	5603	5611	concerns
+MetaMapLite	C2827738	0.0	5619	5626	interim
+MetaMapLite	C0027552	0.0	5631	5636	needs
+MetaMapLite	C0686904	0.0	5631	5636	needs
+MetaMapLite	C0743221	0.0	5683	5700	discharge summary
+MetaMapLite	C3714542	0.0	5702	5719	lymphoma, diffuse
+MetaMapLite	C0079744	0.0	5712	5741	diffuse large b-cell lymphoma
+MetaMapLite	C0549177	0.0	5720	5725	large
+MetaMapLite	C3714542	0.0	5702	5719	lymphoma, diffuse
+MetaMapLite	C0549177	0.0	5720	5725	large
+MetaMapLite	C0004561	0.0	5771	5777	b cell
+MetaMapLite	C1317851	0.0	5779	5790	home health
+MetaMapLite	C0018747	0.0	5784	5799	health services
+MetaMapLite	C0439228	0.0	5801	5804	day
+MetaMapLite	C0012621	0.0	5808	5817	discharge
+MetaMapLite	C0030685	0.0	5808	5817	discharge
+MetaMapLite	C0025677	0.0	5819	5831	methotrexate
+MetaMapLite	C0441889	0.0	5832	5838	levels
+MetaMapLite	C0025677	0.0	5819	5831	methotrexate
+MetaMapLite	C0030685	0.0	5808	5817	discharge
+MetaMapLite	C0012621	0.0	5808	5817	discharge
+MetaMapLite	C0184666	0.0	5865	5874	admission

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/metamap/metamap-api-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/metamap/metamaplite-3.1-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/metamap/prologbeans.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

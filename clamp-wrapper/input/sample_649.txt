@@ -1,0 +1,16 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - 3
+Description:  Patient with increased shortness of breath of one day duration.
+(Medical Transcription Sample Report)
+DISCHARGE DIAGNOSES:
+1. Chronic obstructive pulmonary disease with acute hypercapnic respiratory failure.
+2. Chronic atrial fibrillation with prior ablation done on Coumadin treatment.
+3. Mitral stenosis.
+4. Remote history of lung cancer with prior resection of the left upper lobe.
+5. Anxiety and depression.
+HISTORY OF PRESENT ILLNESS: Details are present in the dictated report.
+BRIEF HOSPITAL COURSE: The patient is a 71-year-old lady who came in with increased shortness of breath of one day duration. She denied history of chest pain or fevers or cough with purulent sputum at that time. She was empirically treated with a course of antibiotics of Avelox for ten days. She also received steroids, prednisolone 60 mg, and breathing treatments with albuterol, Ipratropium and her bronchodilator therapy was also optimized with theophylline. She continued to receive Coumadin for her chronic atrial fibrillation. Her heart rate was controlled and was maintained in the 60s-70s. On the third day of admission she developed worsening respiratory failure with fatigue, and hence was required to be intubated and ventilated. She was put on mechanical ventilation from 1/29 to 2/6/06. She was extubated on 2/6 and put on BI-PAP. The pressures were gradually increased from 10 and 5 to 15 of BI-PAP and 5 of E-PAP with FIO2 of 35% at the time of transfer to Kindred. Her bronchospasm also responded to the aggressive bronchodilation and steroid therapy.
+DISCHARGE MEDICATIONS: Prednisolone 60 mg orally once daily, albuterol 2.5 mg nebulized every 4 hours, Atrovent Respules to be nebulized every 6 hours, Pulmicort 500 micrograms nebulized twice every 8 hours, Coumadin 5 mg orally once daily, magnesium oxide 200 mg orally once daily.
+TRANSFER INSTRUCTIONS: The patient is to be strictly kept on bi-level PAP of 15 I-PAP/E-PAP of 5 cm and FIO2 of 35% for most of the times during the day. She may be put on nasal cannula 2 to 3 liters per minute with an O2 saturation of 90-92% at meal times only, and that is to be limited to 1-2 hours every meal. On admission her potassium had risen slightly to 5.5, and hence her ACE inhibitor had to be discontinued. We may restart it again at a later date once her blood pressure control is better if required.
+Keywords:
+discharge summary, chronic obstructive pulmonary disease, hypercapnic respiratory failure, atrial fibrillation, chronic atrial fibrillation, increased shortness of breath, shortness of breath, increased shortness, coumadin, atrial,

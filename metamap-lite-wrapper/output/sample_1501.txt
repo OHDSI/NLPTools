@@ -1,0 +1,191 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C1306577	0.0	65	70	Death
+MetaMapLite	C0011065	0.0	65	70	Death
+MetaMapLite	C2348322	0.0	71	90	Summary
+Description
+MetaMapLite	C0011065	0.0	93	98	Death
+MetaMapLite	C1306577	0.0	93	98	Death
+MetaMapLite	C1552616	0.0	99	106	summary
+MetaMapLite	C1706244	0.0	99	106	summary
+MetaMapLite	C0439234	0.0	116	120	year
+MetaMapLite	C0580836	0.0	121	124	old
+MetaMapLite	C0030705	0.0	125	132	patient
+MetaMapLite	C2004062	0.0	140	147	history
+MetaMapLite	C0019665	0.0	140	147	history
+MetaMapLite	C0262926	0.0	140	147	history
+MetaMapLite	C0019664	0.0	140	147	history
+MetaMapLite	C0262512	0.0	140	147	history
+MetaMapLite	C3714496	0.0	151	155	COPD
+MetaMapLite	C0282229	0.0	158	179	Medical Transcription
+MetaMapLite	C0370003	0.0	180	186	Sample
+MetaMapLite	C2347026	0.0	180	186	Sample
+MetaMapLite	C0700287	0.0	187	193	Report
+MetaMapLite	C0684224	0.0	187	193	Report
+MetaMapLite	C0007465	0.0	195	209	CAUSE OF DEATH
+MetaMapLite	C0264490	0.0	215	240	Acute respiratory failure
+MetaMapLite	C0740848	0.0	246	296	Chronic obstructive pulmonary disease exacerbation
+MetaMapLite	C0549186	0.0	254	265	obstructive
+MetaMapLite	C0024115	0.0	266	283	pulmonary disease
+MetaMapLite	C0455540	0.0	266	283	pulmonary disease
+MetaMapLite	C0027627	0.0	298	307	SECONDARY
+MetaMapLite	C0175668	0.0	298	307	SECONDARY
+MetaMapLite	C0011900	0.0	308	317	DIAGNOSES
+MetaMapLite	C0264490	0.0	323	348	Acute respiratory failure
+MetaMapLite	C0750492	0.0	350	358	probably
+MetaMapLite	C0349707	0.0	371	381	aspiration
+MetaMapLite	C0022661	0.0	396	417	chronic renal failure
+MetaMapLite	C0429089	0.0	427	433	Q wave
+MetaMapLite	C1305738	0.0	427	433	Q wave
+MetaMapLite	C0027051	0.0	434	455	myocardial infarction
+MetaMapLite	C0238767	0.0	461	470	Bilateral
+MetaMapLite	C0149726	0.0	471	482	lung masses
+MetaMapLite	C0265101	0.0	488	505	Occlusive carotid
+MetaMapLite	C0012634	0.0	506	513	disease
+MetaMapLite	C0020538	0.0	519	531	Hypertension
+MetaMapLite	C0085096	0.0	537	564	Peripheral vascular disease
+MetaMapLite	C0489547	0.0	566	581	HOSPITAL COURSE
+MetaMapLite	C0439234	0.0	592	596	year
+MetaMapLite	C0580836	0.0	597	600	old
+MetaMapLite	C0030705	0.0	601	608	patient
+MetaMapLite	C0019665	0.0	616	623	history
+MetaMapLite	C0262926	0.0	616	623	history
+MetaMapLite	C0019664	0.0	616	623	history
+MetaMapLite	C0262512	0.0	616	623	history
+MetaMapLite	C2004062	0.0	616	623	history
+MetaMapLite	C3714496	0.0	627	631	COPD
+MetaMapLite	C2945760	0.0	640	649	recurrent
+MetaMapLite	C0184666	0.0	650	660	admissions
+MetaMapLite	C0205388	0.0	675	678	few
+MetaMapLite	C0439231	0.0	679	685	months
+MetaMapLite	C0030705	0.0	692	699	patient
+MetaMapLite	C0205156	0.0	765	773	previous
+MetaMapLite	C1552607	0.0	765	773	previous
+MetaMapLite	C0439228	0.0	774	777	day
+MetaMapLite	C0264491	0.0	793	829	acute on chronic respiratory failure
+MetaMapLite	C0860710	0.0	836	839	CO2
+MetaMapLite	C0030705	0.0	852	859	patient
+MetaMapLite	C1281999	0.0	867	892	rapid atrial fibrillation
+MetaMapLite	C3540498	0.0	895	898	RVR
+MetaMapLite	C1417822	0.0	895	898	RVR
+MetaMapLite	C0748243	0.0	906	932	rapid ventricular response
+MetaMapLite	C0018827	0.0	912	923	ventricular
+MetaMapLite	C0439232	0.0	950	956	minute
+MetaMapLite	C1282918	0.0	950	956	minute
+MetaMapLite	C2347166	0.0	950	956	minute
+MetaMapLite	C0700321	0.0	950	956	minute
+MetaMapLite	C0030705	0.0	963	970	patient
+MetaMapLite	C0740304	0.0	978	995	COPD exacerbation
+MetaMapLite	C0018802	0.0	1000	1003	CHF
+MetaMapLite	C0678226	0.0	1004	1010	due to
+MetaMapLite	C1281999	0.0	1011	1036	rapid atrial fibrillation
+MetaMapLite	C0030705	0.0	1043	1052	patient's
+MetaMapLite	C0018810	0.0	1053	1063	heart rate
+MetaMapLite	C2197023	0.0	1053	1063	heart rate
+MetaMapLite	C0700940	0.0	1087	1095	Cardizem
+MetaMapLite	C0041199	0.0	1098	1106	Troponin
+MetaMapLite	C0332290	0.0	1111	1126	consistent with
+MetaMapLite	C0860155	0.0	1127	1140	non-Q wave MI
+MetaMapLite	C0678544	0.0	1133	1137	wave
+MetaMapLite	C0030705	0.0	1147	1154	patient
+MetaMapLite	C1705822	0.0	1177	1185	transfer
+MetaMapLite	C0040671	0.0	1177	1185	transfer
+MetaMapLite	C0007430	0.0	1189	1200	catheterize
+MetaMapLite	C0030705	0.0	1205	1212	patient
+MetaMapLite	C0010054	0.0	1229	1252	coronary artery disease
+MetaMapLite	C0010068	0.0	1229	1252	coronary artery disease
+MetaMapLite	C1956346	0.0	1229	1252	coronary artery disease
+MetaMapLite	C0013516	0.0	1255	1269	Echocardiogram
+MetaMapLite	C1535947	0.0	1277	1301	normal ejection fraction
+MetaMapLite	C0205307	0.0	1303	1309	normal
+MetaMapLite	C0205090	0.0	1319	1329	right side
+MetaMapLite	C0441771	0.0	1335	1342	stage 3
+MetaMapLite	C0031842	0.0	1355	1365	physiology
+MetaMapLite	C0031843	0.0	1355	1365	physiology
+MetaMapLite	C0003501	0.0	1394	1406	aortic valve
+MetaMapLite	C0030705	0.0	1413	1420	patient
+MetaMapLite	C0021708	0.0	1437	1456	Intensive Care Unit
+MetaMapLite	C0580931	0.0	1447	1451	Care
+MetaMapLite	C2709248	0.0	1477	1486	Pulmonary
+MetaMapLite	C0024109	0.0	1477	1486	Pulmonary
+MetaMapLite	C0010337	0.0	1502	1515	Critical Care
+MetaMapLite	C0030705	0.0	1528	1535	patient
+MetaMapLite	C0038317	0.0	1610	1618	steroids
+MetaMapLite	C0030705	0.0	1625	1634	patient's
+MetaMapLite	C0022662	0.0	1635	1649	renal function
+MetaMapLite	C0232804	0.0	1635	1649	renal function
+MetaMapLite	C0018795	0.0	1751	1772	heart catheterization
+MetaMapLite	C0027712	0.0	1794	1804	Nephrology
+MetaMapLite	C0030705	0.0	1829	1838	patient's
+MetaMapLite	C0022646	0.0	1839	1844	renal
+MetaMapLite	C0449438	0.0	1845	1851	status
+MetaMapLite	C0242665	0.0	1854	1858	Wife
+MetaMapLite	C0007430	0.0	1867	1882	catheterization
+MetaMapLite	C0030705	0.0	1910	1917	patient
+MetaMapLite	C0030705	0.0	1947	1954	patient
+MetaMapLite	C0039451	0.0	1978	1987	telemetry
+MetaMapLite	C0016249	0.0	1988	1993	floor
+MetaMapLite	C0039451	0.0	2005	2014	telemetry
+MetaMapLite	C0016249	0.0	2015	2020	floor
+MetaMapLite	C0030705	0.0	2026	2035	patient's
+MetaMapLite	C0022662	0.0	2036	2050	renal function
+MetaMapLite	C0232804	0.0	2036	2050	renal function
+MetaMapLite	C0439228	0.0	2107	2111	days
+MetaMapLite	C0030705	0.0	2118	2125	patient
+MetaMapLite	C0027498	0.0	2130	2149	nausea and vomiting
+MetaMapLite	C1299582	0.0	2156	2162	unable
+MetaMapLite	C1321013	0.0	2201	2210	hydration
+MetaMapLite	C0030705	0.0	2217	2224	patient
+MetaMapLite	C0748355	0.0	2235	2261	acute respiratory distress
+MetaMapLite	C0021925	0.0	2264	2274	Intubation
+MetaMapLite	C0030705	0.0	2286	2293	patient
+MetaMapLite	C0264490	0.0	2320	2345	acute respiratory failure
+MetaMapLite	C0006266	0.0	2351	2364	bronchospasms
+MetaMapLite	C3714496	0.0	2385	2389	COPD
+MetaMapLite	C0039985	0.0	2392	2406	X-ray of chest
+MetaMapLite	C0202797	0.0	2392	2406	X-ray of chest
+MetaMapLite	C0086894	0.0	2394	2397	ray
+MetaMapLite	C0851346	0.0	2394	2397	ray
+MetaMapLite	C2314876	0.0	2394	2397	ray
+MetaMapLite	C0332448	0.0	2424	2434	infiltrate
+MetaMapLite	C0012356	0.0	2447	2457	dilatation
+MetaMapLite	C0038351	0.0	2465	2472	stomach
+MetaMapLite	C0030705	0.0	2479	2486	patient
+MetaMapLite	C0021708	0.0	2510	2529	Intensive Care Unit
+MetaMapLite	C0580931	0.0	2520	2524	Care
+MetaMapLite	C0264490	0.0	2541	2566	acute respiratory failure
+MetaMapLite	C0010337	0.0	2585	2598	Critical Care
+MetaMapLite	C0030705	0.0	2612	2619	patient
+MetaMapLite	C0439583	0.0	2642	2651	Overnight
+MetaMapLite	C0683521	0.0	2657	2676	patient's condition
+MetaMapLite	C0549178	0.0	2695	2704	Continued
+MetaMapLite	C0205082	0.0	2711	2719	severely
+MetaMapLite	C0242184	0.0	2720	2727	hypoxic
+MetaMapLite	C0030705	0.0	2733	2740	patient
+MetaMapLite	C0332170	0.0	2756	2763	morning
+MetaMapLite	C0264490	0.0	2781	2806	acute respiratory failure
+MetaMapLite	C0743221	0.0	2818	2835	discharge summary
+MetaMapLite	C0027051	0.0	2837	2858	myocardial infarction
+MetaMapLite	C0021708	0.0	2860	2879	intensive care unit
+MetaMapLite	C0580931	0.0	2870	2874	care
+MetaMapLite	C0264490	0.0	2881	2906	acute respiratory failure
+MetaMapLite	C1306577	0.0	2908	2913	death
+MetaMapLite	C0011065	0.0	2908	2913	death
+MetaMapLite	C1552616	0.0	2914	2921	summary
+MetaMapLite	C1706244	0.0	2914	2921	summary
+MetaMapLite	C0004238	0.0	2923	2942	atrial fibrillation
+MetaMapLite	C0232804	0.0	2944	2958	renal function
+MetaMapLite	C0022662	0.0	2944	2958	renal function
+MetaMapLite	C0039451	0.0	2960	2969	telemetry
+MetaMapLite	C0016249	0.0	2970	2975	floor
+MetaMapLite	C1145670	0.0	2977	2996	respiratory failure
+MetaMapLite	C0011065	0.0	2998	3003	death
+MetaMapLite	C1306577	0.0	2998	3003	death
+MetaMapLite	C0205191	0.0	3005	3012	chronic
+MetaMapLite	C0021308	0.0	3028	3038	infarction
+MetaMapLite	C0521346	0.0	3040	3051	respiratory

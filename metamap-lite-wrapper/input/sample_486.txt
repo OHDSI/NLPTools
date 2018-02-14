@@ -1,0 +1,14 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Urology Discharge Summary
+Description:  Hispanic male patient was admitted because of enlarged prostate and symptoms of bladder neck obstruction.
+(Medical Transcription Sample Report)
+PROCEDURES: Cystourethroscopy and transurethral resection of prostate.
+COMPLICATIONS: None.
+ADMITTING DIAGNOSIS: Difficulty voiding.
+HISTORY: This 67-year old Hispanic male patient was admitted because of enlarged prostate and symptoms of bladder neck obstruction.  Physical examination revealed normal heart and lungs.  Abdomen was negative for abnormal findings.
+LABORATORY DATA: BUN 19 and creatinine 1.1.  Blood group was A, Rh positive, Hemoglobin 13, Hematocrit 32.1, Prothrombin time 12.6 seconds, PTT 37.1.  Discharge  hemoglobin 11.4, and hematocrit 33.3.  Chest x-ray calcified old granulomatous disease, otherwise normal.  EKG was normal.
+COURSE IN THE HOSPITAL: The patient had a cysto and TUR of the prostate.  Postoperative course was uncomplicated. The pathology report is pending at the time of dictation.  He is being discharged in satisfactory condition with a good urinary stream, minimal hematuria, and on Bactrim DS one a day for ten days with a standard postprostatic surgery instruction sheet.
+DISCHARGE DIAGNOSIS:  Enlarged prostate with benign bladder neck obstruction.
+To be followed in my office in one week and by Dr. ABC next available as an outpatient.
+Keywords:
+discharge summary, tur, bun, cystourethroscopy, difficulty voiding, bladder neck obstruction, creatinine, cysto, enlarged prostate, transurethral resection of prostate, urinary stream, bladder neck, neck obstruction, prostate,

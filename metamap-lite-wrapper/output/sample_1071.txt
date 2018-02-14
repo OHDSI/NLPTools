@@ -1,0 +1,302 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0678257	0.0	87	98	Description
+MetaMapLite	C0043210	0.0	103	108	woman
+MetaMapLite	C0277786	0.0	134	144	complaints
+MetaMapLite	C0027497	0.0	148	154	nausea
+MetaMapLite	C0042963	0.0	156	164	vomiting
+MetaMapLite	C0232570	0.0	170	191	epigastric discomfort
+MetaMapLite	C0549178	0.0	193	200	ongoing
+MetaMapLite	C0439231	0.0	218	224	months
+MetaMapLite	C0282229	0.0	227	248	Medical Transcription
+MetaMapLite	C0370003	0.0	249	255	Sample
+MetaMapLite	C2347026	0.0	249	255	Sample
+MetaMapLite	C0700287	0.0	256	262	Report
+MetaMapLite	C0684224	0.0	256	262	Report
+MetaMapLite	C1555319	0.0	264	283	DISCHARGE DIAGNOSIS
+MetaMapLite	C0232493	0.0	289	304	Epigastric pain
+MetaMapLite	C0332241	0.0	307	319	Questionable
+MetaMapLite	C0017152	0.0	320	329	gastritis
+MetaMapLite	C0332241	0.0	331	343	questionable
+MetaMapLite	C0151744	0.0	355	374	myocardial ischemia
+MetaMapLite	C0010054	0.0	355	374	myocardial ischemia
+MetaMapLite	C0018802	0.0	380	404	Congestive heart failure
+MetaMapLite	C0700321	0.0	423	428	Small
+MetaMapLite	C0031039	0.0	429	449	pericardial effusion
+MetaMapLite	C1253937	0.0	429	449	pericardial effusion
+MetaMapLite	C0579016	0.0	458	467	tamponade
+MetaMapLite	C0332459	0.0	458	467	tamponade
+MetaMapLite	C0020676	0.0	473	487	Hypothyroidism
+MetaMapLite	C0332241	0.0	493	505	Questionable
+MetaMapLite	C0205365	0.0	506	514	subacute
+MetaMapLite	C0021308	0.0	515	522	infarct
+MetaMapLite	C0027651	0.0	530	538	neoplasm
+MetaMapLite	C0032639	0.0	546	550	pons
+MetaMapLite	C1881055	0.0	556	590	History of coronary artery disease
+MetaMapLite	C0231290	0.0	592	603	status post
+MetaMapLite	C0162577	0.0	604	615	angioplasty
+MetaMapLite	C0038257	0.0	620	625	stent
+MetaMapLite	C1705817	0.0	620	625	stent
+MetaMapLite	C0020621	0.0	631	642	Hypokalemia
+MetaMapLite	C0205210	0.0	644	652	CLINICAL
+MetaMapLite	C3242342	0.0	653	659	RESUME
+MetaMapLite	C0439234	0.0	670	674	year
+MetaMapLite	C0580836	0.0	675	678	old
+MetaMapLite	C0043210	0.0	679	684	woman
+MetaMapLite	C0277786	0.0	714	724	complaints
+MetaMapLite	C0027497	0.0	728	734	nausea
+MetaMapLite	C0042963	0.0	736	744	vomiting
+MetaMapLite	C0232570	0.0	750	771	epigastric discomfort
+MetaMapLite	C0549178	0.0	773	780	ongoing
+MetaMapLite	C0439231	0.0	798	804	months
+MetaMapLite	C0205231	0.0	819	828	extensive
+MetaMapLite	C0750430	0.0	829	836	work up
+MetaMapLite	C0016976	0.0	849	860	gallbladder
+MetaMapLite	C3715024	0.0	872	877	April
+MetaMapLite	C3715025	0.0	872	877	April
+MetaMapLite	C3811652	0.0	872	877	April
+MetaMapLite	C0014245	0.0	899	908	endoscopy
+MetaMapLite	C0038358	0.0	934	955	gastric ulcer disease
+MetaMapLite	C0750541	0.0	956	966	apparently
+MetaMapLite	C0439234	0.0	975	979	year
+MetaMapLite	C1096157	0.0	998	1011	abdominal CAT
+MetaMapLite	C0441633	0.0	1012	1016	scan
+MetaMapLite	C0017127	0.0	1021	1037	gastric emptying
+MetaMapLite	C0947630	0.0	1038	1045	studies
+MetaMapLite	C0205307	0.0	1056	1062	normal
+MetaMapLite	C0412620	0.0	1066	1088	CT scan of the abdomen
+MetaMapLite	C0441633	0.0	1069	1073	scan
+MetaMapLite	C0238767	0.0	1127	1136	bilateral
+MetaMapLite	C0268800	0.0	1148	1159	renal cysts
+MetaMapLite	C0425087	0.0	1166	1175	redundant
+MetaMapLite	C0227391	0.0	1176	1189	sigmoid colon
+MetaMapLite	C0205307	0.0	1202	1214	unremarkable
+MetaMapLite	C0030705	0.0	1221	1228	patient
+MetaMapLite	C0029921	0.0	1256	1266	outpatient
+MetaMapLite	C0030705	0.0	1273	1280	patient
+MetaMapLite	C0683368	0.0	1307	1315	symptoms
+MetaMapLite	C1457887	0.0	1307	1315	symptoms
+MetaMapLite	C0205388	0.0	1330	1333	few
+MetaMapLite	C0439228	0.0	1334	1338	days
+MetaMapLite	C1555582	0.0	1408	1415	initial
+MetaMapLite	C0205265	0.0	1408	1415	initial
+MetaMapLite	C0205197	0.0	1424	1432	complete
+MetaMapLite	C1522508	0.0	1433	1440	details
+MetaMapLite	C0489547	0.0	1442	1457	HOSPITAL COURSE
+MetaMapLite	C0232493	0.0	1463	1478	Epigastric pain
+MetaMapLite	C0027497	0.0	1480	1486	nausea
+MetaMapLite	C0042963	0.0	1492	1500	vomiting
+MetaMapLite	C0030705	0.0	1507	1514	patient
+MetaMapLite	C0003297	0.0	1535	1546	antiemetics
+MetaMapLite	C1457887	0.0	1555	1563	symptoms
+MetaMapLite	C0683368	0.0	1555	1563	symptoms
+MetaMapLite	C2963144	0.0	1586	1591	clear
+MetaMapLite	C0027497	0.0	1604	1610	nausea
+MetaMapLite	C0000737	0.0	1615	1629	abdominal pain
+MetaMapLite	C0678226	0.0	1635	1641	due to
+MetaMapLite	C0017152	0.0	1642	1651	gastritis
+MetaMapLite	C0030920	0.0	1653	1673	peptic ulcer disease
+MetaMapLite	C0038351	0.0	1674	1681	gastric
+MetaMapLite	C1704242	0.0	1674	1681	gastric
+MetaMapLite	C0022116	0.0	1682	1690	ischemia
+MetaMapLite	C1522601	0.0	1695	1702	cardiac
+MetaMapLite	C0018787	0.0	1695	1702	cardiac
+MetaMapLite	C1550512	0.0	1703	1709	origin
+MetaMapLite	C0079946	0.0	1703	1709	origin
+MetaMapLite	C0439659	0.0	1703	1709	origin
+MetaMapLite	C0412675	0.0	1714	1723	brain MRI
+MetaMapLite	C0881827	0.0	1714	1723	brain MRI
+MetaMapLite	C1285542	0.0	1768	1773	focus
+MetaMapLite	C0205161	0.0	1777	1785	abnormal
+MetaMapLite	C1627358	0.0	1786	1797	enhancement
+MetaMapLite	C2349975	0.0	1786	1797	enhancement
+MetaMapLite	C0032639	0.0	1805	1809	pons
+MetaMapLite	C0205365	0.0	1826	1834	subacute
+MetaMapLite	C0021308	0.0	1840	1847	infarct
+MetaMapLite	C0006118	0.0	1859	1873	brain neoplasm
+MetaMapLite	C0332120	0.0	1949	1960	evidence of
+MetaMapLite	C2882221	0.0	1961	1983	acute pulmonary emboli
+MetaMapLite	C0205081	0.0	2001	2009	moderate
+MetaMapLite	C0018800	0.0	2010	2022	cardiomegaly
+MetaMapLite	C0238767	0.0	2028	2037	bilateral
+MetaMapLite	C0032227	0.0	2038	2055	pleural effusions
+MetaMapLite	C0700321	0.0	2063	2068	small
+MetaMapLite	C1253937	0.0	2069	2089	pericardial effusion
+MetaMapLite	C0031039	0.0	2069	2089	pericardial effusion
+MetaMapLite	C0030705	0.0	2096	2103	patient
+MetaMapLite	C0728720	0.0	2114	2124	Cardiolite
+MetaMapLite	C0015260	0.0	2125	2136	stress test
+MetaMapLite	C3494508	0.0	2125	2136	stress test
+MetaMapLite	C0947630	0.0	2167	2174	studies
+MetaMapLite	C1629507	0.0	2186	2198	inconclusive
+MetaMapLite	C0205258	0.0	2186	2198	inconclusive
+MetaMapLite	C0205197	0.0	2216	2224	complete
+MetaMapLite	C0015260	0.0	2229	2240	stress test
+MetaMapLite	C0009818	0.0	2270	2282	consultation
+MetaMapLite	C0030705	0.0	2308	2315	patient
+MetaMapLite	C2010622	0.0	2330	2356	small bowel follow through
+MetaMapLite	C0021853	0.0	2336	2341	bowel
+MetaMapLite	C0002978	0.0	2372	2381	angiogram
+MetaMapLite	C0029921	0.0	2388	2398	outpatient
+MetaMapLite	C0018802	0.0	2404	2428	Congestive heart failure
+MetaMapLite	C0030705	0.0	2448	2455	patient
+MetaMapLite	C0003015	0.0	2473	2487	ACE inhibitors
+MetaMapLite	C0012798	0.0	2489	2498	diuretics
+MetaMapLite	C0591054	0.0	2500	2509	Aldactone
+MetaMapLite	C0699992	0.0	2515	2520	Lasix
+MetaMapLite	C0013516	0.0	2540	2554	echocardiogram
+MetaMapLite	C2020641	0.0	2570	2587	ejection fraction
+MetaMapLite	C0489482	0.0	2570	2587	ejection fraction
+MetaMapLite	C1264633	0.0	2579	2590	fraction of
+MetaMapLite	C2945599	0.0	2609	2613	mild
+MetaMapLite	C0043047	0.0	2614	2619	water
+MetaMapLite	C0039155	0.0	2635	2643	systolic
+MetaMapLite	C0031843	0.0	2644	2652	function
+MetaMapLite	C0542341	0.0	2644	2652	function
+MetaMapLite	C0439064	0.0	2659	2667	multiple
+MetaMapLite	C0807885	0.0	2668	2689	segmental wall motion
+MetaMapLite	C0000769	0.0	2690	2703	abnormalities
+MetaMapLite	C0700321	0.0	2707	2712	small
+MetaMapLite	C0031039	0.0	2722	2742	pericardial effusion
+MetaMapLite	C1253937	0.0	2722	2742	pericardial effusion
+MetaMapLite	C0220913	0.0	2772	2777	signs
+MetaMapLite	C0220912	0.0	2772	2777	signs
+MetaMapLite	C0007177	0.0	2781	2798	cardiac tamponade
+MetaMapLite	C0205237	0.0	2816	2822	pseudo
+MetaMapLite	C0205307	0.0	2823	2829	normal
+MetaMapLite	C0449774	0.0	2830	2837	pattern
+MetaMapLite	C2945599	0.0	2850	2854	mild
+MetaMapLite	C0745157	0.0	2862	2880	global hypokinesis
+MetaMapLite	C0700321	0.0	2896	2901	Small
+MetaMapLite	C0031039	0.0	2902	2922	pericardial effusion
+MetaMapLite	C1253937	0.0	2902	2922	pericardial effusion
+MetaMapLite	C0030705	0.0	2929	2936	patient
+MetaMapLite	C0205210	0.0	2954	2962	clinical
+MetaMapLite	C0332120	0.0	2984	2995	evidence of
+MetaMapLite	C0332459	0.0	2996	3005	tamponade
+MetaMapLite	C0579016	0.0	2996	3005	tamponade
+MetaMapLite	C0020676	0.0	3011	3025	Hypothyroidism
+MetaMapLite	C0205250	0.0	3042	3050	elevated
+MetaMapLite	C0332241	0.0	3062	3074	Questionable
+MetaMapLite	C0205365	0.0	3075	3083	subacute
+MetaMapLite	C0021308	0.0	3084	3091	infarct
+MetaMapLite	C0027651	0.0	3099	3107	neoplasm
+MetaMapLite	C0032639	0.0	3115	3119	pons
+MetaMapLite	C1824234	0.0	3126	3129	MRI
+MetaMapLite	C0024485	0.0	3126	3129	MRI
+MetaMapLite	C0587658	0.0	3126	3129	MRI
+MetaMapLite	C0018670	0.0	3137	3141	head
+MetaMapLite	C0152336	0.0	3137	3141	head
+MetaMapLite	C1881055	0.0	3147	3181	History of coronary artery disease
+MetaMapLite	C0162577	0.0	3182	3193	angioplasty
+MetaMapLite	C0038257	0.0	3198	3204	stents
+MetaMapLite	C0020461	0.0	3210	3222	Hyperkalemia
+MetaMapLite	C0030705	0.0	3228	3235	Patient
+MetaMapLite	C0205170	0.0	3246	3250	well
+MetaMapLite	C0004600	0.0	3261	3265	back
+MetaMapLite	C0168634	0.0	3273	3281	baseline
+MetaMapLite	C1442488	0.0	3273	3281	baseline
+MetaMapLite	C1517331	0.0	3299	3306	further
+MetaMapLite	C0030705	0.0	3322	3329	patient
+MetaMapLite	C0205360	0.0	3334	3340	stable
+MetaMapLite	C0442519	0.0	3388	3392	home
+MetaMapLite	C0039593	0.0	3409	3416	testing
+MetaMapLite	C0392366	0.0	3409	3416	testing
+MetaMapLite	C0029921	0.0	3428	3438	outpatient
+MetaMapLite	C0013227	0.0	3440	3451	MEDICATIONS
+MetaMapLite	C0740209	0.0	3456	3462	ADVICE
+MetaMapLite	C0150600	0.0	3456	3462	ADVICE
+MetaMapLite	C0012621	0.0	3466	3475	DISCHARGE
+MetaMapLite	C0030685	0.0	3466	3475	DISCHARGE
+MetaMapLite	C0719509	0.0	3507	3512	Coreg
+MetaMapLite	C0591301	0.0	3537	3543	Cozaar
+MetaMapLite	C0332173	0.0	3555	3560	daily
+MetaMapLite	C0591054	0.0	3566	3575	Aldactone
+MetaMapLite	C0332173	0.0	3587	3592	daily
+MetaMapLite	C0728762	0.0	3598	3607	Synthroid
+MetaMapLite	C0332173	0.0	3622	3627	daily
+MetaMapLite	C0740157	0.0	3633	3641	Carafate
+MetaMapLite	C0439208	0.0	3644	3648	gram
+MetaMapLite	C0040223	0.0	3657	3662	times
+MetaMapLite	C0439228	0.0	3665	3668	day
+MetaMapLite	C0701055	0.0	3674	3682	Claritin
+MetaMapLite	C0332173	0.0	3694	3699	daily
+MetaMapLite	C0699992	0.0	3705	3710	Lasix
+MetaMapLite	C0332173	0.0	3722	3727	daily
+MetaMapLite	C0721178	0.0	3733	3741	K-Dur 20
+MetaMapLite	C0439152	0.0	3742	3745	mEq
+MetaMapLite	C0332173	0.0	3751	3756	daily
+MetaMapLite	C0700777	0.0	3762	3770	Prilosec
+MetaMapLite	C0332173	0.0	3782	3787	daily
+MetaMapLite	C0206046	0.0	3794	3800	Zofran
+MetaMapLite	C0558292	0.0	3817	3823	hourly
+MetaMapLite	C0033131	0.0	3860	3882	primary care physician
+MetaMapLite	C0580931	0.0	3868	3872	care
+MetaMapLite	C0439228	0.0	3902	3906	days
+MetaMapLite	C0040223	0.0	3908	3912	time
+MetaMapLite	C0175906	0.0	3952	3964	cardiologist
+MetaMapLite	C0439228	0.0	3975	3979	days
+MetaMapLite	C0040223	0.0	3981	3985	time
+MetaMapLite	C0030705	0.0	4048	4055	patient
+MetaMapLite	C0027552	0.0	4082	4086	need
+MetaMapLite	C0686904	0.0	4082	4086	need
+MetaMapLite	C2010622	0.0	4089	4115	small bowel follow through
+MetaMapLite	C0021853	0.0	4095	4100	bowel
+MetaMapLite	C0002978	0.0	4121	4130	angiogram
+MetaMapLite	C0259901	0.0	4160	4178	gastroenterologist
+MetaMapLite	C0029921	0.0	4185	4195	outpatient
+MetaMapLite	C0027552	0.0	4234	4238	need
+MetaMapLite	C0686904	0.0	4234	4238	need
+MetaMapLite	C0205341	0.0	4241	4247	repeat
+MetaMapLite	C0024485	0.0	4248	4251	MRI
+MetaMapLite	C0587658	0.0	4248	4251	MRI
+MetaMapLite	C1824234	0.0	4248	4251	MRI
+MetaMapLite	C0018670	0.0	4259	4263	head
+MetaMapLite	C0152336	0.0	4259	4263	head
+MetaMapLite	C0556969	0.0	4274	4286	months' time
+MetaMapLite	C0027552	0.0	4303	4307	need
+MetaMapLite	C0686904	0.0	4303	4307	need
+MetaMapLite	C0205341	0.0	4308	4314	repeat
+MetaMapLite	C0013516	0.0	4315	4329	echocardiogram
+MetaMapLite	C0439231	0.0	4342	4347	month
+MetaMapLite	C0031039	0.0	4354	4374	pericardial effusion
+MetaMapLite	C1253937	0.0	4354	4374	pericardial effusion
+MetaMapLite	C0033131	0.0	4405	4427	primary care physician
+MetaMapLite	C0580931	0.0	4413	4417	care
+MetaMapLite	C0205341	0.0	4430	4436	Repeat
+MetaMapLite	C0439230	0.0	4457	4462	weeks
+MetaMapLite	C0040223	0.0	4464	4468	time
+MetaMapLite	C0700321	0.0	4478	4485	minutes
+MetaMapLite	C0439232	0.0	4478	4485	minutes
+MetaMapLite	C1282918	0.0	4478	4485	minutes
+MetaMapLite	C0030705	0.0	4504	4511	patient
+MetaMapLite	C0743221	0.0	4534	4551	discharge summary
+MetaMapLite	C0017152	0.0	4553	4562	gastritis
+MetaMapLite	C0030193	0.0	4575	4579	pain
+MetaMapLite	C0332459	0.0	4595	4604	tamponade
+MetaMapLite	C0579016	0.0	4595	4604	tamponade
+MetaMapLite	C0018802	0.0	4606	4630	congestive heart failure
+MetaMapLite	C0018802	0.0	4645	4669	congestive heart failure
+MetaMapLite	C0205365	0.0	4671	4679	subacute
+MetaMapLite	C0021308	0.0	4680	4687	infarct
+MetaMapLite	C0205042	0.0	4689	4704	coronary artery
+MetaMapLite	C0015260	0.0	4706	4717	stress test
+MetaMapLite	C0033137	0.0	4719	4731	primary care
+MetaMapLite	C1253937	0.0	4733	4753	pericardial effusion
+MetaMapLite	C0031039	0.0	4733	4753	pericardial effusion
+MetaMapLite	C0162577	0.0	4755	4766	angioplasty
+MetaMapLite	C0021308	0.0	4768	4775	infarct
+MetaMapLite	C0003842	0.0	4777	4783	artery
+MetaMapLite	C0226004	0.0	4777	4783	artery
+MetaMapLite	C0012621	0.0	4785	4794	discharge
+MetaMapLite	C0030685	0.0	4785	4794	discharge
+MetaMapLite	C0029921	0.0	4796	4806	outpatient
+MetaMapLite	C0442031	0.0	4808	4819	pericardial
+MetaMapLite	C0013687	0.0	4821	4829	effusion
+MetaMapLite	C0022116	0.0	4831	4839	ischemia

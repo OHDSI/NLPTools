@@ -1,0 +1,151 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0678257	0.0	87	98	Description
+MetaMapLite	C0015780	0.0	103	109	female
+MetaMapLite	C0043210	0.0	103	109	female
+MetaMapLite	C0086287	0.0	103	109	female
+MetaMapLite	C0262926	0.0	124	139	medical history
+MetaMapLite	C1997136	0.0	132	156	history of Ewing sarcoma
+MetaMapLite	C0162316	0.0	158	180	iron deficiency anemia
+MetaMapLite	C0020538	0.0	182	194	hypertension
+MetaMapLite	C1963185	0.0	200	207	obesity
+MetaMapLite	C0028754	0.0	200	207	obesity
+MetaMapLite	C0282229	0.0	210	231	Medical Transcription
+MetaMapLite	C2347026	0.0	232	238	Sample
+MetaMapLite	C0370003	0.0	232	238	Sample
+MetaMapLite	C0700287	0.0	239	245	Report
+MetaMapLite	C0684224	0.0	239	245	Report
+MetaMapLite	C1302393	0.0	247	264	DATE OF ADMISSION
+MetaMapLite	C2361123	0.0	279	296	DATE OF DISCHARGE
+MetaMapLite	C0031831	0.0	321	330	PHYSICIAN
+MetaMapLite	C1320929	0.0	345	364	ATTENDING PHYSICIAN
+MetaMapLite	C0012621	0.0	368	377	DISCHARGE
+MetaMapLite	C0030685	0.0	368	377	DISCHARGE
+MetaMapLite	C0184666	0.0	390	399	ADMITTING
+MetaMapLite	C0011900	0.0	400	409	DIAGNOSES
+MetaMapLite	C3541889	0.0	415	428	Ewing sarcoma
+MetaMapLite	C0553580	0.0	415	428	Ewing sarcoma
+MetaMapLite	C0002871	0.0	434	440	Anemia
+MetaMapLite	C0020538	0.0	446	458	Hypertension
+MetaMapLite	C0020461	0.0	464	476	Hyperkalemia
+MetaMapLite	C2700391	0.0	478	488	PROCEDURES
+MetaMapLite	C0025664	0.0	478	488	PROCEDURES
+MetaMapLite	C0347984	0.0	489	495	DURING
+MetaMapLite	C0019993	0.0	496	511	HOSPITALIZATION
+MetaMapLite	C1511572	0.0	514	519	Cycle
+MetaMapLite	C0020823	0.0	526	536	Ifosfamide
+MetaMapLite	C0000294	0.0	538	543	mesna
+MetaMapLite	C0392920	0.0	555	567	chemotherapy
+MetaMapLite	C3665472	0.0	555	567	chemotherapy
+MetaMapLite	C0013217	0.0	555	567	chemotherapy
+MetaMapLite	C0262512	0.0	569	595	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0488508	0.0	569	595	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	580	587	PRESENT
+MetaMapLite	C1442061	0.0	602	605	XXX
+MetaMapLite	C1608330	0.0	602	605	XXX
+MetaMapLite	C1442442	0.0	602	605	XXX
+MetaMapLite	C2987187	0.0	611	619	pleasant
+MetaMapLite	C0439234	0.0	623	627	year
+MetaMapLite	C0580836	0.0	628	631	old
+MetaMapLite	C0085756	0.0	632	648	African-American
+MetaMapLite	C0043210	0.0	649	655	female
+MetaMapLite	C0015780	0.0	649	655	female
+MetaMapLite	C0086287	0.0	649	655	female
+MetaMapLite	C0262926	0.0	670	685	medical history
+MetaMapLite	C1997136	0.0	678	702	history of Ewing sarcoma
+MetaMapLite	C0162316	0.0	704	726	iron deficiency anemia
+MetaMapLite	C0020538	0.0	728	740	hypertension
+MetaMapLite	C0028754	0.0	746	753	obesity
+MetaMapLite	C0205265	0.0	770	779	initially
+MetaMapLite	C0205123	0.0	792	799	frontal
+MetaMapLite	C0424813	0.0	800	816	orbital swelling
+MetaMapLite	C3668914	0.0	846	852	biopsy
+MetaMapLite	C0220797	0.0	846	852	biopsy
+MetaMapLite	C0005558	0.0	846	852	biopsy
+MetaMapLite	C0700321	0.0	862	867	small
+MetaMapLite	C0007634	0.0	874	879	cells
+MetaMapLite	C0005558	0.0	891	897	biopsy
+MetaMapLite	C0220797	0.0	891	897	biopsy
+MetaMapLite	C0487470	0.0	924	935	round cells
+MetaMapLite	C0332290	0.0	936	951	consistent with
+MetaMapLite	C0553580	0.0	952	965	Ewing sarcoma
+MetaMapLite	C3541889	0.0	952	965	Ewing sarcoma
+MetaMapLite	C0796344	0.0	967	983	genetic analysis
+MetaMapLite	C0679560	0.0	967	983	genetic analysis
+MetaMapLite	C0040715	0.0	1002	1015	translocation
+MetaMapLite	C0587658	0.0	1018	1021	MRI
+MetaMapLite	C1824234	0.0	1018	1021	MRI
+MetaMapLite	C0024485	0.0	1018	1021	MRI
+MetaMapLite	C0457193	0.0	1050	1066	soft tissue mass
+MetaMapLite	C0040300	0.0	1055	1061	tissue
+MetaMapLite	C3810196	0.0	1075	1091	bony destruction
+MetaMapLite	C2348205	0.0	1104	1111	similar
+MetaMapLite	C1274040	0.0	1112	1118	result
+MetaMapLite	C0030705	0.0	1125	1132	patient
+MetaMapLite	C0205435	0.0	1146	1151	first
+MetaMapLite	C1511572	0.0	1152	1157	cycle
+MetaMapLite	C0392920	0.0	1161	1173	chemotherapy
+MetaMapLite	C3665472	0.0	1161	1173	chemotherapy
+MetaMapLite	C0013217	0.0	1161	1173	chemotherapy
+MetaMapLite	C0027497	0.0	1237	1243	nausea
+MetaMapLite	C0018943	0.0	1282	1292	Hematology
+MetaMapLite	C2183233	0.0	1282	1292	Hematology
+MetaMapLite	C0018941	0.0	1282	1292	Hematology
+MetaMapLite	C0278627	0.0	1297	1305	Oncology
+MetaMapLite	C0557854	0.0	1308	1315	Service
+MetaMapLite	C3245478	0.0	1308	1315	Service
+MetaMapLite	C0205435	0.0	1330	1335	first
+MetaMapLite	C0750729	0.0	1336	1342	course
+MetaMapLite	C3665472	0.0	1346	1358	chemotherapy
+MetaMapLite	C0013217	0.0	1346	1358	chemotherapy
+MetaMapLite	C0392920	0.0	1346	1358	chemotherapy
+MetaMapLite	C0750729	0.0	1378	1384	course
+MetaMapLite	C0392920	0.0	1388	1400	chemotherapy
+MetaMapLite	C0013217	0.0	1388	1400	chemotherapy
+MetaMapLite	C3665472	0.0	1388	1400	chemotherapy
+MetaMapLite	C0034519	0.0	1427	1436	radiation
+MetaMapLite	C0851346	0.0	1427	1436	radiation
+MetaMapLite	C1705169	0.0	1437	1446	treatment
+MetaMapLite	C1522326	0.0	1437	1446	treatment
+MetaMapLite	C0039798	0.0	1437	1446	treatment
+MetaMapLite	C1533734	0.0	1437	1446	treatment
+MetaMapLite	C0087111	0.0	1437	1446	treatment
+MetaMapLite	C3538994	0.0	1437	1446	treatment
+MetaMapLite	C0030471	0.0	1462	1469	sinuses
+MetaMapLite	C0489547	0.0	1485	1500	HOSPITAL COURSE
+MetaMapLite	C0553580	0.0	1506	1519	Ewing sarcoma
+MetaMapLite	C3541889	0.0	1506	1519	Ewing sarcoma
+MetaMapLite	C1511572	0.0	1539	1544	cycle
+MetaMapLite	C0733688	0.0	1554	1559	VP-16
+MetaMapLite	C0020823	0.0	1561	1571	ifosfamide
+MetaMapLite	C0574032	0.0	1583	1592	infusions
+MetaMapLite	C0205170	0.0	1614	1618	well
+MetaMapLite	C0184666	0.0	1634	1643	admission
+MetaMapLite	C0085692	0.0	1670	1690	hemorrhagic cystitis
+MetaMapLite	C0042036	0.0	1696	1701	urine
+MetaMapLite	C0441090	0.0	1702	1711	dipsticks
+MetaMapLite	C0442822	0.0	1728	1733	trace
+MetaMapLite	C1265611	0.0	1734	1741	amounts
+MetaMapLite	C0221752	0.0	1745	1763	blood in the urine
+MetaMapLite	C0184666	0.0	1779	1788	admission
+MetaMapLite	C0743221	0.0	1800	1817	discharge summary
+MetaMapLite	C0162316	0.0	1819	1841	iron deficiency anemia
+MetaMapLite	C0020538	0.0	1843	1855	hypertension
+MetaMapLite	C0028754	0.0	1860	1867	obesity
+MetaMapLite	C0162316	0.0	1869	1884	iron deficiency
+MetaMapLite	C0240066	0.0	1869	1884	iron deficiency
+MetaMapLite	C0042036	0.0	1886	1891	urine
+MetaMapLite	C0002871	0.0	1893	1899	anemia
+MetaMapLite	C0020538	0.0	1901	1913	hypertension
+MetaMapLite	C0392920	0.0	1915	1927	chemotherapy
+MetaMapLite	C3665472	0.0	1915	1927	chemotherapy
+MetaMapLite	C0013217	0.0	1915	1927	chemotherapy
+MetaMapLite	C0012621	0.0	1929	1938	discharge
+MetaMapLite	C0030685	0.0	1929	1938	discharge
+MetaMapLite	C1261473	0.0	1947	1954	sarcoma

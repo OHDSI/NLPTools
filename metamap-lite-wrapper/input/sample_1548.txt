@@ -1,0 +1,18 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Psychiatric Discharge Summary
+Description:  The patient was discharged by court as a voluntary drop by prosecution.
+(Medical Transcription Sample Report)
+DISCHARGE DISPOSITION:  The patient was discharged by court as a voluntary drop by prosecution.  This was AMA against hospital advice.
+DISCHARGE DIAGNOSES:
+AXIS I:  Schizoaffective disorder, bipolar type.
+AXIS II:  Deferred.
+AXIS III:  Hepatitis C.
+AXIS IV:  Severe.
+AXIS V:  19.
+CONDITION OF PATIENT ON DISCHARGE:  The patient remained disorganized.  The patient was suffering from prolactinemia secondary to medications.
+DISCHARGE FOLLOWUP:  To be arranged per the patient as the patient was discharged by court.
+DISCHARGE MEDICATIONS:  A 2-week supply of the following was phoned into the patient's pharmacy:  Seroquel 25 mg p.o. nightly.  Zyprexa 5 mg p.o. b.i.d.
+MENTAL STATUS AT THE TIME OF DISCHARGE:  Attitude was cooperative.  Appearance showed fair hygiene and grooming.  Psychomotor behavior showed restlessness.  No EPS or TD was noted.  Affect was restricted.  Mood remained anxious and speech was pressured.  Thoughts remained tangential, and the patient endorsed paranoid delusions.  The patient denied auditory hallucinations.  The patient denied suicidal or homicidal ideation, was oriented to person and place.  Overall, insight into her illness remained impaired.
+HISTORY AND HOSPITAL COURSE:  The patient is a 22-year-old female with a history of bipolar affective disorder, was initially admitted for evaluation of increasing mood lability, disorganization, and inappropriate behaviors.  The patient reportedly was asking her father to have sex with her and tried to pull down her mother's pants.  The patient took her clothing off, was noted to be very disorganized sexually, and religiously preoccupied, and endorsed auditory hallucinations of voices telling her to calm herself and others.  The patient has a history of depression versus bipolar disorder, last hospitalized in Pierce County in 2008, but without recent treatment.  The patient on admission interview was noted to be labile and disorganized.  The patient was initiated on Risperdal M-Tab 2 mg p.o. b.i.d. for psychosis and mood lability, and also medically evaluated by Rebecca Richardson, MD.  The patient remained labile and suspicious during her hospital stay.  The patient continued to be sexually preoccupied and had poor insight into her need for treatment.  The patient denied further auditory hallucinations.  The patient was treated with Seroquel for persistent mood lability and psychosis.  The patient was noted to develop prolactinemia with Risperdal and this was changed to Zyprexa prior to discharge.  The patient remained disorganized, but was given a voluntary drop by prosecution against medical advice when she went to court on 01/11/2010.  The patient was discharged to return home to her parents and was referred to Community Mental Health Agencies.  The patient was thus discharged in symptomatic condition.
+Keywords:
+discharge summary, schizoaffective disorder, bipolar type, mood lability, disorganization, bipolar affective disorder, voluntary drop, auditory hallucinations, psychiatric, axis,

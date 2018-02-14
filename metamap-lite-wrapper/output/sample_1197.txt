@@ -1,0 +1,215 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0678257	0.0	88	99	Description
+MetaMapLite	C0030705	0.0	102	109	Patient
+MetaMapLite	C0262926	0.0	117	124	history
+MetaMapLite	C2004062	0.0	117	124	history
+MetaMapLite	C0019665	0.0	117	124	history
+MetaMapLite	C0019664	0.0	117	124	history
+MetaMapLite	C0262512	0.0	117	124	history
+MetaMapLite	C0192499	0.0	130	151	Nissen fundoplication
+MetaMapLite	C0439234	0.0	166	171	years
+MetaMapLite	C0017168	0.0	180	194	gastric reflux
+MetaMapLite	C0558176	0.0	180	194	gastric reflux
+MetaMapLite	C0282229	0.0	197	218	Medical Transcription
+MetaMapLite	C0370003	0.0	219	225	Sample
+MetaMapLite	C2347026	0.0	219	225	Sample
+MetaMapLite	C0700287	0.0	226	232	Report
+MetaMapLite	C0684224	0.0	226	232	Report
+MetaMapLite	C0011900	0.0	244	253	DIAGNOSES
+MetaMapLite	C3489393	0.0	256	269	Hiatal hernia
+MetaMapLite	C0267725	0.0	263	287	hernia, gastroesophageal
+MetaMapLite	C0017168	0.0	271	302	gastroesophageal reflux disease
+MetaMapLite	C0232483	0.0	288	294	reflux
+MetaMapLite	C0017168	0.0	288	294	reflux
+MetaMapLite	C0017168	0.0	303	309	reflux
+MetaMapLite	C0232483	0.0	303	309	reflux
+MetaMapLite	C0030685	0.0	311	320	DISCHARGE
+MetaMapLite	C0012621	0.0	311	320	DISCHARGE
+MetaMapLite	C0011900	0.0	321	330	DIAGNOSES
+MetaMapLite	C3489393	0.0	333	346	Hiatal hernia
+MetaMapLite	C0267725	0.0	340	364	hernia, gastroesophageal
+MetaMapLite	C0017168	0.0	348	379	gastroesophageal reflux disease
+MetaMapLite	C0017168	0.0	365	371	reflux
+MetaMapLite	C0232483	0.0	365	371	reflux
+MetaMapLite	C0017168	0.0	380	386	reflux
+MetaMapLite	C0232483	0.0	380	386	reflux
+MetaMapLite	C0332138	0.0	388	407	SECONDARY DIAGNOSIS
+MetaMapLite	C0400877	0.0	410	429	Postoperative ileus
+MetaMapLite	C2700391	0.0	431	441	PROCEDURES
+MetaMapLite	C0025664	0.0	431	441	PROCEDURES
+MetaMapLite	C0014857	0.0	449	469	Hiatal hernia repair
+MetaMapLite	C0192499	0.0	474	495	Nissen fundoplication
+MetaMapLite	C0558347	0.0	496	504	revision
+MetaMapLite	C1282927	0.0	506	511	BRIEF
+MetaMapLite	C1879313	0.0	506	511	BRIEF
+MetaMapLite	C0262512	0.0	512	519	HISTORY
+MetaMapLite	C2004062	0.0	512	519	HISTORY
+MetaMapLite	C0019665	0.0	512	519	HISTORY
+MetaMapLite	C0262926	0.0	512	519	HISTORY
+MetaMapLite	C0019664	0.0	512	519	HISTORY
+MetaMapLite	C0030705	0.0	526	533	patient
+MetaMapLite	C0439234	0.0	543	547	year
+MetaMapLite	C0580836	0.0	548	551	old
+MetaMapLite	C0086582	0.0	552	556	male
+MetaMapLite	C0262926	0.0	571	578	history
+MetaMapLite	C2004062	0.0	571	578	history
+MetaMapLite	C0019665	0.0	571	578	history
+MetaMapLite	C0019664	0.0	571	578	history
+MetaMapLite	C0262512	0.0	571	578	history
+MetaMapLite	C0192499	0.0	584	605	Nissen fundoplication
+MetaMapLite	C0439234	0.0	620	625	years
+MetaMapLite	C0558176	0.0	634	648	gastric reflux
+MetaMapLite	C0017168	0.0	634	648	gastric reflux
+MetaMapLite	C0332232	0.0	651	664	Approximately
+MetaMapLite	C0439234	0.0	669	673	year
+MetaMapLite	C2939181	0.0	700	722	motor vehicle accident
+MetaMapLite	C0000932	0.0	700	722	motor vehicle accident
+MetaMapLite	C0040405	0.0	727	734	CT scan
+MetaMapLite	C0040223	0.0	743	747	time
+MetaMapLite	C3489393	0.0	769	782	hiatal hernia
+MetaMapLite	C0439234	0.0	799	803	year
+MetaMapLite	C0237753	0.0	839	845	number
+MetaMapLite	C0449788	0.0	839	845	number
+MetaMapLite	C1546466	0.0	849	857	problems
+MetaMapLite	C0008031	0.0	869	879	chest pain
+MetaMapLite	C0013404	0.0	898	917	shortness of breath
+MetaMapLite	C0549177	0.0	924	929	large
+MetaMapLite	C1998602	0.0	930	935	meals
+MetaMapLite	C0744318	0.0	956	971	reflux symptoms
+MetaMapLite	C0374711	0.0	1002	1008	repair
+MetaMapLite	C3489393	0.0	1016	1029	hiatal hernia
+MetaMapLite	C0558347	0.0	1034	1042	revision
+MetaMapLite	C0192499	0.0	1050	1071	Nissen fundoplication
+MetaMapLite	C0489547	0.0	1073	1088	HOSPITAL COURSE
+MetaMapLite	C0205653	0.0	1117	1127	adolescent
+MetaMapLite	C0016249	0.0	1128	1133	floor
+MetaMapLite	C0008059	0.0	1145	1155	Children's
+MetaMapLite	C0019994	0.0	1156	1164	Hospital
+MetaMapLite	C2700391	0.0	1175	1184	procedure
+MetaMapLite	C0184661	0.0	1175	1184	procedure
+MetaMapLite	C0205360	0.0	1194	1200	stable
+MetaMapLite	C0040223	0.0	1209	1213	time
+MetaMapLite	C0027497	0.0	1240	1246	nausea
+MetaMapLite	C0042963	0.0	1278	1286	vomiting
+MetaMapLite	C0040223	0.0	1295	1299	time
+MetaMapLite	C1561954	0.0	1315	1319	tube
+MetaMapLite	C0175730	0.0	1315	1319	tube
+MetaMapLite	C0002766	0.0	1361	1376	pain management
+MetaMapLite	C0205170	0.0	1380	1384	well
+MetaMapLite	C0146226	0.0	1388	1395	Toradol
+MetaMapLite	C0032790	0.0	1401	1414	postoperative
+MetaMapLite	C0439228	0.0	1415	1418	day
+MetaMapLite	C1299581	0.0	1450	1454	able
+MetaMapLite	C0179804	0.0	1472	1486	Foley catheter
+MetaMapLite	C0205117	0.0	1509	1513	next
+MetaMapLite	C3845714	0.0	1514	1526	several days
+MetaMapLite	C0489547	0.0	1532	1547	hospital course
+MetaMapLite	C0027497	0.0	1604	1610	nausea
+MetaMapLite	C0042963	0.0	1646	1654	vomiting
+MetaMapLite	C0179804	0.0	1673	1687	Foley catheter
+MetaMapLite	C1548784	0.0	1716	1725	excellent
+MetaMapLite	C1961136	0.0	1716	1725	excellent
+MetaMapLite	C0232856	0.0	1726	1738	urine output
+MetaMapLite	C2188753	0.0	1726	1738	urine output
+MetaMapLite	C2094175	0.0	1726	1738	urine output
+MetaMapLite	C1287298	0.0	1726	1738	urine output
+MetaMapLite	C0009566	0.0	1751	1764	complications
+MetaMapLite	C1171258	0.0	1751	1764	complications
+MetaMapLite	C0332183	0.0	1780	1790	frequently
+MetaMapLite	C0439228	0.0	1822	1826	days
+MetaMapLite	C1561954	0.0	1848	1852	tube
+MetaMapLite	C0175730	0.0	1848	1852	tube
+MetaMapLite	C0040223	0.0	1868	1872	time
+MetaMapLite	C0032790	0.0	1878	1891	postoperative
+MetaMapLite	C0439228	0.0	1892	1895	day
+MetaMapLite	C0016204	0.0	1922	1928	flatus
+MetaMapLite	C0175730	0.0	1941	1945	tube
+MetaMapLite	C1561954	0.0	1941	1945	tube
+MetaMapLite	C0301571	0.0	1986	1997	liquid diet
+MetaMapLite	C0009566	0.0	2029	2042	complications
+MetaMapLite	C1171258	0.0	2029	2042	complications
+MetaMapLite	C0040223	0.0	2053	2057	time
+MetaMapLite	C1304888	0.0	2090	2102	pain control
+MetaMapLite	C0332183	0.0	2140	2150	frequently
+MetaMapLite	C0439228	0.0	2159	2163	days
+MetaMapLite	C2184085	0.0	2213	2229	full liquid diet
+MetaMapLite	C0009566	0.0	2242	2255	complications
+MetaMapLite	C1171258	0.0	2242	2255	complications
+MetaMapLite	C0301569	0.0	2278	2287	soft diet
+MetaMapLite	C0030193	0.0	2296	2300	pain
+MetaMapLite	C0013227	0.0	2301	2312	medications
+MetaMapLite	C0013227	0.0	2339	2350	medications
+MetaMapLite	C0301569	0.0	2417	2426	soft diet
+MetaMapLite	C0009566	0.0	2439	2452	complications
+MetaMapLite	C1171258	0.0	2439	2452	complications
+MetaMapLite	C0016204	0.0	2475	2481	flatus
+MetaMapLite	C0332183	0.0	2482	2492	frequently
+MetaMapLite	C0032790	0.0	2498	2511	postoperative
+MetaMapLite	C0439228	0.0	2512	2515	day
+MetaMapLite	C0205360	0.0	2550	2556	stable
+MetaMapLite	C0184713	0.0	2561	2578	discharge to home
+MetaMapLite	C0009566	0.0	2613	2626	complications
+MetaMapLite	C1171258	0.0	2613	2626	complications
+MetaMapLite	C0030193	0.0	2633	2637	pain
+MetaMapLite	C3853142	0.0	2642	2657	well controlled
+MetaMapLite	C0030193	0.0	2668	2672	pain
+MetaMapLite	C0013227	0.0	2673	2684	medications
+MetaMapLite	C0017110	0.0	2702	2705	gas
+MetaMapLite	C0596601	0.0	2702	2705	gas
+MetaMapLite	C0332183	0.0	2706	2716	frequently
+MetaMapLite	C1548784	0.0	2722	2731	excellent
+MetaMapLite	C1961136	0.0	2722	2731	excellent
+MetaMapLite	C0232856	0.0	2732	2744	urine output
+MetaMapLite	C2188753	0.0	2732	2744	urine output
+MetaMapLite	C2094175	0.0	2732	2744	urine output
+MetaMapLite	C1287298	0.0	2732	2744	urine output
+MetaMapLite	C0332183	0.0	2765	2775	frequently
+MetaMapLite	C0012621	0.0	2796	2805	DISCHARGE
+MetaMapLite	C0030685	0.0	2796	2805	DISCHARGE
+MetaMapLite	C0012634	0.0	2806	2815	CONDITION
+MetaMapLite	C0205360	0.0	2818	2824	Stable
+MetaMapLite	C0743223	0.0	2826	2837	DISPOSITION
+MetaMapLite	C0442519	0.0	2854	2858	home
+MetaMapLite	C2266673	0.0	2860	2882	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0030705	0.0	2889	2896	patient
+MetaMapLite	C0442519	0.0	2915	2919	home
+MetaMapLite	C1442085	0.0	2925	2937	instructions
+MetaMapLite	C0302828	0.0	2925	2937	instructions
+MetaMapLite	C0301569	0.0	2956	2965	soft diet
+MetaMapLite	C0452428	0.0	3009	3014	drink
+MetaMapLite	C0683086	0.0	3019	3023	soda
+MetaMapLite	C0449681	0.0	3071	3084	incision site
+MetaMapLite	C1947930	0.0	3085	3090	clean
+MetaMapLite	C0205222	0.0	3095	3098	dry
+MetaMapLite	C0439539	0.0	3145	3150	heavy
+MetaMapLite	C0206244	0.0	3151	3158	lifting
+MetaMapLite	C1299581	0.0	3172	3176	able
+MetaMapLite	C0036375	0.0	3187	3193	school
+MetaMapLite	C0205388	0.0	3214	3217	few
+MetaMapLite	C0439230	0.0	3218	3223	weeks
+MetaMapLite	C1299581	0.0	3257	3261	able
+MetaMapLite	C0032214	0.0	3265	3269	play
+MetaMapLite	C0600138	0.0	3265	3269	play
+MetaMapLite	C0016518	0.0	3270	3278	football
+MetaMapLite	C0016517	0.0	3270	3278	football
+MetaMapLite	C0016884	0.0	3291	3297	future
+MetaMapLite	C1521941	0.0	3313	3325	prescription
+MetaMapLite	C0002771	0.0	3330	3345	pain medication
+MetaMapLite	C0030685	0.0	3351	3360	discharge
+MetaMapLite	C0012621	0.0	3351	3360	discharge
+MetaMapLite	C0337611	0.0	3383	3390	contact
+MetaMapLite	C0332158	0.0	3383	3390	contact
+MetaMapLite	C0279077	0.0	3391	3408	Pediatric Surgery
+MetaMapLite	C0015967	0.0	3423	3429	fevers
+MetaMapLite	C0027498	0.0	3435	3454	nausea and vomiting
+MetaMapLite	C0008031	0.0	3460	3470	chest pain
+MetaMapLite	C0009806	0.0	3476	3488	constipation
+MetaMapLite	C2699424	0.0	3503	3511	concerns
+MetaMapLite	C0743221	0.0	3523	3540	discharge summary

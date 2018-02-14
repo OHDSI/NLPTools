@@ -1,0 +1,386 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0025500	0.0	85	97	Mesothelioma
+MetaMapLite	C1290375	0.0	85	97	Mesothelioma
+MetaMapLite	C0678257	0.0	102	113	Description
+MetaMapLite	C0025500	0.0	116	128	Mesothelioma
+MetaMapLite	C1290375	0.0	116	128	Mesothelioma
+MetaMapLite	C2073625	0.0	130	146	pleural effusion
+MetaMapLite	C1253943	0.0	130	146	pleural effusion
+MetaMapLite	C0032227	0.0	130	146	pleural effusion
+MetaMapLite	C0232197	0.0	155	167	fibrillation
+MetaMapLite	C0002871	0.0	169	175	anemia
+MetaMapLite	C0559234	0.0	186	203	esophageal reflux
+MetaMapLite	C0017168	0.0	186	203	esophageal reflux
+MetaMapLite	C0459853	0.0	209	242	history of deep venous thrombosis
+MetaMapLite	C0282229	0.0	245	266	Medical Transcription
+MetaMapLite	C0370003	0.0	267	273	Sample
+MetaMapLite	C2347026	0.0	267	273	Sample
+MetaMapLite	C0700287	0.0	274	280	Report
+MetaMapLite	C0684224	0.0	274	280	Report
+MetaMapLite	C0332137	0.0	282	301	PRINCIPAL DIAGNOSIS
+MetaMapLite	C0025500	0.0	304	316	Mesothelioma
+MetaMapLite	C1290375	0.0	304	316	Mesothelioma
+MetaMapLite	C0027627	0.0	318	327	SECONDARY
+MetaMapLite	C0175668	0.0	318	327	SECONDARY
+MetaMapLite	C0011900	0.0	328	337	DIAGNOSES
+MetaMapLite	C0032227	0.0	340	356	Pleural effusion
+MetaMapLite	C2073625	0.0	340	356	Pleural effusion
+MetaMapLite	C1253943	0.0	340	356	Pleural effusion
+MetaMapLite	C0232197	0.0	365	377	fibrillation
+MetaMapLite	C0002871	0.0	379	385	anemia
+MetaMapLite	C0559234	0.0	396	413	esophageal reflux
+MetaMapLite	C0017168	0.0	396	413	esophageal reflux
+MetaMapLite	C0459853	0.0	419	452	history of deep venous thrombosis
+MetaMapLite	C0025664	0.0	454	464	PROCEDURES
+MetaMapLite	C2700391	0.0	454	464	PROCEDURES
+MetaMapLite	C3831448	0.0	472	478	August
+MetaMapLite	C0007778	0.0	489	502	decortication
+MetaMapLite	C2678502	0.0	489	502	decortication
+MetaMapLite	C0024109	0.0	510	514	lung
+MetaMapLite	C0176531	0.0	520	534	pleural biopsy
+MetaMapLite	C0522494	0.0	539	551	transpleural
+MetaMapLite	C0016356	0.0	552	563	fluoroscopy
+MetaMapLite	C3831448	0.0	572	578	August
+MetaMapLite	C0189477	0.0	589	602	thoracentesis
+MetaMapLite	C3831448	0.0	611	617	August
+MetaMapLite	C1514239	0.0	628	649	Port-A-Cath placement
+MetaMapLite	C0262926	0.0	651	658	HISTORY
+MetaMapLite	C2004062	0.0	651	658	HISTORY
+MetaMapLite	C0019665	0.0	651	658	HISTORY
+MetaMapLite	C0019664	0.0	651	658	HISTORY
+MetaMapLite	C0262512	0.0	651	658	HISTORY
+MetaMapLite	C0205485	0.0	663	671	PHYSICAL
+MetaMapLite	C0030705	0.0	678	685	patient
+MetaMapLite	C0439234	0.0	694	698	year
+MetaMapLite	C0580836	0.0	699	702	old
+MetaMapLite	C1561452	0.0	703	713	Vietnamese
+MetaMapLite	C0086287	0.0	714	720	female
+MetaMapLite	C0015780	0.0	714	720	female
+MetaMapLite	C0043210	0.0	714	720	female
+MetaMapLite	C0850149	0.0	728	747	nonproductive cough
+MetaMapLite	C0439230	0.0	766	770	week
+MetaMapLite	C0205090	0.0	785	790	right
+MetaMapLite	C0232289	0.0	797	817	chest pain radiating
+MetaMapLite	C0004600	0.0	825	829	back
+MetaMapLite	C0015967	0.0	835	840	fever
+MetaMapLite	C0424755	0.0	835	840	fever
+MetaMapLite	C0262926	0.0	872	879	history
+MetaMapLite	C0019665	0.0	872	879	history
+MetaMapLite	C0019664	0.0	872	879	history
+MetaMapLite	C0262512	0.0	872	879	history
+MetaMapLite	C2004062	0.0	872	879	history
+MetaMapLite	C0031046	0.0	883	895	pericarditis
+MetaMapLite	C0031042	0.0	900	914	pericardectomy
+MetaMapLite	C0010200	0.0	941	946	cough
+MetaMapLite	C0205090	0.0	952	957	right
+MetaMapLite	C0008031	0.0	964	974	chest pain
+MetaMapLite	C1710587	0.0	991	1009	urgent care center
+MetaMapLite	C0580931	0.0	998	1002	care
+MetaMapLite	C0039985	0.0	1012	1023	Chest x-ray
+MetaMapLite	C2063366	0.0	1033	1061	right-sided pleural effusion
+MetaMapLite	C0455458	0.0	1063	1083	PAST MEDICAL HISTORY
+MetaMapLite	C0262926	0.0	1063	1083	PAST MEDICAL HISTORY
+MetaMapLite	C0031042	0.0	1088	1102	Pericardectomy
+MetaMapLite	C0031046	0.0	1108	1120	Pericarditis
+MetaMapLite	C0004238	0.0	1126	1145	Atrial fibrillation
+MetaMapLite	C0524466	0.0	1161	1173	intracranial
+MetaMapLite	C0087111	0.0	1187	1196	treatment
+MetaMapLite	C0039798	0.0	1187	1196	treatment
+MetaMapLite	C3274435	0.0	1202	1205	PTA
+MetaMapLite	C0149566	0.0	1209	1212	MCA
+MetaMapLite	C0267412	0.0	1218	1246	Mesenteric venous thrombosis
+MetaMapLite	C0031041	0.0	1252	1270	Pericardial window
+MetaMapLite	C0008320	0.0	1276	1291	Cholecystectomy
+MetaMapLite	C0189477	0.0	1302	1315	thoracentesis
+MetaMapLite	C0241889	0.0	1317	1331	FAMILY HISTORY
+MetaMapLite	C2317524	0.0	1337	1378	family history of coronary artery disease
+MetaMapLite	C0011860	0.0	1385	1393	diabetes
+MetaMapLite	C0011849	0.0	1385	1393	diabetes
+MetaMapLite	C0018802	0.0	1395	1398	CHF
+MetaMapLite	C0030705	0.0	1411	1418	patient
+MetaMapLite	C1611821	0.0	1427	1440	family member
+MetaMapLite	C0086282	0.0	1427	1440	family member
+MetaMapLite	C0337514	0.0	1444	1450	sister
+MetaMapLite	C0455471	0.0	1457	1474	history of cancer
+MetaMapLite	C3714536	0.0	1476	1490	SOCIAL HISTORY
+MetaMapLite	C0557351	0.0	1510	1518	Employed
+MetaMapLite	C0442601	0.0	1531	1542	Post Office
+MetaMapLite	C0026591	0.0	1554	1560	mother
+MetaMapLite	C0040329	0.0	1579	1586	tobacco
+MetaMapLite	C0740009	0.0	1579	1586	tobacco
+MetaMapLite	C0001975	0.0	1588	1595	alcohol
+MetaMapLite	C0001962	0.0	1588	1595	alcohol
+MetaMapLite	C0281875	0.0	1599	1615	illicit drug use
+MetaMapLite	C0013227	0.0	1617	1628	MEDICATIONS
+MetaMapLite	C0699129	0.0	1633	1641	Coumadin
+MetaMapLite	C0332173	0.0	1647	1652	daily
+MetaMapLite	C1517741	0.0	1655	1659	Last
+MetaMapLite	C1704538	0.0	1660	1663	INR
+MetaMapLite	C0525032	0.0	1660	1663	INR
+MetaMapLite	C0585026	0.0	1671	1678	Tuesday
+MetaMapLite	C3831448	0.0	1680	1686	August
+MetaMapLite	C0332173	0.0	1745	1750	daily
+MetaMapLite	C0489633	0.0	1752	1769	REVIEW OF SYSTEMS
+MetaMapLite	C0205197	0.0	1772	1780	Complete
+MetaMapLite	C0489633	0.0	1781	1798	review of systems
+MetaMapLite	C0205160	0.0	1799	1807	negative
+MetaMapLite	C1552828	0.0	1840	1845	above
+MetaMapLite	C1282910	0.0	1840	1845	above
+MetaMapLite	C0030705	0.0	1852	1859	patient
+MetaMapLite	C0700287	0.0	1865	1872	reports
+MetaMapLite	C0684224	0.0	1865	1872	reports
+MetaMapLite	C0521114	0.0	1873	1883	occasional
+MetaMapLite	C0028643	0.0	1884	1892	numbness
+MetaMapLite	C0020580	0.0	1884	1892	numbness
+MetaMapLite	C0446516	0.0	1918	1921	arm
+MetaMapLite	C0031809	0.0	1923	1943	PHYSICAL EXAMINATION
+MetaMapLite	C0518766	0.0	1944	1955	VITAL SIGNS
+MetaMapLite	C0005823	0.0	1958	1972	Blood pressure
+MetaMapLite	C1272641	0.0	1958	1972	Blood pressure
+MetaMapLite	C0018810	0.0	1981	1991	heart rate
+MetaMapLite	C2197023	0.0	1981	1991	heart rate
+MetaMapLite	C0035203	0.0	1996	2008	respirations
+MetaMapLite	C0039476	0.0	2013	2024	temperature
+MetaMapLite	C0005903	0.0	2013	2024	temperature
+MetaMapLite	C2237091	0.0	2033	2050	oxygen saturation
+MetaMapLite	C0483415	0.0	2033	2050	oxygen saturation
+MetaMapLite	C0205246	0.0	2056	2063	GENERAL
+MetaMapLite	C1446409	0.0	2066	2074	Positive
+MetaMapLite	C0850149	0.0	2075	2094	nonproductive cough
+MetaMapLite	C0030193	0.0	2099	2103	pain
+MetaMapLite	C0010200	0.0	2109	2117	coughing
+MetaMapLite	C1512338	0.0	2119	2124	HEENT
+MetaMapLite	C0034121	0.0	2127	2133	Pupils
+MetaMapLite	C0205163	0.0	2138	2143	equal
+MetaMapLite	C0205332	0.0	2148	2156	reactive
+MetaMapLite	C0023693	0.0	2160	2165	light
+MetaMapLite	C0000936	0.0	2170	2183	accommodation
+MetaMapLite	C0041445	0.0	2186	2204	Tympanic membranes
+MetaMapLite	C2963144	0.0	2209	2214	clear
+MetaMapLite	C0027530	0.0	2216	2220	NECK
+MetaMapLite	C0332254	0.0	2223	2229	Supple
+MetaMapLite	C0497156	0.0	2235	2250	lymphadenopathy
+MetaMapLite	C0521346	0.0	2264	2275	RESPIRATORY
+MetaMapLite	C0032230	0.0	2278	2298	Pleural friction rub
+MetaMapLite	C0205358	0.0	2314	2318	Soft
+MetaMapLite	C0520960	0.0	2338	2347	nontender
+MetaMapLite	C1446409	0.0	2350	2358	Positive
+MetaMapLite	C0232693	0.0	2359	2371	bowel sounds
+MetaMapLite	C0015385	0.0	2391	2402	EXTREMITIES
+MetaMapLite	C0278454	0.0	2391	2402	EXTREMITIES
+MetaMapLite	C0013604	0.0	2408	2413	edema
+MetaMapLite	C0149651	0.0	2418	2426	clubbing
+MetaMapLite	C0010520	0.0	2431	2439	cyanosis
+MetaMapLite	C0684239	0.0	2444	2454	tenderness
+MetaMapLite	C0234233	0.0	2444	2454	tenderness
+MetaMapLite	C0443225	0.0	2457	2461	Full
+MetaMapLite	C0150220	0.0	2462	2477	range of motion
+MetaMapLite	C2607871	0.0	2462	2477	range of motion
+MetaMapLite	C0080078	0.0	2462	2477	range of motion
+MetaMapLite	C0277898	0.0	2480	2493	Normal pulses
+MetaMapLite	C0278454	0.0	2501	2512	extremities
+MetaMapLite	C0015385	0.0	2501	2512	extremities
+MetaMapLite	C1123023	0.0	2514	2518	SKIN
+MetaMapLite	C0699900	0.0	2524	2533	breakdown
+MetaMapLite	C1265875	0.0	2524	2533	breakdown
+MetaMapLite	C0221198	0.0	2537	2544	lesions
+MetaMapLite	C0041582	0.0	2550	2556	ulcers
+MetaMapLite	C0205494	0.0	2558	2568	NEUROLOGIC
+MetaMapLite	C0205266	0.0	2579	2585	intact
+MetaMapLite	C0205234	0.0	2591	2596	focal
+MetaMapLite	C2987487	0.0	2597	2605	deficits
+MetaMapLite	C0234422	0.0	2608	2613	Awake
+MetaMapLite	C0239110	0.0	2615	2620	alert
+MetaMapLite	C1961030	0.0	2626	2644	oriented to person
+MetaMapLite	C0442504	0.0	2646	2651	place
+MetaMapLite	C0040223	0.0	2657	2661	time
+MetaMapLite	C1705214	0.0	2663	2678	LABORATORY DATA
+MetaMapLite	C0587081	0.0	2681	2685	Labs
+MetaMapLite	C0489547	0.0	2699	2714	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	2721	2728	patient
+MetaMapLite	C2063366	0.0	2748	2776	right-sided pleural effusion
+MetaMapLite	C0189477	0.0	2781	2794	thoracentesis
+MetaMapLite	C0585024	0.0	2798	2804	Monday
+MetaMapLite	C0699129	0.0	2820	2828	Coumadin
+MetaMapLite	C1948035	0.0	2843	2847	hold
+MetaMapLite	C0205341	0.0	2852	2858	repeat
+MetaMapLite	C0013516	0.0	2859	2873	echocardiogram
+MetaMapLite	C0199176	0.0	2907	2918	prophylaxis
+MetaMapLite	C0033107	0.0	2907	2918	prophylaxis
+MetaMapLite	C2926618	0.0	2923	2926	DVT
+MetaMapLite	C0728963	0.0	2932	2939	Lovenox
+MetaMapLite	C0262512	0.0	2967	2974	history
+MetaMapLite	C2004062	0.0	2967	2974	history
+MetaMapLite	C0262926	0.0	2967	2974	history
+MetaMapLite	C0019665	0.0	2967	2974	history
+MetaMapLite	C0019664	0.0	2967	2974	history
+MetaMapLite	C0004600	0.0	2981	2985	back
+MetaMapLite	C3829202	0.0	2989	2994	March
+MetaMapLite	C0205435	0.0	3009	3014	first
+MetaMapLite	C0205476	0.0	3022	3029	medical
+MetaMapLite	C0004268	0.0	3030	3039	attention
+MetaMapLite	C0332120	0.0	3044	3055	evidence of
+MetaMapLite	C0031046	0.0	3056	3068	pericarditis
+MetaMapLite	C0031041	0.0	3093	3111	pericardial window
+MetaMapLite	C0019994	0.0	3126	3134	hospital
+MetaMapLite	C0040223	0.0	3144	3148	time
+MetaMapLite	C0025474	0.0	3176	3186	mesenteric
+MetaMapLite	C0030193	0.0	3187	3191	pain
+MetaMapLite	C0040053	0.0	3196	3206	thrombosis
+MetaMapLite	C2586211	0.0	3196	3206	thrombosis
+MetaMapLite	C0225973	0.0	3236	3253	pericardial fluid
+MetaMapLite	C0040223	0.0	3306	3310	time
+MetaMapLite	C0031042	0.0	3336	3350	pericardectomy
+MetaMapLite	C0282443	0.0	3383	3389	Review
+MetaMapLite	C1552617	0.0	3383	3389	Review
+MetaMapLite	C0040405	0.0	3397	3404	CT scan
+MetaMapLite	C3829202	0.0	3410	3415	March
+MetaMapLite	C0332152	0.0	3421	3429	prior to
+MetaMapLite	C0031042	0.0	3434	3448	pericardectomy
+MetaMapLite	C0238767	0.0	3464	3473	bilateral
+MetaMapLite	C0439064	0.0	3474	3480	plural
+MetaMapLite	C0013687	0.0	3481	3490	effusions
+MetaMapLite	C0030705	0.0	3497	3504	patient
+MetaMapLite	C0031042	0.0	3535	3549	pericardectomy
+MetaMapLite	C1514893	0.0	3555	3565	resolution
+MetaMapLite	C2699488	0.0	3555	3565	resolution
+MetaMapLite	C1706463	0.0	3555	3565	resolution
+MetaMapLite	C1457887	0.0	3573	3581	symptoms
+MetaMapLite	C0683368	0.0	3573	3581	symptoms
+MetaMapLite	C0332185	0.0	3584	3592	Recently
+MetaMapLite	C0019994	0.0	3620	3628	hospital
+MetaMapLite	C0008031	0.0	3634	3644	chest pain
+MetaMapLite	C0747635	0.0	3663	3689	bilateral pleural effusion
+MetaMapLite	C0205090	0.0	3695	3700	right
+MetaMapLite	C0439093	0.0	3701	3713	greater than
+MetaMapLite	C0817096	0.0	3735	3740	chest
+MetaMapLite	C0549177	0.0	3757	3762	large
+MetaMapLite	C1279049	0.0	3763	3785	mediastinal lymph node
+MetaMapLite	C0588055	0.0	3763	3785	mediastinal lymph node
+MetaMapLite	C0030664	0.0	3804	3813	pathology
+MetaMapLite	C0677042	0.0	3804	3813	pathology
+MetaMapLite	C0205469	0.0	3804	3813	pathology
+MetaMapLite	C0031042	0.0	3832	3846	pericardectomy
+MetaMapLite	C3829202	0.0	3850	3855	March
+MetaMapLite	C0348026	0.0	3872	3882	diagnostic
+MetaMapLite	C0011900	0.0	3872	3882	diagnostic
+MetaMapLite	C0025500	0.0	3886	3898	mesothelioma
+MetaMapLite	C1290375	0.0	3886	3898	mesothelioma
+MetaMapLite	C0040223	0.0	3909	3913	time
+MetaMapLite	C0742344	0.0	3915	3935	chest tube placement
+MetaMapLite	C0012621	0.0	3940	3948	drainage
+MetaMapLite	C2926602	0.0	3940	3948	drainage
+MetaMapLite	C1704353	0.0	3956	3961	fluid
+MetaMapLite	C0302908	0.0	3956	3961	fluid
+MetaMapLite	C2367167	0.0	3975	3987	thoracoscopy
+MetaMapLite	C0039989	0.0	3975	3987	thoracoscopy
+MetaMapLite	C1704353	0.0	3993	3998	fluid
+MetaMapLite	C0302908	0.0	3993	3998	fluid
+MetaMapLite	C0005558	0.0	3999	4007	biopsies
+MetaMapLite	C0345967	0.0	4058	4080	malignant mesothelioma
+MetaMapLite	C0030705	0.0	4087	4094	patient
+MetaMapLite	C0031268	0.0	4119	4122	PET
+MetaMapLite	C0205231	0.0	4140	4149	extensive
+MetaMapLite	C0817096	0.0	4164	4169	chest
+MetaMapLite	C0238767	0.0	4171	4180	bilateral
+MetaMapLite	C1522720	0.0	4181	4188	pleural
+MetaMapLite	C0032225	0.0	4181	4188	pleural
+MetaMapLite	C0031039	0.0	4189	4210	pericardial effusions
+MetaMapLite	C0497156	0.0	4216	4231	lymphadenopathy
+MetaMapLite	C0302908	0.0	4254	4259	fluid
+MetaMapLite	C1704353	0.0	4254	4259	fluid
+MetaMapLite	C1521735	0.0	4261	4269	pectoral
+MetaMapLite	C2732830	0.0	4274	4298	intramammary lymph nodes
+MetaMapLite	C0243144	0.0	4303	4309	uptake
+MetaMapLite	C1881413	0.0	4321	4324	SUV
+MetaMapLite	C2348529	0.0	4321	4324	SUV
+MetaMapLite	C0332290	0.0	4341	4356	consistent with
+MetaMapLite	C0441771	0.0	4357	4366	stage III
+MetaMapLite	C0012634	0.0	4367	4374	disease
+MetaMapLite	C0205341	0.0	4381	4387	repeat
+MetaMapLite	C0013516	0.0	4388	4402	echocardiogram
+MetaMapLite	C0489482	0.0	4413	4430	ejection fraction
+MetaMapLite	C2020641	0.0	4413	4430	ejection fraction
+MetaMapLite	C1264633	0.0	4422	4433	fraction of
+MetaMapLite	C0278627	0.0	4470	4478	Oncology
+MetaMapLite	C3245478	0.0	4479	4486	service
+MetaMapLite	C0557854	0.0	4479	4486	service
+MetaMapLite	C0392920	0.0	4502	4514	chemotherapy
+MetaMapLite	C0013217	0.0	4502	4514	chemotherapy
+MetaMapLite	C3665472	0.0	4502	4514	chemotherapy
+MetaMapLite	C3828193	0.0	4518	4527	September
+MetaMapLite	C0008838	0.0	4541	4550	cisplatin
+MetaMapLite	C0475210	0.0	4557	4567	centimeter
+MetaMapLite	C1319197	0.0	4592	4604	IV piggyback
+MetaMapLite	C0439227	0.0	4612	4617	hours
+MetaMapLite	C3828193	0.0	4621	4630	September
+MetaMapLite	C1101816	0.0	4640	4646	Alimta
+MetaMapLite	C0475210	0.0	4655	4665	centimeter
+MetaMapLite	C1319197	0.0	4690	4702	IV piggyback
+MetaMapLite	C1282918	0.0	4711	4718	minutes
+MetaMapLite	C0700321	0.0	4711	4718	minutes
+MetaMapLite	C0439232	0.0	4711	4718	minutes
+MetaMapLite	C3495140	0.0	4752	4763	Port-A-Cath
+MetaMapLite	C0935727	0.0	4752	4763	Port-A-Cath
+MetaMapLite	C3665472	0.0	4781	4793	chemotherapy
+MetaMapLite	C0392920	0.0	4781	4793	chemotherapy
+MetaMapLite	C0013217	0.0	4781	4793	chemotherapy
+MetaMapLite	C0205170	0.0	4798	4802	well
+MetaMapLite	C0030705	0.0	4821	4828	patient
+MetaMapLite	C0439228	0.0	4858	4861	day
+MetaMapLite	C1289919	0.0	4882	4890	IV fluid
+MetaMapLite	C3495140	0.0	4904	4915	Port-A-Cath
+MetaMapLite	C0935727	0.0	4904	4915	Port-A-Cath
+MetaMapLite	C0019134	0.0	4932	4939	heparin
+MetaMapLite	C0770546	0.0	4932	4939	heparin
+MetaMapLite	C1507394	0.0	4953	4961	protocol
+MetaMapLite	C0442711	0.0	4953	4961	protocol
+MetaMapLite	C0012621	0.0	4963	4972	DISCHARGE
+MetaMapLite	C0030685	0.0	4963	4972	DISCHARGE
+MetaMapLite	C0013227	0.0	4973	4984	MEDICATIONS
+MetaMapLite	C0206046	0.0	4987	4993	Zofran
+MetaMapLite	C0591971	0.0	4995	5004	Phenergan
+MetaMapLite	C0699129	0.0	5006	5014	Coumadin
+MetaMapLite	C0728963	0.0	5020	5027	Lovenox
+MetaMapLite	C0483514	0.0	5033	5040	Vicodin
+MetaMapLite	C2266673	0.0	5041	5063	DISCHARGE INSTRUCTIONS
+MetaMapLite	C1522577	0.0	5088	5096	followup
+MetaMapLite	C0442603	0.0	5117	5123	office
+MetaMapLite	C1283174	0.0	5127	5132	check
+MetaMapLite	C0585026	0.0	5144	5151	Tuesday
+MetaMapLite	C2699424	0.0	5215	5223	concerns
+MetaMapLite	C2827738	0.0	5231	5238	interim
+MetaMapLite	C0743221	0.0	5250	5267	discharge summary
+MetaMapLite	C0025500	0.0	5269	5281	mesothelioma
+MetaMapLite	C1290375	0.0	5269	5281	mesothelioma
+MetaMapLite	C1253943	0.0	5283	5299	pleural effusion
+MetaMapLite	C2073625	0.0	5283	5299	pleural effusion
+MetaMapLite	C0032227	0.0	5283	5299	pleural effusion
+MetaMapLite	C0232197	0.0	5308	5320	fibrillation
+MetaMapLite	C0002871	0.0	5322	5328	anemia
+MetaMapLite	C0559234	0.0	5339	5356	esophageal reflux
+MetaMapLite	C0017168	0.0	5339	5356	esophageal reflux
+MetaMapLite	C0149871	0.0	5358	5380	deep venous thrombosis
+MetaMapLite	C1514239	0.0	5382	5403	port-a-cath placement
+MetaMapLite	C1706409	0.0	5382	5386	port
+MetaMapLite	C0475311	0.0	5382	5386	port
+MetaMapLite	C0040053	0.0	5439	5449	thrombosis
+MetaMapLite	C2586211	0.0	5439	5449	thrombosis
+MetaMapLite	C0018792	0.0	5451	5457	atrial
+MetaMapLite	C0040053	0.0	5439	5449	thrombosis
+MetaMapLite	C2586211	0.0	5439	5449	thrombosis
+MetaMapLite	C0442031	0.0	5471	5482	pericardial
+MetaMapLite	C0497156	0.0	5484	5499	lymphadenopathy
+MetaMapLite	C1704353	0.0	5501	5506	fluid
+MetaMapLite	C0302908	0.0	5501	5506	fluid
+MetaMapLite	C0031042	0.0	5508	5522	pericardectomy
+MetaMapLite	C0817096	0.0	5524	5529	chest
+MetaMapLite	C1522720	0.0	5531	5538	pleural
+MetaMapLite	C0032225	0.0	5531	5538	pleural

@@ -1,0 +1,30 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary
+Description:  Patient had some cold symptoms, was treated as bronchitis with antibiotics.
+(Medical Transcription Sample Report)
+DISCHARGE DIAGNOSES:
+1.  Acute respiratory failure, resolved.
+2.  Severe bronchitis leading to acute respiratory failure, improving.
+3.  Acute on chronic renal failure, improved.
+4.  Severe hypertension, improved.
+5.  Diastolic dysfunction.
+X-ray on discharge did not show any congestion and pro-BNP is normal.
+SECONDARY DIAGNOSES:
+1.  Hyperlipidemia.
+2.  Recent evaluation and treatment, including cardiac catheterization, which did not show any coronary artery disease.
+3.  Remote history of carcinoma of the breast.
+4.  Remote history of right nephrectomy.
+5.  Allergic rhinitis.
+HOSPITAL COURSE: This 83-year-old patient had some cold symptoms, was treated as bronchitis with antibiotics.  Not long after the patient returned from Mexico, the patient started having progressive shortness of breath, came to the emergency room with severe bilateral wheezing and crepitations.  X-rays however did not show any congestion or infiltrates and pro-BNP was within normal limits.  The patient however was hypoxic and required 4L nasal cannula.  She was admitted to the Intensive Care Unit.  The patient improved remarkably over the night on IV steroids and empirical IV Lasix.  Initial swab was positive for MRSA colonization.
+Discussed with infectious disease, Dr. X and it was decided no treatment was required for de-colonization.  The patient's breathing has improved.  There is no wheezing or crepitations and O2 saturation is 91% on room air.  The patient is yet to go for exercise oximetry.  Her main complaint is nasal congestion and she is now on steroid nasal spray.  The patient was seen by Cardiology, Dr. Z, who advised continuation of beta blockers for diastolic dysfunction.  The patient has been weaned off IV steroids and is currently on oral steroids, which she will be on for seven days.
+DISPOSITION:  The patient has been discharged home.
+DISCHARGE MEDICATIONS:
+1.  Metoprolol 25 mg p.o. b.i.d.
+2.  Simvastatin 20 mg p.o. daily.
+NEW MEDICATIONS:
+1.  Prednisone 20 mg p.o. daily for seven days.
+2.  Flonase nasal spray daily for 30 days.
+Results for oximetry pending to evaluate the patient for need for home oxygen.
+FOLLOW UP:  The patient will follow up with Pulmonology, Dr. Y in one week's time and with cardiologist, Dr. X in two to three weeks' time.
+Keywords:
+discharge summary, acute respiratory failure, bronchitis, acute on chronic renal failure, severe hypertension, diastolic dysfunction, cold symptoms, iv steroids, nasal spray, nasal, steroids,

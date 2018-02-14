@@ -1,0 +1,33 @@
+NONEHEADER	Sample Name : Discharge Summary - Gastric Bypass	85-99	Gastric Bypass	CLAMP	C0017125	02/14/2018	02/14/2018 10:54:07	True		
+description	Description : Patient suffered from morbid obesity for many years and made multiple	136-150	morbid obesity	CLAMP	C0028756 SNOMEDCT_US[238136002, 83911000119104]	02/14/2018	02/14/2018 10:54:07	True	many years	temporal=[many years]
+description	Sample Report ) ADMISSION DIAGNOSIS : Morbid obesity . BMI is 51 . DISCHARGE DIAGNOSIS :	297-311	Morbid obesity	CLAMP	C0028756 SNOMEDCT_US[238136002, 83911000119104]	02/14/2018	02/14/2018 10:54:07	True		
+description	ADMISSION DIAGNOSIS : Morbid obesity . BMI is 51 . DISCHARGE DIAGNOSIS : Morbid	314-317	BMI	CLAMP	C1305855	02/14/2018	02/14/2018 10:54:07	True		labvalue=[51]
+description	. BMI is 51 . DISCHARGE DIAGNOSIS : Morbid obesity . BMI is 51 .	347-361	Morbid obesity	CLAMP	C0028756 SNOMEDCT_US[238136002, 83911000119104]	02/14/2018	02/14/2018 10:54:07	True		
+description	DISCHARGE DIAGNOSIS : Morbid obesity . BMI is 51 .	364-367	BMI	CLAMP	C1305855	02/14/2018	02/14/2018 10:54:07	True		labvalue=[51]
+procedures	PROCEDURE : Laparoscopic gastric bypass . SERVICE : Surgery . CONSULT :	387-414	Laparoscopic gastric bypass	CLAMP	C4039248	02/14/2018	02/14/2018 10:54:07	True		
+procedures	: Surgery . CONSULT : Anesthesia and pain .	460-464	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/14/2018	02/14/2018 10:54:07	True		
+history_present_illness	a 27 - year - old woman , who suffered from morbid obesity for many years . She has made multiple	543-557	morbid obesity	CLAMP	C0028756 SNOMEDCT_US[238136002, 83911000119104]	02/14/2018	02/14/2018 10:54:07	True	many years	temporal=[many years]
+history_present_illness	a preoperative workup and clearance for gastric bypass and was found to be an appropriate	705-719	gastric bypass	CLAMP	C0017125	02/14/2018	02/14/2018 10:54:07	True		
+hospital_course	2 , the patient continues to do well . Pain controlled with p . o . pain medicine ,	1253-1257	Pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/14/2018	02/14/2018 10:54:07	True		
+hospital_course	to do well . Pain controlled with p . o . pain medicine , ambulating without difficulty ,	1274-1292	p.o. pain medicine	CLAMP	C3262626	02/14/2018	02/14/2018 10:54:07	True		
+discharge_instructions	able to stop in an emergency and be off narcotic pain medicine . She may shower . She needs to keep	1759-1781	narcotic pain medicine	CLAMP	C0179495	02/14/2018	02/14/2018 10:54:07	True		
+discharge_instructions	. She may shower . She needs to keep her wounds clean and dry . She needs to follow up	1819-1829	her wounds	CLAMP	null	02/14/2018	02/14/2018 10:54:07	True		
+discharge_instructions	to follow up in my office in 1 week for postoperative evaluation . She is instructed to call for any	1896-1920	postoperative evaluation	CLAMP	C1269677	02/14/2018	02/14/2018 10:54:07	True	1 week	temporal=[1 week]
+discharge_instructions	instructed to call for any problems of shortness of breath , chest pain , calf pain , temperature	1969-1988	shortness of breath	CLAMP	C0013404 SNOMEDCT_US[267036007, 230145002]	02/14/2018	02/14/2018 10:54:07	True		BDL=[breath]
+discharge_instructions	any problems of shortness of breath , chest pain , calf pain , temperature greater than	1990-2000	chest pain	CLAMP	C0008031 SNOMEDCT_US[29857009]	02/14/2018	02/14/2018 10:54:07	True		BDL=[chest]
+discharge_instructions	of shortness of breath , chest pain , calf pain , temperature greater than 101 . 5 , any	2002-2011	calf pain	CLAMP	C0236040 SNOMEDCT_US[300954003]	02/14/2018	02/14/2018 10:54:07	True		BDL=[calf]
+discharge_instructions	of breath , chest pain , calf pain , temperature greater than 101 . 5 , any redness ,	2013-2024	temperature	CLAMP	C0039476	02/14/2018	02/14/2018 10:54:07	True		
+discharge_instructions	, temperature greater than 101 . 5 , any redness , swelling , or foul smelling drainage	2049-2056	redness	CLAMP	C0332575 SNOMEDCT_US[386713009]	02/14/2018	02/14/2018 10:54:07	True		
+discharge_instructions	greater than 101 . 5 , any redness , swelling , or foul smelling drainage from her	2058-2066	swelling	CLAMP	C0038999 SNOMEDCT_US[65124004, 413269001, 442672001]	02/14/2018	02/14/2018 10:54:07	True		
+discharge_instructions	than 101 . 5 , any redness , swelling , or foul smelling drainage from her wounds , intractable nausea , vomiting , and	2071-2109	foul smelling drainage from her wounds	CLAMP	null	02/14/2018	02/14/2018 10:54:07	True		
+discharge_instructions	foul smelling drainage from her wounds , intractable nausea , vomiting , and abdominal pain . She is	2111-2129	intractable nausea	CLAMP	C3697880 SNOMEDCT_US[698861005]	02/14/2018	02/14/2018 10:54:07	True		
+discharge_instructions	from her wounds , intractable nausea , vomiting , and abdominal pain . She is instructed	2131-2139	vomiting	CLAMP	C0042965 SNOMEDCT_US[1985008]	02/14/2018	02/14/2018 10:54:07	True		
+discharge_instructions	, intractable nausea , vomiting , and abdominal pain . She is instructed just to resume her	2145-2159	abdominal pain	CLAMP	C0000737 SNOMEDCT_US[21522001]	02/14/2018	02/14/2018 10:54:07	True		BDL=[abdominal]
+medications	: She was given a scripts for Lortab Elixir , Flexeril , ursodiol , and Colace .	2274-2287	Lortab Elixir	CLAMP	C0721432, RxNorm=[218084], Generic=[218084]	02/14/2018	02/14/2018 10:54:07	True		
+medications	was given a scripts for Lortab Elixir , Flexeril , ursodiol , and Colace . Keywords :	2289-2297	Flexeril	CLAMP	C0936055, RxNorm=[224954], Generic=[224954]	02/14/2018	02/14/2018 10:54:07	True		
+medications	a scripts for Lortab Elixir , Flexeril , ursodiol , and Colace . Keywords :	2299-2307	ursodiol	CLAMP	C0042105, RxNorm=[11065], Generic=[11065]	02/14/2018	02/14/2018 10:54:07	True		
+medications	Lortab Elixir , Flexeril , ursodiol , and Colace . Keywords :	2313-2319	Colace	CLAMP	C0282139, RxNorm=[82000], Generic=[82000]	02/14/2018	02/14/2018 10:54:07	True		
+discharge_summary	discharge summary , laparoscopic gastric bypass , gastric bypass , morbid obesity , liquid	2350-2377	laparoscopic gastric bypass	CLAMP	C4039248	02/14/2018	02/14/2018 10:54:07	True		
+discharge_summary	summary , laparoscopic gastric bypass , gastric bypass , morbid obesity , liquid diet , bmi ,	2379-2393	gastric bypass	CLAMP	C0017125	02/14/2018	02/14/2018 10:54:07	True		
+discharge_summary	gastric bypass , gastric bypass , morbid obesity , liquid diet , bmi , discharge ,	2395-2409	morbid obesity	CLAMP	C0028756 SNOMEDCT_US[238136002, 83911000119104]	02/14/2018	02/14/2018 10:54:07	True		
+discharge_summary	bypass , morbid obesity , liquid diet , bmi , discharge ,	2424-2427	bmi	CLAMP	C1305855	02/14/2018	02/14/2018 10:54:07	True		

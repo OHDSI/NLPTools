@@ -1,0 +1,417 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0085096	0.0	85	112	Peripheral vascular disease
+MetaMapLite	C3259023	0.0	105	124	disease
+Description
+MetaMapLite	C0030705	0.0	131	138	patient
+MetaMapLite	C0439064	0.0	144	152	multiple
+MetaMapLite	C0205476	0.0	153	160	medical
+MetaMapLite	C0010054	0.0	182	205	coronary artery disease
+MetaMapLite	C0010068	0.0	182	205	coronary artery disease
+MetaMapLite	C1956346	0.0	182	205	coronary artery disease
+MetaMapLite	C0020676	0.0	207	221	hypothyroidism
+MetaMapLite	C0205082	0.0	227	233	severe
+MetaMapLite	C0085096	0.0	234	261	peripheral vascular disease
+MetaMapLite	C3176928	0.0	254	268	disease status
+MetaMapLite	C0231290	0.0	262	273	status post
+MetaMapLite	C0439064	0.0	274	282	multiple
+MetaMapLite	C0282229	0.0	304	325	Medical Transcription
+MetaMapLite	C2347026	0.0	326	332	Sample
+MetaMapLite	C0370003	0.0	326	332	Sample
+MetaMapLite	C0700287	0.0	333	339	Report
+MetaMapLite	C0684224	0.0	333	339	Report
+MetaMapLite	C0011900	0.0	351	360	DIAGNOSIS
+MetaMapLite	C1704338	0.0	351	360	DIAGNOSIS
+MetaMapLite	C0205090	0.0	376	381	right
+MetaMapLite	C0187906	0.0	388	403	knee amputation
+MetaMapLite	C1555319	0.0	405	424	DISCHARGE DIAGNOSIS
+MetaMapLite	C0205090	0.0	440	445	right
+MetaMapLite	C0187906	0.0	452	467	knee amputation
+MetaMapLite	C0175668	0.0	469	478	SECONDARY
+MetaMapLite	C0027627	0.0	469	478	SECONDARY
+MetaMapLite	C0011900	0.0	479	488	DIAGNOSES
+MetaMapLite	C1552866	0.0	491	498	Include
+MetaMapLite	C0332257	0.0	491	498	Include
+MetaMapLite	C0085096	0.0	504	531	Peripheral vascular disease
+MetaMapLite	C0238767	0.0	533	542	bilateral
+MetaMapLite	C0038449	0.0	551	566	artery stenosis
+MetaMapLite	C0231290	0.0	567	578	status post
+MetaMapLite	C0238767	0.0	579	588	bilateral
+MetaMapLite	C0014099	0.0	589	613	carotid endarterectomies
+MetaMapLite	C0085096	0.0	619	646	Peripheral vascular disease
+MetaMapLite	C3176928	0.0	639	653	disease status
+MetaMapLite	C0231290	0.0	647	658	status post
+MetaMapLite	C0741847	0.0	674	680	bypass
+MetaMapLite	C0238767	0.0	685	694	bilateral
+MetaMapLite	C0190932	0.0	695	717	femoropopliteal bypass
+MetaMapLite	C1527362	0.0	718	726	grafting
+MetaMapLite	C1961139	0.0	718	726	grafting
+MetaMapLite	C0332835	0.0	718	726	grafting
+MetaMapLite	C0020538	0.0	732	744	Hypertension
+MetaMapLite	C1510475	0.0	750	764	Diverticulosis
+MetaMapLite	C0020676	0.0	770	784	Hypothyroidism
+MetaMapLite	C0022661	0.0	790	817	Chronic renal insufficiency
+MetaMapLite	C0403447	0.0	790	817	Chronic renal insufficiency
+MetaMapLite	C0231290	0.0	823	834	Status post
+MetaMapLite	C2116697	0.0	835	848	open incision
+MetaMapLite	C0152277	0.0	840	861	incision and drainage
+MetaMapLite	C0156185	0.0	868	886	intestinal abscess
+MetaMapLite	C0439673	0.0	893	900	unknown
+MetaMapLite	C1552961	0.0	901	906	point
+MetaMapLite	C2347617	0.0	901	906	point
+MetaMapLite	C1148554	0.0	908	921	DETERMINATION
+MetaMapLite	C0231290	0.0	924	935	Status post
+MetaMapLite	C0205090	0.0	936	941	right
+MetaMapLite	C0187906	0.0	948	963	knee amputation
+MetaMapLite	C0038895	0.0	965	975	OPERATIONS
+MetaMapLite	C3244305	0.0	965	975	OPERATIONS
+MetaMapLite	C3244306	0.0	965	975	OPERATIONS
+MetaMapLite	C0884358	0.0	976	985	PERFORMED
+MetaMapLite	C0205231	0.0	991	1000	Extensive
+MetaMapLite	C0011079	0.0	1001	1012	debridement
+MetaMapLite	C0205090	0.0	1016	1021	right
+MetaMapLite	C0187906	0.0	1028	1043	knee amputation
+MetaMapLite	C0191342	0.0	1049	1068	debridement of skin
+MetaMapLite	C0278403	0.0	1070	1089	subcutaneous tissue
+MetaMapLite	C0026845	0.0	1091	1097	muscle
+MetaMapLite	C0262950	0.0	1103	1107	bone
+MetaMapLite	C3829447	0.0	1111	1115	July
+MetaMapLite	C0022100	0.0	1130	1140	Irrigation
+MetaMapLite	C0011079	0.0	1145	1156	debridement
+MetaMapLite	C0205090	0.0	1160	1165	right
+MetaMapLite	C0187906	0.0	1172	1187	knee amputation
+MetaMapLite	C0586107	0.0	1177	1193	amputation wound
+MetaMapLite	C3829447	0.0	1197	1201	July
+MetaMapLite	C3829447	0.0	1212	1216	July
+MetaMapLite	C3829447	0.0	1227	1231	July
+MetaMapLite	C3831448	0.0	1246	1252	August
+MetaMapLite	C0262512	0.0	1262	1288	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	1273	1280	PRESENT
+MetaMapLite	C0030705	0.0	1295	1302	patient
+MetaMapLite	C0439234	0.0	1312	1316	year
+MetaMapLite	C0580836	0.0	1317	1320	old
+MetaMapLite	C0439064	0.0	1336	1344	multiple
+MetaMapLite	C0205476	0.0	1345	1352	medical
+MetaMapLite	C1956346	0.0	1374	1397	coronary artery disease
+MetaMapLite	C0010054	0.0	1374	1397	coronary artery disease
+MetaMapLite	C0010068	0.0	1374	1397	coronary artery disease
+MetaMapLite	C0020676	0.0	1399	1413	hypothyroidism
+MetaMapLite	C0205082	0.0	1419	1425	severe
+MetaMapLite	C0085096	0.0	1426	1453	peripheral vascular disease
+MetaMapLite	C3176928	0.0	1446	1460	disease status
+MetaMapLite	C0231290	0.0	1454	1465	status post
+MetaMapLite	C0439064	0.0	1466	1474	multiple
+MetaMapLite	C0205090	0.0	1501	1506	right
+MetaMapLite	C0187906	0.0	1513	1528	knee amputation
+MetaMapLite	C3829443	0.0	1532	1536	June
+MetaMapLite	C0205090	0.0	1572	1577	right
+MetaMapLite	C0190932	0.0	1578	1606	femoropopliteal bypass graft
+MetaMapLite	C0002688	0.0	1623	1633	amputation
+MetaMapLite	C1851789	0.0	1642	1660	poor wound healing
+MetaMapLite	C0030193	0.0	1691	1695	pain
+MetaMapLite	C0230415	0.0	1703	1724	right lower extremity
+MetaMapLite	C3829447	0.0	1728	1732	July
+MetaMapLite	C0678226	0.0	1743	1749	Due to
+MetaMapLite	C2699424	0.0	1750	1757	concern
+MetaMapLite	C3714514	0.0	1762	1771	infection
+MetaMapLite	C0040223	0.0	1780	1784	time
+MetaMapLite	C0442027	0.0	1804	1808	oral
+MetaMapLite	C0700517	0.0	1809	1815	Keflex
+MetaMapLite	C1801960	0.0	1853	1861	Vascular
+MetaMapLite	C0005847	0.0	1853	1861	Vascular
+MetaMapLite	C0442592	0.0	1862	1868	Clinic
+MetaMapLite	C0003629	0.0	1901	1912	appointment
+MetaMapLite	C0030705	0.0	1945	1952	patient
+MetaMapLite	C0011079	0.0	1957	1968	debridement
+MetaMapLite	C0558347	0.0	1973	1981	revision
+MetaMapLite	C0002690	0.0	1989	1994	stump
+MetaMapLite	C1514517	0.0	1989	1994	stump
+MetaMapLite	C0043250	0.0	1995	2000	wound
+MetaMapLite	C3263723	0.0	1995	2000	wound
+MetaMapLite	C0489547	0.0	2002	2017	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	2033	2040	patient
+MetaMapLite	C0205231	0.0	2051	2060	extensive
+MetaMapLite	C0011079	0.0	2061	2072	debridement
+MetaMapLite	C0205090	0.0	2080	2085	right
+MetaMapLite	C0187906	0.0	2092	2107	knee amputation
+MetaMapLite	C0586107	0.0	2097	2113	amputation wound
+MetaMapLite	C3829447	0.0	2117	2121	July
+MetaMapLite	C0191342	0.0	2146	2165	debridement of skin
+MetaMapLite	C0278403	0.0	2167	2186	subcutaneous tissue
+MetaMapLite	C0026845	0.0	2188	2194	muscle
+MetaMapLite	C0262950	0.0	2200	2204	bone
+MetaMapLite	C0027540	0.0	2219	2227	necrotic
+MetaMapLite	C0040300	0.0	2228	2234	tissue
+MetaMapLite	C0002690	0.0	2244	2249	stump
+MetaMapLite	C1552861	0.0	2284	2288	help
+MetaMapLite	C0043240	0.0	2300	2313	wound healing
+MetaMapLite	C0030705	0.0	2320	2329	patient's
+MetaMapLite	C0032790	0.0	2330	2343	postoperative
+MetaMapLite	C0750729	0.0	2344	2350	course
+MetaMapLite	C0205265	0.0	2367	2376	initially
+MetaMapLite	C0205178	0.0	2380	2385	acute
+MetaMapLite	C0005767	0.0	2386	2391	blood
+MetaMapLite	C0229664	0.0	2386	2391	blood
+MetaMapLite	C0002871	0.0	2397	2403	anemia
+MetaMapLite	C0005841	0.0	2415	2432	blood transfusion
+MetaMapLite	C0585024	0.0	2460	2466	Monday
+MetaMapLite	C3829447	0.0	2468	2472	July
+MetaMapLite	C0022100	0.0	2486	2496	irrigation
+MetaMapLite	C0011079	0.0	2501	2512	debridement
+MetaMapLite	C0205090	0.0	2520	2525	right
+MetaMapLite	C0187906	0.0	2532	2547	knee amputation
+MetaMapLite	C0043250	0.0	2554	2559	wound
+MetaMapLite	C3263723	0.0	2554	2559	wound
+MetaMapLite	C0443172	0.0	2564	2570	change
+MetaMapLite	C0392747	0.0	2564	2570	change
+MetaMapLite	C3829447	0.0	2583	2587	July
+MetaMapLite	C3829447	0.0	2616	2620	July
+MetaMapLite	C0030705	0.0	2635	2642	patient
+MetaMapLite	C0022100	0.0	2678	2688	irrigation
+MetaMapLite	C0011079	0.0	2693	2704	debridement
+MetaMapLite	C3263723	0.0	2712	2717	wound
+MetaMapLite	C0043250	0.0	2712	2717	wound
+MetaMapLite	C0443172	0.0	2732	2738	change
+MetaMapLite	C0392747	0.0	2732	2738	change
+MetaMapLite	C0184661	0.0	2755	2764	procedure
+MetaMapLite	C2700391	0.0	2755	2764	procedure
+MetaMapLite	C3829447	0.0	2768	2772	July
+MetaMapLite	C0030705	0.0	2787	2794	patient
+MetaMapLite	C0332189	0.0	2818	2826	episodes
+MetaMapLite	C0011991	0.0	2830	2838	diarrhea
+MetaMapLite	C0015733	0.0	2850	2855	stool
+MetaMapLite	C0010453	0.0	2856	2864	cultures
+MetaMapLite	C0243073	0.0	2882	2887	assay
+MetaMapLite	C1510438	0.0	2882	2887	assay
+MetaMapLite	C0699678	0.0	2924	2930	Flagyl
+MetaMapLite	C0243073	0.0	2959	2964	assay
+MetaMapLite	C1510438	0.0	2959	2964	assay
+MetaMapLite	C1446409	0.0	2974	2982	positive
+MetaMapLite	C0679006	0.0	2991	2999	decision
+MetaMapLite	C0699678	0.0	3021	3027	Flagyl
+MetaMapLite	C0443225	0.0	3034	3038	full
+MetaMapLite	C0439228	0.0	3042	3045	day
+MetaMapLite	C0750729	0.0	3046	3052	course
+MetaMapLite	C3829447	0.0	3058	3062	July
+MetaMapLite	C0030705	0.0	3077	3084	patient
+MetaMapLite	C0013404	0.0	3104	3123	shortness of breath
+MetaMapLite	C0043144	0.0	3128	3136	wheezing
+MetaMapLite	C0518766	0.0	3172	3183	vital signs
+MetaMapLite	C0205360	0.0	3193	3199	stable
+MetaMapLite	C2237091	0.0	3215	3232	oxygen saturation
+MetaMapLite	C0483415	0.0	3215	3232	oxygen saturation
+MetaMapLite	C1883712	0.0	3280	3288	addition
+MetaMapLite	C0332287	0.0	3280	3288	addition
+MetaMapLite	C0179574	0.0	3304	3317	nasal cannula
+MetaMapLite	C0039985	0.0	3322	3333	chest x-ray
+MetaMapLite	C0238767	0.0	3343	3352	bilateral
+MetaMapLite	C0032227	0.0	3353	3370	pleural effusions
+MetaMapLite	C0332287	0.0	3400	3408	addition
+MetaMapLite	C1883712	0.0	3400	3408	addition
+MetaMapLite	C0034063	0.0	3417	3432	pulmonary edema
+MetaMapLite	C0030705	0.0	3449	3458	patient's
+MetaMapLite	C0302908	0.0	3462	3468	fluids
+MetaMapLite	C0001927	0.0	3506	3515	albuterol
+MetaMapLite	C0574032	0.0	3520	3528	infusion
+MetaMapLite	C0699992	0.0	3532	3537	Lasix
+MetaMapLite	C0237881	0.0	3552	3563	significant
+MetaMapLite	C0750502	0.0	3552	3563	significant
+MetaMapLite	C2094175	0.0	3564	3576	urine output
+MetaMapLite	C1287298	0.0	3564	3576	urine output
+MetaMapLite	C0232856	0.0	3564	3576	urine output
+MetaMapLite	C2188753	0.0	3564	3576	urine output
+MetaMapLite	C1457887	0.0	3583	3591	symptoms
+MetaMapLite	C0683368	0.0	3583	3591	symptoms
+MetaMapLite	C0013404	0.0	3595	3614	shortness of breath
+MetaMapLite	C3831448	0.0	3639	3645	August
+MetaMapLite	C0205088	0.0	3681	3686	final
+MetaMapLite	C0022100	0.0	3687	3697	irrigation
+MetaMapLite	C0011079	0.0	3702	3713	debridement
+MetaMapLite	C0187906	0.0	3727	3742	knee amputation
+MetaMapLite	C0043250	0.0	3754	3759	wound
+MetaMapLite	C3263723	0.0	3754	3759	wound
+MetaMapLite	C0205170	0.0	3801	3805	well
+MetaMapLite	C0179804	0.0	3812	3826	Foley catheter
+MetaMapLite	C0518766	0.0	3845	3856	vital signs
+MetaMapLite	C0205360	0.0	3866	3872	stable
+MetaMapLite	C1998827	0.0	3882	3900	respiratory status
+MetaMapLite	C2598168	0.0	3882	3900	respiratory status
+MetaMapLite	C0205360	0.0	3915	3921	stable
+MetaMapLite	C1317851	0.0	3951	3962	home health
+MetaMapLite	C0043250	0.0	3967	3972	wound
+MetaMapLite	C3263723	0.0	3967	3972	wound
+MetaMapLite	C0580931	0.0	3977	3981	care
+MetaMapLite	C0030685	0.0	3987	3996	discharge
+MetaMapLite	C0012621	0.0	3987	3996	discharge
+MetaMapLite	C0012621	0.0	3998	4007	DISCHARGE
+MetaMapLite	C0030685	0.0	3998	4007	DISCHARGE
+MetaMapLite	C0012634	0.0	4008	4017	CONDITION
+MetaMapLite	C0030705	0.0	4024	4031	patient
+MetaMapLite	C0013404	0.0	4067	4086	shortness of breath
+MetaMapLite	C0008031	0.0	4090	4100	chest pain
+MetaMapLite	C2945599	0.0	4110	4114	mild
+MetaMapLite	C0035203	0.0	4139	4148	breathing
+MetaMapLite	C1160636	0.0	4139	4148	breathing
+MetaMapLite	C0004048	0.0	4139	4148	breathing
+MetaMapLite	C0205307	0.0	4191	4197	normal
+MetaMapLite	C0030685	0.0	4199	4208	DISCHARGE
+MetaMapLite	C0012621	0.0	4199	4208	DISCHARGE
+MetaMapLite	C0013227	0.0	4209	4220	MEDICATIONS
+MetaMapLite	C0982952	0.0	4226	4246	Acetaminophen 325 mg
+MetaMapLite	C0332173	0.0	4247	4252	daily
+MetaMapLite	C0001927	0.0	4258	4267	Albuterol
+MetaMapLite	C1533107	0.0	4270	4275	puffs
+MetaMapLite	C0439227	0.0	4286	4291	hours
+MetaMapLite	C0983829	0.0	4307	4323	Vitamin C 500 mg
+MetaMapLite	C0040223	0.0	4335	4340	times
+MetaMapLite	C0332173	0.0	4341	4346	daily
+MetaMapLite	C0983882	0.0	4352	4365	Aspirin 81 mg
+MetaMapLite	C0332173	0.0	4341	4346	daily
+MetaMapLite	C1121854	0.0	4377	4386	Symbicort
+MetaMapLite	C1882376	0.0	4389	4393	puff
+MetaMapLite	C1533107	0.0	4389	4393	puff
+MetaMapLite	C0332170	0.0	4400	4407	morning
+MetaMapLite	C1533107	0.0	4389	4393	puff
+MetaMapLite	C1882376	0.0	4389	4393	puff
+MetaMapLite	C0587117	0.0	4425	4432	evening
+MetaMapLite	C0723950	0.0	4438	4442	Tums
+MetaMapLite	C0719094	0.0	4454	4465	Calcium 600
+MetaMapLite	C3537249	0.0	4474	4483	vitamin D
+MetaMapLite	C2936842	0.0	4474	4483	vitamin D
+MetaMapLite	C3714503	0.0	4474	4483	vitamin D
+MetaMapLite	C0042866	0.0	4474	4483	vitamin D
+MetaMapLite	C0014695	0.0	4474	4483	vitamin D
+MetaMapLite	C0332173	0.0	4484	4489	daily
+MetaMapLite	C0633084	0.0	4495	4501	Plavix
+MetaMapLite	C0332173	0.0	4484	4489	daily
+MetaMapLite	C1124680	0.0	4519	4549	Clorazepate dipotassium 7.5 mg
+MetaMapLite	C0439227	0.0	4560	4565	hours
+MetaMapLite	C1170371	0.0	4582	4589	Lexapro
+MetaMapLite	C0332173	0.0	4596	4601	daily
+MetaMapLite	C0521112	0.0	4605	4612	bedtime
+MetaMapLite	C0986526	0.0	4619	4644	Hydrochlorothiazide 25 mg
+MetaMapLite	C0039225	0.0	4654	4660	tablet
+MetaMapLite	C1705223	0.0	4654	4660	tablet
+MetaMapLite	C0332173	0.0	4661	4666	daily
+MetaMapLite	C0986664	0.0	4673	4689	Ibuprofen 200 mg
+MetaMapLite	C0994475	0.0	4696	4701	pills
+MetaMapLite	C0590690	0.0	4718	4723	Imdur
+MetaMapLite	C0332173	0.0	4730	4735	daily
+MetaMapLite	C0721346	0.0	4742	4749	Levoxyl
+MetaMapLite	C0439211	0.0	4754	4757	mcg
+MetaMapLite	C0332173	0.0	4730	4735	daily
+MetaMapLite	C0699194	0.0	4770	4776	Ativan
+MetaMapLite	C0039225	0.0	4793	4799	tablet
+MetaMapLite	C1705223	0.0	4793	4799	tablet
+MetaMapLite	C0439227	0.0	4810	4815	hours
+MetaMapLite	C0700776	0.0	4832	4841	Lopressor
+MetaMapLite	C0039225	0.0	4857	4863	tablet
+MetaMapLite	C1705223	0.0	4857	4863	tablet
+MetaMapLite	C0585361	0.0	4864	4875	twice daily
+MetaMapLite	C0699678	0.0	4882	4888	Flagyl
+MetaMapLite	C0439227	0.0	4906	4911	hours
+MetaMapLite	C0439228	0.0	4919	4923	days
+MetaMapLite	C0301532	0.0	4930	4942	Multivitamin
+MetaMapLite	C0332173	0.0	4943	4948	daily
+MetaMapLite	C0699241	0.0	4955	4964	Nitrostat
+MetaMapLite	C0988268	0.0	4998	5014	Omeprazole 20 mg
+MetaMapLite	C0332173	0.0	5015	5020	daily
+MetaMapLite	C0000970	0.0	5037	5050	acetaminophen
+MetaMapLite	C0439227	0.0	5078	5083	hours
+MetaMapLite	C0030193	0.0	5098	5102	pain
+MetaMapLite	C1570232	0.0	5109	5115	Lyrica
+MetaMapLite	C0332173	0.0	5122	5127	daily
+MetaMapLite	C0521112	0.0	5131	5138	bedtime
+MetaMapLite	C0678181	0.0	5145	5150	Zocor
+MetaMapLite	C0039225	0.0	5166	5172	tablet
+MetaMapLite	C1705223	0.0	5166	5172	tablet
+MetaMapLite	C0332173	0.0	5173	5178	daily
+MetaMapLite	C0521112	0.0	5182	5189	bedtime
+MetaMapLite	C0040610	0.0	5196	5204	Tramadol
+MetaMapLite	C0994475	0.0	5215	5220	pills
+MetaMapLite	C0439227	0.0	5239	5244	hours
+MetaMapLite	C0030193	0.0	5259	5263	pain
+MetaMapLite	C0719949	0.0	5270	5276	Diovan
+MetaMapLite	C0332173	0.0	5284	5289	daily
+MetaMapLite	C0991474	0.0	5296	5315	Zinc sulfate 220 mg
+MetaMapLite	C0475337	0.0	5301	5308	sulfate
+MetaMapLite	C0038720	0.0	5301	5308	sulfate
+MetaMapLite	C0332173	0.0	5284	5289	daily
+MetaMapLite	C1657597	0.0	5323	5337	DISCHARGE DIET
+MetaMapLite	C0030705	0.0	5344	5351	patient
+MetaMapLite	C0001675	0.0	5380	5385	adult
+MetaMapLite	C3661834	0.0	5392	5420	consistent carbohydrate diet
+MetaMapLite	C2266673	0.0	5422	5444	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0030705	0.0	5451	5458	patient
+MetaMapLite	C3846022	0.0	5481	5489	ambulate
+MetaMapLite	C0010397	0.0	5495	5503	crutches
+MetaMapLite	C0043016	0.0	5509	5515	walker
+MetaMapLite	C0013126	0.0	5531	5536	drive
+MetaMapLite	C1299988	0.0	5538	5542	move
+MetaMapLite	C1269909	0.0	5538	5542	move
+MetaMapLite	C0560560	0.0	5538	5542	move
+MetaMapLite	C0578671	0.0	5538	5542	move
+MetaMapLite	C0016858	0.0	5543	5552	furniture
+MetaMapLite	C1514989	0.0	5560	5578	strenuous activity
+MetaMapLite	C1522577	0.0	5612	5620	followup
+MetaMapLite	C1548430	0.0	5641	5656	skilled nursing
+MetaMapLite	C0442519	0.0	5669	5673	home
+MetaMapLite	C0150369	0.0	5677	5684	monitor
+MetaMapLite	C0181904	0.0	5677	5684	monitor
+MetaMapLite	C0030695	0.0	5677	5684	monitor
+MetaMapLite	C0443172	0.0	5689	5695	change
+MetaMapLite	C0392747	0.0	5689	5695	change
+MetaMapLite	C1317851	0.0	5714	5725	home health
+MetaMapLite	C0205485	0.0	5726	5734	physical
+MetaMapLite	C1318464	0.0	5739	5759	occupational therapy
+MetaMapLite	C1801960	0.0	5796	5804	vascular
+MetaMapLite	C0005847	0.0	5796	5804	vascular
+MetaMapLite	C0442592	0.0	5805	5811	clinic
+MetaMapLite	C2699424	0.0	5830	5838	concerns
+MetaMapLite	C0039476	0.0	5854	5865	temperature
+MetaMapLite	C0005903	0.0	5854	5865	temperature
+MetaMapLite	C0439093	0.0	5866	5878	greater than
+MetaMapLite	C0278140	0.0	5884	5895	severe pain
+MetaMapLite	C0027497	0.0	5897	5903	nausea
+MetaMapLite	C0042963	0.0	5905	5913	vomiting
+MetaMapLite	C0332575	0.0	5918	5925	redness
+MetaMapLite	C1260956	0.0	5918	5925	redness
+MetaMapLite	C0237137	0.0	5929	5938	foul odor
+MetaMapLite	C3263723	0.0	5948	5953	wound
+MetaMapLite	C0043250	0.0	5948	5953	wound
+MetaMapLite	C1522577	0.0	5955	5963	FOLLOWUP
+MetaMapLite	C0030705	0.0	5970	5977	patient
+MetaMapLite	C1801960	0.0	6019	6027	Vascular
+MetaMapLite	C0005847	0.0	6019	6027	Vascular
+MetaMapLite	C0442592	0.0	6028	6034	Clinic
+MetaMapLite	C0439230	0.0	6043	6048	weeks
+MetaMapLite	C0003629	0.0	6055	6066	appointment
+MetaMapLite	C0003629	0.0	6116	6127	appointment
+MetaMapLite	C0033131	0.0	6137	6159	primary care physician
+MetaMapLite	C0580931	0.0	6145	6149	care
+MetaMapLite	C0585024	0.0	6163	6169	Monday
+MetaMapLite	C3831448	0.0	6171	6177	August
+MetaMapLite	C0743221	0.0	6198	6215	discharge summary
+MetaMapLite	C0085096	0.0	6217	6244	peripheral vascular disease
+MetaMapLite	C0007282	0.0	6246	6269	carotid artery stenosis
+MetaMapLite	C0741847	0.0	6286	6292	bypass
+MetaMapLite	C0020538	0.0	6294	6306	hypertension
+MetaMapLite	C1510475	0.0	6308	6322	diverticulosis
+MetaMapLite	C0014098	0.0	6332	6348	endarterectomies
+MetaMapLite	C0042373	0.0	6350	6366	vascular disease
+MetaMapLite	C3263723	0.0	6368	6373	wound
+MetaMapLite	C0043250	0.0	6368	6373	wound
+MetaMapLite	C0187906	0.0	6379	6394	knee amputation
+MetaMapLite	C0002688	0.0	6384	6394	amputation
+MetaMapLite	C0003842	0.0	6408	6414	artery
+MetaMapLite	C0226004	0.0	6408	6414	artery
+MetaMapLite	C0741847	0.0	6436	6442	bypass
+MetaMapLite	C0205100	0.0	6449	6459	peripheral
+MetaMapLite	C0042373	0.0	6461	6478	disease, vascular
+MetaMapLite	C0022742	0.0	6480	6484	knee

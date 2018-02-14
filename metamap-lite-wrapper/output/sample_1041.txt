@@ -1,0 +1,304 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0678257	0.0	87	98	Description
+MetaMapLite	C0030705	0.0	101	108	Patient
+MetaMapLite	C0205231	0.0	127	136	extensive
+MetaMapLite	C1332128	0.0	148	173	peritoneal carcinomatosis
+MetaMapLite	C0227334	0.0	179	190	appendiceal
+MetaMapLite	C0205225	0.0	191	198	primary
+MetaMapLite	C0282229	0.0	201	222	Medical Transcription
+MetaMapLite	C2347026	0.0	223	229	Sample
+MetaMapLite	C0370003	0.0	223	229	Sample
+MetaMapLite	C0684224	0.0	230	236	Report
+MetaMapLite	C0700287	0.0	230	236	Report
+MetaMapLite	C1302393	0.0	238	255	DATE OF ADMISSION
+MetaMapLite	C2361123	0.0	270	287	DATE OF DISCHARGE
+MetaMapLite	C0011900	0.0	312	321	DIAGNOSIS
+MetaMapLite	C1704338	0.0	312	321	DIAGNOSIS
+MetaMapLite	C1704656	0.0	312	321	DIAGNOSIS
+MetaMapLite	C1332128	0.0	323	348	Peritoneal carcinomatosis
+MetaMapLite	C0227334	0.0	354	365	appendiceal
+MetaMapLite	C0205225	0.0	366	373	primary
+MetaMapLite	C1555319	0.0	375	394	DISCHARGE DIAGNOSIS
+MetaMapLite	C1332128	0.0	398	423	Peritoneal carcinomatosis
+MetaMapLite	C0227334	0.0	429	440	appendiceal
+MetaMapLite	C0205225	0.0	441	448	primary
+MetaMapLite	C0332138	0.0	450	469	SECONDARY DIAGNOSIS
+MetaMapLite	C0011991	0.0	472	480	Diarrhea
+MetaMapLite	C1963091	0.0	472	480	Diarrhea
+MetaMapLite	C0031831	0.0	492	501	PHYSICIAN
+MetaMapLite	C0557854	0.0	516	523	SERVICE
+MetaMapLite	C3245478	0.0	516	523	SERVICE
+MetaMapLite	C2242991	0.0	526	541	General surgery
+MetaMapLite	C1274039	0.0	526	541	General surgery
+MetaMapLite	C0543467	0.0	545	552	Surgery
+MetaMapLite	C0038895	0.0	545	552	Surgery
+MetaMapLite	C0278627	0.0	553	561	Oncology
+MetaMapLite	C0009818	0.0	563	573	CONSULTING
+MetaMapLite	C0557854	0.0	574	582	SERVICES
+MetaMapLite	C0042077	0.0	585	592	Urology
+MetaMapLite	C0025664	0.0	594	604	PROCEDURES
+MetaMapLite	C2700391	0.0	594	604	PROCEDURES
+MetaMapLite	C0184661	0.0	594	604	PROCEDURES
+MetaMapLite	C0347984	0.0	605	611	DURING
+MetaMapLite	C1706551	0.0	605	611	DURING
+MetaMapLite	C0019993	0.0	617	632	HOSPITALIZATION
+MetaMapLite	C1883291	0.0	654	664	Cystoscopy
+MetaMapLite	C0010702	0.0	654	664	Cystoscopy
+MetaMapLite	C0589500	0.0	678	688	retrograde
+MetaMapLite	C0439784	0.0	678	688	retrograde
+MetaMapLite	C0203108	0.0	689	699	pyelograms
+MetaMapLite	C1883719	0.0	701	710	insertion
+MetaMapLite	C0441587	0.0	701	710	insertion
+MetaMapLite	C0238767	0.0	714	723	bilateral
+MetaMapLite	C0183518	0.0	737	752	ureteral stents
+MetaMapLite	C0085704	0.0	758	780	Exploratory laparotomy
+MetaMapLite	C0192861	0.0	782	801	right hemicolectomy
+MetaMapLite	C0008320	0.0	803	818	cholecystectomy
+MetaMapLite	C0037995	0.0	820	831	splenectomy
+MetaMapLite	C0198614	0.0	833	844	omentectomy
+MetaMapLite	C0489547	0.0	869	884	HOSPITAL COURSE
+MetaMapLite	C0488549	0.0	869	884	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	891	898	patient
+MetaMapLite	C2987187	0.0	904	912	pleasant
+MetaMapLite	C0439234	0.0	916	920	year
+MetaMapLite	C0580836	0.0	921	924	old
+MetaMapLite	C0237881	0.0	943	954	significant
+MetaMapLite	C0750502	0.0	943	954	significant
+MetaMapLite	C0262926	0.0	960	975	medical history
+MetaMapLite	C0205231	0.0	989	998	extensive
+MetaMapLite	C1332128	0.0	1010	1035	peritoneal carcinomatosis
+MetaMapLite	C0227334	0.0	1041	1052	appendiceal
+MetaMapLite	C0205225	0.0	1053	1060	primary
+MetaMapLite	C1274039	0.0	1109	1124	General Surgery
+MetaMapLite	C2242991	0.0	1109	1124	General Surgery
+MetaMapLite	C0557854	0.0	1127	1134	Service
+MetaMapLite	C3245478	0.0	1127	1134	Service
+MetaMapLite	C0205547	0.0	1141	1148	routine
+MetaMapLite	C0445204	0.0	1149	1161	preoperative
+MetaMapLite	C1261322	0.0	1162	1172	evaluation
+MetaMapLite	C0220825	0.0	1162	1172	evaluation
+MetaMapLite	C1442488	0.0	1183	1191	baseline
+MetaMapLite	C0168634	0.0	1183	1191	baseline
+MetaMapLite	C0455052	0.0	1198	1208	bowel prep
+MetaMapLite	C0042077	0.0	1210	1217	urology
+MetaMapLite	C0864052	0.0	1230	1254	ureteral stent placement
+MetaMapLite	C0030705	0.0	1261	1268	patient
+MetaMapLite	C1882154	0.0	1286	1295	operative
+MetaMapLite	C1553446	0.0	1296	1301	suite
+MetaMapLite	C0205435	0.0	1324	1329	first
+MetaMapLite	C0042077	0.0	1338	1345	Urology
+MetaMapLite	C1883291	0.0	1352	1362	cystoscopy
+MetaMapLite	C0010702	0.0	1352	1362	cystoscopy
+MetaMapLite	C0238767	0.0	1368	1377	bilateral
+MetaMapLite	C0864052	0.0	1378	1402	ureteral stent placement
+MetaMapLite	C0085704	0.0	1426	1448	exploratory laparotomy
+MetaMapLite	C0192861	0.0	1450	1469	right hemicolectomy
+MetaMapLite	C0008320	0.0	1471	1486	cholecystectomy
+MetaMapLite	C0037995	0.0	1488	1499	splenectomy
+MetaMapLite	C0198614	0.0	1501	1512	omentectomy
+MetaMapLite	C0184661	0.0	1546	1555	procedure
+MetaMapLite	C1948041	0.0	1546	1555	procedure
+MetaMapLite	C3538935	0.0	1546	1555	procedure
+MetaMapLite	C2700391	0.0	1546	1555	procedure
+MetaMapLite	C3539779	0.0	1546	1555	procedure
+MetaMapLite	C3274430	0.0	1546	1555	procedure
+MetaMapLite	C0009566	0.0	1568	1581	complications
+MetaMapLite	C1171258	0.0	1568	1581	complications
+MetaMapLite	C0030705	0.0	1588	1595	patient
+MetaMapLite	C0021708	0.0	1624	1627	ICU
+MetaMapLite	C0439228	0.0	1636	1639	day
+MetaMapLite	C0205322	0.0	1660	1670	persistent
+MetaMapLite	C3827868	0.0	1671	1682	tachycardia
+MetaMapLite	C0039231	0.0	1671	1682	tachycardia
+MetaMapLite	C0553891	0.0	1689	1699	extubation
+MetaMapLite	C0016249	0.0	1733	1738	floor
+MetaMapLite	C0750577	0.0	1757	1770	exceptionally
+MetaMapLite	C0205170	0.0	1771	1775	well
+MetaMapLite	C0032790	0.0	1780	1793	postoperative
+MetaMapLite	C0439228	0.0	1794	1797	day
+MetaMapLite	C0030705	0.0	1806	1813	patient
+MetaMapLite	C0016204	0.0	1821	1827	flatus
+MetaMapLite	C1299581	0.0	1840	1844	able
+MetaMapLite	C0439659	0.0	1848	1853	start
+MetaMapLite	C2184084	0.0	1856	1873	clear liquid diet
+MetaMapLite	C0205272	0.0	1910	1917	regular
+MetaMapLite	C0018684	0.0	1918	1924	health
+MetaMapLite	C0012159	0.0	1932	1936	diet
+MetaMapLite	C0012155	0.0	1932	1936	diet
+MetaMapLite	C0032790	0.0	1940	1953	postoperative
+MetaMapLite	C0439228	0.0	1954	1957	day
+MetaMapLite	C0030193	0.0	1967	1971	pain
+MetaMapLite	C3853142	0.0	1976	1991	well controlled
+MetaMapLite	C0019993	0.0	2008	2023	hospitalization
+MetaMapLite	C0205265	0.0	2025	2034	initially
+MetaMapLite	C0181331	0.0	2042	2050	PCA pump
+MetaMapLite	C0442824	0.0	2061	2065	very
+MetaMapLite	C0002771	0.0	2116	2130	pain medicines
+MetaMapLite	C3844126	0.0	2148	2159	very little
+MetaMapLite	C0205411	0.0	2164	2172	adequate
+MetaMapLite	C1304888	0.0	2173	2185	pain control
+MetaMapLite	C0032790	0.0	2191	2204	postoperative
+MetaMapLite	C0011008	0.0	2205	2209	date
+MetaMapLite	C0030705	0.0	2218	2225	patient
+MetaMapLite	C0004916	0.0	2242	2245	bed
+MetaMapLite	C0030705	0.0	2283	2292	patient's
+MetaMapLite	C0033213	0.0	2298	2305	problem
+MetaMapLite	C2945599	0.0	2320	2324	mild
+MetaMapLite	C0011991	0.0	2325	2333	diarrhea
+MetaMapLite	C0032790	0.0	2337	2350	postoperative
+MetaMapLite	C0439228	0.0	2351	2355	days
+MetaMapLite	C0039869	0.0	2376	2383	thought
+MetaMapLite	C1274040	0.0	2392	2398	result
+MetaMapLite	C0192861	0.0	2406	2425	right hemicolectomy
+MetaMapLite	C0040549	0.0	2438	2443	toxin
+MetaMapLite	C0004600	0.0	2462	2466	back
+MetaMapLite	C0205160	0.0	2467	2475	negative
+MetaMapLite	C0591635	0.0	2498	2505	Imodium
+MetaMapLite	C0011991	0.0	2520	2528	diarrhea
+MetaMapLite	C0687676	0.0	2535	2539	post
+MetaMapLite	C0037995	0.0	2540	2551	splenectomy
+MetaMapLite	C0042210	0.0	2552	2560	vaccines
+MetaMapLite	C0305065	0.0	2571	2583	pneumococcal
+MetaMapLite	C0038410	0.0	2571	2583	pneumococcal
+MetaMapLite	C0700144	0.0	2594	2616	meningococcal vaccines
+MetaMapLite	C0019993	0.0	2646	2661	hospitalization
+MetaMapLite	C0439228	0.0	2670	2673	day
+MetaMapLite	C0030685	0.0	2677	2686	discharge
+MetaMapLite	C0012621	0.0	2677	2686	discharge
+MetaMapLite	C0030705	0.0	2692	2699	patient
+MetaMapLite	C0004916	0.0	2731	2734	bed
+MetaMapLite	C0277786	0.0	2743	2753	complaints
+MetaMapLite	C0277797	0.0	2768	2776	afebrile
+MetaMapLite	C0019993	0.0	2792	2807	hospitalization
+MetaMapLite	C0518766	0.0	2816	2827	vital signs
+MetaMapLite	C0205360	0.0	2833	2839	stable
+MetaMapLite	C1509143	0.0	2852	2874	physical exam findings
+MetaMapLite	C0230168	0.0	2892	2899	abdomen
+MetaMapLite	C0000726	0.0	2892	2899	abdomen
+MetaMapLite	C0205358	0.0	2904	2908	soft
+MetaMapLite	C0520960	0.0	2927	2936	nontender
+MetaMapLite	C0232693	0.0	2942	2954	bowel sounds
+MetaMapLite	C0150312	0.0	2955	2962	present
+MetaMapLite	C0456276	0.0	2980	2996	midline incision
+MetaMapLite	C1947930	0.0	3000	3005	clean
+MetaMapLite	C0205222	0.0	3007	3010	dry
+MetaMapLite	C0205266	0.0	3016	3022	intact
+MetaMapLite	C0524724	0.0	3027	3034	staples
+MetaMapLite	C0185012	0.0	3027	3034	staples
+MetaMapLite	C0442504	0.0	3042	3047	place
+MetaMapLite	C0439228	0.0	3065	3069	days
+MetaMapLite	C0032790	0.0	3070	3076	postop
+MetaMapLite	C0442519	0.0	3089	3093	home
+MetaMapLite	C0524724	0.0	3103	3110	staples
+MetaMapLite	C0442504	0.0	3114	3119	place
+MetaMapLite	C0003629	0.0	3162	3173	appointment
+MetaMapLite	C0348080	0.0	3175	3184	CONDITION
+MetaMapLite	C1705253	0.0	3175	3184	CONDITION
+MetaMapLite	C0012634	0.0	3175	3184	CONDITION
+MetaMapLite	C0012621	0.0	3188	3197	DISCHARGE
+MetaMapLite	C0030685	0.0	3188	3197	DISCHARGE
+MetaMapLite	C0030705	0.0	3204	3211	patient
+MetaMapLite	C0205170	0.0	3230	3234	good
+MetaMapLite	C3538874	0.0	3239	3255	stable condition
+MetaMapLite	C0677946	0.0	3239	3255	stable condition
+MetaMapLite	C0030685	0.0	3257	3266	DISCHARGE
+MetaMapLite	C0012621	0.0	3257	3266	DISCHARGE
+MetaMapLite	C0013227	0.0	3267	3278	MEDICATIONS
+MetaMapLite	C3244316	0.0	3267	3278	MEDICATIONS
+MetaMapLite	C0802604	0.0	3267	3278	MEDICATIONS
+MetaMapLite	C2598133	0.0	3267	3278	MEDICATIONS
+MetaMapLite	C0301532	0.0	3284	3297	Multivitamins
+MetaMapLite	C0332173	0.0	3298	3303	daily
+MetaMapLite	C0728963	0.0	3309	3316	Lovenox
+MetaMapLite	C0037633	0.0	3333	3341	solution
+MetaMapLite	C1720154	0.0	3342	3348	inject
+MetaMapLite	C0556983	0.0	3364	3374	once daily
+MetaMapLite	C0439228	0.0	3382	3386	days
+MetaMapLite	C0483514	0.0	3392	3399	Vicodin
+MetaMapLite	C1705223	0.0	3422	3428	tablet
+MetaMapLite	C0039225	0.0	3422	3428	tablet
+MetaMapLite	C0226896	0.0	3432	3437	mouth
+MetaMapLite	C0439227	0.0	3449	3454	hours
+MetaMapLite	C0030193	0.0	3469	3473	pain
+MetaMapLite	C0591971	0.0	3479	3488	Phenergan
+MetaMapLite	C0039225	0.0	3497	3504	tablets
+MetaMapLite	C0039225	0.0	3497	3503	tablet
+MetaMapLite	C1705223	0.0	3497	3503	tablet
+MetaMapLite	C0226896	0.0	3525	3530	mouth
+MetaMapLite	C0439227	0.0	3541	3546	hours
+MetaMapLite	C0027497	0.0	3558	3564	nausea
+MetaMapLite	C0721047	0.0	3570	3581	Imodium A-D
+MetaMapLite	C0039225	0.0	3582	3589	tablets
+MetaMapLite	C0039225	0.0	3582	3588	tablet
+MetaMapLite	C1705223	0.0	3582	3588	tablet
+MetaMapLite	C0226896	0.0	3609	3614	mouth
+MetaMapLite	C0011991	0.0	3636	3644	diarrhea
+MetaMapLite	C3669312	0.0	3646	3668	DISCHARGE INSTRUCTIONS
+MetaMapLite	C2266673	0.0	3646	3668	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0030705	0.0	3675	3682	patient
+MetaMapLite	C0332158	0.0	3701	3708	contact
+MetaMapLite	C0337611	0.0	3701	3708	contact
+MetaMapLite	C2699424	0.0	3734	3742	concerns
+MetaMapLite	C0332287	0.0	3763	3771	addition
+MetaMapLite	C1883712	0.0	3763	3771	addition
+MetaMapLite	C0332158	0.0	3794	3801	contact
+MetaMapLite	C0337611	0.0	3794	3801	contact
+MetaMapLite	C0015967	0.0	3823	3829	fevers
+MetaMapLite	C0439093	0.0	3830	3842	greater than
+MetaMapLite	C0085593	0.0	3850	3856	chills
+MetaMapLite	C0027497	0.0	3858	3864	nausea
+MetaMapLite	C0011991	0.0	3890	3898	diarrhea
+MetaMapLite	C0332575	0.0	3900	3907	redness
+MetaMapLite	C1260956	0.0	3900	3907	redness
+MetaMapLite	C2926602	0.0	3909	3917	drainage
+MetaMapLite	C0012621	0.0	3909	3917	drainage
+MetaMapLite	C0518610	0.0	3922	3928	warmth
+MetaMapLite	C0392197	0.0	3922	3928	warmth
+MetaMapLite	C0449681	0.0	3940	3953	incision site
+MetaMapLite	C0439230	0.0	3985	3991	week's
+MetaMapLite	C0040223	0.0	3992	3996	time
+MetaMapLite	C0442592	0.0	4010	4016	clinic
+MetaMapLite	C0524724	0.0	4025	4032	staples
+MetaMapLite	C0040223	0.0	4057	4061	time
+MetaMapLite	C0589120	0.0	4063	4072	FOLLOW-UP
+MetaMapLite	C3274571	0.0	4063	4072	FOLLOW-UP
+MetaMapLite	C1522577	0.0	4063	4072	FOLLOW-UP
+MetaMapLite	C1704685	0.0	4063	4072	FOLLOW-UP
+MetaMapLite	C0003629	0.0	4073	4084	APPOINTMENT
+MetaMapLite	C0030705	0.0	4091	4098	patient
+MetaMapLite	C0442592	0.0	4126	4132	clinic
+MetaMapLite	C0439230	0.0	4140	4146	week's
+MetaMapLite	C0040223	0.0	4147	4151	time
+MetaMapLite	C0743221	0.0	4163	4180	discharge summary
+MetaMapLite	C0205699	0.0	4182	4196	carcinomatosis
+MetaMapLite	C2007060	0.0	4182	4196	carcinomatosis
+MetaMapLite	C0227334	0.0	4202	4213	appendiceal
+MetaMapLite	C0205225	0.0	4214	4221	primary
+MetaMapLite	C1705223	0.0	4223	4229	tablet
+MetaMapLite	C0039225	0.0	4223	4229	tablet
+MetaMapLite	C0226896	0.0	4233	4238	mouth
+MetaMapLite	C0522776	0.0	4240	4255	stent placement
+MetaMapLite	C0032790	0.0	4257	4270	postoperative
+MetaMapLite	C0439228	0.0	4271	4274	day
+MetaMapLite	C0183518	0.0	4276	4291	ureteral stents
+MetaMapLite	C1332128	0.0	4293	4318	peritoneal carcinomatosis
+MetaMapLite	C0227334	0.0	4320	4331	appendiceal
+MetaMapLite	C0205225	0.0	4332	4339	primary
+MetaMapLite	C0012621	0.0	4341	4350	discharge
+MetaMapLite	C0030685	0.0	4341	4350	discharge
+MetaMapLite	C1883719	0.0	4362	4371	insertion
+MetaMapLite	C0441587	0.0	4362	4371	insertion
+MetaMapLite	C0546535	0.0	4373	4386	hemicolectomy
+MetaMapLite	C0037995	0.0	4388	4399	splenectomy
+MetaMapLite	C0442034	0.0	4401	4411	peritoneal
+MetaMapLite	C0227334	0.0	4413	4424	appendiceal
+MetaMapLite	C0205699	0.0	4443	4457	carcinomatosis
+MetaMapLite	C2007060	0.0	4443	4457	carcinomatosis
+MetaMapLite	C0278627	0.0	4459	4467	oncology

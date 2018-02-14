@@ -1,0 +1,209 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0476273	0.0	85	105	Respiratory Distress
+MetaMapLite	C0678257	0.0	106	117	Description
+MetaMapLite	C0439234	0.0	124	128	year
+MetaMapLite	C0580836	0.0	129	132	old
+MetaMapLite	C1276802	0.0	133	145	abrupt onset
+MetaMapLite	C0010200	0.0	149	154	cough
+MetaMapLite	C0043229	0.0	169	186	work of breathing
+MetaMapLite	C0282229	0.0	189	210	Medical Transcription
+MetaMapLite	C0370003	0.0	211	217	Sample
+MetaMapLite	C2347026	0.0	211	217	Sample
+MetaMapLite	C0684224	0.0	218	224	Report
+MetaMapLite	C0700287	0.0	218	224	Report
+MetaMapLite	C0011900	0.0	236	245	DIAGNOSES
+MetaMapLite	C0476273	0.0	251	271	Respiratory distress
+MetaMapLite	C3714497	0.0	277	301	Reactive airways disease
+MetaMapLite	C0012621	0.0	303	312	DISCHARGE
+MetaMapLite	C0030685	0.0	303	312	DISCHARGE
+MetaMapLite	C0011900	0.0	313	322	DIAGNOSES
+MetaMapLite	C0476273	0.0	328	348	Respiratory distress
+MetaMapLite	C3714497	0.0	354	378	Reactive airways disease
+MetaMapLite	C0032285	0.0	384	393	Pneumonia
+MetaMapLite	C0262512	0.0	395	421	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	406	413	PRESENT
+MetaMapLite	C0030705	0.0	428	435	patient
+MetaMapLite	C0439234	0.0	443	447	year
+MetaMapLite	C0580836	0.0	448	451	old
+MetaMapLite	C0870221	0.0	452	455	boy
+MetaMapLite	C2003901	0.0	483	488	never
+MetaMapLite	C0019664	0.0	495	502	history
+MetaMapLite	C2004062	0.0	495	502	history
+MetaMapLite	C0262512	0.0	495	502	history
+MetaMapLite	C0262926	0.0	495	502	history
+MetaMapLite	C0019665	0.0	495	502	history
+MetaMapLite	C0004096	0.0	506	512	asthma
+MetaMapLite	C3714497	0.0	516	540	reactive airways disease
+MetaMapLite	C0439227	0.0	565	569	hour
+MetaMapLite	C0449450	0.0	570	582	presentation
+MetaMapLite	C1457887	0.0	590	598	symptoms
+MetaMapLite	C0683368	0.0	590	598	symptoms
+MetaMapLite	C1276802	0.0	612	624	abrupt onset
+MetaMapLite	C0010200	0.0	628	633	cough
+MetaMapLite	C0043229	0.0	648	665	work of breathing
+MetaMapLite	C0680063	0.0	668	673	Child
+MetaMapLite	C0008059	0.0	668	673	Child
+MetaMapLite	C0008059	0.0	689	699	Children's
+MetaMapLite	C0019994	0.0	700	708	Hospital
+MetaMapLite	C2979938	0.0	722	731	nebulized
+MetaMapLite	C0087111	0.0	732	742	treatments
+MetaMapLite	C0600620	0.0	761	772	Hospitalist
+MetaMapLite	C0557854	0.0	773	780	Service
+MetaMapLite	C3245478	0.0	773	780	Service
+MetaMapLite	C0184666	0.0	805	814	admission
+MetaMapLite	C0030705	0.0	821	828	patient
+MetaMapLite	C0562508	0.0	863	877	emergency room
+MetaMapLite	C0600620	0.0	900	911	hospitalist
+MetaMapLite	C1704459	0.0	912	918	system
+MetaMapLite	C1553451	0.0	912	918	system
+MetaMapLite	C0449913	0.0	912	918	system
+MetaMapLite	C0549178	0.0	938	948	continuous
+MetaMapLite	C0001927	0.0	959	968	albuterol
+MetaMapLite	C0175668	0.0	969	981	secondary to
+MetaMapLite	C0476273	0.0	986	1006	respiratory distress
+MetaMapLite	C0004048	0.0	1026	1033	inhaled
+MetaMapLite	C0205170	0.0	1037	1041	well
+MetaMapLite	C0205373	0.0	1045	1053	systemic
+MetaMapLite	C0001617	0.0	1054	1069	corticosteroids
+MetaMapLite	C0086894	0.0	1077	1080	ray
+MetaMapLite	C0851346	0.0	1077	1080	ray
+MetaMapLite	C2314876	0.0	1077	1080	ray
+MetaMapLite	C1549537	0.0	1093	1103	infiltrate
+MetaMapLite	C0332448	0.0	1093	1103	infiltrate
+MetaMapLite	C1546677	0.0	1093	1103	infiltrate
+MetaMapLite	C0205265	0.0	1107	1114	initial
+MetaMapLite	C1555582	0.0	1107	1114	initial
+MetaMapLite	C1552617	0.0	1115	1121	review
+MetaMapLite	C0282443	0.0	1115	1121	review
+MetaMapLite	C0600620	0.0	1129	1140	hospitalist
+MetaMapLite	C1261074	0.0	1158	1174	right upper lobe
+MetaMapLite	C0332448	0.0	1175	1185	infiltrate
+MetaMapLite	C0004144	0.0	1193	1204	atelectasis
+MetaMapLite	C2347387	0.0	1213	1221	official
+MetaMapLite	C0034599	0.0	1222	1231	radiology
+MetaMapLite	C1962945	0.0	1222	1231	radiology
+MetaMapLite	C0043299	0.0	1222	1231	radiology
+MetaMapLite	C0034754	0.0	1232	1239	reading
+MetaMapLite	C0030705	0.0	1246	1253	patient
+MetaMapLite	C0003232	0.0	1277	1288	antibiotics
+MetaMapLite	C0424755	0.0	1297	1302	fever
+MetaMapLite	C0015967	0.0	1297	1302	fever
+MetaMapLite	C0205250	0.0	1346	1354	elevated
+MetaMapLite	C2263086	0.0	1368	1371	CBC
+MetaMapLite	C0009555	0.0	1368	1371	CBC
+MetaMapLite	C0205307	0.0	1376	1382	normal
+MetaMapLite	C0220938	0.0	1390	1395	white
+MetaMapLite	C0007457	0.0	1390	1395	white
+MetaMapLite	C0043157	0.0	1390	1395	white
+MetaMapLite	C0750480	0.0	1396	1401	count
+MetaMapLite	C1705566	0.0	1396	1401	count
+MetaMapLite	C0175723	0.0	1423	1428	bands
+MetaMapLite	C1292734	0.0	1477	1482	treat
+MetaMapLite	C0032285	0.0	1487	1496	pneumonia
+MetaMapLite	C0521009	0.0	1500	1509	bacterial
+MetaMapLite	C0012621	0.0	1514	1523	discharge
+MetaMapLite	C0030685	0.0	1514	1523	discharge
+MetaMapLite	C0008059	0.0	1528	1533	child
+MetaMapLite	C0678143	0.0	1555	1564	Zithromax
+MetaMapLite	C0549178	0.0	1586	1596	continuous
+MetaMapLite	C3846005	0.0	1615	1623	room air
+MetaMapLite	C0240526	0.0	1628	1633	night
+MetaMapLite	C0332170	0.0	1643	1650	morning
+MetaMapLite	C0238767	0.0	1670	1679	bilateral
+MetaMapLite	C0231835	0.0	1697	1706	tachypnea
+MetaMapLite	C0012621	0.0	1708	1717	DISCHARGE
+MetaMapLite	C0030685	0.0	1708	1717	DISCHARGE
+MetaMapLite	C0031809	0.0	1718	1738	PHYSICAL EXAMINATION
+MetaMapLite	C0205246	0.0	1740	1747	GENERAL
+MetaMapLite	C0205178	0.0	1753	1758	acute
+MetaMapLite	C0231303	0.0	1759	1767	distress
+MetaMapLite	C1512338	0.0	1794	1799	HEENT
+MetaMapLite	C2137009	0.0	1802	1812	Oropharynx
+MetaMapLite	C2985207	0.0	1802	1812	Oropharynx
+MetaMapLite	C1280659	0.0	1802	1812	Oropharynx
+MetaMapLite	C0521367	0.0	1802	1812	Oropharynx
+MetaMapLite	C0205381	0.0	1813	1818	moist
+MetaMapLite	C2963144	0.0	1823	1828	clear
+MetaMapLite	C0027530	0.0	1830	1834	NECK
+MetaMapLite	C0332254	0.0	1837	1843	Supple
+MetaMapLite	C0497156	0.0	1852	1867	lymphadenopathy
+MetaMapLite	C0817096	0.0	1892	1897	CHEST
+MetaMapLite	C0238767	0.0	1900	1909	Bilateral
+MetaMapLite	C1184146	0.0	1910	1917	basilar
+MetaMapLite	C0231303	0.0	1932	1940	distress
+MetaMapLite	C0007226	0.0	1942	1956	CARDIOVASCULAR
+MetaMapLite	C0205272	0.0	1959	1966	Regular
+MetaMapLite	C0871269	0.0	1976	1982	rhythm
+MetaMapLite	C1523018	0.0	1976	1982	rhythm
+MetaMapLite	C0018808	0.0	1988	1995	murmurs
+MetaMapLite	C0205170	0.0	2004	2008	Well
+MetaMapLite	C0230168	0.0	2032	2039	ABDOMEN
+MetaMapLite	C0000726	0.0	2032	2039	ABDOMEN
+MetaMapLite	C0232693	0.0	2042	2054	Bowel sounds
+MetaMapLite	C0150312	0.0	2055	2062	present
+MetaMapLite	C0230168	0.0	2069	2076	abdomen
+MetaMapLite	C0000726	0.0	2069	2076	abdomen
+MetaMapLite	C0205358	0.0	2080	2084	soft
+MetaMapLite	C0019214	0.0	2099	2117	hepatosplenomegaly
+MetaMapLite	C0520960	0.0	2131	2140	Nontender
+MetaMapLite	C0030247	0.0	2144	2153	palpation
+MetaMapLite	C0042066	0.0	2155	2168	GENITOURINARY
+MetaMapLite	C0205421	0.0	2171	2179	Deferred
+MetaMapLite	C0278454	0.0	2181	2192	EXTREMITIES
+MetaMapLite	C0015385	0.0	2181	2192	EXTREMITIES
+MetaMapLite	C0184348	0.0	2195	2199	Warm
+MetaMapLite	C0205170	0.0	2204	2208	well
+MetaMapLite	C2266673	0.0	2219	2241	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0441655	0.0	2260	2268	Activity
+MetaMapLite	C0205272	0.0	2270	2277	regular
+MetaMapLite	C0012155	0.0	2283	2287	Diet
+MetaMapLite	C0012159	0.0	2283	2287	Diet
+MetaMapLite	C0205272	0.0	2291	2298	regular
+MetaMapLite	C0439228	0.0	2330	2334	days
+MetaMapLite	C0012621	0.0	2336	2345	DISCHARGE
+MetaMapLite	C0030685	0.0	2336	2345	DISCHARGE
+MetaMapLite	C0013227	0.0	2346	2357	MEDICATIONS
+MetaMapLite	C0876218	0.0	2363	2370	Xopenex
+MetaMapLite	C0993596	0.0	2371	2374	MDI
+MetaMapLite	C1839839	0.0	2371	2374	MDI
+MetaMapLite	C1533107	0.0	2377	2382	puffs
+MetaMapLite	C0439227	0.0	2391	2396	hours
+MetaMapLite	C0439228	0.0	2403	2407	days
+MetaMapLite	C0010200	0.0	2431	2436	cough
+MetaMapLite	C0043144	0.0	2440	2446	wheeze
+MetaMapLite	C1533107	0.0	2463	2468	puffs
+MetaMapLite	C0585361	0.0	2469	2480	twice daily
+MetaMapLite	C1547431	0.0	2515	2536	primary care provider
+MetaMapLite	C2735025	0.0	2515	2536	primary care provider
+MetaMapLite	C2735026	0.0	2515	2536	primary care provider
+MetaMapLite	C0580931	0.0	2523	2527	care
+MetaMapLite	C0002645	0.0	2542	2553	Amoxicillin
+MetaMapLite	C0585361	0.0	2566	2577	twice daily
+MetaMapLite	C0439228	0.0	2585	2589	days
+MetaMapLite	C0678143	0.0	2595	2604	Zithromax
+MetaMapLite	C1442449	0.0	2620	2625	day 1
+MetaMapLite	C0332173	0.0	2643	2648	daily
+MetaMapLite	C0439228	0.0	2660	2664	days
+MetaMapLite	C0439810	0.0	2666	2671	Total
+MetaMapLite	C0040223	0.0	2672	2676	time
+MetaMapLite	C0012621	0.0	2686	2695	discharge
+MetaMapLite	C0030685	0.0	2686	2695	discharge
+MetaMapLite	C0700321	0.0	2699	2706	minutes
+MetaMapLite	C0439232	0.0	2699	2706	minutes
+MetaMapLite	C1282918	0.0	2699	2706	minutes
+MetaMapLite	C0743221	0.0	2718	2735	discharge summary
+MetaMapLite	C0032285	0.0	2737	2746	pneumonia
+MetaMapLite	C0332162	0.0	2748	2753	onset
+MetaMapLite	C0010200	0.0	2757	2762	cough
+MetaMapLite	C3714497	0.0	2764	2788	reactive airways disease
+MetaMapLite	C1276802	0.0	2790	2802	abrupt onset
+MetaMapLite	C0476273	0.0	2804	2824	respiratory distress
+MetaMapLite	C0476273	0.0	2816	2837	distress, respiratory
+MetaMapLite	C0004096	0.0	2839	2845	asthma

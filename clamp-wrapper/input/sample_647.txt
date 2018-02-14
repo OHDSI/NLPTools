@@ -1,0 +1,43 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - 1
+Description:  Acute cerebrovascular accident/left basal ganglia and deep white matter of the left parietal lobe, hypertension, urinary tract infection, and hypercholesterolemia.
+(Medical Transcription Sample Report)
+DISCHARGE DIAGNOSES:
+1. Acute cerebrovascular accident/left basal ganglia and deep white matter of the left parietal lobe.
+2. Hypertension.
+3. Urinary tract infection.
+4. Hypercholesterolemia.
+PROCEDURES:
+1. On 3/26/2006, portable chest, single view. Impression: atherosclerotic change in the aortic knob.
+2. On 3/26/2006, chest, portable, single view. Impression: Mild tortuosity of the thoracic aorta, maybe secondary to hypertension; right lateral costophrenic angle is not evaluated due to positioning of the patient.
+3. On March 27, 2006, swallowing study: Normal swallowing study with minimal penetration with thin liquids.
+4. On March 26, 2006, head CT without contrast: 1) Air-fluid level in the right maxillary sinus suggestive of acute sinusitis; 2) A 1.8-cm oval, low density mass in the dependent portion of the left maxillary sinus is consistent with a retention cyst; 3) Mucoparietal cell thickening in the right maxillary sinus and ethmoid sinuses.
+4. IV contrast CT scan of the head is unremarkable.
+5. On 3/26/2006, MRI/MRA of the neck and brain, with and without contrast: 1) Changes consistent with an infarct involving the right basal ganglia and deep white matter of the left parietal lobe, as described above; 2) Diffuse smooth narrowing of the left middle cerebral artery that may be a congenital abnormality. Clinical correlation is necessary.
+6. On March 27th, echocardiogram with bubble study. Impression: Normal left ventricular systolic function with estimated left ventricular ejection fraction of 55%. There is mild concentric left ventricular hypertrophy. The left atrial size is normal with a negative bubble study.
+7. On March 27, 2006, carotid duplex ultrasound showed: 1) Grade 1 carotid stenosis on the right; 2) No evidence of carotid stenosis on the left.
+HISTORY AND PHYSICAL: This is a 56-year-old white male with a history of hypertension for 15 years, untreated. The patient woke up at 7: 15 a.m. on March 26 with the sudden onset of right-sided weakness of his arm, hand, leg and foot and also with a right facial droop, right hand numbness on the dorsal side, left face numbness and slurred speech. The patient was brought by EMS to emergency room. The patient was normal before he went to bed the prior night. He was given aspirin in the ER. The CT of the brain without contrast did not show any changes. He could not have a CT with contrast because the machine was broken. He went ahead and had the MRI/MRA of the brain and neck, which showed infarct involving the right basal ganglia and deep white matter of the left parietal lobe. Also, there is diffuse smooth narrowing of the left middle cerebral artery.
+The patient was admitted to the MICU.
+HOSPITAL COURSE PER PROBLEM LIST:
+1. Acute cerebrovascular accident: The patient was not a candidate for tissue plasminogen activator. A neurology consult was obtained from Dr. S. She agrees with our treatment for this patient. The patient was on aspirin 325 mg and also on Zocor 20 mg once a day. We also ordered fasting blood lipids, which showed cholesterol of 165, triglycerides 180, HDL cholesterol 22, LDL cholesterol 107. Dr. Farber agreed to treat the risk factors, to not treat blood pressure for the first two weeks of the stroke. We put the patient on p.r.n. labetalol only for systolic blood pressure greater than 200, diastolic blood pressure greater than 120. The patient's blood pressure has been stable and he did not need any blood pressure medications. His right leg kept improving with increased muscle strength and it was 4-5/5, however, his right upper extremity did not improve much and was 0-1/5. His slurred speech has been improved a little bit. The patient started PT, OT and speech therapy on the second day of hospitalization. The patient was transferred out to a regular floor on the same day of admission based on his stable neurologic exam. Also, we added Aggrenox for secondary stroke prevention, suggested by Dr. F. Echocardiogram was ordered and showed normal left ventricular function with bubble study that was negative. Carotid ultrasound only showed mild stenosis on the right side. EKG did not show any changes, so the patient will be transferred to Siskin Rehabilitation Hospital today on Aggrenox for secondary stroke prevention. He will not need blood pressure treatment unless systolic is greater than 220, diastolic greater than 120, for the first week of his stroke. On discharge, on his neurologic exam, he has a right facial palsy from the eye below, he has right upper extremity weakness with 0-1/5 muscle strength, right leg is 4-5/5, improved slurred speech.
+2. Hypertension: As I mentioned in item #1, see above, his blood pressure has been stable. This did not need any treatment.
+3. Urinary tract infection: The patient had urinalysis on March 26th, which showed a large amount of leukocyte esterase, small amount of blood with red blood cells 34, white blood cells 41, moderate amount of bacteria. The patient was started on Cipro 250 mg p.o. b.i.d. on March 26th. He needs to finish seven days of antibiotic treatment for his UTI. Urine culture and sensitivity were negative.
+4. Hypercholesterolemia: The patient was put on Zocor 20 mg p.o. daily. The goal LDL for this patient will be less than 70. His LDL currently is 107, HDL is 22, triglycerides 180, cholesterol is 165.
+CONDITION ON DISCHARGE: Stable.
+ACTIVITY: As tolerated.
+DIET: Low-fat, low-salt, cardiac diet.
+DISCHARGE INSTRUCTIONS:
+1. Take medications regularly.
+2. PT, OT, speech therapist to evaluate and treat at Siskin Rehab Hospital.
+3. Continue Cipro for an additional two days for his UTI.
+DISCHARGE MEDICATIONS:
+1. Cipro 250 mg, one tablet p.o. b.i.d. for an additional two days.
+2. Aggrenox, one tablet p.o. b.i.d.
+3. Docusate sodium 100 mg, one cap p.o. b.i.d.
+4. Zocor 20 mg, one tablet p.o. at bedtime.
+5. Prevacid 30 mg p.o. once a day.
+FOLLOW UP:
+1. The patient needs to follow up with Rehabilitation Hospital after he is discharged from there.
+2. The patient can call the Clinic if he needs a follow up appointment with us, or the patient can find a primary care physician since he has insurance.
+Keywords:
+discharge summary, cerebrovascular accident, basal ganglia, urinary tract infection, hypercholesterolemia, deep white matter, maxillary sinus, slurred speech, white matter, parietal lobe, blood pressure, discharge, blood, tortuosity, parietal, infection, pressure, basal,

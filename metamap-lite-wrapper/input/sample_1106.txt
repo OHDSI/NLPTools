@@ -1,0 +1,23 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - Nephrology
+Description:  Patient with left renal cell carcinoma, left renal cyst, had robotic-Assisted laparoscopic left renal cyst decortication and cystoscopy.
+(Medical Transcription Sample Report)
+ADMITTING DIAGNOSES:  Left renal cell carcinoma, left renal cyst.
+DISCHARGE DIAGNOSIS:  Left renal cell carcinoma, left renal cyst.
+SECONDARY DIAGNOSES:
+1.  Chronic obstructive pulmonary disease.
+2.  Coronary artery disease.
+PROCEDURES:  Robotic-Assisted laparoscopic left renal cyst decortication and cystoscopy.
+HISTORY OF PRESENT ILLNESS:  Mr. ABC is a 70-year-old male who has been diagnosed with a left renal cell carcinoma with multiple renal cysts.  He has undergone MRI of the abdomen on June 18, 2008 revealing an enhancing mass of the upper pole of the left kidney consistent with his history of renal cell carcinoma.  Of note, there are no other enhancing solid masses seen on this MRI.  After discussion of multiple management strategies with the patient including:
+1.  Left partial nephrectomy.
+2.  Left radical nephrectomy.
+3.  Left renal cyst decortication.  The patient is likely to undergo the latter procedure.
+HOSPITAL COURSE:  The patient was admitted to undergo left renal cyst decortication as well as a cystoscopy.  Intraoperatively, approximately four enlarged renal cysts and six smaller renal cysts were initially removed.  The contents were aspirated and careful dissection of the cyst wall was performed.  Multiple specimens of the cyst wall were sent for pathology.  Approximately one liter of cystic fluid was drained during the procedure.  The renal bed was inspected for hemostasis, which appear to be adequate.  There were no complications with the procedure.  Single JP drain was left in place.  Additionally, the patient underwent flexible cystoscopy, which revealed no gross strictures or any other abnormalities in the penile nor prostatic urethra.  Furthermore, no gross lesions were encountered in the bladder.  The patient left OR with transfer to the PACU and subsequently to the hospital floor.
+The patient's postoperative course was relatively uneventful.  His diet and activity were gradually advanced without complication.  On postoperative day #2, he was passing flatus and has had bowel movements.  His Jackson-Pratt drain was discontinued on postoperative day #3 that being the day of discharge.  His Foley catheter was removed on the morning of discharge and the patient subsequently passed the voiding trial without difficultly.  At the time of discharge, he was afebrile.  His vital signs indicated hemodynamic stability and he had no evidence of infection.  The patient was instructed to follow up with Dr. XYZ on 8/12/2008 at 1:50 p.m. and was given prescription for pain medications as well as laxative.
+DISPOSITION:  To home.
+DISCHARGE CONDITION:  Good.
+MEDICATIONS:  Please see attached medication list.
+INSTRUCTIONS:  The patient was instructed to contact Dr. XYZ's office for fever greater than 101.5, intractable pain, nausea, vomiting, or any other concerns.
+FOLLOWUP:  The patient will follow up with Dr. XYZ for a postoperative check on 08/12/2008 at 1:50 p.m. and he was made aware of this appointment.
+Keywords:
+discharge summary, decortication, cystoscopy, pain, nausea, vomiting, renal cyst decortication, renal cell carcinoma, robotic assisted, renal cyst, renal, robotic, laparoscopic, nephrectomy, cysts, cell, carcinoma, discharge,

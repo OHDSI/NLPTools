@@ -1,0 +1,10 @@
+/bin/
+lib/
+clamp-wrapper-resources/
+ctakes-wrapper-resources/
+metamap-lite-wrapper-resources/
+clamp-wrapper-resources.zip
+ctakes-wrapper-resources.zip
+metamap-lite-wrapper-resources.zip
+resources/
+CLAMP.LICENSE

@@ -1,0 +1,22 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Knee Osteoarthrosis - Discharge Summary
+Description:  A 66-year-old female with knee osteoarthrosis who failed conservative management.
+(Medical Transcription Sample Report)
+PRINCIPAL DIAGNOSIS:  Knee osteoarthrosis.
+PRINCIPAL PROCEDURE:  Total knee arthroplasty.
+HISTORY AND PHYSICAL:  A 66-year-old female with knee osteoarthrosis.  Failed conservative management.  Risks and benefits of different treatment options were explained.  Informed consent was obtained.
+PAST SURGICAL HISTORY:  Right knee surgery, cosmetic surgery, and carotid sinus surgery.
+MEDICATIONS:  Mirapex, ibuprofen, and Ambien.
+ALLERGIES:  QUESTIONABLE PENICILLIN ALLERGIES.
+PHYSICAL EXAMINATION:  GENERAL:  Female who appears younger than her stated age.  Examination of her gait reveals she walks without assistive devices.
+HEENT:  Normocephalic and atraumatic.
+CHEST:  Clear to auscultation.
+CARDIOVASCULAR:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Grossly neurovascularly intact.
+HOSPITAL COURSE:  The patient was taken to the operating room (OR) on 03/15/2007.  She underwent right total knee arthroplasty.  She tolerated this well.  She was taken to the recovery room.  After uneventful recovery room course, she was brought to regular surgical floor.  Mechanical and chemical deep venous thrombosis (DVT) prophylaxis were initiated.  Routine postoperative antibiotics were administered.  Hemovac drain was discontinued on postoperative day #2.  Physical therapy was initiated.  Continuous passive motion (CPM) was also initiated.  She was able to spontaneously void.  She transferred to oral pain medication.  Incision remained clean, dry, and intact during the hospital course.  No pain with calf squeeze.  She was felt to be ready for discharge home on 03/19/2007.
+DISPOSITION:  Discharged to home.
+FOLLOW UP:  Follow up with Dr. X in one week.  Prescriptions were written for Percocet and Coumadin.
+INSTRUCTIONS:  Home physical therapy and PT and INR to be drawn at home for adjustment of Coumadin dosing.
+Keywords:
+discharge summary, total knee arthroplasty, conservative management, knee arthroplasty, physical therapy, knee osteoarthrosis, arthroplasty, osteoarthrosis, knee,

@@ -1,0 +1,249 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0205487	0.0	65	76	Psychiatric
+MetaMapLite	C0743221	0.0	77	94	Discharge Summary
+MetaMapLite	C0678257	0.0	99	110	Description
+MetaMapLite	C0743221	0.0	113	130	Discharge summary
+MetaMapLite	C0030705	0.0	136	143	patient
+MetaMapLite	C0085633	0.0	149	160	mood swings
+MetaMapLite	C0860661	0.0	165	177	oppositional
+MetaMapLite	C0424348	0.0	182	198	defiant behavior
+MetaMapLite	C0282229	0.0	201	222	Medical Transcription
+MetaMapLite	C2347026	0.0	223	229	Sample
+MetaMapLite	C0370003	0.0	223	229	Sample
+MetaMapLite	C0684224	0.0	230	236	Report
+MetaMapLite	C0700287	0.0	230	236	Report
+MetaMapLite	C0743221	0.0	238	255	DISCHARGE SUMMARY
+MetaMapLite	C1706244	0.0	256	263	SUMMARY
+MetaMapLite	C1552616	0.0	256	263	SUMMARY
+MetaMapLite	C0599880	0.0	267	285	TREATMENT PLANNING
+MetaMapLite	C0205164	0.0	291	296	major
+MetaMapLite	C1546466	0.0	297	305	problems
+MetaMapLite	C0184666	0.0	329	338	admission
+MetaMapLite	C0205653	0.0	347	357	adolescent
+MetaMapLite	C0085633	0.0	364	375	Mood swings
+MetaMapLite	C0860661	0.0	382	394	Oppositional
+MetaMapLite	C0004927	0.0	407	415	behavior
+MetaMapLite	C1548787	0.0	435	446	appropriate
+MetaMapLite	C0441833	0.0	447	452	group
+MetaMapLite	C1257890	0.0	447	452	group
+MetaMapLite	C0687744	0.0	447	452	group
+MetaMapLite	C1303150	0.0	462	477	therapy program
+MetaMapLite	C1708063	0.0	486	503	primary treatment
+MetaMapLite	C0695347	0.0	504	512	modality
+MetaMapLite	C0205653	0.0	522	532	adolescent
+MetaMapLite	C0441655	0.0	591	599	activity
+MetaMapLite	C0687744	0.0	600	606	groups
+MetaMapLite	C1552839	0.0	600	606	groups
+MetaMapLite	C0441833	0.0	600	606	groups
+MetaMapLite	C0033872	0.0	623	635	psychiatrist
+MetaMapLite	C1261322	0.0	645	655	evaluation
+MetaMapLite	C0220825	0.0	645	655	evaluation
+MetaMapLite	C0376636	0.0	664	674	management
+MetaMapLite	C0033978	0.0	678	702	psychotropic medications
+MetaMapLite	C0039798	0.0	729	738	treatment
+MetaMapLite	C0087111	0.0	729	738	treatment
+MetaMapLite	C0871489	0.0	739	743	team
+MetaMapLite	C0205210	0.0	750	758	clinical
+MetaMapLite	C0871525	0.0	759	768	therapist
+MetaMapLite	C0237401	0.0	781	791	individual
+MetaMapLite	C1257890	0.0	793	798	group
+MetaMapLite	C0687744	0.0	793	798	group
+MetaMapLite	C0441833	0.0	793	798	group
+MetaMapLite	C0152055	0.0	804	818	family therapy
+MetaMapLite	C0015618	0.0	804	818	family therapy
+MetaMapLite	C0556985	0.0	828	842	twice per week
+MetaMapLite	C0750729	0.0	844	850	COURSE
+MetaMapLite	C0019994	0.0	854	862	HOSPITAL
+MetaMapLite	C0019993	0.0	876	891	hospitalization
+MetaMapLite	C0030705	0.0	897	904	patient
+MetaMapLite	C0205265	0.0	914	923	initially
+MetaMapLite	C0442824	0.0	927	931	very
+MetaMapLite	C0344315	0.0	932	941	depressed
+MetaMapLite	C0021125	0.0	959	977	impulsive behavior
+MetaMapLite	C2013199	0.0	993	1014	oppositional behavior
+MetaMapLite	C0439148	0.0	1036	1040	unit
+MetaMapLite	C1519795	0.0	1036	1040	unit
+MetaMapLite	C0030705	0.0	1047	1054	patient
+MetaMapLite	C0871525	0.0	1074	1083	therapist
+MetaMapLite	C0233542	0.0	1094	1110	family conflicts
+MetaMapLite	C0003289	0.0	1136	1161	antidepressant medication
+MetaMapLite	C0284660	0.0	1163	1169	Zoloft
+MetaMapLite	C0290795	0.0	1193	1201	Adderall
+MetaMapLite	C0205170	0.0	1217	1221	well
+MetaMapLite	C0284660	0.0	1225	1231	Zoloft
+MetaMapLite	C0439092	0.0	1237	1241	less
+MetaMapLite	C0233514	0.0	1272	1289	behavior problems
+MetaMapLite	C0085633	0.0	1294	1305	mood swings
+MetaMapLite	C2917435	0.0	1310	1325	mood stabilizer
+MetaMapLite	C0039798	0.0	1343	1352	treatment
+MetaMapLite	C0087111	0.0	1343	1352	treatment
+MetaMapLite	C1446409	0.0	1364	1372	positive
+MetaMapLite	C0871261	0.0	1373	1381	response
+MetaMapLite	C1704632	0.0	1373	1381	response
+MetaMapLite	C0011900	0.0	1389	1399	DIAGNOSTIC
+MetaMapLite	C0348026	0.0	1389	1399	DIAGNOSTIC
+MetaMapLite	C0392366	0.0	1416	1420	TEST
+MetaMapLite	C0456984	0.0	1416	1420	TEST
+MetaMapLite	C0220825	0.0	1421	1432	EVALUATIONS
+MetaMapLite	C0205307	0.0	1486	1492	normal
+MetaMapLite	C0719751	0.0	1504	1512	Depakote
+MetaMapLite	C0441889	0.0	1513	1518	level
+MetaMapLite	C0456079	0.0	1513	1518	level
+MetaMapLite	C2946261	0.0	1513	1518	level
+MetaMapLite	C1547707	0.0	1513	1518	level
+MetaMapLite	C3244292	0.0	1547	1557	laboratory
+MetaMapLite	C0022877	0.0	1547	1557	laboratory
+MetaMapLite	C2237045	0.0	1558	1579	basic metabolic panel
+MetaMapLite	C0311400	0.0	1564	1573	metabolic
+MetaMapLite	C0009555	0.0	1581	1584	CBC
+MetaMapLite	C2263086	0.0	1581	1584	CBC
+MetaMapLite	C0442816	0.0	1611	1624	normal limits
+MetaMapLite	C0009818	0.0	1626	1639	CONSULTATIONS
+MetaMapLite	C0205476	0.0	1661	1668	medical
+MetaMapLite	C1549076	0.0	1669	1679	consultant
+MetaMapLite	C0009817	0.0	1669	1679	consultant
+MetaMapLite	C0205197	0.0	1686	1694	complete
+MetaMapLite	C0262926	0.0	1695	1702	history
+MetaMapLite	C0019665	0.0	1695	1702	history
+MetaMapLite	C0019664	0.0	1695	1702	history
+MetaMapLite	C0262512	0.0	1695	1702	history
+MetaMapLite	C2004062	0.0	1695	1702	history
+MetaMapLite	C0582103	0.0	1707	1726	medical examination
+MetaMapLite	C0205164	0.0	1732	1737	major
+MetaMapLite	C0205178	0.0	1738	1743	acute
+MetaMapLite	C1546466	0.0	1744	1752	problems
+MetaMapLite	C0702166	0.0	1777	1781	acne
+MetaMapLite	C0001144	0.0	1777	1781	acne
+MetaMapLite	C0087111	0.0	1784	1793	Treatment
+MetaMapLite	C0039798	0.0	1784	1793	Treatment
+MetaMapLite	C0015450	0.0	1813	1817	face
+MetaMapLite	C0441648	0.0	1818	1822	wash
+MetaMapLite	C3244316	0.0	1823	1833	medication
+MetaMapLite	C0013227	0.0	1823	1833	medication
+MetaMapLite	C0332144	0.0	1835	1850	FINAL DIAGNOSIS
+MetaMapLite	C0221443	0.0	1852	1861	AXIS    I
+MetaMapLite	C1263846	0.0	1870	1874	ADHD
+MetaMapLite	C1263846	0.0	1876	1916	Attention Deficit Hyperactivity Disorder
+MetaMapLite	C2987487	0.0	1886	1893	Deficit
+MetaMapLite	C0870077	0.0	1919	1923	rule
+MetaMapLite	C1446409	0.0	1919	1923	rule
+MetaMapLite	C0005586	0.0	1928	1944	Bipolar Disorder
+MetaMapLite	C1418191	0.0	1949	1952	ODD
+MetaMapLite	C1415068	0.0	1949	1952	ODD
+MetaMapLite	C0029121	0.0	1954	1983	Oppositional Defiant Disorder
+MetaMapLite	C0221446	0.0	1986	1995	AXIS   II
+MetaMapLite	C0205421	0.0	1998	2006	Deferred
+MetaMapLite	C0221447	0.0	2008	2017	AXIS  III
+MetaMapLite	C0702166	0.0	2026	2030	Acne
+MetaMapLite	C0001144	0.0	2026	2030	Acne
+MetaMapLite	C0221449	0.0	2032	2040	AXIS  IV
+MetaMapLite	C0748073	0.0	2049	2071	Psychosocial stressors
+MetaMapLite	C0205082	0.0	2073	2079	Severe
+MetaMapLite	C0233542	0.0	2081	2097	family conflicts
+MetaMapLite	C2231019	0.0	2102	2122	educational problems
+MetaMapLite	C0221451	0.0	2124	2132	AXIS   V
+MetaMapLite	C1708018	0.0	2142	2145	GAF
+MetaMapLite	C1333540	0.0	2142	2145	GAF
+MetaMapLite	C0012621	0.0	2171	2180	DISCHARGE
+MetaMapLite	C0030685	0.0	2171	2180	DISCHARGE
+MetaMapLite	C0030705	0.0	2187	2194	patient
+MetaMapLite	C1548787	0.0	2199	2210	appropriate
+MetaMapLite	C0026516	0.0	2211	2215	mood
+MetaMapLite	C0085271	0.0	2240	2263	self-injurious behavior
+MetaMapLite	C0438696	0.0	2276	2284	suicidal
+MetaMapLite	C0455204	0.0	2288	2306	homicidal ideation
+MetaMapLite	C0489786	0.0	2308	2314	Height
+MetaMapLite	C2348613	0.0	2318	2322	foot
+MetaMapLite	C0347981	0.0	2318	2322	foot
+MetaMapLite	C0016504	0.0	2318	2322	foot
+MetaMapLite	C2346504	0.0	2318	2322	foot
+MetaMapLite	C2348704	0.0	2318	2322	foot
+MetaMapLite	C0439204	0.0	2325	2331	inches
+MetaMapLite	C0043100	0.0	2334	2340	Weight
+MetaMapLite	C1305866	0.0	2334	2340	Weight
+MetaMapLite	C0005910	0.0	2334	2340	Weight
+MetaMapLite	C0424653	0.0	2334	2340	Weight
+MetaMapLite	C1272641	0.0	2348	2362	Blood pressure
+MetaMapLite	C0005823	0.0	2348	2362	Blood pressure
+MetaMapLite	C0391850	0.0	2373	2378	Pulse
+MetaMapLite	C0035203	0.0	2386	2398	Respirations
+MetaMapLite	C0039476	0.0	2405	2416	Temperature
+MetaMapLite	C0005903	0.0	2405	2416	Temperature
+MetaMapLite	C0033325	0.0	2422	2431	PROGNOSIS
+MetaMapLite	C0012622	0.0	2444	2458	DISCHARGE PLAN
+MetaMapLite	C0039798	0.0	2485	2494	treatment
+MetaMapLite	C0087111	0.0	2485	2494	treatment
+MetaMapLite	C0871489	0.0	2495	2499	team
+MetaMapLite	C0030705	0.0	2505	2512	patient
+MetaMapLite	C0035189	0.0	2539	2560	Residential Treatment
+MetaMapLite	C0205099	0.0	2561	2567	Center
+MetaMapLite	C2728259	0.0	2569	2576	Program
+MetaMapLite	C3484370	0.0	2569	2576	Program
+MetaMapLite	C1709697	0.0	2569	2576	Program
+MetaMapLite	C1709269	0.0	2580	2585	North
+MetaMapLite	C1519021	0.0	2619	2627	personal
+MetaMapLite	C1947908	0.0	2628	2633	staff
+MetaMapLite	C0851286	0.0	2628	2633	staff
+MetaMapLite	C1272753	0.0	2642	2653	institution
+MetaMapLite	C2266673	0.0	2655	2677	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0013227	0.0	2678	2689	MEDICATIONS
+MetaMapLite	C0030705	0.0	2696	2703	patient
+MetaMapLite	C0087111	0.0	2719	2728	treatment
+MetaMapLite	C0039798	0.0	2719	2728	treatment
+MetaMapLite	C1709269	0.0	2732	2737	North
+MetaMapLite	C0030685	0.0	2749	2758	Discharge
+MetaMapLite	C0012621	0.0	2749	2758	Discharge
+MetaMapLite	C0013227	0.0	2759	2770	medications
+MetaMapLite	C1170024	0.0	2775	2786	Adderall XR
+MetaMapLite	C0719751	0.0	2804	2812	Depakote
+MetaMapLite	C0284660	0.0	2833	2839	Zoloft
+MetaMapLite	C1521941	0.0	2864	2876	prescription
+MetaMapLite	C0030701	0.0	2894	2918	patient's representative
+MetaMapLite	C1442085	0.0	2930	2942	instructions
+MetaMapLite	C0302828	0.0	2930	2942	instructions
+MetaMapLite	C0030705	0.0	2948	2955	patient
+MetaMapLite	C0039798	0.0	2969	2978	treatment
+MetaMapLite	C0087111	0.0	2969	2978	treatment
+MetaMapLite	C1709269	0.0	2982	2987	North
+MetaMapLite	C0558293	0.0	3011	3022	once a week
+MetaMapLite	C0015576	0.0	3023	3029	family
+MetaMapLite	C1883016	0.0	3030	3037	session
+MetaMapLite	C0030701	0.0	3044	3068	patient's representative
+MetaMapLite	C0030705	0.0	3077	3084	patient
+MetaMapLite	C0013227	0.0	3132	3143	medications
+MetaMapLite	C1621583	0.0	3166	3176	administer
+MetaMapLite	C1547668	0.0	3214	3227	level of care
+MetaMapLite	C1548572	0.0	3214	3227	level of care
+MetaMapLite	C0039798	0.0	3243	3252	treatment
+MetaMapLite	C0087111	0.0	3243	3252	treatment
+MetaMapLite	C0596545	0.0	3261	3272	experiences
+MetaMapLite	C0001688	0.0	3277	3289	side effects
+MetaMapLite	C2699424	0.0	3301	3309	concerns
+MetaMapLite	C0004927	0.0	3324	3332	behavior
+MetaMapLite	C0036043	0.0	3334	3340	safety
+MetaMapLite	C0205548	0.0	3342	3353	immediately
+MetaMapLite	C0332158	0.0	3354	3361	contact
+MetaMapLite	C0337611	0.0	3354	3361	contact
+MetaMapLite	C1709269	0.0	3362	3367	North
+MetaMapLite	C0019994	0.0	3373	3381	Hospital
+MetaMapLite	C0743221	0.0	3393	3410	discharge summary
+MetaMapLite	C0290795	0.0	3418	3426	adderall
+MetaMapLite	C1263846	0.0	3428	3468	attention deficit hyperactivity disorder
+MetaMapLite	C2987487	0.0	3438	3445	deficit
+MetaMapLite	C0085633	0.0	3470	3481	mood swings
+MetaMapLite	C0860661	0.0	3488	3500	oppositional
+MetaMapLite	C0424348	0.0	3505	3521	defiant behavior
+MetaMapLite	C0284660	0.0	3523	3529	zoloft
+MetaMapLite	C0205653	0.0	3531	3541	adolescent
+MetaMapLite	C0455204	0.0	3543	3561	homicidal ideation
+MetaMapLite	C0021125	0.0	3563	3581	impulsive behavior
+MetaMapLite	C2013199	0.0	3583	3604	oppositional behavior
+MetaMapLite	C0033978	0.0	3625	3649	psychotropic medications
+MetaMapLite	C0860661	0.0	3651	3663	oppositional
+MetaMapLite	C0205487	0.0	3688	3699	psychiatric

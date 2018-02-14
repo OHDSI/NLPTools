@@ -1,0 +1,174 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0678257	0.0	87	98	Description
+MetaMapLite	C0030705	0.0	101	108	Patient
+MetaMapLite	C0013404	0.0	124	143	shortness of breath
+MetaMapLite	C0439228	0.0	151	154	day
+MetaMapLite	C0449238	0.0	155	163	duration
+MetaMapLite	C0282229	0.0	166	187	Medical Transcription
+MetaMapLite	C0370003	0.0	188	194	Sample
+MetaMapLite	C2347026	0.0	188	194	Sample
+MetaMapLite	C0684224	0.0	195	201	Report
+MetaMapLite	C0700287	0.0	195	201	Report
+MetaMapLite	C0030685	0.0	203	212	DISCHARGE
+MetaMapLite	C0012621	0.0	203	212	DISCHARGE
+MetaMapLite	C0011900	0.0	213	222	DIAGNOSES
+MetaMapLite	C0024117	0.0	227	264	Chronic obstructive pulmonary disease
+MetaMapLite	C0549186	0.0	235	246	obstructive
+MetaMapLite	C0231929	0.0	270	307	acute hypercapnic respiratory failure
+MetaMapLite	C0694539	0.0	312	339	Chronic atrial fibrillation
+MetaMapLite	C0332152	0.0	345	350	prior
+MetaMapLite	C2826257	0.0	345	350	prior
+MetaMapLite	C0547070	0.0	351	359	ablation
+MetaMapLite	C1261381	0.0	351	359	ablation
+MetaMapLite	C0699129	0.0	368	376	Coumadin
+MetaMapLite	C0087111	0.0	377	386	treatment
+MetaMapLite	C0039798	0.0	377	386	treatment
+MetaMapLite	C0026269	0.0	391	406	Mitral stenosis
+MetaMapLite	C0205157	0.0	411	417	Remote
+MetaMapLite	C1550013	0.0	411	417	Remote
+MetaMapLite	C0443203	0.0	411	417	Remote
+MetaMapLite	C1387404	0.0	418	440	history of lung cancer
+MetaMapLite	C2826257	0.0	446	451	prior
+MetaMapLite	C0332152	0.0	446	451	prior
+MetaMapLite	C0015252	0.0	452	461	resection
+MetaMapLite	C0728940	0.0	452	461	resection
+MetaMapLite	C0225756	0.0	474	484	upper lobe
+MetaMapLite	C0003467	0.0	489	496	Anxiety
+MetaMapLite	C0860603	0.0	489	496	Anxiety
+MetaMapLite	C0349217	0.0	501	511	depression
+MetaMapLite	C0011570	0.0	501	511	depression
+MetaMapLite	C0011581	0.0	501	511	depression
+MetaMapLite	C0344315	0.0	501	511	depression
+MetaMapLite	C1579931	0.0	501	511	depression
+MetaMapLite	C0262512	0.0	513	539	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	524	531	PRESENT
+MetaMapLite	C1522508	0.0	541	548	Details
+MetaMapLite	C0150312	0.0	553	560	present
+MetaMapLite	C0700287	0.0	577	583	report
+MetaMapLite	C0684224	0.0	577	583	report
+MetaMapLite	C1282927	0.0	585	590	BRIEF
+MetaMapLite	C0489547	0.0	591	606	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	612	619	patient
+MetaMapLite	C0439234	0.0	628	632	year
+MetaMapLite	C0580836	0.0	633	636	old
+MetaMapLite	C0013404	0.0	669	688	shortness of breath
+MetaMapLite	C0439228	0.0	696	699	day
+MetaMapLite	C0449238	0.0	700	708	duration
+MetaMapLite	C0262512	0.0	721	728	history
+MetaMapLite	C2004062	0.0	721	728	history
+MetaMapLite	C0262926	0.0	721	728	history
+MetaMapLite	C0019665	0.0	721	728	history
+MetaMapLite	C0019664	0.0	721	728	history
+MetaMapLite	C0008031	0.0	732	742	chest pain
+MetaMapLite	C0015967	0.0	746	752	fevers
+MetaMapLite	C0010200	0.0	756	761	cough
+MetaMapLite	C0241235	0.0	767	782	purulent sputum
+MetaMapLite	C0040223	0.0	791	795	time
+MetaMapLite	C0750729	0.0	832	838	course
+MetaMapLite	C0003232	0.0	842	853	antibiotics
+MetaMapLite	C0875968	0.0	857	863	Avelox
+MetaMapLite	C0439228	0.0	872	876	days
+MetaMapLite	C0038317	0.0	896	904	steroids
+MetaMapLite	C0032950	0.0	906	918	prednisolone
+MetaMapLite	C0021459	0.0	930	950	breathing treatments
+MetaMapLite	C0001927	0.0	956	965	albuterol
+MetaMapLite	C0027235	0.0	967	978	Ipratropium
+MetaMapLite	C0578554	0.0	987	1009	bronchodilator therapy
+MetaMapLite	C0039771	0.0	1034	1046	theophylline
+MetaMapLite	C0699129	0.0	1073	1081	Coumadin
+MetaMapLite	C0694539	0.0	1090	1117	chronic atrial fibrillation
+MetaMapLite	C0018810	0.0	1123	1133	heart rate
+MetaMapLite	C2197023	0.0	1123	1133	heart rate
+MetaMapLite	C0205437	0.0	1191	1196	third
+MetaMapLite	C0439228	0.0	1197	1200	day
+MetaMapLite	C0184666	0.0	1204	1213	admission
+MetaMapLite	C1145670	0.0	1238	1257	respiratory failure
+MetaMapLite	C0015672	0.0	1263	1270	fatigue
+MetaMapLite	C0199470	0.0	1342	1364	mechanical ventilation
+MetaMapLite	C3538851	0.0	1425	1428	PAP
+MetaMapLite	C0033095	0.0	1434	1443	pressures
+MetaMapLite	C0460139	0.0	1434	1443	pressures
+MetaMapLite	C3538851	0.0	1495	1498	PAP
+MetaMapLite	C3538851	0.0	1510	1513	PAP
+MetaMapLite	C1301668	0.0	1538	1554	time of transfer
+MetaMapLite	C0598429	0.0	1558	1565	Kindred
+MetaMapLite	C0006266	0.0	1571	1583	bronchospasm
+MetaMapLite	C0001807	0.0	1606	1616	aggressive
+MetaMapLite	C0580822	0.0	1606	1616	aggressive
+MetaMapLite	C1371299	0.0	1617	1632	bronchodilation
+MetaMapLite	C3537072	0.0	1617	1632	bronchodilation
+MetaMapLite	C0087111	0.0	1645	1652	therapy
+MetaMapLite	C0039798	0.0	1645	1652	therapy
+MetaMapLite	C0030685	0.0	1654	1663	DISCHARGE
+MetaMapLite	C0012621	0.0	1654	1663	DISCHARGE
+MetaMapLite	C0013227	0.0	1664	1675	MEDICATIONS
+MetaMapLite	C0032950	0.0	1677	1689	Prednisolone
+MetaMapLite	C0442027	0.0	1696	1702	orally
+MetaMapLite	C0556983	0.0	1703	1713	once daily
+MetaMapLite	C0001927	0.0	1715	1724	albuterol
+MetaMapLite	C2979938	0.0	1732	1741	nebulized
+MetaMapLite	C0439227	0.0	1750	1755	hours
+MetaMapLite	C0591130	0.0	1757	1765	Atrovent
+MetaMapLite	C0439227	0.0	1799	1804	hours
+MetaMapLite	C0678162	0.0	1806	1815	Pulmicort
+MetaMapLite	C0439211	0.0	1820	1830	micrograms
+MetaMapLite	C1720725	0.0	1841	1846	twice
+MetaMapLite	C1948050	0.0	1841	1846	twice
+MetaMapLite	C0439227	0.0	1855	1860	hours
+MetaMapLite	C0699129	0.0	1862	1870	Coumadin
+MetaMapLite	C0442027	0.0	1876	1882	orally
+MetaMapLite	C0556983	0.0	1883	1893	once daily
+MetaMapLite	C1128320	0.0	1895	1917	magnesium oxide 200 mg
+MetaMapLite	C2986642	0.0	1905	1910	oxide
+MetaMapLite	C0030015	0.0	1905	1910	oxide
+MetaMapLite	C0442027	0.0	1918	1924	orally
+MetaMapLite	C0556983	0.0	1925	1935	once daily
+MetaMapLite	C1705822	0.0	1937	1945	TRANSFER
+MetaMapLite	C0040671	0.0	1937	1945	TRANSFER
+MetaMapLite	C0302828	0.0	1946	1958	INSTRUCTIONS
+MetaMapLite	C1442085	0.0	1946	1958	INSTRUCTIONS
+MetaMapLite	C0030705	0.0	1964	1971	patient
+MetaMapLite	C0441889	0.0	2001	2006	level
+MetaMapLite	C2946261	0.0	2001	2006	level
+MetaMapLite	C0456079	0.0	2001	2006	level
+MetaMapLite	C1547707	0.0	2001	2006	level
+MetaMapLite	C3538851	0.0	2007	2010	PAP
+MetaMapLite	C3538851	0.0	2019	2022	PAP
+MetaMapLite	C3538851	0.0	2025	2028	PAP
+MetaMapLite	C0205393	0.0	2057	2061	most
+MetaMapLite	C0040223	0.0	2069	2074	times
+MetaMapLite	C0439228	0.0	2086	2089	day
+MetaMapLite	C0179574	0.0	2109	2122	nasal cannula
+MetaMapLite	C0439393	0.0	2130	2147	liters per minute
+MetaMapLite	C0522534	0.0	2159	2169	saturation
+MetaMapLite	C0587119	0.0	2183	2193	meal times
+MetaMapLite	C0439227	0.0	2233	2238	hours
+MetaMapLite	C0184666	0.0	2254	2263	admission
+MetaMapLite	C0032821	0.0	2268	2277	potassium
+MetaMapLite	C0750482	0.0	2288	2296	slightly
+MetaMapLite	C0003015	0.0	2319	2332	ACE inhibitor
+MetaMapLite	C1514902	0.0	2364	2371	restart
+MetaMapLite	C0205087	0.0	2386	2391	later
+MetaMapLite	C0011008	0.0	2392	2396	date
+MetaMapLite	C1272641	0.0	2406	2420	blood pressure
+MetaMapLite	C0005823	0.0	2406	2420	blood pressure
+MetaMapLite	C0243148	0.0	2421	2428	control
+MetaMapLite	C1882979	0.0	2421	2428	control
+MetaMapLite	C0332272	0.0	2432	2438	better
+MetaMapLite	C0743221	0.0	2462	2479	discharge summary
+MetaMapLite	C0024117	0.0	2481	2518	chronic obstructive pulmonary disease
+MetaMapLite	C0549186	0.0	2489	2500	obstructive
+MetaMapLite	C0398353	0.0	2520	2551	hypercapnic respiratory failure
+MetaMapLite	C0004238	0.0	2553	2572	atrial fibrillation
+MetaMapLite	C0694539	0.0	2574	2601	chronic atrial fibrillation
+MetaMapLite	C0013404	0.0	2613	2632	shortness of breath
+MetaMapLite	C0013404	0.0	2634	2653	shortness of breath
+MetaMapLite	C0699129	0.0	2676	2684	coumadin
+MetaMapLite	C0018792	0.0	2686	2692	atrial

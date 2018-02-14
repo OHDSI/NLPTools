@@ -1,0 +1,23 @@
+description	summary of a patient presenting with a large mass aborted through the cervix . ( Medical Transcription Sample Report )	149-188	a large mass aborted through the cervix	CLAMP	null	02/14/2018	02/14/2018 10:53:35	True		BDL=[cervix]
+description	Sample Report ) PRINCIPAL DIAGNOSIS : Mullerian adenosarcoma .	250-272	Mullerian adenosarcoma	CLAMP	C0001442 SNOMEDCT_US[31470003]	02/14/2018	02/14/2018 10:53:35	True		
+history_present_illness	is a 56 - year - old presenting with a large mass aborted through the cervix .	348-387	a large mass aborted through the cervix	CLAMP	null	02/14/2018	02/14/2018 10:53:35	True		BDL=[cervix]
+physical_examination	EXAM : CHEST : Clear . There is no heart murmur . ABDOMEN : Nontender . PELVIC : There is	432-444	heart murmur	CLAMP	C0018808 SNOMEDCT_US[421493004, 414786004, 88610006]	02/14/2018	02/14/2018 10:53:35	False		NEG=[no], BDL=[heart]
+physical_examination	ABDOMEN : Nontender . PELVIC : There is a large mass in the vagina .	485-511	a large mass in the vagina	CLAMP	null	02/14/2018	02/14/2018 10:53:35	True		BDL=[vagina]
+hospital_course	The postoperative course was marked by fever and ileus . The patient regained bowel	624-629	fever	CLAMP	C0424755 SNOMEDCT_US[248427009]	02/14/2018	02/14/2018 10:53:35	True		SEV=[marked]
+hospital_course	marked by fever and ileus . The patient regained bowel function . She was discharged on the morning of	654-677	regained bowel function	CLAMP	null	02/14/2018	02/14/2018 10:53:35	True		BDL=[bowel]
+operative_procedural	OPERATIONS : July 25 , 2006 : Total abdominal hysterectomy , bilateral salpingo - oophorectomy .	777-805	Total abdominal hysterectomy	CLAMP	C0404079 SNOMEDCT_US[116143008]	02/14/2018	02/14/2018 10:53:35	True	July 25, 2006	BDL=[abdominal], temporal=[July 25, 2006]
+operative_procedural	, 2006 : Total abdominal hysterectomy , bilateral salpingo - oophorectomy . DISCHARGE CONDITION : Stable .	807-838	bilateral salpingo-oophorectomy	CLAMP	C0195495 SNOMEDCT_US[29827000]	02/14/2018	02/14/2018 10:53:35	True	July 25, 2006	temporal=[July 25, 2006]
+plan	will remain at rest initially with progressive ambulation thereafter . She will avoid lifting ,	924-946	progressive ambulation	CLAMP	C2112720	02/14/2018	02/14/2018 10:53:35	True		
+plan	, or intercourse . She will call me for fevers , drainage , bleeding , or pain .	1039-1045	fevers	CLAMP	C0424755 SNOMEDCT_US[248427009]	02/14/2018	02/14/2018 10:53:35	True		
+plan	. She will call me for fevers , drainage , bleeding , or pain .	1047-1055	drainage	CLAMP	C0012621 SNOMEDCT_US[307488001, 75823008]	02/14/2018	02/14/2018 10:53:35	True		
+plan	She will call me for fevers , drainage , bleeding , or pain .	1057-1065	bleeding	CLAMP	C0019080 SNOMEDCT_US[50960005, 131148009]	02/14/2018	02/14/2018 10:53:35	True		
+plan	me for fevers , drainage , bleeding , or pain .	1070-1074	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/14/2018	02/14/2018 10:53:35	True		
+family_history	in my office in one week . PATHOLOGY : Mullerian adenosarcoma .	1221-1243	Mullerian adenosarcoma	CLAMP	C0001442 SNOMEDCT_US[31470003]	02/14/2018	02/14/2018 10:53:35	True		
+medications	MEDICATIONS : Percocet 5 , # 40 , one q . 3 h . p . r . n . pain . Keywords :	1259-1269	Percocet 5	CLAMP	C0684189	02/14/2018	02/14/2018 10:53:35	True		
+medications	MEDICATIONS : Percocet 5 , # 40 , one q . 3 h . p . r . n . pain .	1259-1267	Percocet	CLAMP	C0086787, RxNorm=[42844], Generic=[42844]	02/14/2018	02/14/2018 10:53:35	True		NEC=[p.r.n]
+medications	: Percocet 5 , # 40 , one q . 3 h . p . r . n . pain . Keywords :	1294-1298	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/14/2018	02/14/2018 10:53:35	False		CON=[p.r.n]
+discharge_summary	discharge summary , cervix , fevers , drainage , bleeding , mullerian	1337-1343	fevers	CLAMP	C0424755 SNOMEDCT_US[248427009]	02/14/2018	02/14/2018 10:53:35	True		
+discharge_summary	discharge summary , cervix , fevers , drainage , bleeding , mullerian adenosarcoma ,	1345-1353	drainage	CLAMP	C0012621 SNOMEDCT_US[307488001, 75823008]	02/14/2018	02/14/2018 10:53:35	True		
+discharge_summary	summary , cervix , fevers , drainage , bleeding , mullerian adenosarcoma , mullerian ,	1355-1363	bleeding	CLAMP	C0019080 SNOMEDCT_US[50960005, 131148009]	02/14/2018	02/14/2018 10:53:35	True		
+discharge_summary	, cervix , fevers , drainage , bleeding , mullerian adenosarcoma , mullerian , adenosarcoma ,	1365-1387	mullerian adenosarcoma	CLAMP	C0001442 SNOMEDCT_US[31470003]	02/14/2018	02/14/2018 10:53:35	True		
+discharge_summary	, mullerian adenosarcoma , mullerian , adenosarcoma ,	1400-1412	adenosarcoma	CLAMP	C0001442 SNOMEDCT_US[31470003]	02/14/2018	02/14/2018 10:53:35	True		

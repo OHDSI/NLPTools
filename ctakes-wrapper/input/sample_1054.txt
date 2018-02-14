@@ -1,0 +1,31 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - 6
+Description:  A white male veteran with multiple comorbidities, who has a history of bladder cancer diagnosed approximately two years ago by the VA Hospital.
+(Medical Transcription Sample Report)
+ADMISSION DATE:  MM/DD/YYYY
+DISCHARGE DATE:  MM/DD/YYYY
+HISTORY OF PRESENT ILLNESS:  Mr. ABC is a 60-year-old white male veteran with multiple comorbidities, who has a history of bladder cancer diagnosed approximately two years ago by the VA Hospital.  He underwent a resection there.  He was to be admitted to the Day Hospital for cystectomy.  He was seen in Urology Clinic and Radiology Clinic on MM/DD/YYYY.
+HOSPITAL COURSE:  Mr. ABC presented to the Day Hospital in anticipation for Urology surgery.  On evaluation, EKG, echocardiogram was abnormal, a Cardiology consult was obtained.  A cardiac adenosine stress MRI was then proceeded, same was positive for inducible ischemia, mild-to-moderate inferolateral subendocardial infarction with peri-infarct ischemia.  In addition, inducible ischemia seen in the inferior lateral septum.  Mr. ABC underwent a left heart catheterization, which revealed two vessel coronary artery disease.  The RCA, proximal was 95% stenosed and the distal 80% stenosed.  The mid LAD was 85% stenosed and the distal LAD was 85% stenosed.  There was four Multi-Link Vision bare metal stents placed to decrease all four lesions to 0%.  Following intervention, Mr. ABC was admitted to 7 Ardmore Tower under Cardiology Service under the direction of Dr. XYZ.  Mr. ABC had a noncomplicated post-intervention hospital course.  He was stable for discharge home on MM/DD/YYYY with instructions to take Plavix daily for one month and Urology is aware of the same.
+DISCHARGE EXAM:
+VITAL SIGNS:  Temperature 97.4, heart rate 68, respirations 18, blood pressure 133/70.
+HEART:  Regular rate and rhythm.
+LUNGS:  Clear to auscultation.
+ABDOMEN:  Obese, soft, nontender.  Lower abdomen tender when touched due to bladder cancer.
+RIGHT GROIN:  Dry and intact, no bruit, no ecchymosis, no hematoma.  Distal pulses are intact.
+DISCHARGE LABS:  CBC:  White count 5.4, hemoglobin 10.3, hematocrit 30, platelet count 132, hemoglobin A1c 9.1.  BMP:  Sodium 142, potassium 4.4, BUN 13, creatinine 1.1, glucose 211.  Lipid profile:  Cholesterol 157, triglycerides 146, HDL 22, LDL 106.
+PROCEDURES:
+1.  On MM/DD/YYYY, cardiac MRI adenosine stress.
+2.  On MM/DD/YYYY, left heart catheterization, coronary angiogram, left ventriculogram, coronary angioplasty with four Multi-Link Vision bare metal stents, two placed to the LAD in two placed to the RCA.
+DISCHARGE INSTRUCTIONS:  Mr. ABC is discharged home.  He should follow a low-fat, low-salt, low-cholesterol, and heart healthy diabetic diet.  He should follow post-coronary artery intervention restrictions.  He should not lift greater than 10 pounds for seven days.  He should not drive for two days.  He should not immerse in water for two weeks.  Groin site care reviewed with patient prior to being discharged home.  He should check groin for bleeding, edema, and signs of infection.  Mr. ABC is to see his primary care physician within one to two weeks, return to Dr. XYZ's clinic in four to six weeks, appointment card to be mailed him.  He is to follow up with Urology in their clinic on MM/DD/YYYY at 10 o'clock and then to scheduled CT scan at that time.
+DISCHARGE DIAGNOSES:
+1.  Coronary artery disease status post percutaneous coronary artery intervention to the right coronary artery and to the LAD.
+2.  Bladder cancer.
+3.  Diabetes.
+4.  Dyslipidemia.
+5.  Hypertension.
+6.  Carotid artery stenosis, status post right carotid endarterectomy in 2004.
+7.  Multiple resections of the bladder tumor.
+8.  Distant history of appendectomy.
+9.  Distant history of ankle surgery.
+Keywords:
+discharge summary, coronary artery disease, heart catheterization, artery disease, bare metal, metal stents, artery intervention, bladder cancer, coronary artery, veteran, surgery, cardiac, inducible, catheterization, ischemia, cancer, urology, stenosed, bladder, heart, artery, coronary,

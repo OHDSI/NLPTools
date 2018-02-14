@@ -1,0 +1,21 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - Mesothelioma
+Description:  A patient with preoperative diagnosis of right pleural mass and postoperative diagnosis of mesothelioma.
+(Medical Transcription Sample Report)
+PREOPERATIVE DIAGNOSIS:  Right pleural mass.
+POSTOPERATIVE DIAGNOSIS:  Mesothelioma.
+PROCEDURES PERFORMED:
+1.  Flexible bronchoscopy.
+2.  Mediastinoscopy.
+3.  Right thoracotomy.
+4.  Parietal pleural biopsy.
+CONSULTS:
+Consults obtained during this hospitalization included:
+1.  Radiation Oncology.
+2.  Pulmonary Medicine.
+3.  Medical Oncology.
+4.  Cancer Center Team consult.
+5.  Massage therapy consult.
+HOSPITAL COURSE:  The patient's hospital course was unremarkable.  Her pain was well controlled with an epidural that was placed by Anesthesia.  At the time of discharge, the patient was ambulatory.  She was discharged with home oxygen available.  She was discharged with albuterol nebulizer treatments, treatments were to be q.i.d.  She was discharged with a prescription for Vicodin for pain control.  She is to follow up with Dr. X in the office in one week with a chest x-ray.  She is instructed not to lift, push or pull anything greater than 10 pounds.  She is instructed not to drive until after she sees us in the office and is off her pain medications.
+Keywords:
+discharge summary, flexible bronchoscopy, mediastinoscopy, right thoracotomy, pleural biopsy, pleural mass, mesothelioma, oncology,

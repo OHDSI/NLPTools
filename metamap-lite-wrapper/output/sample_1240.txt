@@ -1,0 +1,168 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0678257	0.0	88	99	Description
+MetaMapLite	C0020456	0.0	102	115	Hyperglycemia
+MetaMapLite	C0008350	0.0	117	131	cholelithiasis
+MetaMapLite	C0520679	0.0	133	156	obstructive sleep apnea
+MetaMapLite	C0020538	0.0	177	189	hypertension
+MetaMapLite	C0008325	0.0	195	208	cholecystitis
+MetaMapLite	C0282229	0.0	211	232	Medical Transcription
+MetaMapLite	C0370003	0.0	233	239	Sample
+MetaMapLite	C2347026	0.0	233	239	Sample
+MetaMapLite	C0700287	0.0	240	246	Report
+MetaMapLite	C0684224	0.0	240	246	Report
+MetaMapLite	C0184666	0.0	248	257	ADMISSION
+MetaMapLite	C0011900	0.0	258	267	DIAGNOSES
+MetaMapLite	C0020456	0.0	270	283	Hyperglycemia
+MetaMapLite	C0008350	0.0	285	299	cholelithiasis
+MetaMapLite	C0520679	0.0	301	324	obstructive sleep apnea
+MetaMapLite	C0020538	0.0	349	361	hypertension
+MetaMapLite	C0030685	0.0	363	372	DISCHARGE
+MetaMapLite	C0012621	0.0	363	372	DISCHARGE
+MetaMapLite	C0011900	0.0	373	382	DIAGNOSES
+MetaMapLite	C0020456	0.0	385	398	Hyperglycemia
+MetaMapLite	C0008350	0.0	400	414	cholelithiasis
+MetaMapLite	C0520679	0.0	416	439	obstructive sleep apnea
+MetaMapLite	C0020538	0.0	460	472	hypertension
+MetaMapLite	C0008325	0.0	478	491	cholecystitis
+MetaMapLite	C2700391	0.0	493	502	PROCEDURE
+MetaMapLite	C0184661	0.0	493	502	PROCEDURE
+MetaMapLite	C0162522	0.0	505	533	Laparoscopic cholecystectomy
+MetaMapLite	C0557854	0.0	535	542	SERVICE
+MetaMapLite	C3245478	0.0	535	542	SERVICE
+MetaMapLite	C0543467	0.0	545	552	Surgery
+MetaMapLite	C0038895	0.0	545	552	Surgery
+MetaMapLite	C0262512	0.0	554	580	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	565	572	PRESENT
+MetaMapLite	C0439234	0.0	599	603	year
+MetaMapLite	C0580836	0.0	604	607	old
+MetaMapLite	C0043210	0.0	608	613	woman
+MetaMapLite	C0683278	0.0	620	627	suffers
+MetaMapLite	C0028756	0.0	633	647	morbid obesity
+MetaMapLite	C0011860	0.0	663	671	diabetes
+MetaMapLite	C0011849	0.0	663	671	diabetes
+MetaMapLite	C0520679	0.0	676	699	obstructive sleep apnea
+MetaMapLite	C1456587	0.0	727	745	Bariatric Surgical
+MetaMapLite	C2315331	0.0	727	745	Bariatric Surgical
+MetaMapLite	C0205099	0.0	746	752	Center
+MetaMapLite	C0441587	0.0	757	766	placement
+MetaMapLite	C1521913	0.0	772	776	band
+MetaMapLite	C0175723	0.0	772	776	band
+MetaMapLite	C0332120	0.0	820	831	evidence of
+MetaMapLite	C0008350	0.0	832	846	cholelithiasis
+MetaMapLite	C0030705	0.0	870	877	patient
+MetaMapLite	C0814225	0.0	884	891	benefit
+MetaMapLite	C0015252	0.0	897	904	removal
+MetaMapLite	C0728940	0.0	897	904	removal
+MetaMapLite	C0016976	0.0	912	923	gallbladder
+MetaMapLite	C0332152	0.0	924	932	prior to
+MetaMapLite	C0175723	0.0	940	944	band
+MetaMapLite	C1521913	0.0	940	944	band
+MetaMapLite	C0441587	0.0	945	954	placement
+MetaMapLite	C0175668	0.0	955	967	secondary to
+MetaMapLite	C0011860	0.0	972	980	diabetes
+MetaMapLite	C0011849	0.0	972	980	diabetes
+MetaMapLite	C0035647	0.0	989	993	risk
+MetaMapLite	C3714514	0.0	997	1006	infection
+MetaMapLite	C1521913	0.0	1014	1018	band
+MetaMapLite	C0175723	0.0	1014	1018	band
+MetaMapLite	C0030705	0.0	1025	1032	patient
+MetaMapLite	C2700391	0.0	1062	1071	procedure
+MetaMapLite	C0184661	0.0	1062	1071	procedure
+MetaMapLite	C0005802	0.0	1097	1110	blood glucose
+MetaMapLite	C1283174	0.0	1111	1116	check
+MetaMapLite	C0030705	0.0	1122	1129	patient
+MetaMapLite	C3665462	0.0	1165	1170	sugar
+MetaMapLite	C0242209	0.0	1165	1170	sugar
+MetaMapLite	C0019994	0.0	1205	1213	hospital
+MetaMapLite	C0087111	0.0	1218	1227	treatment
+MetaMapLite	C0039798	0.0	1218	1227	treatment
+MetaMapLite	C0020456	0.0	1235	1248	hyperglycemia
+MetaMapLite	C0489547	0.0	1250	1265	HOSPITAL COURSE
+MetaMapLite	C0019994	0.0	1296	1304	hospital
+MetaMapLite	C3845187	0.0	1348	1360	insulin drip
+MetaMapLite	C0242209	0.0	1367	1373	sugars
+MetaMapLite	C0439834	0.0	1374	1380	slowly
+MetaMapLite	C0205307	0.0	1398	1404	normal
+MetaMapLite	C0205117	0.0	1442	1446	next
+MetaMapLite	C0439228	0.0	1447	1450	day
+MetaMapLite	C0162522	0.0	1518	1546	laparoscopic cholecystectomy
+MetaMapLite	C0549401	0.0	1571	1591	difficult intubation
+MetaMapLite	C2700391	0.0	1600	1609	procedure
+MetaMapLite	C0184661	0.0	1600	1609	procedure
+MetaMapLite	C0392360	0.0	1628	1639	indications
+MetaMapLite	C0085694	0.0	1643	1664	chronic cholecystitis
+MetaMapLite	C0700321	0.0	1668	1674	little
+MetaMapLite	C1553019	0.0	1675	1678	bit
+MetaMapLite	C0013604	0.0	1682	1687	edema
+MetaMapLite	C2945599	0.0	1689	1693	mild
+MetaMapLite	C0013604	0.0	1682	1687	edema
+MetaMapLite	C0267781	0.0	1704	1724	adhesions of omentum
+MetaMapLite	C0016976	0.0	1736	1747	gallbladder
+MetaMapLite	C0184661	0.0	1768	1777	procedure
+MetaMapLite	C2700391	0.0	1768	1777	procedure
+MetaMapLite	C1299586	0.0	1802	1812	difficulty
+MetaMapLite	C0032786	0.0	1840	1858	Postoperative Care
+MetaMapLite	C1519795	0.0	1859	1863	Unit
+MetaMapLite	C1704753	0.0	1859	1863	Unit
+MetaMapLite	C1880519	0.0	1859	1863	Unit
+MetaMapLite	C0439148	0.0	1859	1863	Unit
+MetaMapLite	C0016249	0.0	1889	1894	floor
+MetaMapLite	C0005802	0.0	1901	1912	blood sugar
+MetaMapLite	C0004600	0.0	1965	1969	back
+MetaMapLite	C0349674	0.0	1983	1988	scale
+MetaMapLite	C0175659	0.0	1983	1988	scale
+MetaMapLite	C0021641	0.0	1989	1996	insulin
+MetaMapLite	C0205170	0.0	2019	2023	well
+MetaMapLite	C0205360	0.0	2043	2049	stable
+MetaMapLite	C0012621	0.0	2054	2063	discharge
+MetaMapLite	C0030685	0.0	2054	2063	discharge
+MetaMapLite	C0184661	0.0	2078	2087	procedure
+MetaMapLite	C2700391	0.0	2078	2087	procedure
+MetaMapLite	C2266673	0.0	2089	2111	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0332156	0.0	2117	2123	return
+MetaMapLite	C0012159	0.0	2140	2144	diet
+MetaMapLite	C0012155	0.0	2140	2144	diet
+MetaMapLite	C0005802	0.0	2168	2181	blood glucose
+MetaMapLite	C0205117	0.0	2239	2243	next
+MetaMapLite	C0439230	0.0	2244	2248	week
+MetaMapLite	C0585029	0.0	2252	2258	Friday
+MetaMapLite	C1521913	0.0	2311	2315	band
+MetaMapLite	C0175723	0.0	2311	2315	band
+MetaMapLite	C0040223	0.0	2324	2328	time
+MetaMapLite	C0541748	0.0	2339	2345	shower
+MetaMapLite	C0043250	0.0	2370	2376	wounds
+MetaMapLite	C0021501	0.0	2370	2376	wounds
+MetaMapLite	C1947930	0.0	2377	2382	clean
+MetaMapLite	C0205222	0.0	2387	2390	dry
+MetaMapLite	C0439539	0.0	2396	2401	heavy
+MetaMapLite	C0206244	0.0	2402	2409	lifting
+MetaMapLite	C0027415	0.0	2426	2434	narcotic
+MetaMapLite	C0002771	0.0	2435	2449	pain medicines
+MetaMapLite	C0199451	0.0	2483	2487	CPAP
+MetaMapLite	C1424863	0.0	2483	2487	CPAP
+MetaMapLite	C0336779	0.0	2488	2495	machine
+MetaMapLite	C0030695	0.0	2512	2519	monitor
+MetaMapLite	C0150369	0.0	2512	2519	monitor
+MetaMapLite	C0181904	0.0	2512	2519	monitor
+MetaMapLite	C0242209	0.0	2524	2530	sugars
+MetaMapLite	C0743221	0.0	2542	2559	discharge summary
+MetaMapLite	C0020456	0.0	2571	2584	hyperglycemia
+MetaMapLite	C0162522	0.0	2586	2614	laparoscopic cholecystectomy
+MetaMapLite	C0012159	0.0	2625	2629	diet
+MetaMapLite	C0012155	0.0	2625	2629	diet
+MetaMapLite	C0008325	0.0	2631	2644	cholecystitis
+MetaMapLite	C0008350	0.0	2646	2660	cholelithiasis
+MetaMapLite	C0020538	0.0	2681	2693	hypertension
+MetaMapLite	C0028754	0.0	2702	2709	obesity
+MetaMapLite	C0520679	0.0	2711	2734	obstructive sleep apnea
+MetaMapLite	C0037315	0.0	2729	2741	apnea, sleep
+MetaMapLite	C0037315	0.0	2723	2734	sleep apnea
+MetaMapLite	C0011860	0.0	2749	2757	diabetes
+MetaMapLite	C0011849	0.0	2749	2757	diabetes

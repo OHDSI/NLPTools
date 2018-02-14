@@ -1,0 +1,30 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - 12
+Description:  A 94-year-old female from the nursing home with several days of lethargy and anorexia.  She was found to have evidence of UTI and also has renal insufficiency and digitalis toxicity.
+(Medical Transcription Sample Report)
+CURRENT HISTORY:  A 94-year-old female from the nursing home with several days of lethargy and anorexia.  She was found to have evidence of UTI.  She also has renal insufficiency and digitalis toxicity.  She is admitted for further treatment.
+Past medical history, social history, family history, physical examination can be seen on the admission H&P.
+LABORATORIES ON ADMISSION:  White count 11,700, hemoglobin 12.8, hematocrit 37.2, BUN 91, creatinine 2.2, sodium 131, potassium 5.1.  Digoxin level of 4.1.
+HOSPITAL COURSE:  The patient was admitted and intravenous fluids and antibiotics were administered.  Blood cultures were negative.  Urine cultures were nondiagnostic.  Renal function improved with creatinine down to 1 at the time of discharge.  Digoxin was restarted at a lower dose.  Her condition improved and she is stabilized and transferred back to assisted living in good condition.
+PRIMARY DIAGNOSES:
+1.  Urinary tract infection.
+2.  Volume depletion.
+3.  Renal insufficiency.
+4.  Digitalis toxicity.
+SECONDARY DIAGNOSES:
+1.  Aortic valve stenosis.
+2.  Congestive heart failure.
+3.  Hypertension.
+4.  Chronic anemia.
+5.  Degenerative joint disease.
+6.  Gastroesophageal reflux disease.
+PROCEDURES:  None.
+COMPLICATIONS:  None.
+DISCHARGE CONDITION:  Improved and stable.
+DISCHARGE PLAN:
+Physical activity:  With assistance.
+Diet:  No restriction.
+Medications:  Lasix 40 mg daily, lisinopril 5 mg daily, digoxin 0.125 mg daily, Augmentin 875 mg 1 tablet twice a day for 1 week, Nexium 40 mg daily, Elavil 10 mg at bedtime, Detrol 2 mg twice a day, potassium 10 mEq daily and diclofenac 50 mg twice a day.
+Follow up:  She will see Dr. X in the office as scheduled.
+Keywords:
+discharge summary, volume depletion, urinary tract infection, renal insufficiency, digitalis toxicity, lethargy, anorexia, uti,

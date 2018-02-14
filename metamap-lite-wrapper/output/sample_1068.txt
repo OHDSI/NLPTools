@@ -1,0 +1,250 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0678257	0.0	87	98	Description
+MetaMapLite	C0030705	0.0	101	108	Patient
+MetaMapLite	C2230127	0.0	114	137	fever of unknown origin
+MetaMapLite	C0015970	0.0	114	137	fever of unknown origin
+MetaMapLite	C0282229	0.0	140	161	Medical Transcription
+MetaMapLite	C0370003	0.0	162	168	Sample
+MetaMapLite	C2347026	0.0	162	168	Sample
+MetaMapLite	C0684224	0.0	169	175	Report
+MetaMapLite	C0700287	0.0	169	175	Report
+MetaMapLite	C0392360	0.0	177	183	REASON
+MetaMapLite	C0184666	0.0	188	197	ADMISSION
+MetaMapLite	C0332240	0.0	209	223	unknown origin
+MetaMapLite	C0262512	0.0	225	251	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	236	243	PRESENT
+MetaMapLite	C0030705	0.0	258	265	patient
+MetaMapLite	C0439234	0.0	274	278	year
+MetaMapLite	C0580836	0.0	279	282	old
+MetaMapLite	C0043210	0.0	283	288	woman
+MetaMapLite	C0011633	0.0	294	322	polymyositis/dermatomyositis
+MetaMapLite	C0025677	0.0	326	338	methotrexate
+MetaMapLite	C0558293	0.0	339	350	once a week
+MetaMapLite	C0030705	0.0	357	364	patient
+MetaMapLite	C0205250	0.0	382	386	high
+MetaMapLite	C0178602	0.0	387	391	dose
+MetaMapLite	C0032952	0.0	392	402	prednisone
+MetaMapLite	C0042109	0.0	410	425	urticarial rash
+MetaMapLite	C0030705	0.0	432	439	patient
+MetaMapLite	C0205322	0.0	464	474	persistent
+MetaMapLite	C0205250	0.0	475	479	high
+MetaMapLite	C0015967	0.0	480	486	fevers
+MetaMapLite	C2963144	0.0	497	502	clear
+MetaMapLite	C0000925	0.0	503	506	cut
+MetaMapLite	C0449426	0.0	507	526	source of infection
+MetaMapLite	C0039476	0.0	549	561	temperatures
+MetaMapLite	C0439228	0.0	584	588	days
+MetaMapLite	C0449911	0.0	617	621	View
+MetaMapLite	C0562508	0.0	622	642	Emergency Department
+MetaMapLite	C2077962	0.0	622	642	Emergency Department
+MetaMapLite	C0439230	0.0	645	649	week
+MetaMapLite	C0332152	0.0	650	658	prior to
+MetaMapLite	C0184666	0.0	659	668	admission
+MetaMapLite	C0039985	0.0	696	707	chest x-ray
+MetaMapLite	C0005767	0.0	709	714	blood
+MetaMapLite	C0229664	0.0	709	714	blood
+MetaMapLite	C0010453	0.0	715	723	cultures
+MetaMapLite	C0430462	0.0	731	759	transthoracic echocardiogram
+MetaMapLite	C0205307	0.0	801	807	normal
+MetaMapLite	C0039985	0.0	814	825	chest x-ray
+MetaMapLite	C0205307	0.0	847	853	normal
+MetaMapLite	C0030705	0.0	866	873	patient
+MetaMapLite	C0442603	0.0	890	896	office
+MetaMapLite	C3831448	0.0	900	906	August
+MetaMapLite	C0205250	0.0	930	934	high
+MetaMapLite	C0015967	0.0	935	941	fevers
+MetaMapLite	C3831448	0.0	962	968	August
+MetaMapLite	C1622454	0.0	975	985	Cottonwood
+MetaMapLite	C0522460	0.0	975	985	Cottonwood
+MetaMapLite	C0019994	0.0	986	994	Hospital
+MetaMapLite	C0947630	0.0	997	1004	Studies
+MetaMapLite	C0522460	0.0	1013	1023	Cottonwood
+MetaMapLite	C1622454	0.0	1013	1023	Cottonwood
+MetaMapLite	C0202823	0.0	1026	1046	CT scan of the chest
+MetaMapLite	C0441633	0.0	1029	1033	scan
+MetaMapLite	C1562547	0.0	1041	1067	chest, abdomen, and pelvis
+MetaMapLite	C0000726	0.0	1048	1055	abdomen
+MetaMapLite	C0230168	0.0	1048	1055	abdomen
+MetaMapLite	C0202823	0.0	1080	1088	CT chest
+MetaMapLite	C2945599	0.0	1096	1100	mild
+MetaMapLite	C0032225	0.0	1111	1118	pleural
+MetaMapLite	C1522720	0.0	1111	1118	pleural
+MetaMapLite	C0596790	0.0	1125	1137	interstitial
+MetaMapLite	C0392747	0.0	1138	1145	changes
+MetaMapLite	C0443172	0.0	1138	1145	changes
+MetaMapLite	C0392752	0.0	1159	1168	localized
+MetaMapLite	C0444598	0.0	1172	1175	mid
+MetaMapLite	C0441994	0.0	1180	1185	lower
+MetaMapLite	C0024109	0.0	1186	1190	lung
+MetaMapLite	C1184743	0.0	1203	1210	process
+MetaMapLite	C1522240	0.0	1203	1210	process
+MetaMapLite	C0205219	0.0	1219	1226	diffuse
+MetaMapLite	C0017596	0.0	1249	1254	glass
+MetaMapLite	C0392747	0.0	1255	1261	change
+MetaMapLite	C0443172	0.0	1255	1261	change
+MetaMapLite	C0412620	0.0	1264	1274	CT abdomen
+MetaMapLite	C1508499	0.0	1267	1285	abdomen and pelvis
+MetaMapLite	C0205307	0.0	1290	1296	normal
+MetaMapLite	C3714515	0.0	1299	1317	Infectious disease
+MetaMapLite	C0009450	0.0	1299	1317	Infectious disease
+MetaMapLite	C0009818	0.0	1318	1330	consultation
+MetaMapLite	C0030705	0.0	1362	1369	patient
+MetaMapLite	C0036745	0.0	1383	1393	serologies
+MetaMapLite	C0005767	0.0	1418	1423	blood
+MetaMapLite	C0229664	0.0	1418	1423	blood
+MetaMapLite	C0032520	0.0	1424	1427	PCR
+MetaMapLite	C0332282	0.0	1430	1434	Next
+MetaMapLite	C1883708	0.0	1430	1434	Next
+MetaMapLite	C0036745	0.0	1435	1445	serologies
+MetaMapLite	C0014644	0.0	1450	1453	EBV
+MetaMapLite	C0023237	0.0	1455	1465	Legionella
+MetaMapLite	C0008148	0.0	1467	1476	Chlamydia
+MetaMapLite	C0026934	0.0	1478	1488	Mycoplasma
+MetaMapLite	C0009183	0.0	1490	1502	Coccidioides
+MetaMapLite	C0522281	0.0	1508	1528	cryptococcal antigen
+MetaMapLite	C0220911	0.0	1550	1558	serology
+MetaMapLite	C0455278	0.0	1550	1558	serology
+MetaMapLite	C0036745	0.0	1550	1558	serology
+MetaMapLite	C0004600	0.0	1564	1568	back
+MetaMapLite	C1446409	0.0	1569	1577	positive
+MetaMapLite	C0205160	0.0	1600	1608	negative
+MetaMapLite	C0005767	0.0	1619	1624	blood
+MetaMapLite	C0229664	0.0	1619	1624	blood
+MetaMapLite	C0032520	0.0	1625	1628	PCR
+MetaMapLite	C1446409	0.0	1633	1641	positive
+MetaMapLite	C0205170	0.0	1646	1650	well
+MetaMapLite	C0036745	0.0	1659	1669	serologies
+MetaMapLite	C0205160	0.0	1689	1697	negative
+MetaMapLite	C0005767	0.0	1700	1705	Blood
+MetaMapLite	C0229664	0.0	1700	1705	Blood
+MetaMapLite	C0010453	0.0	1706	1714	cultures
+MetaMapLite	C0205160	0.0	1722	1730	negative
+MetaMapLite	C0449911	0.0	1735	1739	view
+MetaMapLite	C1446409	0.0	1747	1755	positive
+MetaMapLite	C0032520	0.0	1761	1764	PCR
+MetaMapLite	C0392747	0.0	1774	1781	changes
+MetaMapLite	C0443172	0.0	1774	1781	changes
+MetaMapLite	C1547980	0.0	1789	1797	CAT scan
+MetaMapLite	C0040405	0.0	1789	1797	CAT scan
+MetaMapLite	C0030705	0.0	1803	1810	patient
+MetaMapLite	C0006290	0.0	1827	1839	bronchoscopy
+MetaMapLite	C0442342	0.0	1850	1864	transbronchial
+MetaMapLite	C0005558	0.0	1865	1873	biopsies
+MetaMapLite	C0442342	0.0	1895	1909	transbronchial
+MetaMapLite	C0005558	0.0	1910	1918	biopsies
+MetaMapLite	C0332120	0.0	1936	1947	evidence of
+MetaMapLite	C0597258	0.0	1948	1960	pneumocystis
+MetaMapLite	C0026946	0.0	1962	1978	fungal infection
+MetaMapLite	C0483226	0.0	1980	1983	AFB
+MetaMapLite	C0750540	0.0	2001	2012	nonspecific
+MetaMapLite	C0240035	0.0	2013	2034	interstitial fibrosis
+MetaMapLite	C0547040	0.0	2046	2053	minimal
+MetaMapLite	C0334866	0.0	2073	2084	pathologist
+MetaMapLite	C0596756	0.0	2098	2113	immunopathology
+MetaMapLite	C1609432	0.0	2098	2113	immunopathology
+MetaMapLite	C0233426	0.0	2126	2130	look
+MetaMapLite	C0030705	0.0	2145	2152	patient
+MetaMapLite	C0677862	0.0	2175	2191	biopsy specimens
+MetaMapLite	C1446409	0.0	2205	2213	positive
+MetaMapLite	C0332290	0.0	2223	2238	consistent with
+MetaMapLite	C0010823	0.0	2239	2252	CMV infection
+MetaMapLite	C0030705	0.0	2259	2266	patient
+MetaMapLite	C0017066	0.0	2282	2293	ganciclovir
+MetaMapLite	C0036745	0.0	2307	2317	serologies
+MetaMapLite	C0004600	0.0	2327	2331	back
+MetaMapLite	C1446409	0.0	2332	2340	positive
+MetaMapLite	C0338237	0.0	2352	2370	antibiotic therapy
+MetaMapLite	C0332282	0.0	2388	2392	Next
+MetaMapLite	C1883708	0.0	2388	2392	Next
+MetaMapLite	C0030705	0.0	2398	2407	patient's
+MetaMapLite	C0025677	0.0	2408	2420	methotrexate
+MetaMapLite	C0039985	0.0	2433	2444	chest x-ray
+MetaMapLite	C0332152	0.0	2445	2453	prior to
+MetaMapLite	C0030685	0.0	2454	2463	discharge
+MetaMapLite	C0012621	0.0	2454	2463	discharge
+MetaMapLite	C0012634	0.0	2486	2493	disease
+MetaMapLite	C0596790	0.0	2503	2515	interstitial
+MetaMapLite	C0332448	0.0	2516	2527	infiltrates
+MetaMapLite	C0030705	0.0	2534	2541	patient
+MetaMapLite	C0020740	0.0	2552	2561	ibuprofen
+MetaMapLite	C0000970	0.0	2566	2579	acetaminophen
+MetaMapLite	C0019993	0.0	2591	2606	hospitalization
+MetaMapLite	C0424755	0.0	2616	2621	fever
+MetaMapLite	C0015967	0.0	2616	2621	fever
+MetaMapLite	C0079809	0.0	2642	2650	measures
+MetaMapLite	C0200643	0.0	2663	2679	fluid cell count
+MetaMapLite	C0030705	0.0	2685	2692	patient
+MetaMapLite	C0014792	0.0	2715	2719	RBCs
+MetaMapLite	C0443199	0.0	2727	2739	differential
+MetaMapLite	C0027950	0.0	2756	2767	neutrophils
+MetaMapLite	C0024264	0.0	2773	2784	lymphocytes
+MetaMapLite	C0557061	0.0	2786	2797	Discussions
+MetaMapLite	C0334889	0.0	2835	2849	rheumatologist
+MetaMapLite	C0677042	0.0	2860	2869	pathology
+MetaMapLite	C0205469	0.0	2860	2869	pathology
+MetaMapLite	C0030664	0.0	2860	2869	pathology
+MetaMapLite	C0030685	0.0	2871	2880	DISCHARGE
+MetaMapLite	C0012621	0.0	2871	2880	DISCHARGE
+MetaMapLite	C0011900	0.0	2881	2890	DIAGNOSES
+MetaMapLite	C0877424	0.0	2896	2922	Disseminated CMV infection
+MetaMapLite	C0332149	0.0	2928	2936	possible
+MetaMapLite	C0276253	0.0	2937	2952	CMV pneumonitis
+MetaMapLite	C0085655	0.0	2958	2970	Polymyositis
+MetaMapLite	C0021079	0.0	2974	2999	immunosuppressive therapy
+MetaMapLite	C0025677	0.0	3001	3013	methotrexate
+MetaMapLite	C0032952	0.0	3018	3028	prednisone
+MetaMapLite	C0030685	0.0	3031	3040	DISCHARGE
+MetaMapLite	C0012621	0.0	3031	3040	DISCHARGE
+MetaMapLite	C0013227	0.0	3041	3052	MEDICATIONS
+MetaMapLite	C0030705	0.0	3062	3069	patient
+MetaMapLite	C0017066	0.0	3088	3099	ganciclovir
+MetaMapLite	C0332232	0.0	3122	3135	approximately
+MetaMapLite	C0439230	0.0	3138	3143	weeks
+MetaMapLite	C0965130	0.0	3149	3155	Advair
+MetaMapLite	C1882376	0.0	3166	3170	puff
+MetaMapLite	C1533107	0.0	3166	3170	puff
+MetaMapLite	C0020740	0.0	3182	3191	Ibuprofen
+MetaMapLite	C0699142	0.0	3203	3210	Tylenol
+MetaMapLite	C0015967	0.0	3222	3227	fever
+MetaMapLite	C0424755	0.0	3222	3227	fever
+MetaMapLite	C0016410	0.0	3251	3261	folic acid
+MetaMapLite	C0030705	0.0	3271	3278	patient
+MetaMapLite	C1514902	0.0	3288	3295	restart
+MetaMapLite	C0025677	0.0	3300	3312	methotrexate
+MetaMapLite	C3831448	0.0	3362	3368	August
+MetaMapLite	C0439230	0.0	3433	3438	weeks
+MetaMapLite	C0439230	0.0	3433	3438	weeks
+MetaMapLite	C0003629	0.0	3483	3494	appointment
+MetaMapLite	C1704292	0.0	3505	3520	ophthalmologist
+MetaMapLite	C0439228	0.0	3533	3537	days
+MetaMapLite	C0040223	0.0	3539	3543	time
+MetaMapLite	C0030685	0.0	3567	3576	discharge
+MetaMapLite	C0012621	0.0	3567	3576	discharge
+MetaMapLite	C0439232	0.0	3591	3598	minutes
+MetaMapLite	C1282918	0.0	3591	3598	minutes
+MetaMapLite	C0700321	0.0	3591	3598	minutes
+MetaMapLite	C0030705	0.0	3630	3637	patient
+MetaMapLite	C0743221	0.0	3649	3666	discharge summary
+MetaMapLite	C2230127	0.0	3668	3691	fever of unknown origin
+MetaMapLite	C0015970	0.0	3668	3691	fever of unknown origin
+MetaMapLite	C0005767	0.0	3693	3698	blood
+MetaMapLite	C0229664	0.0	3693	3698	blood
+MetaMapLite	C0010453	0.0	3699	3707	cultures
+MetaMapLite	C0442342	0.0	3709	3723	transbronchial
+MetaMapLite	C0005558	0.0	3724	3732	biopsies
+MetaMapLite	C3714514	0.0	3734	3743	infection
+MetaMapLite	C0184666	0.0	3750	3759	admission
+MetaMapLite	C0221423	0.0	3761	3768	illness
+MetaMapLite	C0596790	0.0	3770	3782	interstitial
+MetaMapLite	C0015967	0.0	3784	3789	fever
+MetaMapLite	C0424755	0.0	3784	3789	fever
+MetaMapLite	C0036745	0.0	3791	3801	serologies
+MetaMapLite	C0817096	0.0	3803	3808	chest
+MetaMapLite	C0025677	0.0	3825	3837	methotrexate

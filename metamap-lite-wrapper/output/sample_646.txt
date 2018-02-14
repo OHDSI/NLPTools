@@ -1,0 +1,304 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0024109	0.0	72	77	Pulmo
+MetaMapLite	C0743221	0.0	78	95	Discharge Summary
+MetaMapLite	C2348322	0.0	88	107	Summary
+Description
+MetaMapLite	C0439234	0.0	115	119	year
+MetaMapLite	C0580836	0.0	120	123	old
+MetaMapLite	C0025266	0.0	124	127	man
+MetaMapLite	C0086418	0.0	124	127	man
+MetaMapLite	C0086582	0.0	124	127	man
+MetaMapLite	C0476273	0.0	133	153	respiratory distress
+MetaMapLite	C1881055	0.0	155	189	history of coronary artery disease
+MetaMapLite	C0155668	0.0	195	223	prior myocardial infarctions
+MetaMapLite	C0332185	0.0	229	237	recently
+MetaMapLite	C0032285	0.0	252	261	pneumonia
+MetaMapLite	C1145670	0.0	266	285	respiratory failure
+MetaMapLite	C0282229	0.0	288	309	Medical Transcription
+MetaMapLite	C2347026	0.0	310	316	Sample
+MetaMapLite	C0370003	0.0	310	316	Sample
+MetaMapLite	C0700287	0.0	317	323	Report
+MetaMapLite	C0684224	0.0	317	323	Report
+MetaMapLite	C1628992	0.0	325	344	ADMISSION DIAGNOSIS
+MetaMapLite	C0162297	0.0	349	367	Respiratory arrest
+MetaMapLite	C1300072	0.0	377	382	stage
+MetaMapLite	C0024117	0.0	383	420	chronic obstructive pulmonary disease
+MetaMapLite	C0549186	0.0	391	402	obstructive
+MetaMapLite	C1956346	0.0	425	448	Coronary artery disease
+MetaMapLite	C0010054	0.0	425	448	Coronary artery disease
+MetaMapLite	C0010068	0.0	425	448	Coronary artery disease
+MetaMapLite	C0262926	0.0	453	460	History
+MetaMapLite	C2004062	0.0	453	460	History
+MetaMapLite	C0019665	0.0	453	460	History
+MetaMapLite	C0019664	0.0	453	460	History
+MetaMapLite	C0262512	0.0	453	460	History
+MetaMapLite	C0020538	0.0	464	476	hypertension
+MetaMapLite	C1555319	0.0	478	497	DISCHARGE DIAGNOSIS
+MetaMapLite	C0231290	0.0	502	513	Status post
+MetaMapLite	C0162297	0.0	514	532	respiratory arrest
+MetaMapLite	C0024117	0.0	537	574	Chronic obstructive pulmonary disease
+MetaMapLite	C0549186	0.0	545	556	obstructive
+MetaMapLite	C0018802	0.0	579	603	Congestive heart failure
+MetaMapLite	C1881055	0.0	608	642	History of coronary artery disease
+MetaMapLite	C0262926	0.0	647	654	History
+MetaMapLite	C0019665	0.0	647	654	History
+MetaMapLite	C0019664	0.0	647	654	History
+MetaMapLite	C2004062	0.0	647	654	History
+MetaMapLite	C0262512	0.0	647	654	History
+MetaMapLite	C0020538	0.0	658	670	hypertension
+MetaMapLite	C1706244	0.0	672	679	SUMMARY
+MetaMapLite	C1552616	0.0	672	679	SUMMARY
+MetaMapLite	C0030705	0.0	686	693	patient
+MetaMapLite	C0439234	0.0	702	706	year
+MetaMapLite	C0580836	0.0	707	710	old
+MetaMapLite	C0086418	0.0	711	714	man
+MetaMapLite	C0086582	0.0	711	714	man
+MetaMapLite	C0025266	0.0	711	714	man
+MetaMapLite	C0019994	0.0	739	747	hospital
+MetaMapLite	C0476273	0.0	751	771	respiratory distress
+MetaMapLite	C0184666	0.0	811	820	admission
+MetaMapLite	C0562508	0.0	828	842	emergency room
+MetaMapLite	C0030705	0.0	848	856	patients
+MetaMapLite	C0332119	0.0	857	869	past history
+MetaMapLite	C1881055	0.0	887	921	history of coronary artery disease
+MetaMapLite	C0155668	0.0	927	955	prior myocardial infarctions
+MetaMapLite	C0030705	0.0	978	985	patient
+MetaMapLite	C0332185	0.0	990	998	recently
+MetaMapLite	C0019994	0.0	1020	1028	hospital
+MetaMapLite	C0032285	0.0	1034	1043	pneumonia
+MetaMapLite	C1145670	0.0	1048	1067	respiratory failure
+MetaMapLite	C0030705	0.0	1073	1080	patient
+MetaMapLite	C0037369	0.0	1090	1097	smoking
+MetaMapLite	C1519384	0.0	1090	1097	smoking
+MetaMapLite	C0439231	0.0	1121	1127	months
+MetaMapLite	C0439228	0.0	1147	1150	day
+MetaMapLite	C0184666	0.0	1154	1163	admission
+MetaMapLite	C0030705	0.0	1169	1176	patient
+MetaMapLite	C1276802	0.0	1185	1197	sudden onset
+MetaMapLite	C1272517	0.0	1185	1197	sudden onset
+MetaMapLite	C2080700	0.0	1201	1215	severe dyspnea
+MetaMapLite	C0002422	0.0	1230	1239	ambulance
+MetaMapLite	C0030705	0.0	1245	1252	patient
+MetaMapLite	C0439833	0.0	1264	1271	gradual
+MetaMapLite	C0442805	0.0	1272	1280	increase
+MetaMapLite	C0442805	0.0	1298	1306	increase
+MetaMapLite	C0010200	0.0	1310	1315	cough
+MetaMapLite	C0442805	0.0	1321	1329	increase
+MetaMapLite	C0008031	0.0	1333	1343	chest pain
+MetaMapLite	C0442805	0.0	1349	1357	increase
+MetaMapLite	C0038056	0.0	1361	1367	sputum
+MetaMapLite	C0332152	0.0	1368	1376	prior to
+MetaMapLite	C1276802	0.0	1394	1400	sudden
+MetaMapLite	C0013404	0.0	1401	1408	dyspnea
+MetaMapLite	C0184666	0.0	1410	1419	ADMISSION
+MetaMapLite	C0031809	0.0	1420	1440	PHYSICAL EXAMINATION
+MetaMapLite	C0205246	0.0	1442	1449	GENERAL
+MetaMapLite	C0205170	0.0	1460	1464	well
+MetaMapLite	C0750482	0.0	1476	1484	slightly
+MetaMapLite	C0028754	0.0	1485	1490	obese
+MetaMapLite	C0086418	0.0	1491	1494	man
+MetaMapLite	C0086582	0.0	1491	1494	man
+MetaMapLite	C0025266	0.0	1491	1494	man
+MetaMapLite	C0027530	0.0	1516	1520	NECK
+MetaMapLite	C0332254	0.0	1522	1528	Supple
+MetaMapLite	C0425687	0.0	1538	1563	jugular venous distension
+MetaMapLite	C0018787	0.0	1565	1570	HEART
+MetaMapLite	C3827868	0.0	1579	1590	tachycardia
+MetaMapLite	C0039231	0.0	1579	1590	tachycardia
+MetaMapLite	C0018808	0.0	1599	1606	murmurs
+MetaMapLite	C0024109	0.0	1619	1628	PULMONARY
+MetaMapLite	C2709248	0.0	1619	1628	PULMONARY
+MetaMapLite	C0449438	0.0	1630	1636	Status
+MetaMapLite	C0035234	0.0	1654	1667	breath sounds
+MetaMapLite	C2963144	0.0	1676	1681	clear
+MetaMapLite	C0000925	0.0	1682	1685	cut
+MetaMapLite	C0034642	0.0	1686	1691	rales
+MetaMapLite	C0043144	0.0	1695	1702	wheezes
+MetaMapLite	C0015385	0.0	1704	1715	EXTREMITIES
+MetaMapLite	C0278454	0.0	1704	1715	EXTREMITIES
+MetaMapLite	C0332296	0.0	1717	1721	Free
+MetaMapLite	C0013604	0.0	1725	1730	edema
+MetaMapLite	C0489547	0.0	1732	1747	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	1754	1761	patient
+MetaMapLite	C0558600	0.0	1782	1799	Special Care Unit
+MetaMapLite	C0580931	0.0	1790	1794	Care
+MetaMapLite	C0559680	0.0	1827	1857	intravenous antibiotic therapy
+MetaMapLite	C0721336	0.0	1863	1871	Levaquin
+MetaMapLite	C0348016	0.0	1885	1896	intravenous
+MetaMapLite	C0948575	0.0	1897	1913	diuretic therapy
+MetaMapLite	C1552914	0.0	1927	1931	hand
+MetaMapLite	C0018563	0.0	1927	1931	hand
+MetaMapLite	C0578554	0.0	1937	1959	bronchodilator therapy
+MetaMapLite	C0030705	0.0	1965	1972	patient
+MetaMapLite	C0563322	0.0	1988	2007	intravenous steroid
+MetaMapLite	C0039798	0.0	2008	2015	therapy
+MetaMapLite	C0087111	0.0	2008	2015	therapy
+MetaMapLite	C0699458	0.0	2026	2032	Medrol
+MetaMapLite	C0030705	0.0	2038	2046	patients
+MetaMapLite	C0750729	0.0	2047	2053	course
+MetaMapLite	C0439833	0.0	2065	2072	gradual
+MetaMapLite	C2986411	0.0	2073	2084	improvement
+MetaMapLite	C0332232	0.0	2096	2109	approximately
+MetaMapLite	C0439228	0.0	2116	2120	days
+MetaMapLite	C0030705	0.0	2126	2133	patient
+MetaMapLite	C0277854	0.0	2174	2182	dyspneic
+MetaMapLite	C0043144	0.0	2189	2196	wheezes
+MetaMapLite	C0205170	0.0	2200	2204	well
+MetaMapLite	C0240859	0.0	2208	2221	basilar rales
+MetaMapLite	C0024109	0.0	2229	2238	pulmonary
+MetaMapLite	C2709248	0.0	2229	2238	pulmonary
+MetaMapLite	C0009818	0.0	2239	2251	consultation
+MetaMapLite	C2709248	0.0	2270	2279	pulmonary
+MetaMapLite	C0024109	0.0	2270	2279	pulmonary
+MetaMapLite	C0009817	0.0	2280	2290	consultant
+MetaMapLite	C1549076	0.0	2280	2290	consultant
+MetaMapLite	C0030705	0.0	2305	2313	patients
+MetaMapLite	C1561607	0.0	2314	2321	overall
+MetaMapLite	C0205210	0.0	2322	2330	clinical
+MetaMapLite	C0441469	0.0	2331	2338	picture
+MetaMapLite	C0441468	0.0	2331	2338	picture
+MetaMapLite	C0237881	0.0	2363	2374	significant
+MetaMapLite	C0750502	0.0	2363	2374	significant
+MetaMapLite	C0013879	0.0	2375	2382	element
+MetaMapLite	C0018802	0.0	2386	2410	congestive heart failure
+MetaMapLite	C0030705	0.0	2427	2434	patient
+MetaMapLite	C0065374	0.0	2468	2478	Lisinopril
+MetaMapLite	C0012265	0.0	2483	2490	Digoxin
+MetaMapLite	C2986411	0.0	2497	2508	improvement
+MetaMapLite	C2598168	0.0	2516	2534	respiratory status
+MetaMapLite	C1998827	0.0	2516	2534	respiratory status
+MetaMapLite	C0439228	0.0	2543	2546	day
+MetaMapLite	C0030685	0.0	2550	2559	discharge
+MetaMapLite	C0012621	0.0	2550	2559	discharge
+MetaMapLite	C0030705	0.0	2565	2572	patient
+MetaMapLite	C0547040	0.0	2577	2584	minimal
+MetaMapLite	C0240859	0.0	2585	2598	basilar rales
+MetaMapLite	C0817096	0.0	2604	2609	chest
+MetaMapLite	C0547040	0.0	2622	2629	minimal
+MetaMapLite	C0231875	0.0	2630	2648	expiratory wheezes
+MetaMapLite	C0013604	0.0	2660	2665	edema
+MetaMapLite	C0018810	0.0	2671	2681	heart rate
+MetaMapLite	C2197023	0.0	2671	2681	heart rate
+MetaMapLite	C0205272	0.0	2686	2693	regular
+MetaMapLite	C0230168	0.0	2699	2706	abdomen
+MetaMapLite	C0000726	0.0	2699	2706	abdomen
+MetaMapLite	C0205358	0.0	2711	2715	soft
+MetaMapLite	C0226542	0.0	2725	2735	neck veins
+MetaMapLite	C0030705	0.0	2789	2796	patient
+MetaMapLite	C0205360	0.0	2801	2807	stable
+MetaMapLite	C1517331	0.0	2812	2819	further
+MetaMapLite	C0376636	0.0	2820	2830	management
+MetaMapLite	C1527178	0.0	2848	2853	basis
+MetaMapLite	C1874451	0.0	2848	2853	basis
+MetaMapLite	C0348026	0.0	2855	2865	DIAGNOSTIC
+MetaMapLite	C0011900	0.0	2855	2865	DIAGNOSTIC
+MetaMapLite	C3245479	0.0	2866	2870	DATA
+MetaMapLite	C0030705	0.0	2877	2885	patients
+MetaMapLite	C0184666	0.0	2886	2895	admission
+MetaMapLite	C1705214	0.0	2896	2911	laboratory data
+MetaMapLite	C1555582	0.0	2932	2939	initial
+MetaMapLite	C0205265	0.0	2932	2939	initial
+MetaMapLite	C0150479	0.0	2940	2949	blood gas
+MetaMapLite	C0030705	0.0	3018	3026	patients
+MetaMapLite	C0013798	0.0	3027	3044	electrocardiogram
+MetaMapLite	C1623258	0.0	3027	3044	electrocardiogram
+MetaMapLite	C0750540	0.0	3052	3063	nonspecific
+MetaMapLite	C0429103	0.0	3067	3073	T wave
+MetaMapLite	C0443172	0.0	3074	3081	changes
+MetaMapLite	C0392747	0.0	3074	3081	changes
+MetaMapLite	C0030650	0.0	3087	3094	patents
+MetaMapLite	C2263086	0.0	3095	3098	CBC
+MetaMapLite	C0009555	0.0	3095	3098	CBC
+MetaMapLite	C0007457	0.0	3108	3113	white
+MetaMapLite	C0220938	0.0	3108	3113	white
+MetaMapLite	C0043157	0.0	3108	3113	white
+MetaMapLite	C1705566	0.0	3114	3119	count
+MetaMapLite	C0750480	0.0	3114	3119	count
+MetaMapLite	C0027950	0.0	3140	3151	neutrophils
+MetaMapLite	C0175723	0.0	3159	3164	bands
+MetaMapLite	C0743223	0.0	3166	3177	DISPOSITION
+MetaMapLite	C0030705	0.0	3184	3191	patient
+MetaMapLite	C0442519	0.0	3207	3211	home
+MetaMapLite	C2266673	0.0	3213	3235	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0012159	0.0	3242	3246	diet
+MetaMapLite	C0012155	0.0	3242	3246	diet
+MetaMapLite	C0439208	0.0	3261	3266	grams
+MetaMapLite	C0037473	0.0	3267	3273	sodium
+MetaMapLite	C1879985	0.0	3280	3287	calorie
+MetaMapLite	C1556156	0.0	3280	3287	calorie
+MetaMapLite	C3811629	0.0	3288	3291	ADA
+MetaMapLite	C0012155	0.0	3292	3296	diet
+MetaMapLite	C0012159	0.0	3292	3296	diet
+MetaMapLite	C0013227	0.0	3302	3313	medications
+MetaMapLite	C0989247	0.0	3325	3341	Prednisone 20 mg
+MetaMapLite	C0585361	0.0	3342	3355	twice per day
+MetaMapLite	C0700825	0.0	3357	3364	Theo-24
+MetaMapLite	C0439228	0.0	3376	3379	day
+MetaMapLite	C0986199	0.0	3381	3397	Furosemide 40 mg
+MetaMapLite	C0439228	0.0	3418	3421	day
+MetaMapLite	C0982981	0.0	3423	3443	Acetazolamide 250 mg
+MetaMapLite	C0439228	0.0	3457	3460	day
+MetaMapLite	C0987219	0.0	3462	3478	Lisinopril 20 mg
+MetaMapLite	C0585361	0.0	3489	3502	twice per day
+MetaMapLite	C0985542	0.0	3504	3520	Digoxin 0.125 mg
+MetaMapLite	C0017887	0.0	3536	3549	nitroglycerin
+MetaMapLite	C0030634	0.0	3550	3555	paste
+MetaMapLite	C2346481	0.0	3558	3562	inch
+MetaMapLite	C0439204	0.0	3558	3562	inch
+MetaMapLite	C2348614	0.0	3558	3562	inch
+MetaMapLite	C0306511	0.0	3569	3574	K-Dur
+MetaMapLite	C0439152	0.0	3578	3581	mEq
+MetaMapLite	C0042153	0.0	3609	3612	use
+MetaMapLite	C0033744	0.0	3615	3623	Ventolin
+MetaMapLite	C0439227	0.0	3643	3648	hours
+MetaMapLite	C0699690	0.0	3664	3672	Azmacort
+MetaMapLite	C1533107	0.0	3678	3683	puffs
+MetaMapLite	C0585361	0.0	3684	3697	twice per day
+MetaMapLite	C0332156	0.0	3715	3721	return
+MetaMapLite	C0439230	0.0	3761	3766	weeks
+MetaMapLite	C0030705	0.0	3804	3811	patient
+MetaMapLite	C0013516	0.0	3823	3837	echocardiogram
+MetaMapLite	C1517331	0.0	3842	3849	further
+MetaMapLite	C1261322	0.0	3850	3860	evaluation
+MetaMapLite	C0220825	0.0	3850	3860	evaluation
+MetaMapLite	C0018802	0.0	3868	3892	congestive heart failure
+MetaMapLite	C0205087	0.0	3893	3898	later
+MetaMapLite	C0439228	0.0	3906	3909	day
+MetaMapLite	C0030685	0.0	3913	3922	discharge
+MetaMapLite	C0012621	0.0	3913	3922	discharge
+MetaMapLite	C0743221	0.0	3934	3951	discharge summary
+MetaMapLite	C0012159	0.0	3957	3961	diet
+MetaMapLite	C0012155	0.0	3957	3961	diet
+MetaMapLite	C0018802	0.0	3963	3987	congestive heart failure
+MetaMapLite	C0010054	0.0	3989	4012	coronary artery disease
+MetaMapLite	C0010068	0.0	3989	4012	coronary artery disease
+MetaMapLite	C1956346	0.0	3989	4012	coronary artery disease
+MetaMapLite	C0162297	0.0	4014	4032	respiratory arrest
+MetaMapLite	C0008031	0.0	4034	4044	chest pain
+MetaMapLite	C0024117	0.0	4046	4083	chronic obstructive pulmonary disease
+MetaMapLite	C0549186	0.0	4054	4065	obstructive
+MetaMapLite	C0562508	0.0	4085	4099	emergency room
+MetaMapLite	C0020538	0.0	4101	4113	hypertension
+MetaMapLite	C0038056	0.0	4115	4121	sputum
+MetaMapLite	C0476273	0.0	4133	4153	respiratory distress
+MetaMapLite	C0027051	0.0	4155	4177	myocardial infarctions
+MetaMapLite	C1145670	0.0	4179	4198	respiratory failure
+MetaMapLite	C0024115	0.0	4200	4217	pulmonary disease
+MetaMapLite	C0455540	0.0	4200	4217	pulmonary disease
+MetaMapLite	C0240859	0.0	4219	4232	basilar rales
+MetaMapLite	C0018801	0.0	4234	4247	heart failure
+MetaMapLite	C0021308	0.0	4249	4260	infarctions
+MetaMapLite	C0018787	0.0	4262	4267	heart
+MetaMapLite	C0043144	0.0	4269	4276	wheezes
+MetaMapLite	C0018787	0.0	4278	4286	coronary
+MetaMapLite	C2709248	0.0	4288	4297	pulmonary
+MetaMapLite	C0024109	0.0	4288	4297	pulmonary
+MetaMapLite	C0030685	0.0	4299	4308	discharge
+MetaMapLite	C0012621	0.0	4299	4308	discharge
+MetaMapLite	C0521346	0.0	4310	4321	respiratory

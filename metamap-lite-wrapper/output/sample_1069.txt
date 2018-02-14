@@ -1,0 +1,308 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0678257	0.0	87	98	Description
+MetaMapLite	C0220938	0.0	103	108	white
+MetaMapLite	C0007457	0.0	103	108	white
+MetaMapLite	C0043157	0.0	103	108	white
+MetaMapLite	C0086287	0.0	109	115	female
+MetaMapLite	C0043210	0.0	109	115	female
+MetaMapLite	C0015780	0.0	109	115	female
+MetaMapLite	C0262926	0.0	123	130	history
+MetaMapLite	C2004062	0.0	123	130	history
+MetaMapLite	C0019665	0.0	123	130	history
+MetaMapLite	C0019664	0.0	123	130	history
+MetaMapLite	C0262512	0.0	123	130	history
+MetaMapLite	C0015967	0.0	134	140	fevers
+MetaMapLite	C0282229	0.0	143	164	Medical Transcription
+MetaMapLite	C0370003	0.0	165	171	Sample
+MetaMapLite	C2347026	0.0	165	171	Sample
+MetaMapLite	C0700287	0.0	172	178	Report
+MetaMapLite	C0684224	0.0	172	178	Report
+MetaMapLite	C0012621	0.0	180	189	DISCHARGE
+MetaMapLite	C0030685	0.0	180	189	DISCHARGE
+MetaMapLite	C0011900	0.0	190	199	DIAGNOSES
+MetaMapLite	C0439208	0.0	205	209	Gram
+MetaMapLite	C0205160	0.0	210	218	negative
+MetaMapLite	C1552915	0.0	219	222	rod
+MetaMapLite	C0206427	0.0	219	222	rod
+MetaMapLite	C2347970	0.0	219	222	rod
+MetaMapLite	C2347971	0.0	219	222	rod
+MetaMapLite	C0004610	0.0	223	233	bacteremia
+MetaMapLite	C0205088	0.0	235	240	final
+MetaMapLite	C0020792	0.0	241	255	identification
+MetaMapLite	C0205396	0.0	241	255	identification
+MetaMapLite	C1264642	0.0	260	276	susceptibilities
+MetaMapLite	C0012655	0.0	260	276	susceptibilities
+MetaMapLite	C0019665	0.0	296	303	History
+MetaMapLite	C0262926	0.0	296	303	History
+MetaMapLite	C0019664	0.0	296	303	History
+MetaMapLite	C0262512	0.0	296	303	History
+MetaMapLite	C2004062	0.0	296	303	History
+MetaMapLite	C0009678	0.0	307	317	congenital
+MetaMapLite	C0042063	0.0	318	345	genitourinary abnormalities
+MetaMapLite	C0439064	0.0	351	359	multiple
+MetaMapLite	C0543467	0.0	360	369	surgeries
+MetaMapLite	C3244287	0.0	385	390	grade
+MetaMapLite	C0441800	0.0	385	390	grade
+MetaMapLite	C0919553	0.0	385	390	grade
+MetaMapLite	C2004062	0.0	396	403	History
+MetaMapLite	C0019665	0.0	396	403	History
+MetaMapLite	C0262926	0.0	396	403	History
+MetaMapLite	C0019664	0.0	396	403	History
+MetaMapLite	C0262512	0.0	396	403	History
+MetaMapLite	C0042029	0.0	407	431	urinary tract infections
+MetaMapLite	C1185740	0.0	415	420	tract
+MetaMapLite	C0034186	0.0	435	449	pyelonephritis
+MetaMapLite	C3244306	0.0	451	461	OPERATIONS
+MetaMapLite	C0038895	0.0	451	461	OPERATIONS
+MetaMapLite	C3244305	0.0	451	461	OPERATIONS
+MetaMapLite	C0884358	0.0	462	471	PERFORMED
+MetaMapLite	C0039985	0.0	474	485	Chest x-ray
+MetaMapLite	C3829447	0.0	486	490	July
+MetaMapLite	C0205307	0.0	510	516	normal
+MetaMapLite	C0206054	0.0	519	549	Transesophageal echocardiogram
+MetaMapLite	C3829447	0.0	550	554	July
+MetaMapLite	C0205307	0.0	574	580	normal
+MetaMapLite	C0332120	0.0	586	597	evidence of
+MetaMapLite	C1285498	0.0	598	609	vegetations
+MetaMapLite	C0412620	0.0	612	634	CT scan of the abdomen
+MetaMapLite	C0441633	0.0	615	619	scan
+MetaMapLite	C1508499	0.0	627	645	abdomen and pelvis
+MetaMapLite	C3829447	0.0	646	650	July
+MetaMapLite	C2145688	0.0	675	695	multiple small cysts
+MetaMapLite	C0700321	0.0	684	689	small
+MetaMapLite	C0023884	0.0	703	708	liver
+MetaMapLite	C0443228	0.0	714	721	largest
+MetaMapLite	C1524062	0.0	754	764	additional
+MetaMapLite	C0010709	0.0	770	775	cysts
+MetaMapLite	C0205090	0.0	783	788	right
+MetaMapLite	C0796494	0.0	789	793	lobe
+MetaMapLite	C0040405	0.0	817	824	CT scan
+MetaMapLite	C0205307	0.0	829	835	normal
+MetaMapLite	C0262512	0.0	837	863	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	848	855	PRESENT
+MetaMapLite	C0030705	0.0	879	886	patient
+MetaMapLite	C0439234	0.0	895	899	year
+MetaMapLite	C0580836	0.0	900	903	old
+MetaMapLite	C0220938	0.0	904	909	white
+MetaMapLite	C0007457	0.0	904	909	white
+MetaMapLite	C0043157	0.0	904	909	white
+MetaMapLite	C0043210	0.0	910	916	female
+MetaMapLite	C0015780	0.0	910	916	female
+MetaMapLite	C0086287	0.0	910	916	female
+MetaMapLite	C0262926	0.0	924	931	history
+MetaMapLite	C0019665	0.0	924	931	history
+MetaMapLite	C0019664	0.0	924	931	history
+MetaMapLite	C2004062	0.0	924	931	history
+MetaMapLite	C0262512	0.0	924	931	history
+MetaMapLite	C0015967	0.0	935	941	fevers
+MetaMapLite	C1517331	0.0	948	955	further
+MetaMapLite	C1522508	0.0	956	963	details
+MetaMapLite	C0184666	0.0	971	980	admission
+MetaMapLite	C0262512	0.0	1017	1024	history
+MetaMapLite	C0262926	0.0	1017	1024	history
+MetaMapLite	C2004062	0.0	1017	1024	history
+MetaMapLite	C0019665	0.0	1017	1024	history
+MetaMapLite	C0019664	0.0	1017	1024	history
+MetaMapLite	C0205485	0.0	1029	1037	physical
+MetaMapLite	C0489547	0.0	1039	1054	HOSPITAL COURSE
+MetaMapLite	C0439208	0.0	1057	1061	Gram
+MetaMapLite	C0205160	0.0	1062	1070	negative
+MetaMapLite	C0206427	0.0	1071	1074	rod
+MetaMapLite	C2347970	0.0	1071	1074	rod
+MetaMapLite	C1552915	0.0	1071	1074	rod
+MetaMapLite	C2347971	0.0	1071	1074	rod
+MetaMapLite	C0004610	0.0	1075	1085	bacteremia
+MetaMapLite	C0030705	0.0	1092	1099	patient
+MetaMapLite	C0019994	0.0	1120	1128	hospital
+MetaMapLite	C2364110	0.0	1134	1143	suspicion
+MetaMapLite	C0242114	0.0	1134	1143	suspicion
+MetaMapLite	C0014118	0.0	1147	1159	endocarditis
+MetaMapLite	C0015967	0.0	1188	1193	fever
+MetaMapLite	C0424755	0.0	1188	1193	fever
+MetaMapLite	C0036690	0.0	1195	1205	septicemia
+MetaMapLite	C0549188	0.0	1230	1237	fingers
+MetaMapLite	C0016129	0.0	1230	1237	fingers
+MetaMapLite	C0030705	0.0	1244	1251	patient
+MetaMapLite	C0430462	0.0	1258	1286	transthoracic echocardiogram
+MetaMapLite	C0029921	0.0	1293	1303	outpatient
+MetaMapLite	C0332241	0.0	1315	1324	equivocal
+MetaMapLite	C0206054	0.0	1332	1362	transesophageal echocardiogram
+MetaMapLite	C0019994	0.0	1375	1383	hospital
+MetaMapLite	C0205307	0.0	1388	1394	normal
+MetaMapLite	C0332120	0.0	1403	1414	evidence of
+MetaMapLite	C1285498	0.0	1415	1426	vegetations
+MetaMapLite	C0025952	0.0	1433	1445	microbiology
+MetaMapLite	C0025953	0.0	1433	1445	microbiology
+MetaMapLite	C0085672	0.0	1433	1445	microbiology
+MetaMapLite	C3244292	0.0	1446	1456	laboratory
+MetaMapLite	C0022877	0.0	1446	1456	laboratory
+MetaMapLite	C0439208	0.0	1473	1477	Gram
+MetaMapLite	C0205160	0.0	1478	1486	negative
+MetaMapLite	C2347970	0.0	1487	1490	rod
+MetaMapLite	C2347971	0.0	1487	1490	rod
+MetaMapLite	C1552915	0.0	1487	1490	rod
+MetaMapLite	C0206427	0.0	1487	1490	rod
+MetaMapLite	C3641081	0.0	1506	1515	anaerobic
+MetaMapLite	C0029235	0.0	1549	1558	organisms
+MetaMapLite	C0004661	0.0	1564	1575	bacteroides
+MetaMapLite	C0030705	0.0	1582	1589	patient
+MetaMapLite	C0019665	0.0	1602	1609	history
+MetaMapLite	C0262926	0.0	1602	1609	history
+MetaMapLite	C0019664	0.0	1602	1609	history
+MetaMapLite	C0262512	0.0	1602	1609	history
+MetaMapLite	C2004062	0.0	1602	1609	history
+MetaMapLite	C0009678	0.0	1613	1623	congenital
+MetaMapLite	C0042063	0.0	1624	1651	genitourinary abnormalities
+MetaMapLite	C0543467	0.0	1663	1673	surgically
+MetaMapLite	C0205439	0.0	1695	1700	fifth
+MetaMapLite	C0919553	0.0	1701	1706	grade
+MetaMapLite	C3244287	0.0	1701	1706	grade
+MetaMapLite	C0441800	0.0	1701	1706	grade
+MetaMapLite	C0412620	0.0	1718	1740	CT scan of the abdomen
+MetaMapLite	C0441633	0.0	1721	1725	scan
+MetaMapLite	C1508499	0.0	1733	1751	abdomen and pelvis
+MetaMapLite	C0205183	0.0	1776	1782	benign
+MetaMapLite	C0010709	0.0	1793	1798	cysts
+MetaMapLite	C0023884	0.0	1806	1811	liver
+MetaMapLite	C0442735	0.0	1824	1831	nothing
+MetaMapLite	C0205108	0.0	1846	1849	far
+MetaMapLite	C0227665	0.0	1857	1864	kidneys
+MetaMapLite	C0022646	0.0	1857	1864	kidneys
+MetaMapLite	C0041951	0.0	1866	1873	ureters
+MetaMapLite	C0005682	0.0	1878	1885	bladder
+MetaMapLite	C0009450	0.0	1927	1946	infectious diseases
+MetaMapLite	C0600118	0.0	1972	1976	talk
+MetaMapLite	C0234856	0.0	1972	1976	talk
+MetaMapLite	C0030705	0.0	1984	1991	patient
+MetaMapLite	C0332158	0.0	2002	2014	contact with
+MetaMapLite	C0003062	0.0	2015	2022	animals
+MetaMapLite	C3540698	0.0	2015	2022	animals
+MetaMapLite	C0332185	0.0	2058	2064	recent
+MetaMapLite	C0012652	0.0	2065	2073	outbreak
+MetaMapLite	C0041351	0.0	2077	2086	tularemia
+MetaMapLite	C0042124	0.0	2095	2099	Utah
+MetaMapLite	C0205393	0.0	2102	2106	Much
+MetaMapLite	C0030705	0.0	2127	2134	patient
+MetaMapLite	C0439064	0.0	2156	2164	multiple
+MetaMapLite	C0031268	0.0	2165	2168	pet
+MetaMapLite	C0034693	0.0	2169	2173	rats
+MetaMapLite	C0034721	0.0	2169	2173	rats
+MetaMapLite	C0442519	0.0	2177	2181	home
+MetaMapLite	C1948059	0.0	2197	2207	constantly
+MetaMapLite	C0332158	0.0	2211	2223	contact with
+MetaMapLite	C0041351	0.0	2236	2245	tularemia
+MetaMapLite	C0023364	0.0	2250	2263	leptospirosis
+MetaMapLite	C0036745	0.0	2264	2274	serologies
+MetaMapLite	C0150600	0.0	2282	2288	advice
+MetaMapLite	C0740209	0.0	2282	2288	advice
+MetaMapLite	C0439228	0.0	2315	2318	day
+MetaMapLite	C0030685	0.0	2325	2334	discharge
+MetaMapLite	C0012621	0.0	2325	2334	discharge
+MetaMapLite	C0085672	0.0	2355	2367	microbiology
+MetaMapLite	C0025952	0.0	2355	2367	microbiology
+MetaMapLite	C0025953	0.0	2355	2367	microbiology
+MetaMapLite	C0004600	0.0	2382	2386	back
+MetaMapLite	C0030705	0.0	2397	2404	patient
+MetaMapLite	C0205170	0.0	2441	2445	well
+MetaMapLite	C0282386	0.0	2449	2461	levofloxacin
+MetaMapLite	C0439230	0.0	2479	2483	week
+MetaMapLite	C0750729	0.0	2484	2490	course
+MetaMapLite	C0439228	0.0	2503	2506	day
+MetaMapLite	C0282386	0.0	2510	2522	levofloxacin
+MetaMapLite	C0205088	0.0	2627	2632	final
+MetaMapLite	C0205396	0.0	2633	2647	identification
+MetaMapLite	C0020792	0.0	2633	2647	identification
+MetaMapLite	C0012655	0.0	2652	2666	susceptibility
+MetaMapLite	C1264642	0.0	2652	2666	susceptibility
+MetaMapLite	C0029235	0.0	2674	2682	organism
+MetaMapLite	C0041351	0.0	2691	2700	tularemia
+MetaMapLite	C0023364	0.0	2705	2718	leptospirosis
+MetaMapLite	C0036745	0.0	2719	2729	serologies
+MetaMapLite	C0332156	0.0	2735	2741	return
+MetaMapLite	C0039869	0.0	2746	2753	thought
+MetaMapLite	C0013090	0.0	2773	2784	doxycycline
+MetaMapLite	C0030705	0.0	2800	2807	patient
+MetaMapLite	C0282386	0.0	2852	2864	levofloxacin
+MetaMapLite	C0332287	0.0	2870	2878	addition
+MetaMapLite	C1883712	0.0	2870	2878	addition
+MetaMapLite	C0030705	0.0	2891	2898	patient
+MetaMapLite	C0034866	0.0	2919	2933	recommendation
+MetaMapLite	C0073361	0.0	2941	2944	rid
+MetaMapLite	C0034721	0.0	2952	2956	rats
+MetaMapLite	C0034693	0.0	2952	2956	rats
+MetaMapLite	C0034693	0.0	2989	2993	rats
+MetaMapLite	C0034721	0.0	2989	2993	rats
+MetaMapLite	C0007294	0.0	2999	3007	carriers
+MetaMapLite	C3714514	0.0	3011	3020	infection
+MetaMapLite	C0043528	0.0	3040	3058	zoonotic infection
+MetaMapLite	C0332157	0.0	3064	3075	exposure to
+MetaMapLite	C0034721	0.0	3080	3084	rats
+MetaMapLite	C0034693	0.0	3080	3084	rats
+MetaMapLite	C0549178	0.0	3107	3114	ongoing
+MetaMapLite	C0008059	0.0	3141	3149	children
+MetaMapLite	C3151529	0.0	3201	3207	lethal
+MetaMapLite	C3714514	0.0	3208	3217	infection
+MetaMapLite	C0442824	0.0	3231	3235	very
+MetaMapLite	C0073361	0.0	3273	3276	rid
+MetaMapLite	C0003062	0.0	3284	3291	animals
+MetaMapLite	C3540698	0.0	3284	3291	animals
+MetaMapLite	C0030705	0.0	3298	3305	patient
+MetaMapLite	C2347948	0.0	3313	3322	reluctant
+MetaMapLite	C0205435	0.0	3335	3340	first
+MetaMapLite	C0009236	0.0	3366	3374	coercion
+MetaMapLite	C0015576	0.0	3384	3390	family
+MetaMapLite	C0034866	0.0	3449	3463	recommendation
+MetaMapLite	C1705555	0.0	3481	3492	DISPOSITION
+MetaMapLite	C0743223	0.0	3481	3492	DISPOSITION
+MetaMapLite	C2266673	0.0	3493	3515	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0441655	0.0	3518	3526	Activity
+MetaMapLite	C0012159	0.0	3545	3549	Diet
+MetaMapLite	C0012155	0.0	3545	3549	Diet
+MetaMapLite	C0013227	0.0	3567	3578	MEDICATIONS
+MetaMapLite	C0721336	0.0	3581	3589	Levaquin
+MetaMapLite	C0332173	0.0	3597	3602	daily
+MetaMapLite	C0439228	0.0	3607	3611	days
+MetaMapLite	C1522577	0.0	3613	3621	Followup
+MetaMapLite	C0009450	0.0	3641	3660	infectious diseases
+MetaMapLite	C0030705	0.0	3674	3681	patient
+MetaMapLite	C1515258	0.0	3686	3698	phone number
+MetaMapLite	C0585024	0.0	3710	3716	Monday
+MetaMapLite	C0003629	0.0	3724	3735	appointment
+MetaMapLite	C1524062	0.0	3738	3748	Additional
+MetaMapLite	C1522577	0.0	3749	3757	followup
+MetaMapLite	C0033131	0.0	3784	3806	primary care physician
+MetaMapLite	C0580931	0.0	3792	3796	care
+MetaMapLite	C1317574	0.0	3816	3820	note
+MetaMapLite	C0700321	0.0	3829	3836	minutes
+MetaMapLite	C0439232	0.0	3829	3836	minutes
+MetaMapLite	C1282918	0.0	3829	3836	minutes
+MetaMapLite	C0012621	0.0	3854	3863	discharge
+MetaMapLite	C0030685	0.0	3854	3863	discharge
+MetaMapLite	C0743221	0.0	3875	3892	discharge summary
+MetaMapLite	C1508499	0.0	3894	3912	abdomen and pelvis
+MetaMapLite	C0314752	0.0	3914	3931	gram negative rod
+MetaMapLite	C0205160	0.0	3919	3927	negative
+MetaMapLite	C0009678	0.0	3933	3943	congenital
+MetaMapLite	C0042066	0.0	3944	3957	genitourinary
+MetaMapLite	C0042063	0.0	3959	3986	genitourinary abnormalities
+MetaMapLite	C0206054	0.0	3988	4018	transesophageal echocardiogram
+MetaMapLite	C0009450	0.0	4020	4039	infectious diseases
+MetaMapLite	C0023364	0.0	4041	4054	leptospirosis
+MetaMapLite	C0036745	0.0	4055	4065	serologies
+MetaMapLite	C0439208	0.0	4067	4071	gram
+MetaMapLite	C0205160	0.0	4072	4080	negative
+MetaMapLite	C0040405	0.0	4082	4089	ct scan
+MetaMapLite	C0020792	0.0	4091	4105	identification
+MetaMapLite	C0205396	0.0	4091	4105	identification
+MetaMapLite	C3714514	0.0	4107	4117	infections
+MetaMapLite	C0282386	0.0	4119	4131	levofloxacin
+MetaMapLite	C1524062	0.0	4133	4143	additional
+MetaMapLite	C0030685	0.0	4145	4154	discharge
+MetaMapLite	C0012621	0.0	4145	4154	discharge

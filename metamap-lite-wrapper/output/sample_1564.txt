@@ -1,0 +1,172 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C3714496	0.0	65	69	COPD
+MetaMapLite	C0743221	0.0	72	89	Discharge Summary
+MetaMapLite	C2348322	0.0	82	101	Summary
+Description
+MetaMapLite	C0439234	0.0	109	113	year
+MetaMapLite	C0580836	0.0	114	117	old
+MetaMapLite	C0086582	0.0	118	122	male
+MetaMapLite	C3714496	0.0	128	132	COPD
+MetaMapLite	C0262926	0.0	137	144	history
+MetaMapLite	C0019665	0.0	137	144	history
+MetaMapLite	C0019664	0.0	137	144	history
+MetaMapLite	C0262512	0.0	137	144	history
+MetaMapLite	C2004062	0.0	137	144	history
+MetaMapLite	C0006266	0.0	148	160	bronchospasm
+MetaMapLite	C0439228	0.0	184	187	day
+MetaMapLite	C2004062	0.0	188	195	history
+MetaMapLite	C0019665	0.0	188	195	history
+MetaMapLite	C0262926	0.0	188	195	history
+MetaMapLite	C0019664	0.0	188	195	history
+MetaMapLite	C0262512	0.0	188	195	history
+MetaMapLite	C0010200	0.0	209	214	cough
+MetaMapLite	C1532372	0.0	216	238	respiratory secretions
+MetaMapLite	C0043144	0.0	240	249	wheezings
+MetaMapLite	C0013404	0.0	255	274	shortness of breath
+MetaMapLite	C0282229	0.0	277	298	Medical Transcription
+MetaMapLite	C0370003	0.0	299	305	Sample
+MetaMapLite	C2347026	0.0	299	305	Sample
+MetaMapLite	C0700287	0.0	306	312	Report
+MetaMapLite	C0684224	0.0	306	312	Report
+MetaMapLite	C0262512	0.0	314	340	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	325	332	PRESENT
+MetaMapLite	C0439234	0.0	348	352	year
+MetaMapLite	C0580836	0.0	353	356	old
+MetaMapLite	C0086582	0.0	357	361	male
+MetaMapLite	C3714496	0.0	367	371	COPD
+MetaMapLite	C0019665	0.0	376	383	history
+MetaMapLite	C0262926	0.0	376	383	history
+MetaMapLite	C0019664	0.0	376	383	history
+MetaMapLite	C0262512	0.0	376	383	history
+MetaMapLite	C2004062	0.0	376	383	history
+MetaMapLite	C0006266	0.0	387	399	bronchospasm
+MetaMapLite	C0439228	0.0	423	426	day
+MetaMapLite	C0262926	0.0	427	434	history
+MetaMapLite	C2004062	0.0	427	434	history
+MetaMapLite	C0019665	0.0	427	434	history
+MetaMapLite	C0019664	0.0	427	434	history
+MetaMapLite	C0262512	0.0	427	434	history
+MetaMapLite	C0010200	0.0	448	453	cough
+MetaMapLite	C1532372	0.0	455	477	respiratory secretions
+MetaMapLite	C0043144	0.0	479	488	wheezings
+MetaMapLite	C0013404	0.0	494	513	shortness of breath
+MetaMapLite	C0442603	0.0	541	547	office
+MetaMapLite	C0439228	0.0	555	558	day
+MetaMapLite	C0184666	0.0	562	571	admission
+MetaMapLite	C0277854	0.0	588	596	dyspneic
+MetaMapLite	C0553968	0.0	643	669	acute asthmatic bronchitis
+MetaMapLite	C3714496	0.0	702	706	COPD
+MetaMapLite	C0205388	0.0	737	740	few
+MetaMapLite	C0439231	0.0	741	747	months
+MetaMapLite	C0240766	0.0	767	779	pipe smoking
+MetaMapLite	C0040223	0.0	789	793	time
+MetaMapLite	C0184666	0.0	797	806	admission
+MetaMapLite	C0015967	0.0	818	823	fever
+MetaMapLite	C0424755	0.0	818	823	fever
+MetaMapLite	C0700590	0.0	825	836	diaphoresis
+MetaMapLite	C0027497	0.0	838	844	nausea
+MetaMapLite	C0008031	0.0	846	856	chest pain
+MetaMapLite	C2039684	0.0	866	883	systemic symptoms
+MetaMapLite	C0455458	0.0	885	905	PAST MEDICAL HISTORY
+MetaMapLite	C0231290	0.0	908	919	Status post
+MetaMapLite	C2004457	0.0	920	930	artificial
+MetaMapLite	C0003501	0.0	931	943	aortic valve
+MetaMapLite	C0021107	0.0	944	956	implantation
+MetaMapLite	C0029976	0.0	944	956	implantation
+MetaMapLite	C0241301	0.0	960	966	summer
+MetaMapLite	C0205191	0.0	985	992	chronic
+MetaMapLite	C0699129	0.0	993	1001	Coumadin
+MetaMapLite	C0039798	0.0	1002	1009	therapy
+MetaMapLite	C0087111	0.0	1002	1009	therapy
+MetaMapLite	C3714496	0.0	1012	1016	COPD
+MetaMapLite	C0262926	0.0	1037	1044	history
+MetaMapLite	C0019665	0.0	1037	1044	history
+MetaMapLite	C0019664	0.0	1037	1044	history
+MetaMapLite	C0262512	0.0	1037	1044	history
+MetaMapLite	C2004062	0.0	1037	1044	history
+MetaMapLite	C0020538	0.0	1048	1060	hypertension
+MetaMapLite	C1533076	0.0	1066	1097	history of elevated cholesterol
+MetaMapLite	C0031809	0.0	1099	1119	PHYSICAL EXAMINATION
+MetaMapLite	C0018787	0.0	1122	1127	Heart
+MetaMapLite	C0205272	0.0	1134	1141	regular
+MetaMapLite	C0332219	0.0	1150	1156	easily
+MetaMapLite	C0443254	0.0	1165	1175	mechanical
+MetaMapLite	C0035234	0.0	1184	1197	Breath sounds
+MetaMapLite	C3840786	0.0	1202	1209	greatly
+MetaMapLite	C0034642	0.0	1226	1231	rales
+MetaMapLite	C0035508	0.0	1236	1243	rhonchi
+MetaMapLite	C0024109	0.0	1253	1257	lung
+MetaMapLite	C0681827	0.0	1266	1284	LABORATORY STUDIES
+MetaMapLite	C0037473	0.0	1287	1293	Sodium
+MetaMapLite	C0032821	0.0	1299	1308	potassium
+MetaMapLite	C0019046	0.0	1343	1353	Hemoglobin
+MetaMapLite	C0018935	0.0	1363	1373	hematocrit
+MetaMapLite	C0518014	0.0	1363	1373	hematocrit
+MetaMapLite	C0489547	0.0	1380	1395	HOSPITAL COURSE
+MetaMapLite	C0348016	0.0	1416	1427	intravenous
+MetaMapLite	C0003232	0.0	1428	1439	antibiotics
+MetaMapLite	C0035239	0.0	1450	1469	respiratory therapy
+MetaMapLite	C2094208	0.0	1450	1469	respiratory therapy
+MetaMapLite	C0348016	0.0	1471	1482	intravenous
+MetaMapLite	C0699458	0.0	1488	1494	Medrol
+MetaMapLite	C0030705	0.0	1501	1508	patient
+MetaMapLite	C2945654	0.0	1526	1533	regimen
+MetaMapLite	C0040808	0.0	1526	1533	regimen
+MetaMapLite	C0039985	0.0	1536	1547	Chest x-ray
+MetaMapLite	C0018802	0.0	1565	1568	CHF
+MetaMapLite	C0010137	0.0	1575	1584	cortisone
+MetaMapLite	C0030705	0.0	1603	1612	patient's
+MetaMapLite	C0282636	0.0	1613	1624	oxygenation
+MetaMapLite	C0231940	0.0	1613	1624	oxygenation
+MetaMapLite	C1299581	0.0	1645	1649	able
+MetaMapLite	C0442519	0.0	1667	1671	home
+MetaMapLite	C0012621	0.0	1673	1682	DISCHARGE
+MetaMapLite	C0030685	0.0	1673	1682	DISCHARGE
+MetaMapLite	C0011900	0.0	1683	1692	DIAGNOSES
+MetaMapLite	C0024117	0.0	1695	1732	Chronic obstructive pulmonary disease
+MetaMapLite	C0549186	0.0	1703	1714	obstructive
+MetaMapLite	C0553968	0.0	1737	1763	acute asthmatic bronchitis
+MetaMapLite	C0009566	0.0	1765	1778	COMPLICATIONS
+MetaMapLite	C1171258	0.0	1765	1778	COMPLICATIONS
+MetaMapLite	C0456148	0.0	1781	1785	None
+MetaMapLite	C0549184	0.0	1781	1785	None
+MetaMapLite	C0012621	0.0	1787	1796	DISCHARGE
+MetaMapLite	C0030685	0.0	1787	1796	DISCHARGE
+MetaMapLite	C0012634	0.0	1797	1806	CONDITION
+MetaMapLite	C0012622	0.0	1818	1832	DISCHARGE PLAN
+MetaMapLite	C2735970	0.0	1818	1832	DISCHARGE PLAN
+MetaMapLite	C0989247	0.0	1835	1851	Prednisone 20 mg
+MetaMapLite	C0040223	0.0	1854	1859	times
+MetaMapLite	C0439228	0.0	1862	1865	day
+MetaMapLite	C0439228	0.0	1872	1876	days
+MetaMapLite	C0040223	0.0	1880	1885	times
+MetaMapLite	C0439228	0.0	1888	1891	day
+MetaMapLite	C0439228	0.0	1898	1902	days
+MetaMapLite	C0332173	0.0	1916	1921	daily
+MetaMapLite	C0700517	0.0	1923	1929	Keflex
+MetaMapLite	C0040223	0.0	1939	1944	times
+MetaMapLite	C0439228	0.0	1947	1950	day
+MetaMapLite	C0013227	0.0	1988	1998	medication
+MetaMapLite	C3244316	0.0	1988	1998	medication
+MetaMapLite	C0419707	0.0	2015	2039	pneumococcal vaccination
+MetaMapLite	C0012621	0.0	2047	2056	discharge
+MetaMapLite	C0030685	0.0	2047	2056	discharge
+MetaMapLite	C0442603	0.0	2087	2093	office
+MetaMapLite	C0439228	0.0	2101	2105	days
+MetaMapLite	C0743221	0.0	2117	2134	discharge summary
+MetaMapLite	C0010200	0.0	2146	2151	cough
+MetaMapLite	C1532372	0.0	2153	2175	respiratory secretions
+MetaMapLite	C0043144	0.0	2177	2186	wheezings
+MetaMapLite	C0013404	0.0	2188	2207	shortness of breath
+MetaMapLite	C0553968	0.0	2209	2235	acute asthmatic bronchitis
+MetaMapLite	C1319018	0.0	2225	2246	bronchitis, asthmatic
+MetaMapLite	C1319018	0.0	2237	2257	asthmatic bronchitis
+MetaMapLite	C0521346	0.0	2259	2270	respiratory
+MetaMapLite	C0225386	0.0	2272	2278	breath
+MetaMapLite	C0004096	0.0	2280	2289	asthmatic

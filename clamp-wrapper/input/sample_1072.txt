@@ -1,0 +1,18 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Mullerian Adenosarcoma
+Description:  Discharge summary of a patient presenting with a large mass aborted through the cervix.
+(Medical Transcription Sample Report)
+PRINCIPAL DIAGNOSIS:  Mullerian adenosarcoma.
+HISTORY OF PRESENT ILLNESS:  The patient is a 56-year-old presenting with a large mass aborted through the cervix.
+PHYSICAL EXAM:
+CHEST:  Clear.  There is no heart murmur.
+ABDOMEN:  Nontender.
+PELVIC:  There is a large mass in the vagina.
+HOSPITAL COURSE:  The patient went to surgery on the day of admission.  The postoperative course was marked by fever and ileus.  The patient regained bowel function.  She was discharged on the morning of the seventh postoperative day.
+OPERATIONS:  July 25, 2006:  Total abdominal hysterectomy, bilateral salpingo-oophorectomy.
+DISCHARGE CONDITION:  Stable.
+PLAN:  The patient will remain at rest initially with progressive ambulation thereafter.  She will avoid lifting, driving, stairs, or intercourse.  She will call me for fevers, drainage, bleeding, or pain.  Family history, social history, and psychosocial needs per the social worker.  The patient will follow up in my office in one week.
+PATHOLOGY:  Mullerian adenosarcoma.
+MEDICATIONS:  Percocet 5, #40, one q.3 h. p.r.n. pain.
+Keywords:
+discharge summary, cervix, fevers, drainage, bleeding, mullerian adenosarcoma, mullerian, adenosarcoma,

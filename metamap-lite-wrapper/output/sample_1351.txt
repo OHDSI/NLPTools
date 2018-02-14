@@ -1,0 +1,308 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0042077	0.0	85	92	Urology
+MetaMapLite	C0027712	0.0	95	105	Nephrology
+MetaMapLite	C0678257	0.0	106	117	Description
+MetaMapLite	C0557982	0.0	120	133	Solitary left
+MetaMapLite	C0227665	0.0	134	140	kidney
+MetaMapLite	C0022646	0.0	134	140	kidney
+MetaMapLite	C0028778	0.0	146	157	obstruction
+MetaMapLite	C0020538	0.0	162	174	hypertension
+MetaMapLite	C0022661	0.0	179	206	chronic renal insufficiency
+MetaMapLite	C0403447	0.0	179	206	chronic renal insufficiency
+MetaMapLite	C0577710	0.0	215	250	Pseudomonas urinary tract infection
+MetaMapLite	C1185740	0.0	235	240	tract
+MetaMapLite	C0282229	0.0	253	274	Medical Transcription
+MetaMapLite	C0370003	0.0	275	281	Sample
+MetaMapLite	C2347026	0.0	275	281	Sample
+MetaMapLite	C0684224	0.0	282	288	Report
+MetaMapLite	C0700287	0.0	282	288	Report
+MetaMapLite	C0011900	0.0	300	309	DIAGNOSES
+MetaMapLite	C0557982	0.0	312	325	Solitary left
+MetaMapLite	C0227665	0.0	326	332	kidney
+MetaMapLite	C0022646	0.0	326	332	kidney
+MetaMapLite	C0028778	0.0	338	349	obstruction
+MetaMapLite	C0020538	0.0	355	367	hypertension
+MetaMapLite	C0022661	0.0	373	400	chronic renal insufficiency
+MetaMapLite	C0403447	0.0	373	400	chronic renal insufficiency
+MetaMapLite	C0012621	0.0	402	411	DISCHARGE
+MetaMapLite	C0030685	0.0	402	411	DISCHARGE
+MetaMapLite	C0011900	0.0	412	421	DIAGNOSES
+MetaMapLite	C0557982	0.0	424	437	Solitary left
+MetaMapLite	C0227665	0.0	438	444	kidney
+MetaMapLite	C0022646	0.0	438	444	kidney
+MetaMapLite	C0028778	0.0	450	461	obstruction
+MetaMapLite	C0020538	0.0	466	478	hypertension
+MetaMapLite	C0022661	0.0	483	510	chronic renal insufficiency
+MetaMapLite	C0403447	0.0	483	510	chronic renal insufficiency
+MetaMapLite	C0577710	0.0	519	554	Pseudomonas urinary tract infection
+MetaMapLite	C1185740	0.0	539	544	tract
+MetaMapLite	C2700391	0.0	556	566	PROCEDURES
+MetaMapLite	C0025664	0.0	556	566	PROCEDURES
+MetaMapLite	C0010702	0.0	569	579	Cystoscopy
+MetaMapLite	C1883291	0.0	569	579	Cystoscopy
+MetaMapLite	C0002903	0.0	586	596	anesthesia
+MetaMapLite	C2219802	0.0	586	596	anesthesia
+MetaMapLite	C0194261	0.0	598	610	ureteroscopy
+MetaMapLite	C0401276	0.0	598	610	ureteroscopy
+MetaMapLite	C1516084	0.0	615	624	attempted
+MetaMapLite	C0883304	0.0	625	639	tube placement
+MetaMapLite	C0522778	0.0	641	654	stent removal
+MetaMapLite	C0203110	0.0	660	682	retrograde pyelography
+MetaMapLite	C0522523	0.0	684	696	percutaneous
+MetaMapLite	C0883304	0.0	697	711	tube placement
+MetaMapLite	C0481713	0.0	717	728	nephrostomy
+MetaMapLite	C0278314	0.0	717	728	nephrostomy
+MetaMapLite	C0043299	0.0	732	741	Radiology
+MetaMapLite	C1962945	0.0	732	741	Radiology
+MetaMapLite	C0034599	0.0	732	741	Radiology
+MetaMapLite	C0022877	0.0	753	765	LABORATORIES
+MetaMapLite	C0010294	0.0	768	778	Creatinine
+MetaMapLite	C0019993	0.0	799	814	hospitalization
+MetaMapLite	C0577710	0.0	843	878	Pseudomonas urinary tract infection
+MetaMapLite	C1185740	0.0	863	868	tract
+MetaMapLite	C1446409	0.0	880	888	positive
+MetaMapLite	C0010453	0.0	889	896	culture
+MetaMapLite	C0220814	0.0	889	896	culture
+MetaMapLite	C0430400	0.0	889	896	culture
+MetaMapLite	C0332324	0.0	897	909	sensitive to
+MetaMapLite	C0007559	0.0	910	921	ceftazidime
+MetaMapLite	C0008809	0.0	926	939	ciprofloxacin
+MetaMapLite	C0262512	0.0	941	967	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	952	959	PRESENT
+MetaMapLite	C0030705	0.0	974	981	patient
+MetaMapLite	C0439234	0.0	993	997	year
+MetaMapLite	C0580836	0.0	998	1001	old
+MetaMapLite	C0870221	0.0	1002	1005	boy
+MetaMapLite	C0266294	0.0	1013	1028	solitary kidney
+MetaMapLite	C0227680	0.0	1036	1058	ureteropelvic junction
+MetaMapLite	C0374711	0.0	1059	1065	repair
+MetaMapLite	C0039869	0.0	1121	1128	thought
+MetaMapLite	C0549186	0.0	1138	1148	obstructed
+MetaMapLite	C1705817	0.0	1153	1158	stent
+MetaMapLite	C0038257	0.0	1153	1158	stent
+MetaMapLite	C0332232	0.0	1170	1183	approximately
+MetaMapLite	C0439230	0.0	1186	1191	weeks
+MetaMapLite	C0441587	0.0	1216	1225	placement
+MetaMapLite	C1299586	0.0	1236	1246	difficulty
+MetaMapLite	C1301732	0.0	1249	1253	Plan
+MetaMapLite	C0599880	0.0	1249	1253	Plan
+MetaMapLite	C0038257	0.0	1272	1277	stent
+MetaMapLite	C1705817	0.0	1272	1277	stent
+MetaMapLite	C0040223	0.0	1287	1291	time
+MetaMapLite	C0015252	0.0	1295	1302	removal
+MetaMapLite	C0728940	0.0	1295	1302	removal
+MetaMapLite	C1299582	0.0	1312	1318	unable
+MetaMapLite	C0442504	0.0	1322	1327	place
+MetaMapLite	C0175730	0.0	1336	1340	tube
+MetaMapLite	C1561954	0.0	1336	1340	tube
+MetaMapLite	C1516698	0.0	1352	1362	collecting
+MetaMapLite	C1553451	0.0	1363	1369	system
+MetaMapLite	C1704459	0.0	1363	1369	system
+MetaMapLite	C0449913	0.0	1363	1369	system
+MetaMapLite	C0030705	0.0	1379	1386	patient
+MetaMapLite	C0564457	0.0	1404	1428	percutaneous nephrostomy
+MetaMapLite	C0027724	0.0	1404	1428	percutaneous nephrostomy
+MetaMapLite	C0441587	0.0	1429	1438	placement
+MetaMapLite	C0332185	0.0	1455	1461	recent
+MetaMapLite	C0009264	0.0	1462	1466	cold
+MetaMapLite	C0234192	0.0	1462	1466	cold
+MetaMapLite	C0009443	0.0	1462	1466	cold
+MetaMapLite	C0021400	0.0	1470	1473	flu
+MetaMapLite	C1546466	0.0	1483	1491	problems
+MetaMapLite	C0020538	0.0	1497	1509	hypertension
+MetaMapLite	C0014025	0.0	1529	1538	enalapril
+MetaMapLite	C0442519	0.0	1542	1546	home
+MetaMapLite	C0332287	0.0	1550	1558	addition
+MetaMapLite	C1883712	0.0	1550	1558	addition
+MetaMapLite	C0700187	0.0	1566	1577	Macrodantin
+MetaMapLite	C0033107	0.0	1578	1589	prophylaxis
+MetaMapLite	C0199176	0.0	1578	1589	prophylaxis
+MetaMapLite	C0455458	0.0	1591	1611	PAST MEDICAL HISTORY
+MetaMapLite	C0030705	0.0	1618	1625	patient
+MetaMapLite	C0489531	0.0	1639	1648	allergies
+MetaMapLite	C0020517	0.0	1639	1648	allergies
+MetaMapLite	C0439064	0.0	1651	1659	Multiple
+MetaMapLite	C0042029	0.0	1660	1683	urinary tract infection
+MetaMapLite	C1185740	0.0	1668	1673	tract
+MetaMapLite	C0266294	0.0	1685	1700	solitary kidney
+MetaMapLite	C1552607	0.0	1706	1714	previous
+MetaMapLite	C0205156	0.0	1706	1714	previous
+MetaMapLite	C0543467	0.0	1715	1724	surgeries
+MetaMapLite	C0489633	0.0	1745	1762	REVIEW OF SYSTEMS
+MetaMapLite	C0460002	0.0	1770	1782	organ system
+MetaMapLite	C0489633	0.0	1776	1789	system review
+MetaMapLite	C0489633	0.0	1783	1800	review of systems
+MetaMapLite	C0205160	0.0	1804	1812	negative
+MetaMapLite	C0262512	0.0	1828	1854	history of present illness
+MetaMapLite	C0150312	0.0	1839	1846	present
+MetaMapLite	C0262926	0.0	1869	1876	history
+MetaMapLite	C2004062	0.0	1869	1876	history
+MetaMapLite	C0019665	0.0	1869	1876	history
+MetaMapLite	C0019664	0.0	1869	1876	history
+MetaMapLite	C0262512	0.0	1869	1876	history
+MetaMapLite	C0439230	0.0	1891	1895	week
+MetaMapLite	C0041427	0.0	1904	1908	twin
+MetaMapLite	C0205173	0.0	1904	1908	twin
+MetaMapLite	C0489531	0.0	1910	1919	ALLERGIES
+MetaMapLite	C0020517	0.0	1910	1919	ALLERGIES
+MetaMapLite	C0489531	0.0	1931	1940	allergies
+MetaMapLite	C0020517	0.0	1931	1940	allergies
+MetaMapLite	C0241889	0.0	1942	1956	FAMILY HISTORY
+MetaMapLite	C0205307	0.0	1959	1971	Unremarkable
+MetaMapLite	C0019080	0.0	1984	1992	bleeding
+MetaMapLite	C0002932	0.0	1996	2006	anesthetic
+MetaMapLite	C1546466	0.0	2007	2015	problems
+MetaMapLite	C3714536	0.0	2017	2031	SOCIAL HISTORY
+MetaMapLite	C0030705	0.0	2038	2045	patient
+MetaMapLite	C0442519	0.0	2055	2059	home
+MetaMapLite	C0030551	0.0	2069	2076	parents
+MetaMapLite	C0337527	0.0	2080	2088	brothers
+MetaMapLite	C0337514	0.0	2096	2102	sister
+MetaMapLite	C0020971	0.0	2104	2117	IMMUNIZATIONS
+MetaMapLite	C0011008	0.0	2126	2130	date
+MetaMapLite	C0013227	0.0	2132	2143	MEDICATIONS
+MetaMapLite	C0184666	0.0	2149	2158	admission
+MetaMapLite	C0700187	0.0	2163	2174	Macrodantin
+MetaMapLite	C0020223	0.0	2176	2187	hydralazine
+MetaMapLite	C0014025	0.0	2193	2202	enalapril
+MetaMapLite	C0031809	0.0	2204	2224	PHYSICAL EXAMINATION
+MetaMapLite	C0205246	0.0	2226	2233	GENERAL
+MetaMapLite	C0030705	0.0	2240	2247	patient
+MetaMapLite	C0205177	0.0	2254	2260	active
+MetaMapLite	C0700321	0.0	2261	2267	little
+MetaMapLite	C0870221	0.0	2268	2271	boy
+MetaMapLite	C1512338	0.0	2273	2278	HEENT
+MetaMapLite	C0018670	0.0	2285	2289	head
+MetaMapLite	C0152336	0.0	2285	2289	head
+MetaMapLite	C2228463	0.0	2294	2303	neck exam
+MetaMapLite	C0205307	0.0	2316	2322	normal
+MetaMapLite	C0442027	0.0	2335	2339	oral
+MetaMapLite	C0015392	0.0	2341	2347	ocular
+MetaMapLite	C1260880	0.0	2352	2367	nasal discharge
+MetaMapLite	C0024109	0.0	2369	2374	LUNGS
+MetaMapLite	C0582103	0.0	2377	2381	Exam
+MetaMapLite	C0205307	0.0	2386	2392	normal
+MetaMapLite	C0018787	0.0	2411	2416	HEART
+MetaMapLite	C0018808	0.0	2427	2433	murmur
+MetaMapLite	C0000726	0.0	2446	2453	ABDOMEN
+MetaMapLite	C0230168	0.0	2446	2453	ABDOMEN
+MetaMapLite	C0205358	0.0	2456	2460	Soft
+MetaMapLite	C1306372	0.0	2470	2474	mass
+MetaMapLite	C0577559	0.0	2470	2474	mass
+MetaMapLite	C0234233	0.0	2478	2488	tenderness
+MetaMapLite	C0684239	0.0	2478	2488	tenderness
+MetaMapLite	C0205170	0.0	2496	2500	well
+MetaMapLite	C0198492	0.0	2508	2522	flank incision
+MetaMapLite	C2188001	0.0	2529	2547	Uncircumcised male
+MetaMapLite	C0039597	0.0	2575	2581	testes
+MetaMapLite	C0278454	0.0	2583	2594	EXTREMITIES
+MetaMapLite	C0015385	0.0	2583	2594	EXTREMITIES
+MetaMapLite	C0443225	0.0	2604	2608	full
+MetaMapLite	C0150220	0.0	2609	2624	range of motion
+MetaMapLite	C0080078	0.0	2609	2624	range of motion
+MetaMapLite	C0278454	0.0	2634	2645	extremities
+MetaMapLite	C0015385	0.0	2634	2645	extremities
+MetaMapLite	C1123023	0.0	2647	2651	SKIN
+MetaMapLite	C0687712	0.0	2654	2658	Warm
+MetaMapLite	C0332585	0.0	2660	2664	pink
+MetaMapLite	C0205222	0.0	2670	2673	dry
+MetaMapLite	C0205494	0.0	2675	2685	NEUROLOGIC
+MetaMapLite	C0205266	0.0	2696	2702	intact
+MetaMapLite	C0004600	0.0	2704	2708	BACK
+MetaMapLite	C0205307	0.0	2718	2724	normal
+MetaMapLite	C0004600	0.0	2725	2729	back
+MetaMapLite	C0231683	0.0	2732	2743	Normal gait
+MetaMapLite	C0489547	0.0	2745	2760	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	2767	2774	patient
+MetaMapLite	C0019994	0.0	2795	2803	hospital
+MetaMapLite	C0442504	0.0	2823	2828	place
+MetaMapLite	C0183518	0.0	2831	2845	ureteral stent
+MetaMapLite	C0194261	0.0	2850	2862	ureteroscopy
+MetaMapLite	C0401276	0.0	2850	2862	ureteroscopy
+MetaMapLite	C0010702	0.0	2867	2877	cystoscopy
+MetaMapLite	C1883291	0.0	2867	2877	cystoscopy
+MetaMapLite	C0029247	0.0	2892	2895	NPO
+MetaMapLite	C0419179	0.0	2892	2895	NPO
+MetaMapLite	C0015967	0.0	2907	2912	fever
+MetaMapLite	C0424755	0.0	2907	2912	fever
+MetaMapLite	C0205435	0.0	2916	2921	first
+MetaMapLite	C0040223	0.0	2922	2926	time
+MetaMapLite	C0151578	0.0	2932	2951	elevated creatinine
+MetaMapLite	C0553741	0.0	3002	3018	fluid management
+MetaMapLite	C0857121	0.0	3020	3032	hypertensive
+MetaMapLite	C0376636	0.0	3033	3043	management
+MetaMapLite	C0020223	0.0	3063	3074	hydralazine
+MetaMapLite	C0699992	0.0	3079	3084	Lasix
+MetaMapLite	C0232856	0.0	3100	3112	urine output
+MetaMapLite	C2094175	0.0	3100	3112	urine output
+MetaMapLite	C1287298	0.0	3100	3112	urine output
+MetaMapLite	C2188753	0.0	3100	3112	urine output
+MetaMapLite	C0332287	0.0	3117	3125	addition
+MetaMapLite	C1883712	0.0	3117	3125	addition
+MetaMapLite	C1272641	0.0	3140	3154	blood pressure
+MetaMapLite	C0005823	0.0	3140	3154	blood pressure
+MetaMapLite	C1948045	0.0	3157	3161	Once
+MetaMapLite	C1720092	0.0	3157	3161	Once
+MetaMapLite	C0522523	0.0	3166	3178	percutaneous
+MetaMapLite	C0175730	0.0	3179	3183	tube
+MetaMapLite	C1561954	0.0	3179	3183	tube
+MetaMapLite	C0430404	0.0	3214	3227	urine culture
+MetaMapLite	C0033817	0.0	3233	3244	Pseudomonas
+MetaMapLite	C0033808	0.0	3233	3244	Pseudomonas
+MetaMapLite	C0700859	0.0	3264	3270	Fortaz
+MetaMapLite	C0008809	0.0	3297	3310	ciprofloxacin
+MetaMapLite	C1299586	0.0	3319	3329	difficulty
+MetaMapLite	C0205170	0.0	3351	3355	well
+MetaMapLite	C0547047	0.0	3372	3380	decrease
+MetaMapLite	C0040223	0.0	3403	3407	time
+MetaMapLite	C0184713	0.0	3411	3428	discharge to home
+MetaMapLite	C0030705	0.0	3434	3441	patient
+MetaMapLite	C0442519	0.0	3457	3461	home
+MetaMapLite	C3538874	0.0	3465	3481	stable condition
+MetaMapLite	C0677946	0.0	3465	3481	stable condition
+MetaMapLite	C0008809	0.0	3487	3500	ciprofloxacin
+MetaMapLite	C0014025	0.0	3502	3511	enalapril
+MetaMapLite	C0034866	0.0	3517	3531	recommendation
+MetaMapLite	C0042077	0.0	3548	3555	Urology
+MetaMapLite	C0439230	0.0	3566	3571	weeks
+MetaMapLite	C0543467	0.0	3580	3588	surgical
+MetaMapLite	C1705565	0.0	3589	3599	correction
+MetaMapLite	C1947976	0.0	3589	3599	correction
+MetaMapLite	C0439230	0.0	3610	3615	weeks
+MetaMapLite	C0205341	0.0	3619	3625	repeat
+MetaMapLite	C0554139	0.0	3626	3637	pyeloplasty
+MetaMapLite	C0332149	0.0	3641	3649	possible
+MetaMapLite	C0401210	0.0	3650	3668	ureterocalicostomy
+MetaMapLite	C0030705	0.0	3675	3682	patient
+MetaMapLite	C0184149	0.0	3696	3712	nephrostomy tube
+MetaMapLite	C1299586	0.0	3721	3731	difficulty
+MetaMapLite	C0743221	0.0	3743	3760	discharge summary
+MetaMapLite	C0010702	0.0	3762	3772	cystoscopy
+MetaMapLite	C1883291	0.0	3762	3772	cystoscopy
+MetaMapLite	C0401276	0.0	3774	3786	ureteroscopy
+MetaMapLite	C0194261	0.0	3774	3786	ureteroscopy
+MetaMapLite	C0034185	0.0	3788	3799	pyelography
+MetaMapLite	C0278314	0.0	3801	3812	nephrostomy
+MetaMapLite	C0481713	0.0	3801	3812	nephrostomy
+MetaMapLite	C0577710	0.0	3814	3849	pseudomonas urinary tract infection
+MetaMapLite	C1185740	0.0	3834	3839	tract
+MetaMapLite	C0557982	0.0	3851	3864	solitary left
+MetaMapLite	C0227665	0.0	3865	3871	kidney
+MetaMapLite	C0022646	0.0	3865	3871	kidney
+MetaMapLite	C0042029	0.0	3873	3896	urinary tract infection
+MetaMapLite	C1185740	0.0	3881	3886	tract
+MetaMapLite	C0522523	0.0	3898	3910	percutaneous
+MetaMapLite	C1561954	0.0	3911	3915	tube
+MetaMapLite	C0175730	0.0	3911	3915	tube
+MetaMapLite	C0266294	0.0	3917	3932	solitary kidney
+MetaMapLite	C1565489	0.0	3934	3953	renal insufficiency
+MetaMapLite	C0020538	0.0	3955	3967	hypertension
+MetaMapLite	C0033808	0.0	3969	3980	pseudomonas
+MetaMapLite	C0033817	0.0	3969	3980	pseudomonas

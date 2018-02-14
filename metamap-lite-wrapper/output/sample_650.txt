@@ -1,0 +1,264 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0042077	0.0	85	92	Urology
+MetaMapLite	C0678257	0.0	93	104	Description
+MetaMapLite	C0743221	0.0	107	124	Discharge Summary
+MetaMapLite	C0030705	0.0	130	137	patient
+MetaMapLite	C0018965	0.0	143	152	hematuria
+MetaMapLite	C0221752	0.0	143	152	hematuria
+MetaMapLite	C0005001	0.0	154	182	benign prostatic hyperplasia
+MetaMapLite	C1704272	0.0	154	182	benign prostatic hyperplasia
+MetaMapLite	C2937421	0.0	154	182	benign prostatic hyperplasia
+MetaMapLite	C0748283	0.0	184	202	complex renal cyst
+MetaMapLite	C0007134	0.0	210	230	renal cell carcinoma
+MetaMapLite	C0007634	0.0	216	220	cell
+MetaMapLite	C0029408	0.0	236	250	osteoarthritis
+MetaMapLite	C0282229	0.0	253	274	Medical Transcription
+MetaMapLite	C0370003	0.0	275	281	Sample
+MetaMapLite	C2347026	0.0	275	281	Sample
+MetaMapLite	C0684224	0.0	282	288	Report
+MetaMapLite	C0700287	0.0	282	288	Report
+MetaMapLite	C0011900	0.0	300	309	DIAGNOSES
+MetaMapLite	C0221752	0.0	314	323	Hematuria
+MetaMapLite	C0018965	0.0	314	323	Hematuria
+MetaMapLite	C0005001	0.0	328	356	Benign prostatic hyperplasia
+MetaMapLite	C1704272	0.0	328	356	Benign prostatic hyperplasia
+MetaMapLite	C2937421	0.0	328	356	Benign prostatic hyperplasia
+MetaMapLite	C0029408	0.0	361	375	Osteoarthritis
+MetaMapLite	C0030685	0.0	377	386	DISCHARGE
+MetaMapLite	C0012621	0.0	377	386	DISCHARGE
+MetaMapLite	C0011900	0.0	387	396	DIAGNOSES
+MetaMapLite	C0018965	0.0	401	410	Hematuria
+MetaMapLite	C0221752	0.0	401	410	Hematuria
+MetaMapLite	C0005001	0.0	425	453	Benign prostatic hyperplasia
+MetaMapLite	C1704272	0.0	425	453	Benign prostatic hyperplasia
+MetaMapLite	C2937421	0.0	425	453	Benign prostatic hyperplasia
+MetaMapLite	C0748283	0.0	458	476	Complex renal cyst
+MetaMapLite	C0007134	0.0	484	504	renal cell carcinoma
+MetaMapLite	C0007634	0.0	490	494	cell
+MetaMapLite	C0027651	0.0	514	519	tumor
+MetaMapLite	C0029408	0.0	524	538	Osteoarthritis
+MetaMapLite	C0489547	0.0	540	555	HOSPITAL COURSE
+MetaMapLite	C0439234	0.0	570	574	year
+MetaMapLite	C0580836	0.0	575	578	old
+MetaMapLite	C0085756	0.0	579	595	African-American
+MetaMapLite	C0086582	0.0	596	600	male
+MetaMapLite	C2114533	0.0	609	624	previously well
+MetaMapLite	C0473237	0.0	647	662	gross hematuria
+MetaMapLite	C0302148	0.0	667	672	clots
+MetaMapLite	C0041967	0.0	693	700	urethra
+MetaMapLite	C0439228	0.0	708	711	day
+MetaMapLite	C0184666	0.0	715	724	admission
+MetaMapLite	C2003901	0.0	744	749	never
+MetaMapLite	C0005767	0.0	754	759	blood
+MetaMapLite	C0229664	0.0	754	759	blood
+MetaMapLite	C0042036	0.0	767	772	urine
+MetaMapLite	C0332119	0.0	805	820	past history of
+MetaMapLite	C0262926	0.0	810	817	history
+MetaMapLite	C2004062	0.0	810	817	history
+MetaMapLite	C0019665	0.0	810	817	history
+MetaMapLite	C0019664	0.0	810	817	history
+MetaMapLite	C0262512	0.0	810	817	history
+MetaMapLite	C0005001	0.0	821	824	BPH
+MetaMapLite	C1704272	0.0	821	824	BPH
+MetaMapLite	C0040771	0.0	838	873	transurethral resection of prostate
+MetaMapLite	C0015252	0.0	852	861	resection
+MetaMapLite	C0728940	0.0	852	861	resection
+MetaMapLite	C0439234	0.0	887	892	years
+MetaMapLite	C0205272	0.0	919	926	regular
+MetaMapLite	C0004916	0.0	927	930	bed
+MetaMapLite	C0042077	0.0	941	948	Urology
+MetaMapLite	C1261322	0.0	967	977	evaluation
+MetaMapLite	C0220825	0.0	967	977	evaluation
+MetaMapLite	C0221752	0.0	985	994	hematuria
+MetaMapLite	C0018965	0.0	985	994	hematuria
+MetaMapLite	C1508499	0.0	1043	1061	abdomen and pelvis
+MetaMapLite	C1979874	0.0	1079	1087	contrast
+MetaMapLite	C0009924	0.0	1079	1087	contrast
+MetaMapLite	C1279919	0.0	1093	1098	early
+MetaMapLite	C1279941	0.0	1103	1113	late-phase
+MetaMapLite	C1261322	0.0	1126	1136	evaluation
+MetaMapLite	C0220825	0.0	1126	1136	evaluation
+MetaMapLite	C1442314	0.0	1144	1173	kidneys and collecting system
+MetaMapLite	C0040223	0.0	1183	1187	time
+MetaMapLite	C0439064	0.0	1210	1218	multiple
+MetaMapLite	C0238767	0.0	1219	1228	bilateral
+MetaMapLite	C0268800	0.0	1229	1240	renal cysts
+MetaMapLite	C0678229	0.0	1268	1282	classification
+MetaMapLite	C0008903	0.0	1268	1282	classification
+MetaMapLite	C0008902	0.0	1268	1282	classification
+MetaMapLite	C0037157	0.0	1288	1299	simple cyst
+MetaMapLite	C0041621	0.0	1304	1314	ultrasound
+MetaMapLite	C1456803	0.0	1304	1314	ultrasound
+MetaMapLite	C0041618	0.0	1304	1314	ultrasound
+MetaMapLite	C0220934	0.0	1304	1314	ultrasound
+MetaMapLite	C0041618	0.0	1342	1352	ultrasound
+MetaMapLite	C0041621	0.0	1342	1352	ultrasound
+MetaMapLite	C0220934	0.0	1342	1352	ultrasound
+MetaMapLite	C1456803	0.0	1342	1352	ultrasound
+MetaMapLite	C0686883	0.0	1365	1369	cyst
+MetaMapLite	C0010709	0.0	1365	1369	cyst
+MetaMapLite	C0577559	0.0	1398	1402	mass
+MetaMapLite	C1306372	0.0	1398	1402	mass
+MetaMapLite	C0227613	0.0	1420	1432	right kidney
+MetaMapLite	C0036572	0.0	1455	1458	fit
+MetaMapLite	C1456803	0.0	1459	1469	ultrasound
+MetaMapLite	C0041621	0.0	1459	1469	ultrasound
+MetaMapLite	C0220934	0.0	1459	1469	ultrasound
+MetaMapLite	C0041618	0.0	1459	1469	ultrasound
+MetaMapLite	C0243161	0.0	1470	1478	criteria
+MetaMapLite	C0037157	0.0	1485	1496	simple cyst
+MetaMapLite	C1517331	0.0	1518	1525	further
+MetaMapLite	C1261322	0.0	1526	1536	evaluation
+MetaMapLite	C0220825	0.0	1526	1536	evaluation
+MetaMapLite	C0587658	0.0	1543	1546	MRI
+MetaMapLite	C1824234	0.0	1543	1546	MRI
+MetaMapLite	C0024485	0.0	1543	1546	MRI
+MetaMapLite	C0333145	0.0	1566	1582	hemorrhagic cyst
+MetaMapLite	C0205208	0.0	1588	1593	solid
+MetaMapLite	C0577559	0.0	1594	1598	mass
+MetaMapLite	C1306372	0.0	1594	1598	mass
+MetaMapLite	C0027651	0.0	1602	1607	tumor
+MetaMapLite	C1824234	0.0	1615	1618	MRI
+MetaMapLite	C0024485	0.0	1615	1618	MRI
+MetaMapLite	C0587658	0.0	1615	1618	MRI
+MetaMapLite	C0439228	0.0	1640	1643	day
+MetaMapLite	C0012621	0.0	1647	1656	discharge
+MetaMapLite	C0030685	0.0	1647	1656	discharge
+MetaMapLite	C1517331	0.0	1661	1668	further
+MetaMapLite	C1261322	0.0	1669	1679	evaluation
+MetaMapLite	C0220825	0.0	1669	1679	evaluation
+MetaMapLite	C0700287	0.0	1693	1699	report
+MetaMapLite	C0684224	0.0	1693	1699	report
+MetaMapLite	C0004600	0.0	1708	1712	back
+MetaMapLite	C0012621	0.0	1716	1725	discharge
+MetaMapLite	C0030685	0.0	1716	1725	discharge
+MetaMapLite	C0030705	0.0	1731	1738	patient
+MetaMapLite	C0010702	0.0	1745	1755	cystoscopy
+MetaMapLite	C1883291	0.0	1745	1755	cystoscopy
+MetaMapLite	C0040771	0.0	1760	1795	transurethral resection of prostate
+MetaMapLite	C0015252	0.0	1774	1783	resection
+MetaMapLite	C0728940	0.0	1774	1783	resection
+MetaMapLite	C0205170	0.0	1799	1803	well
+MetaMapLite	C0439751	0.0	1809	1815	entire
+MetaMapLite	C0444667	0.0	1809	1815	entire
+MetaMapLite	C0033573	0.0	1816	1841	resection of the prostate
+MetaMapLite	C0033572	0.0	1833	1847	prostate gland
+MetaMapLite	C0030664	0.0	1849	1858	Pathology
+MetaMapLite	C0205469	0.0	1849	1858	Pathology
+MetaMapLite	C0677042	0.0	1849	1858	Pathology
+MetaMapLite	C0370003	0.0	1867	1875	specimen
+MetaMapLite	C0439064	0.0	1883	1891	multiple
+MetaMapLite	C1514521	0.0	1904	1920	prostatic tissue
+MetaMapLite	C0772158	0.0	1904	1920	prostatic tissue
+MetaMapLite	C0011900	0.0	1967	1976	diagnosed
+MetaMapLite	C0020507	0.0	1995	2006	hyperplasia
+MetaMapLite	C0042036	0.0	2012	2017	urine
+MetaMapLite	C0439834	0.0	2018	2024	slowly
+MetaMapLite	C0184625	0.0	2049	2061	regular diet
+MetaMapLite	C1299586	0.0	2070	2082	difficulties
+MetaMapLite	C2242847	0.0	2090	2116	activities of daily living
+MetaMapLite	C0001288	0.0	2090	2116	activities of daily living
+MetaMapLite	C0332173	0.0	2104	2109	daily
+MetaMapLite	C0439228	0.0	2151	2154	day
+MetaMapLite	C0012621	0.0	2158	2167	discharge
+MetaMapLite	C0030685	0.0	2158	2167	discharge
+MetaMapLite	C0008809	0.0	2187	2200	ciprofloxacin
+MetaMapLite	C0282139	0.0	2202	2208	Colace
+MetaMapLite	C0699992	0.0	2214	2219	Lasix
+MetaMapLite	C1519630	0.0	2230	2253	transurethral resection
+MetaMapLite	C1282927	0.0	2280	2285	short
+MetaMapLite	C0750729	0.0	2286	2292	course
+MetaMapLite	C0282139	0.0	2322	2328	Colace
+MetaMapLite	C0029921	0.0	2335	2345	outpatient
+MetaMapLite	C0015733	0.0	2350	2355	stool
+MetaMapLite	C1331418	0.0	2370	2377	comfort
+MetaMapLite	C0030685	0.0	2379	2388	DISCHARGE
+MetaMapLite	C0012621	0.0	2379	2388	DISCHARGE
+MetaMapLite	C0013227	0.0	2389	2400	MEDICATIONS
+MetaMapLite	C0282139	0.0	2402	2408	Colace
+MetaMapLite	C0030685	0.0	2425	2434	DISCHARGE
+MetaMapLite	C0012621	0.0	2425	2434	DISCHARGE
+MetaMapLite	C1522577	0.0	2435	2443	FOLLOWUP
+MetaMapLite	C0032074	0.0	2444	2452	PLANNING
+MetaMapLite	C0030705	0.0	2458	2465	patient
+MetaMapLite	C0033131	0.0	2491	2513	primary care physician
+MetaMapLite	C0580931	0.0	2499	2503	care
+MetaMapLite	C0030705	0.0	2543	2550	patient
+MetaMapLite	C3833385	0.0	2554	2560	unsure
+MetaMapLite	C0087130	0.0	2554	2560	unsure
+MetaMapLite	C0010222	0.0	2583	2589	couple
+MetaMapLite	C0439230	0.0	2590	2595	weeks
+MetaMapLite	C0042077	0.0	2631	2638	Urology
+MetaMapLite	C0205117	0.0	2646	2650	next
+MetaMapLite	C0439230	0.0	2651	2655	week
+MetaMapLite	C1705541	0.0	2659	2664	phone
+MetaMapLite	C1515258	0.0	2659	2664	phone
+MetaMapLite	C0030705	0.0	2683	2692	patient's
+MetaMapLite	C0587658	0.0	2693	2696	MRI
+MetaMapLite	C1824234	0.0	2693	2696	MRI
+MetaMapLite	C0024485	0.0	2693	2696	MRI
+MetaMapLite	C0393360	0.0	2713	2725	laparoscopic
+MetaMapLite	C0728938	0.0	2726	2733	partial
+MetaMapLite	C1550516	0.0	2726	2733	partial
+MetaMapLite	C0022646	0.0	2734	2739	renal
+MetaMapLite	C0184921	0.0	2740	2756	resection biopsy
+MetaMapLite	C0439230	0.0	2784	2788	week
+MetaMapLite	C0030685	0.0	2795	2804	discharge
+MetaMapLite	C0012621	0.0	2795	2804	discharge
+MetaMapLite	C0030705	0.0	2835	2842	patient
+MetaMapLite	C2828393	0.0	2860	2865	exact
+MetaMapLite	C0040223	0.0	2866	2870	time
+MetaMapLite	C0205087	0.0	2871	2876	later
+MetaMapLite	C0439230	0.0	2882	2886	week
+MetaMapLite	C0030705	0.0	2892	2899	patient
+MetaMapLite	C0332156	0.0	2906	2912	return
+MetaMapLite	C0562508	0.0	2920	2934	emergency room
+MetaMapLite	C0442592	0.0	2945	2951	clinic
+MetaMapLite	C0221752	0.0	2972	2981	hematuria
+MetaMapLite	C0018965	0.0	2972	2981	hematuria
+MetaMapLite	C0232856	0.0	2994	3006	urine output
+MetaMapLite	C2188753	0.0	2994	3006	urine output
+MetaMapLite	C2094175	0.0	2994	3006	urine output
+MetaMapLite	C1287298	0.0	2994	3006	urine output
+MetaMapLite	C0743221	0.0	3018	3035	discharge summary
+MetaMapLite	C0005001	0.0	3037	3040	bph
+MetaMapLite	C2937421	0.0	3042	3070	benign prostatic hyperplasia
+MetaMapLite	C0005001	0.0	3042	3070	benign prostatic hyperplasia
+MetaMapLite	C1704272	0.0	3042	3070	benign prostatic hyperplasia
+MetaMapLite	C0018965	0.0	3072	3081	hematuria
+MetaMapLite	C0221752	0.0	3072	3081	hematuria
+MetaMapLite	C0029408	0.0	3083	3097	osteoarthritis
+MetaMapLite	C0302148	0.0	3099	3104	clots
+MetaMapLite	C0010702	0.0	3106	3116	cystoscopy
+MetaMapLite	C1883291	0.0	3106	3116	cystoscopy
+MetaMapLite	C0473237	0.0	3118	3133	gross hematuria
+MetaMapLite	C0022646	0.0	3135	3141	kidney
+MetaMapLite	C0227665	0.0	3135	3141	kidney
+MetaMapLite	C0007134	0.0	3143	3163	renal cell carcinoma
+MetaMapLite	C0007634	0.0	3149	3153	cell
+MetaMapLite	C0268800	0.0	3165	3175	renal cyst
+MetaMapLite	C0037157	0.0	3177	3188	simple cyst
+MetaMapLite	C2937421	0.0	3190	3211	prostatic hyperplasia
+MetaMapLite	C0005001	0.0	3190	3211	prostatic hyperplasia
+MetaMapLite	C1519630	0.0	3213	3236	transurethral resection
+MetaMapLite	C0030685	0.0	3238	3247	discharge
+MetaMapLite	C0012621	0.0	3238	3247	discharge
+MetaMapLite	C1706244	0.0	3249	3256	summary
+MetaMapLite	C1552616	0.0	3249	3256	summary
+MetaMapLite	C0042077	0.0	3258	3265	urology
+MetaMapLite	C0205497	0.0	3267	3280	transurethral
+MetaMapLite	C0033572	0.0	3282	3290	prostate
+MetaMapLite	C0033572	0.0	3292	3301	prostatic
+MetaMapLite	C0020507	0.0	3303	3314	hyperplasia
+MetaMapLite	C0439806	0.0	3316	3321	gross
+MetaMapLite	C0205183	0.0	3323	3329	benign
+MetaMapLite	C0022646	0.0	3331	3336	renal
+MetaMapLite	C0686883	0.0	3338	3342	cyst
+MetaMapLite	C0010709	0.0	3338	3342	cyst

@@ -1,0 +1,261 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0000833	0.0	65	72	Abscess
+MetaMapLite	C2025995	0.0	78	88	Cellulitis
+MetaMapLite	C0007642	0.0	78	88	Cellulitis
+MetaMapLite	C0743221	0.0	91	108	Discharge Summary
+MetaMapLite	C2348322	0.0	101	120	Summary
+Description
+MetaMapLite	C0152277	0.0	123	144	Incision and drainage
+MetaMapLite	C0459701	0.0	146	162	first metatarsal
+MetaMapLite	C0825675	0.0	152	167	metatarsal head
+MetaMapLite	C2348704	0.0	174	178	foot
+MetaMapLite	C2346504	0.0	174	178	foot
+MetaMapLite	C2348613	0.0	174	178	foot
+MetaMapLite	C0347981	0.0	174	178	foot
+MetaMapLite	C0016504	0.0	174	178	foot
+MetaMapLite	C0010453	0.0	184	191	culture
+MetaMapLite	C0220814	0.0	184	191	culture
+MetaMapLite	C0430400	0.0	184	191	culture
+MetaMapLite	C1511883	0.0	196	207	sensitivity
+MetaMapLite	C0036667	0.0	196	207	sensitivity
+MetaMapLite	C0282229	0.0	210	231	Medical Transcription
+MetaMapLite	C2347026	0.0	232	238	Sample
+MetaMapLite	C0370003	0.0	232	238	Sample
+MetaMapLite	C0700287	0.0	239	245	Report
+MetaMapLite	C0684224	0.0	239	245	Report
+MetaMapLite	C1704338	0.0	257	266	DIAGNOSIS
+MetaMapLite	C0011900	0.0	257	266	DIAGNOSIS
+MetaMapLite	C0000833	0.0	269	276	Abscess
+MetaMapLite	C2025995	0.0	282	292	cellulitis
+MetaMapLite	C0007642	0.0	282	292	cellulitis
+MetaMapLite	C2346504	0.0	299	303	foot
+MetaMapLite	C2348704	0.0	299	303	foot
+MetaMapLite	C2348613	0.0	299	303	foot
+MetaMapLite	C0016504	0.0	299	303	foot
+MetaMapLite	C0347981	0.0	299	303	foot
+MetaMapLite	C1555319	0.0	305	324	DISCHARGE DIAGNOSIS
+MetaMapLite	C0231290	0.0	327	338	Status post
+MetaMapLite	C2348704	0.0	349	353	foot
+MetaMapLite	C2348613	0.0	349	353	foot
+MetaMapLite	C2346504	0.0	349	353	foot
+MetaMapLite	C0016504	0.0	349	353	foot
+MetaMapLite	C0347981	0.0	349	353	foot
+MetaMapLite	C0025664	0.0	355	365	PROCEDURES
+MetaMapLite	C2700391	0.0	355	365	PROCEDURES
+MetaMapLite	C0152277	0.0	368	389	Incision and drainage
+MetaMapLite	C0459701	0.0	391	407	first metatarsal
+MetaMapLite	C0825675	0.0	397	412	metatarsal head
+MetaMapLite	C2348613	0.0	419	423	foot
+MetaMapLite	C0016504	0.0	419	423	foot
+MetaMapLite	C0347981	0.0	419	423	foot
+MetaMapLite	C2346504	0.0	419	423	foot
+MetaMapLite	C2348704	0.0	419	423	foot
+MetaMapLite	C0010453	0.0	429	436	culture
+MetaMapLite	C0220814	0.0	429	436	culture
+MetaMapLite	C0430400	0.0	429	436	culture
+MetaMapLite	C1511883	0.0	441	452	sensitivity
+MetaMapLite	C0036667	0.0	441	452	sensitivity
+MetaMapLite	C0262512	0.0	454	480	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	465	472	PRESENT
+MetaMapLite	C0030705	0.0	487	494	patient
+MetaMapLite	C0442603	0.0	516	522	office
+MetaMapLite	C0030193	0.0	552	559	painful
+MetaMapLite	C0016504	0.0	565	569	foot
+MetaMapLite	C0347981	0.0	565	569	foot
+MetaMapLite	C2348704	0.0	565	569	foot
+MetaMapLite	C2348613	0.0	565	569	foot
+MetaMapLite	C2346504	0.0	565	569	foot
+MetaMapLite	C0030705	0.0	576	583	patient
+MetaMapLite	C0442603	0.0	619	625	office
+MetaMapLite	C0332232	0.0	630	643	approximately
+MetaMapLite	C0439228	0.0	646	650	days
+MetaMapLite	C0683368	0.0	656	664	symptoms
+MetaMapLite	C1457887	0.0	656	664	symptoms
+MetaMapLite	C0027552	0.0	685	689	need
+MetaMapLite	C0686904	0.0	685	689	need
+MetaMapLite	C0152277	0.0	693	714	incision and drainage
+MetaMapLite	C0013227	0.0	730	741	MEDICATIONS
+MetaMapLite	C0700926	0.0	744	749	Ancef
+MetaMapLite	C0489531	0.0	754	763	ALLERGIES
+MetaMapLite	C0020517	0.0	754	763	ALLERGIES
+MetaMapLite	C0699581	0.0	766	774	ACCUTANE
+MetaMapLite	C3714536	0.0	776	790	SOCIAL HISTORY
+MetaMapLite	C0684271	0.0	811	819	drinking
+MetaMapLite	C0001948	0.0	811	819	drinking
+MetaMapLite	C0031809	0.0	821	841	PHYSICAL EXAMINATION
+MetaMapLite	C0522499	0.0	844	852	Palpable
+MetaMapLite	C0232157	0.0	853	865	pedal pulses
+MetaMapLite	C0425716	0.0	886	907	Capillary refill time
+MetaMapLite	C1714886	0.0	886	907	Capillary refill time
+MetaMapLite	C0807726	0.0	896	902	refill
+MetaMapLite	C0457385	0.0	920	927	seconds
+MetaMapLite	C0582802	0.0	929	935	digits
+MetaMapLite	C0238767	0.0	948	957	bilateral
+MetaMapLite	C1123023	0.0	960	964	Skin
+MetaMapLite	C0332254	0.0	965	971	supple
+MetaMapLite	C0205266	0.0	976	982	intact
+MetaMapLite	C1446409	0.0	988	996	positive
+MetaMapLite	C0232407	0.0	997	1008	hair growth
+MetaMapLite	C2229507	0.0	1021	1030	sensation
+MetaMapLite	C0542538	0.0	1021	1030	sensation
+MetaMapLite	C0036658	0.0	1021	1030	sensation
+MetaMapLite	C0205266	0.0	1031	1037	intact
+MetaMapLite	C0238767	0.0	1038	1047	bilateral
+MetaMapLite	C0517349	0.0	1050	1065	Muscle strength
+MetaMapLite	C0442036	0.0	1086	1093	plantar
+MetaMapLite	C0347981	0.0	1130	1134	foot
+MetaMapLite	C0016504	0.0	1130	1134	foot
+MetaMapLite	C2346504	0.0	1130	1134	foot
+MetaMapLite	C2348613	0.0	1130	1134	foot
+MetaMapLite	C2348704	0.0	1130	1134	foot
+MetaMapLite	C0041834	0.0	1140	1148	erythema
+MetaMapLite	C0013604	0.0	1150	1155	edema
+MetaMapLite	C1446409	0.0	1157	1165	positive
+MetaMapLite	C0684239	0.0	1166	1176	tenderness
+MetaMapLite	C0234233	0.0	1166	1176	tenderness
+MetaMapLite	C0016539	0.0	1189	1197	forefoot
+MetaMapLite	C0205146	0.0	1198	1202	area
+MetaMapLite	C3244292	0.0	1204	1214	LABORATORY
+MetaMapLite	C0022877	0.0	1204	1214	LABORATORY
+MetaMapLite	C0023508	0.0	1217	1239	White blood cell count
+MetaMapLite	C0427512	0.0	1217	1239	White blood cell count
+MetaMapLite	C2003901	0.0	1240	1245	never
+MetaMapLite	C0205161	0.0	1250	1258	abnormal
+MetaMapLite	C0442816	0.0	1282	1295	normal limits
+MetaMapLite	C0034571	0.0	1298	1303	X-ray
+MetaMapLite	C1962945	0.0	1298	1303	X-ray
+MetaMapLite	C0043309	0.0	1298	1303	X-ray
+MetaMapLite	C1306645	0.0	1298	1303	X-ray
+MetaMapLite	C0205160	0.0	1307	1315	negative
+MetaMapLite	C0029443	0.0	1320	1333	osteomyelitis
+MetaMapLite	C0030705	0.0	1353	1360	patient
+MetaMapLite	C0152277	0.0	1385	1406	incision and drainage
+MetaMapLite	C1260910	0.0	1415	1427	foot abscess
+MetaMapLite	C0030705	0.0	1434	1441	patient
+MetaMapLite	C0184661	0.0	1456	1465	procedure
+MetaMapLite	C2700391	0.0	1456	1465	procedure
+MetaMapLite	C0205170	0.0	1466	1470	well
+MetaMapLite	C0038895	0.0	1529	1536	surgery
+MetaMapLite	C0543467	0.0	1529	1536	surgery
+MetaMapLite	C0205087	0.0	1541	1546	later
+MetaMapLite	C0700926	0.0	1555	1560	Ancef
+MetaMapLite	C0439227	0.0	1576	1581	hours
+MetaMapLite	C0032790	0.0	1584	1590	Postop
+MetaMapLite	C0580931	0.0	1597	1601	care
+MetaMapLite	C0967370	0.0	1614	1621	Aquacel
+MetaMapLite	C3494912	0.0	1629	1641	dry dressing
+MetaMapLite	C0332850	0.0	1649	1662	surgical site
+MetaMapLite	C0332173	0.0	1663	1671	everyday
+MetaMapLite	C0030705	0.0	1680	1687	patient
+MetaMapLite	C2348613	0.0	1725	1729	foot
+MetaMapLite	C0347981	0.0	1725	1729	foot
+MetaMapLite	C0016504	0.0	1725	1729	foot
+MetaMapLite	C2346504	0.0	1725	1729	foot
+MetaMapLite	C2348704	0.0	1725	1729	foot
+MetaMapLite	C0030705	0.0	1736	1743	patient
+MetaMapLite	C0003232	0.0	1775	1786	antibiotics
+MetaMapLite	C0205276	0.0	1791	1796	local
+MetaMapLite	C0886052	0.0	1797	1807	wound care
+MetaMapLite	C0019994	0.0	1836	1844	hospital
+MetaMapLite	C1548784	0.0	1860	1869	excellent
+MetaMapLite	C1961136	0.0	1860	1869	excellent
+MetaMapLite	C0012634	0.0	1870	1879	condition
+MetaMapLite	C0012621	0.0	1881	1890	DISCHARGE
+MetaMapLite	C0030685	0.0	1881	1890	DISCHARGE
+MetaMapLite	C0013227	0.0	1891	1902	MEDICATIONS
+MetaMapLite	C0721424	0.0	1905	1918	Lorcet 10/650
+MetaMapLite	C1880359	0.0	1923	1931	dispense
+MetaMapLite	C0039225	0.0	1935	1942	tablets
+MetaMapLite	C0039225	0.0	1948	1954	tablet
+MetaMapLite	C1705223	0.0	1948	1954	tablet
+MetaMapLite	C0226896	0.0	1970	1975	mouth
+MetaMapLite	C0030193	0.0	1995	1999	pain
+MetaMapLite	C0030705	0.0	2006	2013	patient
+MetaMapLite	C0700926	0.0	2031	2036	Ancef
+MetaMapLite	C0179740	0.0	2048	2057	PICC line
+MetaMapLite	C1317851	0.0	2062	2073	home health
+MetaMapLite	C0178672	0.0	2067	2088	health administration
+MetaMapLite	C0003232	0.0	2095	2106	antibiotics
+MetaMapLite	C2266673	0.0	2108	2130	DISCHARGE INSTRUCTIONS
+MetaMapLite	C2348704	0.0	2154	2158	foot
+MetaMapLite	C2348613	0.0	2154	2158	foot
+MetaMapLite	C2346504	0.0	2154	2158	foot
+MetaMapLite	C0016504	0.0	2154	2158	foot
+MetaMapLite	C0347981	0.0	2154	2158	foot
+MetaMapLite	C0205250	0.0	2159	2167	elevated
+MetaMapLite	C0205166	0.0	2173	2177	long
+MetaMapLite	C0035253	0.0	2189	2193	rest
+MetaMapLite	C0030705	0.0	2200	2207	patient
+MetaMapLite	C0491183	0.0	2219	2232	surgical shoe
+MetaMapLite	C0040223	0.0	2240	2245	times
+MetaMapLite	C0945826	0.0	2250	2260	ambulation
+MetaMapLite	C0442802	0.0	2274	2283	excessive
+MetaMapLite	C0945826	0.0	2284	2294	ambulation
+MetaMapLite	C0030705	0.0	2301	2308	patient
+MetaMapLite	C0205222	0.0	2326	2329	dry
+MetaMapLite	C0205266	0.0	2334	2340	intact
+MetaMapLite	C0230461	0.0	2342	2351	left foot
+MetaMapLite	C0030705	0.0	2358	2365	patient
+MetaMapLite	C0332158	0.0	2369	2376	contact
+MetaMapLite	C0337611	0.0	2369	2376	contact
+MetaMapLite	C1522577	0.0	2391	2399	followup
+MetaMapLite	C0580931	0.0	2400	2404	care
+MetaMapLite	C1546466	0.0	2413	2421	problems
+MetaMapLite	C0030705	0.0	2434	2441	patient
+MetaMapLite	C0442027	0.0	2464	2468	oral
+MetaMapLite	C0039401	0.0	2469	2480	instruction
+MetaMapLite	C1442085	0.0	2469	2480	instruction
+MetaMapLite	C0302828	0.0	2469	2480	instruction
+MetaMapLite	C0886052	0.0	2487	2497	wound care
+MetaMapLite	C0030685	0.0	2505	2514	discharge
+MetaMapLite	C0012621	0.0	2505	2514	discharge
+MetaMapLite	C0332152	0.0	2517	2525	Prior to
+MetaMapLite	C0012621	0.0	2526	2535	discharge
+MetaMapLite	C0030685	0.0	2526	2535	discharge
+MetaMapLite	C0030705	0.0	2541	2548	patient
+MetaMapLite	C0277797	0.0	2565	2573	afebrile
+MetaMapLite	C0205360	0.0	2592	2598	stable
+MetaMapLite	C0030705	0.0	2605	2614	patient's
+MetaMapLite	C0030705	0.0	2647	2654	patient
+MetaMapLite	C0750489	0.0	2673	2681	apparent
+MetaMapLite	C1547307	0.0	2682	2694	satisfactory
+MetaMapLite	C0012634	0.0	2695	2704	condition
+MetaMapLite	C0580931	0.0	2716	2720	care
+MetaMapLite	C0442603	0.0	2742	2748	office
+MetaMapLite	C0743221	0.0	2760	2777	discharge summary
+MetaMapLite	C0699581	0.0	2779	2787	accutane
+MetaMapLite	C0825675	0.0	2789	2804	metatarsal head
+MetaMapLite	C0016504	0.0	2810	2814	foot
+MetaMapLite	C0347981	0.0	2810	2814	foot
+MetaMapLite	C2348704	0.0	2810	2814	foot
+MetaMapLite	C2348613	0.0	2810	2814	foot
+MetaMapLite	C2346504	0.0	2810	2814	foot
+MetaMapLite	C0000833	0.0	2816	2823	abscess
+MetaMapLite	C2025995	0.0	2829	2839	cellulitis
+MetaMapLite	C0007642	0.0	2829	2839	cellulitis
+MetaMapLite	C0010453	0.0	2841	2848	culture
+MetaMapLite	C0220814	0.0	2841	2848	culture
+MetaMapLite	C0430400	0.0	2841	2848	culture
+MetaMapLite	C0036667	0.0	2853	2864	sensitivity
+MetaMapLite	C1511883	0.0	2853	2864	sensitivity
+MetaMapLite	C0152277	0.0	2866	2887	incision and drainage
+MetaMapLite	C0825675	0.0	2889	2904	metatarsal head
+MetaMapLite	C0016504	0.0	2906	2910	foot
+MetaMapLite	C0347981	0.0	2906	2910	foot
+MetaMapLite	C2348704	0.0	2906	2910	foot
+MetaMapLite	C2348613	0.0	2906	2910	foot
+MetaMapLite	C2346504	0.0	2906	2910	foot
+MetaMapLite	C2025995	0.0	2912	2922	cellulitis
+MetaMapLite	C0007642	0.0	2912	2922	cellulitis
+MetaMapLite	C0700926	0.0	2924	2929	ancef
+MetaMapLite	C0000833	0.0	2931	2938	abscess
+MetaMapLite	C0184898	0.0	2940	2948	incision
+MetaMapLite	C2096041	0.0	2940	2948	incision
+MetaMapLite	C0012621	0.0	2950	2958	drainage
+MetaMapLite	C2926602	0.0	2950	2958	drainage

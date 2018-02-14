@@ -1,0 +1,28 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - Hip Surgery
+Description:  A 47-year-old female with a posttraumatic AV in the right femoral head.
+(Medical Transcription Sample Report)
+ADMITTING DIAGNOSIS:  Posttraumatic AV in right femoral head.
+DISCHARGE DIAGNOSIS:  Posttraumatic AV in right femoral head.
+SECONDARY DIAGNOSES PRIOR TO HOSPITALIZATION:
+1.  Opioid use.
+2.  Right hip surgery.
+3.  Appendectomy.
+4.  Gastroesophageal reflux disease.
+5.  Hepatitis diagnosed by liver biopsy.
+6.  Blood transfusion.
+6.  Smoker.
+7.  Trauma with multiple orthopedic procedures.
+8.  Hip arthroscopy.
+POSTOP COMORBIDITIES:  Postop acute blood loss anemia requiring transfusion and postop pain.
+PROCEDURES DURING THIS HOSPITALIZATION:  Right total hip arthroplasty and removal of hardware.
+CONSULTS:  Acute pain team consult.
+DISPOSITION:  Home.
+HISTORY OF PRESENT ILLNESS AND HOSPITAL COURSE:  For details, please refer to clinic notes and OP notes.  In brief, the patient is a 47-year-old female with a posttraumatic AV in the right femoral head.  She came in consult with Dr. X who after reviewing the clinical and radiological findings recommended she undergo a right total hip arthroplasty and removal of old hardware.  After being explained the risks, benefits, alternative options, and possible outcomes of surgery, she was agreeable and consented to proceed and therefore on the day of her admission, she was sent to the operating room where she underwent a right total hip arthroplasty and removal of hardware without any complications.  She was then transferred to PACU for recovery and postop orthopedic floor for convalescence, physical therapy, and discharge planning.  DVT prophylaxis was initiated with Lovenox.  Postop pain was adequately managed with the aid of Acute Pain team.  Postop acute blood loss anemia was treated with blood transfusions to an adequate level of hemoglobin.  Physical therapy and occupational therapy were initiated and continued to work with her towards discharge clearance on the day of her discharge.
+DISPOSITION:  Home.  On the day of her discharge, she was afebrile, vital signs were stable.  She was in no acute distress.  Her right hip incision was clean, dry, and intact.  Extremity was warm and well perfused.  Compartments were soft.  Capillary refill less than two seconds.  Distal pulses were present.
+PREDISCHARGE LABORATORY FINDINGS:  White count of 10.9, hemoglobin of 9.5, and BMP is pending.
+DISCHARGE INSTRUCTIONS:  Continue diet as before.
+ACTIVITY:  Weightbearing as tolerated in the right lower extremity as instructed.  Do not lift, drive, move furniture, do strenuous activity for six weeks.  Call Dr. X if there is increased temperature greater than 101.5, increased redness, swelling, drainage, increased pain that is not relieved by current pain regimen as per postop orthopedic discharge instruction sheet.
+FOLLOW-UP APPOINTMENT:  Follow up with Dr. X in two weeks.
+Keywords:
+discharge summary, posttraumatic, femoral head, right hip surgery, transfusion, arthroplasty, removal of hardware, total hip arthroplasty, hip surgery, total hip, hip arthroplasty, removal, hardware, femoral, hip, discharge,

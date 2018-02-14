@@ -1,0 +1,283 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0026771	0.0	85	100	Multiple Trauma
+MetaMapLite	C0678257	0.0	101	112	Description
+MetaMapLite	C0026771	0.0	128	143	multiple trauma
+MetaMapLite	C2939181	0.0	152	174	motor vehicle accident
+MetaMapLite	C0000932	0.0	152	174	motor vehicle accident
+MetaMapLite	C0282229	0.0	177	198	Medical Transcription
+MetaMapLite	C2347026	0.0	199	205	Sample
+MetaMapLite	C0370003	0.0	199	205	Sample
+MetaMapLite	C0700287	0.0	206	212	Report
+MetaMapLite	C0684224	0.0	206	212	Report
+MetaMapLite	C0011900	0.0	224	233	DIAGNOSIS
+MetaMapLite	C1704338	0.0	224	233	DIAGNOSIS
+MetaMapLite	C0026771	0.0	249	264	multiple trauma
+MetaMapLite	C0000932	0.0	273	295	motor vehicle accident
+MetaMapLite	C2939181	0.0	273	295	motor vehicle accident
+MetaMapLite	C0030685	0.0	297	306	DISCHARGE
+MetaMapLite	C0012621	0.0	297	306	DISCHARGE
+MetaMapLite	C0011900	0.0	307	316	DIAGNOSES
+MetaMapLite	C0001758	0.0	322	331	Aftercare
+MetaMapLite	C0038895	0.0	342	349	surgery
+MetaMapLite	C0543467	0.0	342	349	surgery
+MetaMapLite	C3263723	0.0	354	360	injury
+MetaMapLite	C3263723	0.0	365	371	trauma
+MetaMapLite	C1510467	0.0	365	371	trauma
+MetaMapLite	C3714660	0.0	365	371	trauma
+MetaMapLite	C1456141	0.0	377	404	Decubitus ulcer, lower back
+MetaMapLite	C0041582	0.0	387	392	ulcer
+MetaMapLite	C0236656	0.0	410	445	Alcohol induced persisting dementia
+MetaMapLite	C0002871	0.0	451	457	Anemia
+MetaMapLite	C0020621	0.0	463	474	Hypokalemia
+MetaMapLite	C0001758	0.0	480	489	Aftercare
+MetaMapLite	C0043240	0.0	490	497	healing
+MetaMapLite	C0877237	0.0	498	516	traumatic fracture
+MetaMapLite	C0441994	0.0	524	529	lower
+MetaMapLite	C0446516	0.0	530	533	arm
+MetaMapLite	C0085762	0.0	539	552	Alcohol abuse
+MetaMapLite	C1518425	0.0	554	577	not otherwise specified
+MetaMapLite	C0001758	0.0	583	592	Aftercare
+MetaMapLite	C0043240	0.0	593	600	healing
+MetaMapLite	C0332663	0.0	601	610	traumatic
+MetaMapLite	C0159852	0.0	611	629	lower leg fracture
+MetaMapLite	C0332798	0.0	635	645	Open wound
+MetaMapLite	C2116830	0.0	635	645	Open wound
+MetaMapLite	C0036270	0.0	653	658	scalp
+MetaMapLite	C0205064	0.0	665	673	Cervical
+MetaMapLite	C0012725	0.0	679	691	displacement
+MetaMapLite	C0012727	0.0	679	691	displacement
+MetaMapLite	C0456080	0.0	679	691	displacement
+MetaMapLite	C2347509	0.0	679	691	displacement
+MetaMapLite	C0037928	0.0	697	707	myelopathy
+MetaMapLite	C0005956	0.0	697	707	myelopathy
+MetaMapLite	C1456434	0.0	714	736	Episodic mood disorder
+MetaMapLite	C0003469	0.0	743	759	Anxiety disorder
+MetaMapLite	C0027769	0.0	766	777	Nervousness
+MetaMapLite	C0033975	0.0	784	793	Psychosis
+MetaMapLite	C0281856	0.0	800	816	Generalized pain
+MetaMapLite	C1950154	0.0	823	831	Insomnia
+MetaMapLite	C0917801	0.0	823	831	Insomnia
+MetaMapLite	C1963237	0.0	823	831	Insomnia
+MetaMapLite	C0003862	0.0	838	851	Pain in joint
+MetaMapLite	C0030797	0.0	852	865	pelvic region
+MetaMapLite	C0036033	0.0	852	865	pelvic region
+MetaMapLite	C0039866	0.0	866	871	thigh
+MetaMapLite	C2362880	0.0	878	908	Motor vehicle traffic accident
+MetaMapLite	C0348005	0.0	884	891	vehicle
+MetaMapLite	C0042444	0.0	884	891	vehicle
+MetaMapLite	C1518425	0.0	910	933	not otherwise specified
+MetaMapLite	C0401925	0.0	935	944	PRINCIPAL
+MetaMapLite	C0205225	0.0	935	944	PRINCIPAL
+MetaMapLite	C2700391	0.0	945	955	PROCEDURES
+MetaMapLite	C0025664	0.0	945	955	PROCEDURES
+MetaMapLite	C0456148	0.0	958	962	None
+MetaMapLite	C0549184	0.0	958	962	None
+MetaMapLite	C0262512	0.0	964	990	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	975	982	PRESENT
+MetaMapLite	C0443172	0.0	1018	1025	changes
+MetaMapLite	C0392747	0.0	1018	1025	changes
+MetaMapLite	C0489547	0.0	1042	1057	HOSPITAL COURSE
+MetaMapLite	C0439234	0.0	1073	1077	year
+MetaMapLite	C0580836	0.0	1078	1081	old
+MetaMapLite	C0086582	0.0	1082	1086	male
+MetaMapLite	C0205265	0.0	1095	1104	initially
+MetaMapLite	C0565990	0.0	1122	1136	Medical Center
+MetaMapLite	C0039798	0.0	1143	1152	treatment
+MetaMapLite	C0087111	0.0	1143	1152	treatment
+MetaMapLite	C0016655	0.0	1157	1175	multiple fractures
+MetaMapLite	C2939181	0.0	1184	1206	motor vehicle accident
+MetaMapLite	C0000932	0.0	1184	1206	motor vehicle accident
+MetaMapLite	C0262489	0.0	1223	1246	tibial plateau fracture
+MetaMapLite	C2964353	0.0	1230	1237	plateau
+MetaMapLite	C0230360	0.0	1248	1261	right forearm
+MetaMapLite	C1288741	0.0	1248	1261	right forearm
+MetaMapLite	C0016658	0.0	1262	1270	fracture
+MetaMapLite	C0747060	0.0	1276	1280	ORIF
+MetaMapLite	C0856548	0.0	1282	1297	head laceration
+MetaMapLite	C0205265	0.0	1303	1312	initially
+MetaMapLite	C0683368	0.0	1318	1326	symptoms
+MetaMapLite	C1457887	0.0	1318	1326	symptoms
+MetaMapLite	C0018674	0.0	1330	1341	head injury
+MetaMapLite	C0205265	0.0	1356	1365	initially
+MetaMapLite	C0231290	0.0	1401	1412	status post
+MetaMapLite	C0747060	0.0	1413	1417	ORIF
+MetaMapLite	C0230360	0.0	1426	1439	right forearm
+MetaMapLite	C1288741	0.0	1426	1439	right forearm
+MetaMapLite	C1828220	0.0	1451	1456	brace
+MetaMapLite	C0349385	0.0	1451	1456	brace
+MetaMapLite	C0006086	0.0	1451	1456	brace
+MetaMapLite	C1140621	0.0	1476	1479	leg
+MetaMapLite	C0262489	0.0	1493	1516	tibial plateau fracture
+MetaMapLite	C2964353	0.0	1500	1507	plateau
+MetaMapLite	C0205265	0.0	1535	1544	initially
+MetaMapLite	C0205265	0.0	1549	1558	initially
+MetaMapLite	C0034991	0.0	1570	1575	rehab
+MetaMapLite	C0011900	0.0	1585	1594	diagnosed
+MetaMapLite	C0281774	0.0	1605	1620	acute psychosis
+MetaMapLite	C1546466	0.0	1633	1641	problems
+MetaMapLite	C0332148	0.0	1642	1648	likely
+MetaMapLite	C0221628	0.0	1664	1685	alcohol abuse history
+MetaMapLite	C0562381	0.0	1672	1677	abuse
+MetaMapLite	C0013146	0.0	1672	1677	abuse
+MetaMapLite	C0205170	0.0	1695	1699	well
+MetaMapLite	C0029355	0.0	1705	1715	orthopedic
+MetaMapLite	C0700321	0.0	1743	1748	small
+MetaMapLite	C0558159	0.0	1749	1771	sacral decubitus ulcer
+MetaMapLite	C3853142	0.0	1783	1798	well controlled
+MetaMapLite	C0580931	0.0	1814	1818	care
+MetaMapLite	C0871489	0.0	1819	1823	team
+MetaMapLite	C0002871	0.0	1867	1873	anemia
+MetaMapLite	C0205265	0.0	1874	1883	initially
+MetaMapLite	C0205251	0.0	1918	1921	low
+MetaMapLite	C1550472	0.0	1918	1921	low
+MetaMapLite	C1708760	0.0	1949	1955	lowest
+MetaMapLite	C0205170	0.0	1991	1995	well
+MetaMapLite	C0302583	0.0	1999	2003	iron
+MetaMapLite	C1166521	0.0	1999	2003	iron
+MetaMapLite	C0039798	0.0	2004	2013	treatment
+MetaMapLite	C0087111	0.0	2004	2013	treatment
+MetaMapLite	C0040223	0.0	2025	2029	time
+MetaMapLite	C0012621	0.0	2033	2042	discharge
+MetaMapLite	C0030685	0.0	2033	2042	discharge
+MetaMapLite	C0441994	0.0	2051	2056	lower
+MetaMapLite	C0439834	0.0	2075	2079	slow
+MetaMapLite	C1272688	0.0	2080	2088	progress
+MetaMapLite	C0087111	0.0	2094	2101	therapy
+MetaMapLite	C0039798	0.0	2094	2101	therapy
+MetaMapLite	C0009676	0.0	2108	2117	confusion
+MetaMapLite	C1546466	0.0	2155	2163	problems
+MetaMapLite	C0917801	0.0	2169	2177	insomnia
+MetaMapLite	C0287163	0.0	2196	2204	Seroquel
+MetaMapLite	C1552861	0.0	2208	2212	help
+MetaMapLite	C0026516	0.0	2230	2235	moods
+MetaMapLite	C0205170	0.0	2270	2274	well
+MetaMapLite	C0699194	0.0	2307	2313	Ativan
+MetaMapLite	C0085631	0.0	2318	2327	agitation
+MetaMapLite	C0150055	0.0	2340	2352	chronic pain
+MetaMapLite	C2020637	0.0	2340	2352	chronic pain
+MetaMapLite	C0013227	0.0	2353	2364	medications
+MetaMapLite	C0029921	0.0	2371	2381	outpatient
+MetaMapLite	C0013227	0.0	2388	2399	medications
+MetaMapLite	C0205170	0.0	2430	2434	well
+MetaMapLite	C0205170	0.0	2430	2434	well
+MetaMapLite	C0030705	0.0	2459	2466	patient
+MetaMapLite	C0439751	0.0	2495	2501	entire
+MetaMapLite	C0444667	0.0	2495	2501	entire
+MetaMapLite	C0085971	0.0	2512	2527	case management
+MetaMapLite	C0557061	0.0	2532	2543	discussions
+MetaMapLite	C0033908	0.0	2572	2584	psychologist
+MetaMapLite	C0441587	0.0	2600	2609	placement
+MetaMapLite	C0012621	0.0	2615	2624	discharge
+MetaMapLite	C0030685	0.0	2615	2624	discharge
+MetaMapLite	C0205178	0.0	2631	2636	acute
+MetaMapLite	C0001975	0.0	2637	2644	alcohol
+MetaMapLite	C0001962	0.0	2637	2644	alcohol
+MetaMapLite	C0034991	0.0	2645	2650	rehab
+MetaMapLite	C1547538	0.0	2651	2659	facility
+MetaMapLite	C0030705	0.0	2674	2681	patient
+MetaMapLite	C0439751	0.0	2706	2712	entire
+MetaMapLite	C0444667	0.0	2706	2712	entire
+MetaMapLite	C0029355	0.0	2732	2742	orthopedic
+MetaMapLite	C1522577	0.0	2743	2751	followup
+MetaMapLite	C0230442	0.0	2778	2787	right leg
+MetaMapLite	C0777272	0.0	2784	2793	leg brace
+MetaMapLite	C0439230	0.0	2798	2802	week
+MetaMapLite	C0205170	0.0	2826	2830	well
+MetaMapLite	C0087111	0.0	2836	2843	therapy
+MetaMapLite	C0039798	0.0	2836	2843	therapy
+MetaMapLite	C1561607	0.0	2846	2853	Overall
+MetaMapLite	C0282416	0.0	2846	2853	Overall
+MetaMapLite	C3841449	0.0	2877	2888	much better
+MetaMapLite	C0087111	0.0	2918	2925	therapy
+MetaMapLite	C0039798	0.0	2918	2925	therapy
+MetaMapLite	C2347617	0.0	2933	2938	point
+MetaMapLite	C1552961	0.0	2933	2938	point
+MetaMapLite	C2712134	0.0	2957	2968	comfortable
+MetaMapLite	C0442519	0.0	2975	2979	home
+MetaMapLite	C0029921	0.0	2992	3002	outpatient
+MetaMapLite	C0087111	0.0	3003	3010	therapy
+MetaMapLite	C0039798	0.0	3003	3010	therapy
+MetaMapLite	C0033131	0.0	3034	3056	primary care physician
+MetaMapLite	C0580931	0.0	3042	3046	care
+MetaMapLite	C0680240	0.0	3094	3103	agreement
+MetaMapLite	C0030705	0.0	3109	3116	patient
+MetaMapLite	C0442519	0.0	3135	3139	home
+MetaMapLite	C3538874	0.0	3143	3159	stable condition
+MetaMapLite	C0677946	0.0	3143	3159	stable condition
+MetaMapLite	C0040223	0.0	3168	3172	time
+MetaMapLite	C0012621	0.0	3176	3185	discharge
+MetaMapLite	C0030685	0.0	3176	3185	discharge
+MetaMapLite	C0030705	0.0	3191	3200	patient's
+MetaMapLite	C1550332	0.0	3201	3218	ambulatory status
+MetaMapLite	C3841449	0.0	3223	3234	much better
+MetaMapLite	C0043016	0.0	3260	3266	walker
+MetaMapLite	C1299581	0.0	3276	3280	able
+MetaMapLite	C0004897	0.0	3284	3288	bear
+MetaMapLite	C0424653	0.0	3289	3295	weight
+MetaMapLite	C0043100	0.0	3289	3295	weight
+MetaMapLite	C1305866	0.0	3289	3295	weight
+MetaMapLite	C0005910	0.0	3289	3295	weight
+MetaMapLite	C1140621	0.0	3308	3311	leg
+MetaMapLite	C0518087	0.0	3318	3328	pain level
+MetaMapLite	C3853142	0.0	3338	3353	well controlled
+MetaMapLite	C0026516	0.0	3362	3367	moods
+MetaMapLite	C0220913	0.0	3424	3429	signs
+MetaMapLite	C0220912	0.0	3424	3429	signs
+MetaMapLite	C0085631	0.0	3433	3442	agitation
+MetaMapLite	C0009676	0.0	3446	3455	confusion
+MetaMapLite	C0205360	0.0	3481	3487	stable
+MetaMapLite	C0168634	0.0	3488	3496	baseline
+MetaMapLite	C1442488	0.0	3488	3496	baseline
+MetaMapLite	C0002871	0.0	3503	3509	anemia
+MetaMapLite	C3828842	0.0	3523	3529	almost
+MetaMapLite	C0205197	0.0	3530	3540	completely
+MetaMapLite	C3715036	0.0	3530	3540	completely
+MetaMapLite	C0205170	0.0	3564	3568	well
+MetaMapLite	C0013227	0.0	3570	3581	MEDICATIONS
+MetaMapLite	C0012621	0.0	3587	3596	discharge
+MetaMapLite	C0030685	0.0	3587	3596	discharge
+MetaMapLite	C0719107	0.0	3611	3633	Calcium with vitamin D
+MetaMapLite	C1705223	0.0	3636	3642	tablet
+MetaMapLite	C0039225	0.0	3636	3642	tablet
+MetaMapLite	C0585361	0.0	3643	3654	twice a day
+MetaMapLite	C1125139	0.0	3660	3682	Ferrous sulfate 325 mg
+MetaMapLite	C0038720	0.0	3668	3675	sulfate
+MetaMapLite	C0475337	0.0	3668	3675	sulfate
+MetaMapLite	C0301532	0.0	3694	3706	Multivitamin
+MetaMapLite	C0332173	0.0	3709	3714	daily
+MetaMapLite	C0358855	0.0	3730	3744	nicotine patch
+MetaMapLite	C0439227	0.0	3758	3762	hour
+MetaMapLite	C0287163	0.0	3778	3786	Seroquel
+MetaMapLite	C0521112	0.0	3796	3803	bedtime
+MetaMapLite	C1613485	0.0	3819	3827	Xenaderm
+MetaMapLite	C0558159	0.0	3836	3857	sacral pressure ulcer
+MetaMapLite	C0483514	0.0	3873	3880	Vicodin
+MetaMapLite	C0030193	0.0	3892	3896	pain
+MetaMapLite	C0699194	0.0	3902	3908	Ativan
+MetaMapLite	C0860603	0.0	3925	3932	anxiety
+MetaMapLite	C0003467	0.0	3925	3932	anxiety
+MetaMapLite	C0205170	0.0	3965	3969	well
+MetaMapLite	C0030705	0.0	3975	3982	patient
+MetaMapLite	C0033131	0.0	4050	4072	primary care physician
+MetaMapLite	C0580931	0.0	4058	4062	care
+MetaMapLite	C0030685	0.0	4078	4087	discharge
+MetaMapLite	C0012621	0.0	4078	4087	discharge
+MetaMapLite	C0743221	0.0	4099	4116	discharge summary
+MetaMapLite	C3263723	0.0	4118	4124	injury
+MetaMapLite	C0026771	0.0	4126	4142	trauma, multiple
+MetaMapLite	C0026771	0.0	4134	4149	multiple trauma
+MetaMapLite	C0000932	0.0	4151	4173	motor vehicle accident
+MetaMapLite	C2939181	0.0	4151	4173	motor vehicle accident
+MetaMapLite	C0011127	0.0	4175	4190	decubitus ulcer
+MetaMapLite	C0683911	0.0	4157	4173	vehicle accident
+MetaMapLite	C0012621	0.0	4210	4219	discharge
+MetaMapLite	C0030685	0.0	4210	4219	discharge
+MetaMapLite	C0001758	0.0	4221	4230	aftercare
+MetaMapLite	C0043240	0.0	4232	4239	healing

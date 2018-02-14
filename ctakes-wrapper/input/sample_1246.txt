@@ -1,0 +1,14 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Gastric Bypass Summary
+Description:  Patient discharged after laparoscopic Roux-en-Y gastric bypass.
+(Medical Transcription Sample Report)
+FINAL DIAGNOSES
+1.  Morbid obesity, status post laparoscopic Roux-en-Y gastric bypass.
+2.  Hypertension.
+3.  Obstructive sleep apnea, on CPAP.
+OPERATION AND PROCEDURE:  Laparoscopic Roux-en-Y gastric bypass.
+BRIEF HOSPITAL COURSE SUMMARY:  This is a 30-year-old male, who presented recently to the Bariatric Center for evaluation and treatment of longstanding morbid obesity and associated comorbidities.  Underwent standard bariatric evaluation, consults, diagnostics, and preop Medifast induced weight loss in anticipation of elective bariatric surgery.
+Taken to the OR via same day surgery process for elective gastric bypass, tolerated well, recovered in the PACU, and sent to the floor for routine postoperative care.  There, DVT prophylaxis was continued with subcu heparin, early and frequent mobilization, and SCDs.  PCA was utilized for pain control, efficaciously, he utilized the CPAP, was monitored, and had no new cardiopulmonary complaints.  Postop day #1, labs within normal limits, able to clinically start bariatric clear liquids at 2 ounces per hour, this was tolerated well.  He was ambulatory, had no cardiopulmonary complaints, no unusual fever or concerning symptoms.  By the second postoperative day, was able to advance to four ounces per hour, tolerated this well, and is able to discharge in stable and improved condition today.  He had his drains removed today as well.
+DISCHARGE INSTRUCTIONS:  Include re-appointment in the office in the next week, call in the interim if any significant concerning complaints.  Scripts left in the chart for omeprazole and Lortab.  Med rec sheet completed (on no meds).  He will maintain bariatric clear liquids at home, goal 64 ounces per day, maintain activity at home, but no heavy lifting or straining.  Can shower starting tomorrow, drain site care and wound care reviewed.  He will re-appoint in the office in the next week, certainly call in the interim if any significant concerning complaints.
+Keywords:
+discharge summary, medifast, laparoscopic roux-en-y gastric bypass, roux-en-y, bariatric clear liquids, gastric bypass, laparoscopic, gastric, bariatric, bypass,

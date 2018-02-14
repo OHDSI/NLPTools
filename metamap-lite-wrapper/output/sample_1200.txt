@@ -1,0 +1,343 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0210243	0.0	85	88	ATV
+MetaMapLite	C0674679	0.0	85	88	ATV
+MetaMapLite	C1334862	0.0	85	88	ATV
+MetaMapLite	C0000924	0.0	89	97	Accident
+MetaMapLite	C2046386	0.0	89	97	Accident
+MetaMapLite	C0678257	0.0	98	109	Description
+MetaMapLite	C3263723	0.0	112	118	Trauma
+MetaMapLite	C3714660	0.0	112	118	Trauma
+MetaMapLite	C1510467	0.0	112	118	Trauma
+MetaMapLite	C0210243	0.0	119	122	ATV
+MetaMapLite	C0674679	0.0	119	122	ATV
+MetaMapLite	C1334862	0.0	119	122	ATV
+MetaMapLite	C2046386	0.0	123	131	accident
+MetaMapLite	C0000924	0.0	123	131	accident
+MetaMapLite	C0272610	0.0	150	171	open humerus fracture
+MetaMapLite	C0282229	0.0	174	195	Medical Transcription
+MetaMapLite	C0370003	0.0	196	202	Sample
+MetaMapLite	C2347026	0.0	196	202	Sample
+MetaMapLite	C0700287	0.0	203	209	Report
+MetaMapLite	C0684224	0.0	203	209	Report
+MetaMapLite	C0011900	0.0	221	230	DIAGNOSIS
+MetaMapLite	C1704338	0.0	221	230	DIAGNOSIS
+MetaMapLite	C1510467	0.0	233	239	Trauma
+MetaMapLite	C3714660	0.0	233	239	Trauma
+MetaMapLite	C3263723	0.0	233	239	Trauma
+MetaMapLite	C0210243	0.0	240	243	ATV
+MetaMapLite	C0674679	0.0	240	243	ATV
+MetaMapLite	C1334862	0.0	240	243	ATV
+MetaMapLite	C0000924	0.0	244	252	accident
+MetaMapLite	C2046386	0.0	244	252	accident
+MetaMapLite	C0272610	0.0	271	292	open humerus fracture
+MetaMapLite	C1555319	0.0	294	313	DISCHARGE DIAGNOSIS
+MetaMapLite	C3263723	0.0	316	322	Trauma
+MetaMapLite	C3714660	0.0	316	322	Trauma
+MetaMapLite	C1510467	0.0	316	322	Trauma
+MetaMapLite	C0210243	0.0	323	326	ATV
+MetaMapLite	C0674679	0.0	323	326	ATV
+MetaMapLite	C1334862	0.0	323	326	ATV
+MetaMapLite	C2046386	0.0	327	335	accident
+MetaMapLite	C0000924	0.0	327	335	accident
+MetaMapLite	C0272610	0.0	354	375	open humerus fracture
+MetaMapLite	C0332138	0.0	377	396	SECONDARY DIAGNOSIS
+MetaMapLite	C0549184	0.0	399	403	None
+MetaMapLite	C0456148	0.0	399	403	None
+MetaMapLite	C0262512	0.0	405	431	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	416	423	PRESENT
+MetaMapLite	C0205197	0.0	438	446	complete
+MetaMapLite	C1522508	0.0	447	454	details
+MetaMapLite	C2004062	0.0	476	483	history
+MetaMapLite	C0019665	0.0	476	483	history
+MetaMapLite	C0262926	0.0	476	483	history
+MetaMapLite	C0019664	0.0	476	483	history
+MetaMapLite	C0262512	0.0	476	483	history
+MetaMapLite	C0205485	0.0	488	496	physical
+MetaMapLite	C3829447	0.0	512	516	July
+MetaMapLite	C0030705	0.0	541	548	patient
+MetaMapLite	C0439234	0.0	557	561	year
+MetaMapLite	C0580836	0.0	562	565	old
+MetaMapLite	C0086582	0.0	566	570	male
+MetaMapLite	C3840745	0.0	592	621	Hospital Emergency Department
+MetaMapLite	C0674679	0.0	635	638	ATV
+MetaMapLite	C1334862	0.0	635	638	ATV
+MetaMapLite	C0210243	0.0	635	638	ATV
+MetaMapLite	C2046386	0.0	639	647	accident
+MetaMapLite	C0000924	0.0	639	647	accident
+MetaMapLite	C0450048	0.0	671	680	passenger
+MetaMapLite	C0674679	0.0	684	687	ATV
+MetaMapLite	C1334862	0.0	684	687	ATV
+MetaMapLite	C0210243	0.0	684	687	ATV
+MetaMapLite	C0684312	0.0	697	703	driver
+MetaMapLite	C0243148	0.0	709	716	control
+MetaMapLite	C1882979	0.0	709	716	control
+MetaMapLite	C0450048	0.0	754	763	passenger
+MetaMapLite	C0684312	0.0	772	778	driver
+MetaMapLite	C0332232	0.0	779	792	approximately
+MetaMapLite	C0441074	0.0	801	807	meters
+MetaMapLite	C0030705	0.0	814	821	patient
+MetaMapLite	C0041657	0.0	833	854	loss of consciousness
+MetaMapLite	C0441471	0.0	884	889	event
+MetaMapLite	C0086282	0.0	908	922	family members
+MetaMapLite	C3829503	0.0	930	944	Iredell County
+MetaMapLite	C0020005	0.0	938	953	County Hospital
+MetaMapLite	C0205265	0.0	968	977	initially
+MetaMapLite	C0678226	0.0	990	996	Due to
+MetaMapLite	C0439792	0.0	1001	1007	extent
+MetaMapLite	C1510467	0.0	1015	1023	injuries
+MetaMapLite	C3263723	0.0	1015	1023	injuries
+MetaMapLite	C0205548	0.0	1032	1043	immediately
+MetaMapLite	C3840745	0.0	1059	1088	Hospital Emergency Department
+MetaMapLite	C1517331	0.0	1093	1100	further
+MetaMapLite	C1261322	0.0	1101	1111	evaluation
+MetaMapLite	C0220825	0.0	1101	1111	evaluation
+MetaMapLite	C0489547	0.0	1113	1128	HOSPITAL COURSE
+MetaMapLite	C1555577	0.0	1136	1143	arrival
+MetaMapLite	C3840745	0.0	1151	1180	Hospital Emergency Department
+MetaMapLite	C0175566	0.0	1206	1210	open
+MetaMapLite	C0020162	0.0	1216	1232	humerus fracture
+MetaMapLite	C0750489	0.0	1244	1252	apparent
+MetaMapLite	C3263723	0.0	1253	1261	injuries
+MetaMapLite	C1510467	0.0	1253	1261	injuries
+MetaMapLite	C0457276	0.0	1288	1308	radiographic imaging
+MetaMapLite	C0817096	0.0	1326	1331	chest
+MetaMapLite	C0030797	0.0	1336	1342	pelvis
+MetaMapLite	C0851346	0.0	1345	1349	rays
+MetaMapLite	C0086894	0.0	1345	1349	rays
+MetaMapLite	C0205160	0.0	1355	1363	negative
+MetaMapLite	C0205178	0.0	1372	1377	acute
+MetaMapLite	C3263723	0.0	1378	1384	injury
+MetaMapLite	C0203145	0.0	1398	1418	cervical spine x-ray
+MetaMapLite	C0205160	0.0	1423	1431	negative
+MetaMapLite	C0016658	0.0	1436	1444	fracture
+MetaMapLite	C1275957	0.0	1445	1457	malalignment
+MetaMapLite	C0881913	0.0	1469	1490	upper extremity x-ray
+MetaMapLite	C0175566	0.0	1510	1514	open
+MetaMapLite	C0745051	0.0	1520	1543	distal humerus fracture
+MetaMapLite	C0029355	0.0	1550	1568	orthopedic surgery
+MetaMapLite	C1136201	0.0	1550	1568	orthopedic surgery
+MetaMapLite	C0162439	0.0	1550	1568	orthopedic surgery
+MetaMapLite	C0871489	0.0	1569	1573	team
+MetaMapLite	C0220825	0.0	1608	1618	evaluation
+MetaMapLite	C1261322	0.0	1608	1618	evaluation
+MetaMapLite	C0030705	0.0	1624	1631	patient
+MetaMapLite	C0374711	0.0	1679	1694	surgical repair
+MetaMapLite	C0020162	0.0	1707	1723	humerus fracture
+MetaMapLite	C0030705	0.0	1753	1760	patient
+MetaMapLite	C0022100	0.0	1781	1791	irrigation
+MetaMapLite	C0011079	0.0	1796	1807	debridement
+MetaMapLite	C0175566	0.0	1840	1844	open
+MetaMapLite	C0441731	0.0	1845	1851	type 3
+MetaMapLite	C0745051	0.0	1869	1892	distal humerus fracture
+MetaMapLite	C1140618	0.0	1922	1937	upper extremity
+MetaMapLite	C0449438	0.0	1970	1976	status
+MetaMapLite	C0549177	0.0	1981	1986	great
+MetaMapLite	C0580931	0.0	1987	1991	care
+MetaMapLite	C0678594	0.0	2020	2030	structures
+MetaMapLite	C0449238	0.0	2048	2056	duration
+MetaMapLite	C2700391	0.0	2064	2073	procedure
+MetaMapLite	C0184661	0.0	2064	2073	procedure
+MetaMapLite	C0030705	0.0	2079	2086	patient
+MetaMapLite	C0522499	0.0	2093	2101	palpable
+MetaMapLite	C0205108	0.0	2102	2108	distal
+MetaMapLite	C2363059	0.0	2109	2121	radial pulse
+MetaMapLite	C0232142	0.0	2109	2121	radial pulse
+MetaMapLite	C0029355	0.0	2128	2138	orthopedic
+MetaMapLite	C0871489	0.0	2139	2143	team
+MetaMapLite	C0185373	0.0	2162	2176	open reduction
+MetaMapLite	C0016642	0.0	2181	2198	internal fixation
+MetaMapLite	C0347788	0.0	2211	2241	supracondylar humerus fracture
+MetaMapLite	C1707478	0.0	2294	2304	conclusion
+MetaMapLite	C0184661	0.0	2312	2321	procedure
+MetaMapLite	C2700391	0.0	2312	2321	procedure
+MetaMapLite	C0030705	0.0	2328	2335	patient
+MetaMapLite	C2700391	0.0	2351	2360	procedure
+MetaMapLite	C0184661	0.0	2351	2360	procedure
+MetaMapLite	C0205170	0.0	2361	2365	well
+MetaMapLite	C1610181	0.0	2390	2419	Pediatric Intensive Care Unit
+MetaMapLite	C0021710	0.0	2390	2419	Pediatric Intensive Care Unit
+MetaMapLite	C0580931	0.0	2410	2414	Care
+MetaMapLite	C1516647	0.0	2450	2460	monitoring
+MetaMapLite	C0150369	0.0	2450	2460	monitoring
+MetaMapLite	C0012159	0.0	2467	2471	diet
+MetaMapLite	C0012155	0.0	2467	2471	diet
+MetaMapLite	C0030193	0.0	2493	2497	pain
+MetaMapLite	C0002771	0.0	2518	2533	pain medication
+MetaMapLite	C0439228	0.0	2540	2543	day
+MetaMapLite	C0038895	0.0	2558	2565	surgery
+MetaMapLite	C0543467	0.0	2558	2565	surgery
+MetaMapLite	C0030705	0.0	2571	2578	patient
+MetaMapLite	C3245505	0.0	2599	2608	potential
+MetaMapLite	C0018674	0.0	2620	2631	head injury
+MetaMapLite	C1262865	0.0	2642	2648	nature
+MetaMapLite	C0349590	0.0	2642	2648	nature
+MetaMapLite	C2046386	0.0	2656	2664	accident
+MetaMapLite	C0000924	0.0	2656	2664	accident
+MetaMapLite	C0018884	0.0	2704	2710	helmet
+MetaMapLite	C2046386	0.0	2722	2730	accident
+MetaMapLite	C0000924	0.0	2722	2730	accident
+MetaMapLite	C0412585	0.0	2735	2750	CT of the brain
+MetaMapLite	C1979874	0.0	2759	2767	contrast
+MetaMapLite	C0009924	0.0	2759	2767	contrast
+MetaMapLite	C0205178	0.0	2778	2783	acute
+MetaMapLite	C0524466	0.0	2784	2796	intracranial
+MetaMapLite	C0000769	0.0	2797	2810	abnormalities
+MetaMapLite	C0728985	0.0	2824	2838	cervical spine
+MetaMapLite	C0175751	0.0	2893	2899	collar
+MetaMapLite	C0180008	0.0	2893	2899	collar
+MetaMapLite	C1552961	0.0	2920	2925	point
+MetaMapLite	C2347617	0.0	2920	2925	point
+MetaMapLite	C1720092	0.0	2928	2932	Once
+MetaMapLite	C1948045	0.0	2928	2932	Once
+MetaMapLite	C0728985	0.0	2937	2944	C spine
+MetaMapLite	C0332197	0.0	2970	2977	absence
+MetaMapLite	C0018674	0.0	2990	3001	head injury
+MetaMapLite	C0030705	0.0	3022	3029	patient
+MetaMapLite	C0021708	0.0	3060	3079	Intensive Care Unit
+MetaMapLite	C0580931	0.0	3070	3074	Care
+MetaMapLite	C0205246	0.0	3087	3094	General
+MetaMapLite	C0016249	0.0	3095	3100	Floor
+MetaMapLite	C0004916	0.0	3101	3104	bed
+MetaMapLite	C0449440	0.0	3111	3126	clinical status
+MetaMapLite	C3829447	0.0	3155	3159	July
+MetaMapLite	C0004600	0.0	3183	3187	back
+MetaMapLite	C0015252	0.0	3214	3221	removal
+MetaMapLite	C0728940	0.0	3214	3221	removal
+MetaMapLite	C1521802	0.0	3243	3250	closure
+MetaMapLite	C0185003	0.0	3243	3250	closure
+MetaMapLite	C3544292	0.0	3263	3284	upper extremity wound
+MetaMapLite	C0015385	0.0	3269	3278	extremity
+MetaMapLite	C0184661	0.0	3311	3320	procedure
+MetaMapLite	C2700391	0.0	3311	3320	procedure
+MetaMapLite	C0205170	0.0	3321	3325	well
+MetaMapLite	C0332156	0.0	3333	3339	return
+MetaMapLite	C0205246	0.0	3347	3354	General
+MetaMapLite	C0030755	0.0	3355	3365	Pediatrics
+MetaMapLite	C0016249	0.0	3366	3371	Floor
+MetaMapLite	C2699424	0.0	3405	3412	concern
+MetaMapLite	C0009492	0.0	3417	3437	compartment syndrome
+MetaMapLite	C0678226	0.0	3438	3444	due to
+MetaMapLite	C0349590	0.0	3449	3455	nature
+MetaMapLite	C1262865	0.0	3449	3455	nature
+MetaMapLite	C0439792	0.0	3460	3466	extent
+MetaMapLite	C3263723	0.0	3474	3482	injuries
+MetaMapLite	C1510467	0.0	3474	3482	injuries
+MetaMapLite	C0332183	0.0	3494	3502	frequent
+MetaMapLite	C0205108	0.0	3517	3523	distal
+MetaMapLite	C0034107	0.0	3524	3530	pulses
+MetaMapLite	C0391850	0.0	3524	3530	pulses
+MetaMapLite	C0442821	0.0	3553	3559	strong
+MetaMapLite	C0232139	0.0	3560	3577	peripheral pulses
+MetaMapLite	C1140618	0.0	3590	3605	upper extremity
+MetaMapLite	C0030705	0.0	3622	3629	patient
+MetaMapLite	C0277786	0.0	3637	3647	complaints
+MetaMapLite	C2242996	0.0	3651	3662	paresthesia
+MetaMapLite	C0030554	0.0	3651	3662	paresthesia
+MetaMapLite	C0030232	0.0	3695	3701	pallor
+MetaMapLite	C0030193	0.0	3705	3709	pain
+MetaMapLite	C0079991	0.0	3713	3727	passive motion
+MetaMapLite	C0205170	0.0	3740	3744	good
+MetaMapLite	C0425716	0.0	3745	3761	capillary refill
+MetaMapLite	C0582802	0.0	3769	3775	digits
+MetaMapLite	C0018563	0.0	3788	3792	hand
+MetaMapLite	C1552914	0.0	3788	3792	hand
+MetaMapLite	C0011008	0.0	3802	3806	date
+MetaMapLite	C0030685	0.0	3814	3823	discharge
+MetaMapLite	C0012621	0.0	3814	3823	discharge
+MetaMapLite	C0030705	0.0	3829	3836	patient
+MetaMapLite	C0443225	0.0	3846	3850	full
+MetaMapLite	C1521725	0.0	3851	3860	pediatric
+MetaMapLite	C0012159	0.0	3868	3872	diet
+MetaMapLite	C0012155	0.0	3868	3872	diet
+MetaMapLite	C0205170	0.0	3897	3901	well
+MetaMapLite	C0232498	0.0	3914	3934	abdominal tenderness
+MetaMapLite	C0848377	0.0	3953	3971	abdominal injuries
+MetaMapLite	C0444708	0.0	3983	3995	radiographic
+MetaMapLite	C0947630	0.0	3996	4003	studies
+MetaMapLite	C0277797	0.0	4013	4021	afebrile
+MetaMapLite	C0518766	0.0	4030	4041	vital signs
+MetaMapLite	C0205360	0.0	4047	4053	stable
+MetaMapLite	C0029355	0.0	4074	4085	Orthopedics
+MetaMapLite	C1136201	0.0	4074	4085	Orthopedics
+MetaMapLite	C1548787	0.0	4101	4112	appropriate
+MetaMapLite	C0030685	0.0	4117	4126	discharge
+MetaMapLite	C0012621	0.0	4117	4126	discharge
+MetaMapLite	C0025664	0.0	4128	4138	PROCEDURES
+MetaMapLite	C2700391	0.0	4128	4138	PROCEDURES
+MetaMapLite	C0347984	0.0	4139	4145	DURING
+MetaMapLite	C0019993	0.0	4151	4166	HOSPITALIZATION
+MetaMapLite	C0022100	0.0	4172	4182	Irrigation
+MetaMapLite	C0011079	0.0	4187	4198	debridement
+MetaMapLite	C0175566	0.0	4202	4206	open
+MetaMapLite	C0441731	0.0	4207	4213	type 3
+MetaMapLite	C0745051	0.0	4231	4254	distal humerus fracture
+MetaMapLite	C3829447	0.0	4256	4260	July
+MetaMapLite	C0301630	0.0	4281	4290	reduction
+MetaMapLite	C0441610	0.0	4281	4290	reduction
+MetaMapLite	C0016642	0.0	4295	4312	internal fixation
+MetaMapLite	C0347788	0.0	4325	4355	supracondylar humerus fracture
+MetaMapLite	C3829447	0.0	4357	4361	July
+MetaMapLite	C3266206	0.0	4377	4409	Negative pressure wound dressing
+MetaMapLite	C0460139	0.0	4386	4394	pressure
+MetaMapLite	C3829447	0.0	4411	4415	July
+MetaMapLite	C0022100	0.0	4431	4441	Irrigation
+MetaMapLite	C0011079	0.0	4446	4457	debridement
+MetaMapLite	C0600106	0.0	4466	4480	elbow fracture
+MetaMapLite	C3829447	0.0	4482	4486	July
+MetaMapLite	C0412585	0.0	4502	4517	CT of the brain
+MetaMapLite	C0009924	0.0	4526	4534	contrast
+MetaMapLite	C1979874	0.0	4526	4534	contrast
+MetaMapLite	C3829447	0.0	4536	4540	July
+MetaMapLite	C0743223	0.0	4552	4563	DISPOSITION
+MetaMapLite	C0442519	0.0	4566	4570	Home
+MetaMapLite	C0030551	0.0	4576	4583	parents
+MetaMapLite	C1334278	0.0	4585	4593	INVASIVE
+MetaMapLite	C0205281	0.0	4585	4593	INVASIVE
+MetaMapLite	C0456148	0.0	4602	4606	None
+MetaMapLite	C0549184	0.0	4602	4606	None
+MetaMapLite	C2266673	0.0	4608	4630	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0030705	0.0	4637	4644	patient
+MetaMapLite	C0579192	0.0	4672	4683	return home
+MetaMapLite	C0184625	0.0	4693	4705	regular diet
+MetaMapLite	C0441655	0.0	4747	4757	activities
+MetaMapLite	C2239122	0.0	4747	4757	activities
+MetaMapLite	C0016858	0.0	4764	4773	furniture
+MetaMapLite	C0181620	0.0	4775	4779	lift
+MetaMapLite	C0439539	0.0	4780	4785	heavy
+MetaMapLite	C0347997	0.0	4786	4793	objects
+MetaMapLite	C0042153	0.0	4798	4801	use
+MetaMapLite	C1140618	0.0	4811	4826	upper extremity
+MetaMapLite	C1522577	0.0	4845	4853	followup
+MetaMapLite	C0332156	0.0	4859	4865	return
+MetaMapLite	C0003629	0.0	4866	4877	appointment
+MetaMapLite	C0439230	0.0	4885	4889	week
+MetaMapLite	C0029355	0.0	4906	4917	Orthopedics
+MetaMapLite	C1136201	0.0	4906	4917	Orthopedics
+MetaMapLite	C0237433	0.0	4958	4970	pediatrician
+MetaMapLite	C0015967	0.0	4991	4997	fevers
+MetaMapLite	C0030193	0.0	4999	5003	pain
+MetaMapLite	C0028643	0.0	5005	5022	loss of sensation
+MetaMapLite	C1708738	0.0	5024	5037	loss of pulse
+MetaMapLite	C0332572	0.0	5042	5055	discoloration
+MetaMapLite	C0549188	0.0	5063	5070	fingers
+MetaMapLite	C0016129	0.0	5063	5070	fingers
+MetaMapLite	C0030232	0.0	5075	5083	paleness
+MetaMapLite	C0018563	0.0	5091	5095	hand
+MetaMapLite	C1552914	0.0	5091	5095	hand
+MetaMapLite	C0743221	0.0	5107	5124	discharge summary
+MetaMapLite	C0020162	0.0	5126	5142	humerus fracture
+MetaMapLite	C0022100	0.0	5152	5162	irrigation
+MetaMapLite	C0011079	0.0	5167	5178	debridement
+MetaMapLite	C2046386	0.0	5184	5192	accident
+MetaMapLite	C0000924	0.0	5184	5192	accident
+MetaMapLite	C1140618	0.0	5194	5209	upper extremity
+MetaMapLite	C0020164	0.0	5211	5218	humerus
+MetaMapLite	C0016658	0.0	5220	5228	fracture
+MetaMapLite	C0029355	0.0	5230	5240	orthopedic

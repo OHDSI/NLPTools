@@ -1,0 +1,148 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0008350	0.0	85	99	Cholelithiasis
+MetaMapLite	C0678257	0.0	100	111	Description
+MetaMapLite	C0030705	0.0	114	121	Patient
+MetaMapLite	C0277786	0.0	127	136	complaint
+MetaMapLite	C0231220	0.0	140	151	symptomatic
+MetaMapLite	C0008350	0.0	152	166	cholelithiasis
+MetaMapLite	C0282229	0.0	169	190	Medical Transcription
+MetaMapLite	C2347026	0.0	191	197	Sample
+MetaMapLite	C0370003	0.0	191	197	Sample
+MetaMapLite	C0684224	0.0	198	204	Report
+MetaMapLite	C0700287	0.0	198	204	Report
+MetaMapLite	C1628992	0.0	206	225	ADMISSION DIAGNOSIS
+MetaMapLite	C0231220	0.0	228	239	Symptomatic
+MetaMapLite	C0008350	0.0	240	254	cholelithiasis
+MetaMapLite	C1555319	0.0	256	275	DISCHARGE DIAGNOSIS
+MetaMapLite	C0231220	0.0	278	289	Symptomatic
+MetaMapLite	C0008350	0.0	290	304	cholelithiasis
+MetaMapLite	C0557854	0.0	306	313	SERVICE
+MetaMapLite	C3245478	0.0	306	313	SERVICE
+MetaMapLite	C0038895	0.0	316	323	Surgery
+MetaMapLite	C0543467	0.0	316	323	Surgery
+MetaMapLite	C0009818	0.0	325	333	CONSULTS
+MetaMapLite	C0549184	0.0	336	340	None
+MetaMapLite	C0456148	0.0	336	340	None
+MetaMapLite	C0262512	0.0	342	368	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	353	360	PRESENT
+MetaMapLite	C0439234	0.0	387	391	year
+MetaMapLite	C0580836	0.0	392	395	old
+MetaMapLite	C0043210	0.0	396	401	woman
+MetaMapLite	C0750541	0.0	406	416	apparently
+MetaMapLite	C0277786	0.0	432	441	complaint
+MetaMapLite	C0231220	0.0	445	456	symptomatic
+MetaMapLite	C0008350	0.0	457	471	cholelithiasis
+MetaMapLite	C0277797	0.0	482	490	afebrile
+MetaMapLite	C0489547	0.0	539	554	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	561	568	patient
+MetaMapLite	C2700391	0.0	581	590	procedure
+MetaMapLite	C0184661	0.0	581	590	procedure
+MetaMapLite	C1299586	0.0	615	625	difficulty
+MetaMapLite	C0030193	0.0	640	644	pain
+MetaMapLite	C0002771	0.0	666	679	pain medicine
+MetaMapLite	C0277797	0.0	690	698	afebrile
+MetaMapLite	C0301571	0.0	719	730	liquid diet
+MetaMapLite	C0030705	0.0	754	761	patient
+MetaMapLite	C0205360	0.0	765	771	stable
+MetaMapLite	C0012621	0.0	776	785	discharge
+MetaMapLite	C0030685	0.0	776	785	discharge
+MetaMapLite	C0426390	0.0	808	822	bladder spasms
+MetaMapLite	C0262512	0.0	872	879	history
+MetaMapLite	C2004062	0.0	872	879	history
+MetaMapLite	C0019665	0.0	872	879	history
+MetaMapLite	C0262926	0.0	872	879	history
+MetaMapLite	C0019664	0.0	872	879	history
+MetaMapLite	C0205191	0.0	883	890	chronic
+MetaMapLite	C1283174	0.0	906	911	check
+MetaMapLite	C0430404	0.0	921	934	urine culture
+MetaMapLite	C0332152	0.0	935	943	prior to
+MetaMapLite	C0030685	0.0	944	953	discharge
+MetaMapLite	C0012621	0.0	944	953	discharge
+MetaMapLite	C1521941	0.0	972	984	prescription
+MetaMapLite	C0008809	0.0	989	1002	ciprofloxacin
+MetaMapLite	C0439228	0.0	1027	1031	days
+MetaMapLite	C0442519	0.0	1072	1076	home
+MetaMapLite	C0028978	0.0	1082	1092	omeprazole
+MetaMapLite	C0282139	0.0	1097	1103	Colace
+MetaMapLite	C0677601	0.0	1121	1128	counter
+MetaMapLite	C0009806	0.0	1133	1145	constipation
+MetaMapLite	C0442519	0.0	1167	1171	home
+MetaMapLite	C0086787	0.0	1177	1185	Percocet
+MetaMapLite	C0030193	0.0	1190	1194	pain
+MetaMapLite	C0442816	0.0	1218	1231	normal limits
+MetaMapLite	C0750426	0.0	1250	1281	elevated white blood cell count
+MetaMapLite	C0023501	0.0	1310	1328	leukemoid reaction
+MetaMapLite	C0277797	0.0	1341	1349	afebrile
+MetaMapLite	C1412376	0.0	1372	1375	UTI
+MetaMapLite	C0077906	0.0	1372	1375	UTI
+MetaMapLite	C0042029	0.0	1372	1375	UTI
+MetaMapLite	C0442816	0.0	1446	1459	normal limits
+MetaMapLite	C0023901	0.0	1466	1470	LFTs
+MetaMapLite	C0750482	0.0	1476	1484	slightly
+MetaMapLite	C0205250	0.0	1485	1493	elevated
+MetaMapLite	C0007471	0.0	1531	1538	cautery
+MetaMapLite	C0023884	0.0	1551	1556	liver
+MetaMapLite	C0004916	0.0	1557	1560	bed
+MetaMapLite	C0205170	0.0	1640	1644	good
+MetaMapLite	C0012621	0.0	1649	1658	discharge
+MetaMapLite	C0030685	0.0	1649	1658	discharge
+MetaMapLite	C2266673	0.0	1660	1682	DISCHARGE INSTRUCTIONS
+MetaMapLite	C2184084	0.0	1685	1702	Clear liquid diet
+MetaMapLite	C0439227	0.0	1707	1712	hours
+MetaMapLite	C0541748	0.0	1757	1763	shower
+MetaMapLite	C1947930	0.0	1794	1799	clean
+MetaMapLite	C0205222	0.0	1804	1807	dry
+MetaMapLite	C0439539	0.0	1838	1843	heavy
+MetaMapLite	C0206244	0.0	1844	1851	lifting
+MetaMapLite	C0439093	0.0	1852	1864	greater than
+MetaMapLite	C0439219	0.0	1868	1874	pounds
+MetaMapLite	C0439230	0.0	1878	1883	weeks
+MetaMapLite	C0439230	0.0	1908	1913	weeks
+MetaMapLite	C1299581	0.0	1928	1932	able
+MetaMapLite	C0013956	0.0	1947	1956	emergency
+MetaMapLite	C0027415	0.0	1968	1976	narcotic
+MetaMapLite	C1514989	0.0	1986	2004	strenuous activity
+MetaMapLite	C0027552	0.0	2014	2019	needs
+MetaMapLite	C0686904	0.0	2014	2019	needs
+MetaMapLite	C0425245	0.0	2032	2040	mobility
+MetaMapLite	C0449580	0.0	2032	2040	mobility
+MetaMapLite	C0013227	0.0	2062	2073	medications
+MetaMapLite	C0439643	0.0	2086	2092	sheets
+MetaMapLite	C0183235	0.0	2086	2092	sheets
+MetaMapLite	C0030685	0.0	2094	2103	DISCHARGE
+MetaMapLite	C0012621	0.0	2094	2103	DISCHARGE
+MetaMapLite	C0013227	0.0	2104	2115	MEDICATIONS
+MetaMapLite	C1522577	0.0	2143	2151	FOLLOWUP
+MetaMapLite	C0042014	0.0	2180	2190	urinalysis
+MetaMapLite	C0010453	0.0	2195	2203	cultures
+MetaMapLite	C0439230	0.0	2253	2258	weeks
+MetaMapLite	C0013404	0.0	2287	2306	shortness of breath
+MetaMapLite	C0005903	0.0	2308	2319	temperature
+MetaMapLite	C0039476	0.0	2308	2319	temperature
+MetaMapLite	C0439093	0.0	2320	2332	greater than
+MetaMapLite	C0008031	0.0	2340	2350	chest pain
+MetaMapLite	C0030200	0.0	2346	2363	pain, intractable
+MetaMapLite	C0027497	0.0	2364	2370	nausea
+MetaMapLite	C0042963	0.0	2372	2380	vomiting
+MetaMapLite	C0000737	0.0	2386	2400	abdominal pain
+MetaMapLite	C1260956	0.0	2406	2413	redness
+MetaMapLite	C0332575	0.0	2406	2413	redness
+MetaMapLite	C2926602	0.0	2441	2449	drainage
+MetaMapLite	C0012621	0.0	2441	2449	drainage
+MetaMapLite	C0043250	0.0	2459	2465	wounds
+MetaMapLite	C0021501	0.0	2459	2465	wounds
+MetaMapLite	C0743221	0.0	2477	2494	discharge summary
+MetaMapLite	C0301571	0.0	2506	2517	liquid diet
+MetaMapLite	C0231220	0.0	2519	2530	symptomatic
+MetaMapLite	C0008350	0.0	2531	2545	cholelithiasis
+MetaMapLite	C0231220	0.0	2547	2558	symptomatic
+MetaMapLite	C0008350	0.0	2560	2574	cholelithiasis
+MetaMapLite	C0030685	0.0	2576	2585	discharge
+MetaMapLite	C0012621	0.0	2576	2585	discharge

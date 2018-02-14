@@ -1,0 +1,184 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0032987	0.0	65	82	Ectopic Pregnancy
+MetaMapLite	C0743221	0.0	85	102	Discharge Summary
+MetaMapLite	C2348322	0.0	95	114	Summary
+Description
+MetaMapLite	C0439234	0.0	122	126	year
+MetaMapLite	C0580836	0.0	127	130	old
+MetaMapLite	C0220938	0.0	131	136	white
+MetaMapLite	C0007457	0.0	131	136	white
+MetaMapLite	C0043157	0.0	131	136	white
+MetaMapLite	C0043210	0.0	137	143	female
+MetaMapLite	C0015780	0.0	137	143	female
+MetaMapLite	C0086287	0.0	137	143	female
+MetaMapLite	C0019994	0.0	160	168	hospital
+MetaMapLite	C3539889	0.0	174	185	pelvic pain
+MetaMapLite	C3539895	0.0	174	185	pelvic pain
+MetaMapLite	C3539896	0.0	174	185	pelvic pain
+MetaMapLite	C3539893	0.0	174	185	pelvic pain
+MetaMapLite	C0850758	0.0	174	185	pelvic pain
+MetaMapLite	C0030794	0.0	174	185	pelvic pain
+MetaMapLite	C3539022	0.0	174	185	pelvic pain
+MetaMapLite	C3539891	0.0	174	185	pelvic pain
+MetaMapLite	C3539023	0.0	174	185	pelvic pain
+MetaMapLite	C3539892	0.0	174	185	pelvic pain
+MetaMapLite	C3539020	0.0	174	185	pelvic pain
+MetaMapLite	C3539890	0.0	174	185	pelvic pain
+MetaMapLite	C2032396	0.0	174	185	pelvic pain
+MetaMapLite	C2032395	0.0	174	185	pelvic pain
+MetaMapLite	C0848203	0.0	174	185	pelvic pain
+MetaMapLite	C2979982	0.0	190	206	vaginal bleeding
+MetaMapLite	C0205090	0.0	209	214	Right
+MetaMapLite	C0032987	0.0	224	241	ectopic pregnancy
+MetaMapLite	C0019065	0.0	247	261	hemoperitoneum
+MetaMapLite	C0340952	0.0	265	284	Anemia secondary to
+MetaMapLite	C0553700	0.0	285	295	blood loss
+MetaMapLite	C0019080	0.0	285	295	blood loss
+MetaMapLite	C0282229	0.0	298	319	Medical Transcription
+MetaMapLite	C2347026	0.0	320	326	Sample
+MetaMapLite	C0370003	0.0	320	326	Sample
+MetaMapLite	C0684224	0.0	327	333	Report
+MetaMapLite	C0700287	0.0	327	333	Report
+MetaMapLite	C0262512	0.0	335	361	HISTORY OF PRESENT ILLNESS
+MetaMapLite	C0150312	0.0	346	353	PRESENT
+MetaMapLite	C0868928	0.0	376	380	case
+MetaMapLite	C0439234	0.0	389	393	year
+MetaMapLite	C0580836	0.0	394	397	old
+MetaMapLite	C0043157	0.0	398	403	white
+MetaMapLite	C0220938	0.0	398	403	white
+MetaMapLite	C0007457	0.0	398	403	white
+MetaMapLite	C0043210	0.0	404	410	female
+MetaMapLite	C0015780	0.0	404	410	female
+MetaMapLite	C0086287	0.0	404	410	female
+MetaMapLite	C0019994	0.0	427	435	hospital
+MetaMapLite	C3539022	0.0	441	452	pelvic pain
+MetaMapLite	C3539891	0.0	441	452	pelvic pain
+MetaMapLite	C3539023	0.0	441	452	pelvic pain
+MetaMapLite	C3539892	0.0	441	452	pelvic pain
+MetaMapLite	C3539020	0.0	441	452	pelvic pain
+MetaMapLite	C3539890	0.0	441	452	pelvic pain
+MetaMapLite	C2032396	0.0	441	452	pelvic pain
+MetaMapLite	C2032395	0.0	441	452	pelvic pain
+MetaMapLite	C0848203	0.0	441	452	pelvic pain
+MetaMapLite	C3539889	0.0	441	452	pelvic pain
+MetaMapLite	C3539895	0.0	441	452	pelvic pain
+MetaMapLite	C3539896	0.0	441	452	pelvic pain
+MetaMapLite	C3539893	0.0	441	452	pelvic pain
+MetaMapLite	C0030794	0.0	441	452	pelvic pain
+MetaMapLite	C0850758	0.0	441	452	pelvic pain
+MetaMapLite	C2979982	0.0	457	473	vaginal bleeding
+MetaMapLite	C0030705	0.0	480	487	patient
+MetaMapLite	C0241904	0.0	494	506	positive hCG
+MetaMapLite	C0205160	0.0	514	522	negative
+MetaMapLite	C0041618	0.0	523	531	sonogram
+MetaMapLite	C2368378	0.0	523	531	sonogram
+MetaMapLite	C0475208	0.0	540	545	titer
+MetaMapLite	C0489547	0.0	563	578	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	585	592	patient
+MetaMapLite	C0019994	0.0	613	621	hospital
+MetaMapLite	C1704338	0.0	631	640	diagnosis
+MetaMapLite	C0011900	0.0	631	640	diagnosis
+MetaMapLite	C0332149	0.0	646	654	possible
+MetaMapLite	C0812470	0.0	655	674	incomplete abortion
+MetaMapLite	C0870077	0.0	679	683	rule
+MetaMapLite	C1446409	0.0	679	683	rule
+MetaMapLite	C0032987	0.0	688	705	ectopic pregnancy
+MetaMapLite	C3203359	0.0	709	716	rupture
+MetaMapLite	C0227813	0.0	720	726	corpus
+MetaMapLite	C0686883	0.0	734	738	cyst
+MetaMapLite	C0010709	0.0	734	738	cyst
+MetaMapLite	C0030705	0.0	745	752	patient
+MetaMapLite	C0700325	0.0	765	776	observation
+MetaMapLite	C0478530	0.0	765	776	observation
+MetaMapLite	C0302523	0.0	765	776	observation
+MetaMapLite	C0439227	0.0	784	789	hours
+MetaMapLite	C2368378	0.0	796	804	sonogram
+MetaMapLite	C0041618	0.0	796	804	sonogram
+MetaMapLite	C0700321	0.0	858	863	small
+MetaMapLite	C0577559	0.0	864	868	mass
+MetaMapLite	C1306372	0.0	864	868	mass
+MetaMapLite	C0042149	0.0	880	886	uterus
+MetaMapLite	C0553498	0.0	910	925	gestational sac
+MetaMapLite	C0030705	0.0	932	939	patient
+MetaMapLite	C0019994	0.0	960	968	hospital
+MetaMapLite	C0205341	0.0	973	979	repeat
+MetaMapLite	C0475208	0.0	984	989	titer
+MetaMapLite	C0445247	0.0	1002	1006	same
+MetaMapLite	C0439228	0.0	1007	1010	day
+MetaMapLite	C0004600	0.0	1016	1020	back
+MetaMapLite	C0439228	0.0	1055	1058	day
+MetaMapLite	C0004600	0.0	1068	1072	back
+MetaMapLite	C0011900	0.0	1089	1098	diagnosis
+MetaMapLite	C1704338	0.0	1089	1098	diagnosis
+MetaMapLite	C0332149	0.0	1104	1112	possible
+MetaMapLite	C0032987	0.0	1122	1139	ectopic pregnancy
+MetaMapLite	C0030705	0.0	1162	1169	patient
+MetaMapLite	C0038895	0.0	1183	1190	surgery
+MetaMapLite	C0543467	0.0	1183	1190	surgery
+MetaMapLite	C0023038	0.0	1197	1207	laparotomy
+MetaMapLite	C2607943	0.0	1227	1235	findings
+MetaMapLite	C0205090	0.0	1241	1246	right
+MetaMapLite	C0032987	0.0	1256	1273	ectopic pregnancy
+MetaMapLite	C0404194	0.0	1280	1299	right salpingectomy
+MetaMapLite	C0009566	0.0	1322	1335	complications
+MetaMapLite	C1171258	0.0	1322	1335	complications
+MetaMapLite	C0030705	0.0	1342	1349	patient
+MetaMapLite	C0439148	0.0	1361	1366	units
+MetaMapLite	C1260956	0.0	1370	1373	red
+MetaMapLite	C0007634	0.0	1381	1386	cells
+MetaMapLite	C0184666	0.0	1392	1401	admission
+MetaMapLite	C0019046	0.0	1407	1417	hemoglobin
+MetaMapLite	C0439550	0.0	1440	1449	afternoon
+MetaMapLite	C0332170	0.0	1487	1494	morning
+MetaMapLite	C2607943	0.0	1531	1539	findings
+MetaMapLite	C0205082	0.0	1545	1551	severe
+MetaMapLite	C0000737	0.0	1552	1566	abdominal pain
+MetaMapLite	C0011900	0.0	1580	1589	diagnosis
+MetaMapLite	C1704338	0.0	1580	1589	diagnosis
+MetaMapLite	C0574895	0.0	1593	1600	ectopic
+MetaMapLite	C0521093	0.0	1622	1631	confirmed
+MetaMapLite	C0750484	0.0	1622	1631	confirmed
+MetaMapLite	C0038895	0.0	1635	1642	surgery
+MetaMapLite	C0543467	0.0	1635	1642	surgery
+MetaMapLite	C0489547	0.0	1649	1664	hospital course
+MetaMapLite	C0015967	0.0	1695	1700	fever
+MetaMapLite	C0424755	0.0	1695	1700	fever
+MetaMapLite	C0230168	0.0	1716	1723	abdomen
+MetaMapLite	C0000726	0.0	1716	1723	abdomen
+MetaMapLite	C0205358	0.0	1728	1732	soft
+MetaMapLite	C0278007	0.0	1745	1766	normal bowel movement
+MetaMapLite	C0030705	0.0	1773	1780	patient
+MetaMapLite	C0442603	0.0	1830	1836	office
+MetaMapLite	C0439228	0.0	1842	1846	days
+MetaMapLite	C0205088	0.0	1848	1853	FINAL
+MetaMapLite	C0011900	0.0	1854	1863	DIAGNOSES
+MetaMapLite	C0205090	0.0	1869	1874	Right
+MetaMapLite	C0032987	0.0	1884	1901	ectopic pregnancy
+MetaMapLite	C0019065	0.0	1907	1921	hemoperitoneum
+MetaMapLite	C0340952	0.0	1927	1946	Anemia secondary to
+MetaMapLite	C0019080	0.0	1947	1957	blood loss
+MetaMapLite	C0553700	0.0	1947	1957	blood loss
+MetaMapLite	C0032074	0.0	1959	1963	PLAN
+MetaMapLite	C0270724	0.0	1959	1963	PLAN
+MetaMapLite	C0030705	0.0	1970	1977	patient
+MetaMapLite	C0002771	0.0	1999	2014	pain medication
+MetaMapLite	C0302583	0.0	2019	2023	iron
+MetaMapLite	C1166521	0.0	2019	2023	iron
+MetaMapLite	C0039798	0.0	2024	2031	therapy
+MetaMapLite	C0087111	0.0	2024	2031	therapy
+MetaMapLite	C0743221	0.0	2043	2060	discharge summary
+MetaMapLite	C0002871	0.0	2062	2068	anemia
+MetaMapLite	C0553700	0.0	2070	2080	blood loss
+MetaMapLite	C0019080	0.0	2070	2080	blood loss
+MetaMapLite	C0032987	0.0	2091	2108	ectopic pregnancy
+MetaMapLite	C0553498	0.0	2110	2125	gestational sac
+MetaMapLite	C0032987	0.0	2127	2144	ectopic pregnancy
+MetaMapLite	C0019065	0.0	2146	2160	hemoperitoneum
+MetaMapLite	C0439671	0.0	2162	2173	gestational
+MetaMapLite	C0032987	0.0	2185	2203	pregnancy, ectopic

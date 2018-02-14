@@ -1,0 +1,40 @@
+Sample Type / Medical Specialty:  Discharge Summary
+Sample Name: Discharge Summary - 2
+Description:  Patient with complaints of shortness of breath and was found to have acute COPD exacerbation.
+(Medical Transcription Sample Report)
+ADMISSION DIAGNOSIS (ES):
+1. Chronic obstructive pulmonary disease.
+2. Pneumonia.
+3. Congestive heart failure.
+4. Diabetes mellitus.
+5. Neuropathy.
+6. Anxiety.
+7. Hypothyroidism.
+8. Depression.
+9. Hypertension.
+DISCHARGE DIAGNOSIS (ES):
+1. Severe chronic obstructive pulmonary disease.
+2. Diabetes mellitus.
+3. Hypothyroidism.
+4. Altered mental status, less somnolent, likely secondary to medications, resolved.
+5. Lower gastrointestinal bleed.
+6. Status post episode of atrial fibrillation.
+7. Status post diverticular bleed.
+DISCHARGE MEDICATIONS:
+1. Albuterol inhaler q.i.d.
+2. Xanax 1 mg t.i.d.
+3. Cardizem CD 120 mg daily.
+4. Colace 100 mg b.i.d.
+5. Iron sulfate 325 mg b.i.d.
+6. NPH 10 units subcutaneous b.i.d.
+7. Atrovent inhaler q.i.d.
+8. Statin oral suspension p.o. q.i.d., swish and spit.
+9. Paxil 10 mg daily.
+10. Prednisone 20 mg daily.
+11. Darvocet Darvocet-N 100, one q.4h PRN pain.
+12. Metamucil one pack b.i.d.
+13. Synthroid 50 mcg daily.
+14. Nexium 40 mg daily.
+HOSPITAL COURSE: The patient was a 66-year-old who presented with complaints of shortness of breath and was found to have acute COPD exacerbation. She had previously been at outlying hospital and had left AMA after 10 sets of BiPAP use. Here she was able to be kept off BiPAP later and slowly improved her exacerbation of COPD with the assistance of pulmonary. She was thought to have bronchitis as well and was treated with antibiotics. During hospitalization she developed acute lower GI bleed and was transferred to intensive care unit and transfused packed red blood cells. GI was consulted, performed endoscopy, revealing diverticular disease of the sigmoid colon, with this being the suspected cause of hemorrhage. Plavix is being held for at least 10 days. Lovenox held as well. No further signs of bleeding. The patient's respiratory status did slowly improve to baseline. She is discharged and given the above noted medications. Followup with Dr. Pesce, of diagnostic pulmonary, in the outpatient setting. She will also followup with Dr. Pesce, in the outpatient setting.
+Keywords:
+discharge summary, chronic obstructive pulmonary disease, pneumonia, congestive heart failure, diabetes mellitus, neuropathy, anxiety, hypothyroidism, depression, hypertension, shortness of breath, obstructive pulmonary disease, pulmonary disease, discharge, inhaler, copd, exacerbation, pulmonary, breath,

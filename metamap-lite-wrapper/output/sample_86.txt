@@ -1,0 +1,343 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0205487	0.0	65	76	Psychiatric
+MetaMapLite	C0743221	0.0	77	94	Discharge Summary
+MetaMapLite	C0678257	0.0	99	110	Description
+MetaMapLite	C0743221	0.0	113	130	Discharge summary
+MetaMapLite	C0030705	0.0	136	143	patient
+MetaMapLite	C0349217	0.0	149	159	depression
+MetaMapLite	C0011570	0.0	149	159	depression
+MetaMapLite	C0011581	0.0	149	159	depression
+MetaMapLite	C0344315	0.0	149	159	depression
+MetaMapLite	C1579931	0.0	149	159	depression
+MetaMapLite	C0683303	0.0	164	182	high risk behavior
+MetaMapLite	C0282229	0.0	185	206	Medical Transcription
+MetaMapLite	C2347026	0.0	207	213	Sample
+MetaMapLite	C0370003	0.0	207	213	Sample
+MetaMapLite	C0684224	0.0	214	220	Report
+MetaMapLite	C0700287	0.0	214	220	Report
+MetaMapLite	C0743221	0.0	222	239	DISCHARGE SUMMARY
+MetaMapLite	C1706244	0.0	240	247	SUMMARY
+MetaMapLite	C1552616	0.0	240	247	SUMMARY
+MetaMapLite	C0599880	0.0	251	269	TREATMENT PLANNING
+MetaMapLite	C0012621	0.0	277	286	discharge
+MetaMapLite	C0030685	0.0	277	286	discharge
+MetaMapLite	C0015576	0.0	297	305	family's
+MetaMapLite	C1272683	0.0	306	313	request
+MetaMapLite	C1550043	0.0	315	325	IDENTIFIED
+MetaMapLite	C0205396	0.0	315	325	IDENTIFIED
+MetaMapLite	C1551388	0.0	315	325	IDENTIFIED
+MetaMapLite	C1546466	0.0	326	334	PROBLEMS
+MetaMapLite	C0085415	0.0	335	343	OUTCOMES
+MetaMapLite	C1579931	0.0	350	360	Depression
+MetaMapLite	C0349217	0.0	350	360	Depression
+MetaMapLite	C0011570	0.0	350	360	Depression
+MetaMapLite	C0011581	0.0	350	360	Depression
+MetaMapLite	C0344315	0.0	350	360	Depression
+MetaMapLite	C0683303	0.0	367	385	High risk behavior
+MetaMapLite	C0030705	0.0	391	398	patient
+MetaMapLite	C0332219	0.0	399	405	easily
+MetaMapLite	C0442824	0.0	410	414	very
+MetaMapLite	C0344315	0.0	415	424	depressed
+MetaMapLite	C0003467	0.0	429	436	anxious
+MetaMapLite	C1456784	0.0	442	450	paranoia
+MetaMapLite	C0030705	0.0	457	464	patient
+MetaMapLite	C0332167	0.0	489	498	high risk
+MetaMapLite	C0205336	0.0	503	510	relapse
+MetaMapLite	C0277556	0.0	503	510	relapse
+MetaMapLite	C0035020	0.0	503	510	relapse
+MetaMapLite	C1548572	0.0	527	540	level of care
+MetaMapLite	C1547668	0.0	527	540	level of care
+MetaMapLite	C2979881	0.0	542	555	INTERVENTIONS
+MetaMapLite	C1273869	0.0	542	555	INTERVENTIONS
+MetaMapLite	C0886296	0.0	542	555	INTERVENTIONS
+MetaMapLite	C3542921	0.0	542	555	INTERVENTIONS
+MetaMapLite	C1548787	0.0	576	587	appropriate
+MetaMapLite	C0687744	0.0	589	594	group
+MetaMapLite	C0441833	0.0	589	594	group
+MetaMapLite	C1257890	0.0	589	594	group
+MetaMapLite	C1303150	0.0	604	619	therapy program
+MetaMapLite	C1708063	0.0	628	645	primary treatment
+MetaMapLite	C0695347	0.0	646	654	modality
+MetaMapLite	C0033872	0.0	671	683	psychiatrist
+MetaMapLite	C1261322	0.0	693	703	evaluation
+MetaMapLite	C0220825	0.0	693	703	evaluation
+MetaMapLite	C0376636	0.0	712	722	management
+MetaMapLite	C0033978	0.0	726	750	psychotropic medications
+MetaMapLite	C0205210	0.0	757	765	clinical
+MetaMapLite	C0871525	0.0	766	775	therapist
+MetaMapLite	C0237401	0.0	788	798	individual
+MetaMapLite	C0441833	0.0	800	805	group
+MetaMapLite	C1257890	0.0	800	805	group
+MetaMapLite	C0687744	0.0	800	805	group
+MetaMapLite	C0015618	0.0	811	825	family therapy
+MetaMapLite	C0152055	0.0	811	825	family therapy
+MetaMapLite	C0750729	0.0	827	833	COURSE
+MetaMapLite	C0019994	0.0	837	845	HOSPITAL
+MetaMapLite	C0030705	0.0	852	859	patient
+MetaMapLite	C0019994	0.0	871	879	hospital
+MetaMapLite	C0205402	0.0	920	929	prominent
+MetaMapLite	C1457887	0.0	930	938	symptoms
+MetaMapLite	C0683368	0.0	930	938	symptoms
+MetaMapLite	C0030705	0.0	963	970	patient
+MetaMapLite	C0233746	0.0	1000	1023	Perceptual disturbances
+MetaMapLite	C0039869	0.0	1038	1046	thoughts
+MetaMapLite	C0750493	0.0	1056	1066	suspicious
+MetaMapLite	C0040223	0.0	1070	1075	times
+MetaMapLite	C2347617	0.0	1085	1090	point
+MetaMapLite	C1552961	0.0	1085	1090	point
+MetaMapLite	C0740399	0.0	1114	1140	audiovisual hallucinations
+MetaMapLite	C0439654	0.0	1151	1156	quiet
+MetaMapLite	C0233471	0.0	1167	1178	flat affect
+MetaMapLite	C0022107	0.0	1180	1189	irritable
+MetaMapLite	C0003467	0.0	1191	1198	anxious
+MetaMapLite	C0026516	0.0	1213	1218	moods
+MetaMapLite	C0424109	0.0	1220	1227	tearful
+MetaMapLite	C0040223	0.0	1231	1236	times
+MetaMapLite	C0850008	0.0	1238	1246	homesick
+MetaMapLite	C0439801	0.0	1248	1255	limited
+MetaMapLite	C1704675	0.0	1256	1267	interaction
+MetaMapLite	C0679739	0.0	1273	1278	peers
+MetaMapLite	C0687744	0.0	1299	1305	groups
+MetaMapLite	C1552839	0.0	1299	1305	groups
+MetaMapLite	C0441833	0.0	1299	1305	groups
+MetaMapLite	C0439801	0.0	1328	1335	limited
+MetaMapLite	C0679823	0.0	1336	1349	participation
+MetaMapLite	C0205124	0.0	1360	1371	superficial
+MetaMapLite	C3843660	0.0	1392	1400	too much
+MetaMapLite	C0013987	0.0	1531	1539	feelings
+MetaMapLite	C0036658	0.0	1544	1554	sensations
+MetaMapLite	C0030705	0.0	1567	1574	patient
+MetaMapLite	C2986411	0.0	1590	1601	improvement
+MetaMapLite	C0205246	0.0	1605	1612	general
+MetaMapLite	C3715036	0.0	1635	1645	completely
+MetaMapLite	C0205197	0.0	1635	1645	completely
+MetaMapLite	C0205360	0.0	1646	1652	stable
+MetaMapLite	C1998882	0.0	1666	1675	sometimes
+MetaMapLite	C0277556	0.0	1682	1689	relapse
+MetaMapLite	C0205336	0.0	1682	1689	relapse
+MetaMapLite	C0035020	0.0	1682	1689	relapse
+MetaMapLite	C0750492	0.0	1699	1707	probably
+MetaMapLite	C0012621	0.0	1729	1738	discharge
+MetaMapLite	C0030685	0.0	1729	1738	discharge
+MetaMapLite	C1547668	0.0	1751	1764	level of care
+MetaMapLite	C1548572	0.0	1751	1764	level of care
+MetaMapLite	C2728259	0.0	1783	1790	program
+MetaMapLite	C3484370	0.0	1783	1790	program
+MetaMapLite	C1709697	0.0	1783	1790	program
+MetaMapLite	C0030705	0.0	1806	1815	patient's
+MetaMapLite	C0015576	0.0	1816	1822	family
+MetaMapLite	C0034866	0.0	1843	1858	recommendations
+MetaMapLite	C0679133	0.0	1867	1874	respect
+MetaMapLite	C1552961	0.0	1883	1888	point
+MetaMapLite	C2347617	0.0	1883	1888	point
+MetaMapLite	C0011900	0.0	1890	1900	DIAGNOSTIC
+MetaMapLite	C0348026	0.0	1890	1900	DIAGNOSTIC
+MetaMapLite	C0392366	0.0	1917	1921	TEST
+MetaMapLite	C0456984	0.0	1917	1921	TEST
+MetaMapLite	C0220825	0.0	1922	1933	EVALUATIONS
+MetaMapLite	C0037313	0.0	1938	1943	sleep
+MetaMapLite	C0205307	0.0	1974	1980	normal
+MetaMapLite	C0013798	0.0	1983	1986	EKG
+MetaMapLite	C1623258	0.0	1983	1986	EKG
+MetaMapLite	C0205307	0.0	2028	2034	normal
+MetaMapLite	C0205170	0.0	2038	2042	well
+MetaMapLite	C0009818	0.0	2044	2057	CONSULTATIONS
+MetaMapLite	C0030705	0.0	2064	2071	patient
+MetaMapLite	C0205476	0.0	2095	2102	medical
+MetaMapLite	C0009817	0.0	2103	2114	consultants
+MetaMapLite	C0449297	0.0	2127	2136	clearance
+MetaMapLite	C0204523	0.0	2149	2170	psychiatric treatment
+MetaMapLite	C1527178	0.0	2173	2178	Basic
+MetaMapLite	C0005767	0.0	2179	2184	blood
+MetaMapLite	C0229664	0.0	2179	2184	blood
+MetaMapLite	C0043227	0.0	2185	2189	work
+MetaMapLite	C2237045	0.0	2209	2230	basic metabolic panel
+MetaMapLite	C0311400	0.0	2215	2224	metabolic
+MetaMapLite	C2263086	0.0	2232	2235	CBC
+MetaMapLite	C0009555	0.0	2232	2235	CBC
+MetaMapLite	C0202274	0.0	2250	2267	urine drug screen
+MetaMapLite	C0205476	0.0	2278	2285	medical
+MetaMapLite	C1549076	0.0	2286	2296	consultant
+MetaMapLite	C0009817	0.0	2286	2296	consultant
+MetaMapLite	C0277785	0.0	2306	2317	dysfunction
+MetaMapLite	C0031847	0.0	2306	2317	dysfunction
+MetaMapLite	C0262512	0.0	2321	2328	history
+MetaMapLite	C2004062	0.0	2321	2328	history
+MetaMapLite	C0262926	0.0	2321	2328	history
+MetaMapLite	C0019665	0.0	2321	2328	history
+MetaMapLite	C0019664	0.0	2321	2328	history
+MetaMapLite	C1999270	0.0	2347	2352	panel
+MetaMapLite	C3537156	0.0	2347	2352	panel
+MetaMapLite	C0441833	0.0	2347	2352	panel
+MetaMapLite	C0442816	0.0	2389	2402	normal limits
+MetaMapLite	C2004062	0.0	2405	2412	History
+MetaMapLite	C0019665	0.0	2405	2412	History
+MetaMapLite	C0262926	0.0	2405	2412	History
+MetaMapLite	C0019664	0.0	2405	2412	History
+MetaMapLite	C0262512	0.0	2405	2412	History
+MetaMapLite	C0004096	0.0	2416	2422	asthma
+MetaMapLite	C0262926	0.0	2427	2434	history
+MetaMapLite	C2004062	0.0	2427	2434	history
+MetaMapLite	C0019665	0.0	2427	2434	history
+MetaMapLite	C0019664	0.0	2427	2434	history
+MetaMapLite	C0262512	0.0	2427	2434	history
+MetaMapLite	C2004062	0.0	2445	2452	history
+MetaMapLite	C0019665	0.0	2445	2452	history
+MetaMapLite	C0262926	0.0	2445	2452	history
+MetaMapLite	C0019664	0.0	2445	2452	history
+MetaMapLite	C0262512	0.0	2445	2452	history
+MetaMapLite	C0018808	0.0	2456	2468	heart murmur
+MetaMapLite	C2263086	0.0	2499	2502	CBC
+MetaMapLite	C0009555	0.0	2499	2502	CBC
+MetaMapLite	C0518014	0.0	2504	2514	Hematocrit
+MetaMapLite	C0018935	0.0	2504	2514	Hematocrit
+MetaMapLite	C0205251	0.0	2524	2527	low
+MetaMapLite	C1550472	0.0	2524	2527	low
+MetaMapLite	C0205344	0.0	2529	2537	absolute
+MetaMapLite	C0026473	0.0	2538	2547	monocytes
+MetaMapLite	C0205250	0.0	2556	2560	high
+MetaMapLite	C0205307	0.0	2584	2590	normal
+MetaMapLite	C0332144	0.0	2604	2619	FINAL DIAGNOSIS
+MetaMapLite	C0221443	0.0	2621	2630	AXIS    I
+MetaMapLite	C0154409	0.0	2639	2666	Major depression, recurrent
+MetaMapLite	C0349217	0.0	2645	2655	depression
+MetaMapLite	C0011570	0.0	2645	2655	depression
+MetaMapLite	C0011581	0.0	2645	2655	depression
+MetaMapLite	C0344315	0.0	2645	2655	depression
+MetaMapLite	C1579931	0.0	2645	2655	depression
+MetaMapLite	C0033975	0.0	2673	2682	psychotic
+MetaMapLite	C0221446	0.0	2693	2702	AXIS   II
+MetaMapLite	C0205421	0.0	2705	2713	Deferred
+MetaMapLite	C0221447	0.0	2715	2724	AXIS  III
+MetaMapLite	C0205178	0.0	2736	2741	acute
+MetaMapLite	C1549486	0.0	2742	2755	major medical
+MetaMapLite	C0221449	0.0	2768	2776	AXIS  IV
+MetaMapLite	C0748073	0.0	2785	2807	Psychosocial stressors
+MetaMapLite	C0221451	0.0	2809	2817	AXIS   V
+MetaMapLite	C1333540	0.0	2827	2830	GAF
+MetaMapLite	C1708018	0.0	2827	2830	GAF
+MetaMapLite	C0521116	0.0	2842	2849	current
+MetaMapLite	C0012621	0.0	2865	2874	DISCHARGE
+MetaMapLite	C0030685	0.0	2865	2874	DISCHARGE
+MetaMapLite	C0030705	0.0	2881	2888	patient
+MetaMapLite	C0239110	0.0	2892	2897	alert
+MetaMapLite	C1961029	0.0	2899	2915	oriented to time
+MetaMapLite	C0442504	0.0	2917	2922	place
+MetaMapLite	C0027361	0.0	2924	2930	person
+MetaMapLite	C0438696	0.0	2959	2967	suicidal
+MetaMapLite	C0745031	0.0	2971	2980	homicidal
+MetaMapLite	C0459920	0.0	2981	2986	ideas
+MetaMapLite	C0150312	0.0	2990	2997	present
+MetaMapLite	C1280903	0.0	2998	3009	exploration
+MetaMapLite	C0233746	0.0	3023	3046	perception disturbances
+MetaMapLite	C0205102	0.0	3087	3095	internal
+MetaMapLite	C0234402	0.0	3096	3103	stimuli
+MetaMapLite	C2347617	0.0	3112	3117	point
+MetaMapLite	C1552961	0.0	3112	3117	point
+MetaMapLite	C0036043	0.0	3148	3154	safety
+MetaMapLite	C0033325	0.0	3156	3165	PROGNOSIS
+MetaMapLite	C0012622	0.0	3177	3191	DISCHARGE PLAN
+MetaMapLite	C0030705	0.0	3198	3205	patient
+MetaMapLite	C0015576	0.0	3229	3237	family's
+MetaMapLite	C1272683	0.0	3238	3245	request
+MetaMapLite	C0087111	0.0	3266	3275	treatment
+MetaMapLite	C0039798	0.0	3266	3275	treatment
+MetaMapLite	C0019994	0.0	3279	3287	hospital
+MetaMapLite	C0003629	0.0	3301	3312	appointment
+MetaMapLite	C1317574	0.0	3346	3350	NOTE
+MetaMapLite	C0087111	0.0	3352	3361	Treatment
+MetaMapLite	C0039798	0.0	3352	3361	Treatment
+MetaMapLite	C0871489	0.0	3362	3366	team
+MetaMapLite	C0034866	0.0	3367	3381	recommendation
+MetaMapLite	C0030705	0.0	3390	3397	patient
+MetaMapLite	C0035189	0.0	3406	3427	Residential Treatment
+MetaMapLite	C0205099	0.0	3428	3434	Center
+MetaMapLite	C3484370	0.0	3436	3443	program
+MetaMapLite	C1709697	0.0	3436	3443	program
+MetaMapLite	C2728259	0.0	3436	3443	program
+MetaMapLite	C3539129	0.0	3455	3469	legal guardian
+MetaMapLite	C0023226	0.0	3455	3469	legal guardian
+MetaMapLite	C0034866	0.0	3490	3505	recommendations
+MetaMapLite	C1552961	0.0	3514	3519	point
+MetaMapLite	C2347617	0.0	3514	3519	point
+MetaMapLite	C2266673	0.0	3521	3543	DISCHARGE INSTRUCTIONS
+MetaMapLite	C0030705	0.0	3550	3557	patient
+MetaMapLite	C1512346	0.0	3565	3570	visit
+MetaMapLite	C1704221	0.0	3575	3588	family doctor
+MetaMapLite	C0175906	0.0	3590	3602	cardiologist
+MetaMapLite	C0746963	0.0	3608	3614	OB/GYN
+MetaMapLite	C0031831	0.0	3615	3621	doctor
+MetaMapLite	C0205272	0.0	3626	3633	regular
+MetaMapLite	C0332181	0.0	3634	3640	annual
+MetaMapLite	C0598836	0.0	3641	3649	checkups
+MetaMapLite	C1512346	0.0	3663	3668	visit
+MetaMapLite	C0031831	0.0	3682	3689	doctors
+MetaMapLite	C0205485	0.0	3730	3738	physical
+MetaMapLite	C0205476	0.0	3740	3747	medical
+MetaMapLite	C0009818	0.0	3779	3792	consultations
+MetaMapLite	C0030685	0.0	3794	3803	DISCHARGE
+MetaMapLite	C0012621	0.0	3794	3803	DISCHARGE
+MetaMapLite	C0013227	0.0	3804	3814	MEDICATION
+MetaMapLite	C3244316	0.0	3804	3814	MEDICATION
+MetaMapLite	C0287163	0.0	3817	3825	Seroquel
+MetaMapLite	C0994475	0.0	3846	3851	pills
+MetaMapLite	C0807726	0.0	3855	3862	refills
+MetaMapLite	C0287163	0.0	3864	3872	Seroquel
+MetaMapLite	C0700899	0.0	3891	3899	Benadryl
+MetaMapLite	C0860603	0.0	3928	3935	anxiety
+MetaMapLite	C0003467	0.0	3928	3935	anxiety
+MetaMapLite	C0085631	0.0	3939	3948	agitation
+MetaMapLite	C0994475	0.0	3953	3958	pills
+MetaMapLite	C1330606	0.0	3960	3973	Wellbutrin XL
+MetaMapLite	C0042874	0.0	3994	4003	vitamin E
+MetaMapLite	C3714803	0.0	3994	4003	vitamin E
+MetaMapLite	C0994475	0.0	4025	4030	pills
+MetaMapLite	C0723045	0.0	4032	4040	Restoril
+MetaMapLite	C0003467	0.0	4063	4070	anxiety
+MetaMapLite	C0860603	0.0	4063	4070	anxiety
+MetaMapLite	C0994475	0.0	4075	4080	pills
+MetaMapLite	C3665358	0.0	4117	4129	galactorrhea
+MetaMapLite	C0235660	0.0	4117	4129	galactorrhea
+MetaMapLite	C0269995	0.0	4117	4129	galactorrhea
+MetaMapLite	C1317574	0.0	4135	4139	note
+MetaMapLite	C0030705	0.0	4145	4152	patient
+MetaMapLite	C3665358	0.0	4157	4169	galactorrhea
+MetaMapLite	C0022925	0.0	4171	4180	lactation
+MetaMapLite	C0879626	0.0	4187	4198	side effect
+MetaMapLite	C1524063	0.0	4208	4214	use of
+MetaMapLite	C0592071	0.0	4215	4224	Risperdal
+MetaMapLite	C0592071	0.0	4215	4224	Risperdal
+MetaMapLite	C0030705	0.0	4254	4261	patient
+MetaMapLite	C0030705	0.0	4266	4275	patient's
+MetaMapLite	C3539129	0.0	4276	4290	legal guardian
+MetaMapLite	C0023226	0.0	4276	4290	legal guardian
+MetaMapLite	C0205170	0.0	4296	4300	well
+MetaMapLite	C0871525	0.0	4321	4330	therapist
+MetaMapLite	C0007961	0.0	4334	4340	charge
+MetaMapLite	C0028698	0.0	4346	4359	nursing staff
+MetaMapLite	C0743221	0.0	4371	4388	discharge summary
+MetaMapLite	C0205487	0.0	4390	4401	psychiatric
+MetaMapLite	C0349217	0.0	4403	4413	depression
+MetaMapLite	C0011570	0.0	4403	4413	depression
+MetaMapLite	C0011581	0.0	4403	4413	depression
+MetaMapLite	C0344315	0.0	4403	4413	depression
+MetaMapLite	C1579931	0.0	4403	4413	depression
+MetaMapLite	C0683303	0.0	4420	4438	high risk behavior
+MetaMapLite	C0748073	0.0	4440	4462	psychosocial stressors
+MetaMapLite	C0035189	0.0	4469	4490	residential treatment
+MetaMapLite	C0205099	0.0	4491	4497	center
+MetaMapLite	C0003467	0.0	4499	4506	anxious
+MetaMapLite	C1456784	0.0	4508	4516	paranoia
+MetaMapLite	C0204523	0.0	4518	4539	psychiatric treatment
+MetaMapLite	C0033978	0.0	4541	4565	psychotropic medications
+MetaMapLite	C0037313	0.0	4567	4572	sleep
+MetaMapLite	C0023226	0.0	4587	4601	legal guardian
+MetaMapLite	C3539129	0.0	4587	4601	legal guardian
+MetaMapLite	C0012621	0.0	4603	4612	discharge
+MetaMapLite	C0030685	0.0	4603	4612	discharge

@@ -1,0 +1,163 @@
+MetaMapLite	C2347029	0.0	0	11	Sample Type
+MetaMapLite	C0037778	0.0	14	31	Medical Specialty
+MetaMapLite	C0743221	0.0	34	51	Discharge Summary
+MetaMapLite	C0370003	0.0	52	58	Sample
+MetaMapLite	C2347026	0.0	52	58	Sample
+MetaMapLite	C1547383	0.0	59	63	Name
+MetaMapLite	C0027365	0.0	59	63	Name
+MetaMapLite	C0743221	0.0	65	82	Discharge Summary
+MetaMapLite	C0019004	0.0	85	97	Hemodialysis
+MetaMapLite	C0678257	0.0	98	109	Description
+MetaMapLite	C0030705	0.0	116	123	patient
+MetaMapLite	C0019004	0.0	158	170	hemodialysis
+MetaMapLite	C0034991	0.0	175	180	rehab
+MetaMapLite	C0282229	0.0	183	204	Medical Transcription
+MetaMapLite	C2347026	0.0	205	211	Sample
+MetaMapLite	C0370003	0.0	205	211	Sample
+MetaMapLite	C0684224	0.0	212	218	Report
+MetaMapLite	C0700287	0.0	212	218	Report
+MetaMapLite	C0030705	0.0	224	231	patient
+MetaMapLite	C0019004	0.0	266	278	hemodialysis
+MetaMapLite	C0034991	0.0	283	288	rehab
+MetaMapLite	C0012621	0.0	290	299	DISCHARGE
+MetaMapLite	C0030685	0.0	290	299	DISCHARGE
+MetaMapLite	C0011900	0.0	300	309	DIAGNOSES
+MetaMapLite	C2316810	0.0	315	338	End-stage renal disease
+MetaMapLite	C0022661	0.0	315	338	End-stage renal disease
+MetaMapLite	C1300072	0.0	319	324	stage
+MetaMapLite	C0019004	0.0	343	355	hemodialysis
+MetaMapLite	C0262926	0.0	361	368	History
+MetaMapLite	C0019665	0.0	361	368	History
+MetaMapLite	C0019664	0.0	361	368	History
+MetaMapLite	C0262512	0.0	361	368	History
+MetaMapLite	C2004062	0.0	361	368	History
+MetaMapLite	C0080179	0.0	375	393	vertebral fracture
+MetaMapLite	C0012624	0.0	399	407	Diskitis
+MetaMapLite	C0040034	0.0	413	429	Thrombocytopenia
+MetaMapLite	C0018802	0.0	435	459	Congestive heart failure
+MetaMapLite	C2020641	0.0	465	482	ejection fraction
+MetaMapLite	C0489482	0.0	465	482	ejection fraction
+MetaMapLite	C1264633	0.0	474	485	fraction of
+MetaMapLite	C0332232	0.0	486	499	approximately
+MetaMapLite	C0011849	0.0	509	517	Diabetes
+MetaMapLite	C0011860	0.0	509	517	Diabetes
+MetaMapLite	C0441730	0.0	519	525	type 2
+MetaMapLite	C0033684	0.0	531	538	Protein
+MetaMapLite	C0019664	0.0	559	566	History
+MetaMapLite	C2004062	0.0	559	566	History
+MetaMapLite	C0262512	0.0	559	566	History
+MetaMapLite	C0262926	0.0	559	566	History
+MetaMapLite	C0019665	0.0	559	566	History
+MetaMapLite	C0002871	0.0	570	576	anemia
+MetaMapLite	C0262512	0.0	578	585	HISTORY
+MetaMapLite	C0262926	0.0	578	585	HISTORY
+MetaMapLite	C2004062	0.0	578	585	HISTORY
+MetaMapLite	C0019665	0.0	578	585	HISTORY
+MetaMapLite	C0019664	0.0	578	585	HISTORY
+MetaMapLite	C0489547	0.0	590	605	HOSPITAL COURSE
+MetaMapLite	C0030705	0.0	612	619	patient
+MetaMapLite	C0439234	0.0	628	632	year
+MetaMapLite	C0580836	0.0	633	636	old
+MetaMapLite	C0043157	0.0	637	642	white
+MetaMapLite	C0220938	0.0	637	642	white
+MetaMapLite	C0007457	0.0	637	642	white
+MetaMapLite	C0086582	0.0	643	647	male
+MetaMapLite	C0019994	0.0	665	673	Hospital
+MetaMapLite	C3811652	0.0	688	693	April
+MetaMapLite	C3715024	0.0	688	693	April
+MetaMapLite	C3715025	0.0	688	693	April
+MetaMapLite	C0030705	0.0	709	716	patient
+MetaMapLite	C0024090	0.0	735	741	lumbar
+MetaMapLite	C0012624	0.0	742	750	diskitis
+MetaMapLite	C0205231	0.0	776	785	extensive
+MetaMapLite	C0338237	0.0	786	804	antibiotic therapy
+MetaMapLite	C0015127	0.0	820	825	cause
+MetaMapLite	C0019993	0.0	848	863	hospitalization
+MetaMapLite	C0011945	0.0	898	906	dialysis
+MetaMapLite	C1059964	0.0	898	906	dialysis
+MetaMapLite	C0011946	0.0	898	906	dialysis
+MetaMapLite	C1654851	0.0	898	906	dialysis
+MetaMapLite	C1306847	0.0	936	950	rehabilitation
+MetaMapLite	C0034991	0.0	936	950	rehabilitation
+MetaMapLite	C0034992	0.0	936	950	rehabilitation
+MetaMapLite	C0030705	0.0	957	964	patient
+MetaMapLite	C0013227	0.0	979	989	medication
+MetaMapLite	C3244316	0.0	979	989	medication
+MetaMapLite	C0205170	0.0	990	994	well
+MetaMapLite	C0034991	0.0	1020	1025	rehab
+MetaMapLite	C0205170	0.0	1033	1037	well
+MetaMapLite	C0750502	0.0	1050	1061	significant
+MetaMapLite	C0237881	0.0	1050	1061	significant
+MetaMapLite	C0741605	0.0	1090	1095	bouts
+MetaMapLite	C0009806	0.0	1111	1123	constipation
+MetaMapLite	C1963087	0.0	1111	1123	constipation
+MetaMapLite	C0019993	0.0	1150	1165	hospitalization
+MetaMapLite	C0243148	0.0	1197	1204	control
+MetaMapLite	C1882979	0.0	1197	1204	control
+MetaMapLite	C0580822	0.0	1215	1225	aggressive
+MetaMapLite	C0001807	0.0	1215	1225	aggressive
+MetaMapLite	C0376636	0.0	1226	1236	management
+MetaMapLite	C0030705	0.0	1243	1250	patient
+MetaMapLite	C0277797	0.0	1264	1272	afebrile
+MetaMapLite	C2673486	0.0	1309	1327	episodic confusion
+MetaMapLite	C1546466	0.0	1328	1336	problems
+MetaMapLite	C0205172	0.0	1359	1363	more
+MetaMapLite	C0033213	0.0	1389	1396	problem
+MetaMapLite	C1555307	0.0	1441	1448	Promise
+MetaMapLite	C0439228	0.0	1458	1461	day
+MetaMapLite	C0012621	0.0	1465	1474	discharge
+MetaMapLite	C0030685	0.0	1465	1474	discharge
+MetaMapLite	C0030705	0.0	1496	1503	patient
+MetaMapLite	C0205170	0.0	1511	1515	good
+MetaMapLite	C0301611	0.0	1516	1523	spirits
+MetaMapLite	C0442824	0.0	1529	1533	very
+MetaMapLite	C2963144	0.0	1534	1539	clear
+MetaMapLite	C0556994	0.0	1544	1549	lucid
+MetaMapLite	C0277786	0.0	1566	1576	complaints
+MetaMapLite	C0030193	0.0	1580	1584	pain
+MetaMapLite	C0037313	0.0	1617	1622	sleep
+MetaMapLite	C0240526	0.0	1626	1631	night
+MetaMapLite	C0040223	0.0	1635	1640	times
+MetaMapLite	C0037313	0.0	1697	1703	sleeps
+MetaMapLite	C0439228	0.0	1721	1724	day
+MetaMapLite	C0030705	0.0	1731	1738	patient
+MetaMapLite	C0003618	0.0	1757	1765	appetite
+MetaMapLite	C0518766	0.0	1802	1813	vital signs
+MetaMapLite	C0205360	0.0	1821	1827	stable
+MetaMapLite	C1272641	0.0	1834	1848	blood pressure
+MetaMapLite	C0005823	0.0	1834	1848	blood pressure
+MetaMapLite	C0012621	0.0	1852	1861	discharge
+MetaMapLite	C0030685	0.0	1852	1861	discharge
+MetaMapLite	C2197023	0.0	1874	1884	heart rate
+MetaMapLite	C0018810	0.0	1874	1884	heart rate
+MetaMapLite	C0231832	0.0	1892	1908	respiratory rate
+MetaMapLite	C0039476	0.0	1919	1930	temperature
+MetaMapLite	C0005903	0.0	1919	1930	temperature
+MetaMapLite	C0205160	0.0	1950	1958	negative
+MetaMapLite	C0348078	0.0	1968	1972	form
+MetaMapLite	C0030685	0.0	2004	2013	discharge
+MetaMapLite	C0012621	0.0	2004	2013	discharge
+MetaMapLite	C0013227	0.0	2035	2046	medications
+MetaMapLite	C1555307	0.0	2088	2095	Promise
+MetaMapLite	C0030705	0.0	2101	2108	patient
+MetaMapLite	C0015576	0.0	2117	2123	family
+MetaMapLite	C0580931	0.0	2187	2191	care
+MetaMapLite	C1555307	0.0	2212	2219	Promise
+MetaMapLite	C0028811	0.0	2258	2261	job
+MetaMapLite	C0580931	0.0	2269	2273	care
+MetaMapLite	C0205178	0.0	2303	2308	acute
+MetaMapLite	C1261552	0.0	2362	2366	step
+MetaMapLite	C0580931	0.0	2374	2378	care
+MetaMapLite	C1444754	0.0	2416	2422	length
+MetaMapLite	C0332152	0.0	2423	2431	prior to
+MetaMapLite	C2361123	0.0	2432	2449	date of discharge
+MetaMapLite	C0743221	0.0	2461	2478	discharge summary
+MetaMapLite	C2316810	0.0	2480	2503	end-stage renal disease
+MetaMapLite	C0022661	0.0	2480	2503	end-stage renal disease
+MetaMapLite	C1300072	0.0	2484	2489	stage
+MetaMapLite	C0040034	0.0	2505	2521	thrombocytopenia
+MetaMapLite	C0002871	0.0	2523	2529	anemia
+MetaMapLite	C0019993	0.0	2531	2546	hospitalization
+MetaMapLite	C0019004	0.0	2548	2560	hemodialysis
+MetaMapLite	C0034991	0.0	2565	2570	rehab
+MetaMapLite	C0019004	0.0	2572	2584	hemodialysis
