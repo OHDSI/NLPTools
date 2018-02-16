@@ -29,7 +29,7 @@ public class CTakesWrapper {
 	
 	AnalysisEngine aaeInst = null;
 	
-	public CTakesWrapper() throws ResourceInitializationException {
+	public CTakesWrapper() throws Exception {
 		final AnalysisEngineDescription aed = ClinicalPipelineFactory.getFastPipeline();
 	    ResourceManager resMgr = UIMAFramework.newDefaultResourceManager();
 	    aaeInst = UIMAFramework.produceAnalysisEngine(aed, resMgr, null);
@@ -149,7 +149,7 @@ public class CTakesWrapper {
 		ts = System.currentTimeMillis();
 		CTakesWrapper ctakes = new CTakesWrapper();
 		ts1 += System.currentTimeMillis() - ts;
-		System.out.println( "ctakes, " + count + ", " + ts1 / 1000 + " seconds.");
+		System.out.println(String.format("ctakes pipeline initialized in %d seconds", ts1 / 1000));
 		
 		
 		
@@ -170,7 +170,7 @@ public class CTakesWrapper {
 			String ret = ctakes.runDocument( doc );
 			ts1 += System.currentTimeMillis() - ts;
 			count += 1;
-			System.out.println( "ctakes, " + count + ", " + ts1 / 1000 + " seconds.");
+			System.out.println( String.format("ctakes processed %d sample documents in %d seconds.", count, ts1 / 1000));
 			outfile.write( ret );
 			outfile.close();
 		

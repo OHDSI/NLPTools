@@ -1,6 +1,6 @@
 # ohdsi-nlp-wrapper
 
-This repository contains three separate eclipse projects: clamp-wrapper, ctakes-wrapper, metamap-lite-wrapper; Users can import them into eclipse as existing prjects;
+This repository contains three separate eclipse projects: clamp-wrapper, ctakes-wrapper, metamap-lite-wrapper; Users can import them into eclipse as existing projects.
 
 ## download dependencies
 To run the wrapper, users must download the dependent libraries and resources and then place them in the subfolder.
@@ -33,26 +33,29 @@ ctakes-wrapper
 --src
 
 
+
+
+### cTAKES wrapper setup
+
+* Download the latest cTAKES binary file: http://apache.osuosl.org//ctakes/ctakes-4.0.0/apache-ctakes-4.0.0-bin.zip
+* Unzip that file
+* Run ```mkdir -p ctakes-wrapper/lib/ctakes```
+* Copy lib directory into classpath: ```cp -r apache-ctakes-4.0.0/lib <ctakes-wrapper-location>/lib/ctakes/```
+* Copy resource files into classpath: ```cp -r apache-ctakes-4.0.0/resources ctakes-wrapper/lib/ctakes/```
+* Download the official cTAKES UMLS resources: https://downloads.sourceforge.net/project/ctakesresources/sno_rx_16ab.zip
+* Unzip that file into the resources directory: ```unzip sno_rx_16ab.zip -d <ctakes-wrapper-location>/lib/ctakes/resources/org/apache/ctakes/dictionary/lookup/fast/```
+* Setup your UMLS credentials in this file:
+  ```<ctakes-wrapper-location>/lib/ctakes/resources/org/apache/ctakes/dictionary/lookup/fast/sno_rx_16ab.xml```
+  * There are two places where you need to replace ```YOUR_UMLS_USER_NAME``` with your UMLS user name and ```YOUR_UMLS_USER_PASSWORD``` with your UMLS password.
+* Now you should be able to run the class in the ctakes-wrapper project.
+
 Here are download links
 
 clamp wrapper resources:
 https://drive.google.com/open?id=1uzvWZPebq3DYZNPFNm2Ise354IWuyADo
 
-ctake wrapper resources:
-https://drive.google.com/open?id=1qYqK5FZm5zJgTttCXxXd_Ufa0ffmKjAc
-
 metamap lite wrapper resources:
 https://drive.google.com/open?id=1sjUad3KYbBtI1iFz3iw_LW4fdtu4q1UZ
-
-## set UMLS account
-For cTAKES wrapper, edit this file:
-
-./lib/ctakes/resources/org/apache/ctakes/dictionary/lookup/fast/cTakesHsql.xml
-
-property key="umlsUser" value="YOUR_UMLS_USER_NAME"
-
-property key="umlsPass" value="YOUR_UMLS_USER_PASSWORD"
-
 
 For CLAMP wrapper, write them in the java code:
 
