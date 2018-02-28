@@ -43,11 +43,12 @@ ctakes-wrapper
 * Copy lib directory into classpath: ```cp -r apache-ctakes-4.0.0/lib <ctakes-wrapper-location>/lib/ctakes/```
 * Copy resource files into classpath: ```cp -r apache-ctakes-4.0.0/resources ctakes-wrapper/lib/ctakes/```
 * Download the official cTAKES UMLS resources: https://downloads.sourceforge.net/project/ctakesresources/sno_rx_16ab.zip
-* Unzip that file into the resources directory: ```unzip sno_rx_16ab.zip -d <ctakes-wrapper-location>/lib/ctakes/resources/org/apache/ctakes/dictionary/lookup/fast/```
+* Run ```mkdir -p ctakes-wrapper/resources/org/apache/ctakes/dictionary/lookup/fast```
+* Unzip that file into the resources directory: ```unzip sno_rx_16ab.zip -d <ctakes-wrapper-location>/resources/org/apache/ctakes/dictionary/lookup/fast/```
 * Setup your UMLS credentials in this file:
   ```<ctakes-wrapper-location>/lib/ctakes/resources/org/apache/ctakes/dictionary/lookup/fast/sno_rx_16ab.xml```
-  * There are two places where you need to replace ```YOUR_UMLS_USER_NAME``` with your UMLS user name and ```YOUR_UMLS_USER_PASSWORD``` with your UMLS password.
-* Now you should be able to run the class in the ctakes-wrapper project.
+  * There are two places where you need to replace ```CHANGE_ME``` with your UMLS user name and your UMLS password.
+* Now you should be able to run the class in the ctakes-wrapper project. This version of cTAKES makes use of large machine learning models and should be run with at least 2GB RAM. To do this in Eclipse, in the run configuration dialog, under the Arguments tab, add "-mx2g" to the VM Arguments text field.
 
 Here are download links
 
