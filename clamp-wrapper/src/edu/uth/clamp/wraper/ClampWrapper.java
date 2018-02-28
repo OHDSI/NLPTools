@@ -184,8 +184,7 @@ public class ClampWrapper {
 		int count = 0;
 		
 		ts = System.currentTimeMillis();
-		//ClampWrapper clamp = new ClampWrapper( "resources/clamp/clamp-ner-attribute.pipeline", "YOUR_UMLS_USER_NAME", "YOUR_UMLS_USER_PASSWORD", "resources/clamp/umls_index/", "resources/clamp/rxnorm_index/" );
-		ClampWrapper clamp = new ClampWrapper( "resources/clamp/clamp-ner-attribute.pipeline", "jingqiwang", "jingqiwang123!", "resources/clamp/umls_index/", "resources/clamp/rxnorm_index/" );
+		ClampWrapper clamp = new ClampWrapper( "resources/clamp/clamp-ner-attribute.pipeline", "YOUR_UMLS_USER_NAME", "YOUR_UMLS_USER_PASSWORD", "resources/clamp/umls_index/", "resources/clamp/rxnorm_index/" );
 		ts1 += System.currentTimeMillis() - ts;
 		System.out.println( "Clamp, " + count + ", " + ts1 / 1000 + " seconds.");
 		
