@@ -16,6 +16,8 @@ import java.util.Map;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.uima.UIMAException;
+import org.apache.uima.fit.util.CasIOUtil;
+import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 
 import clamp.license.control.ClampLicenseFile;
@@ -77,8 +79,7 @@ public class ClampWrapper {
 		}
 	}
 	
-	
-	public String runDocument( String docStr ) throws UIMAException {
+	public JCas runDocument( String docStr ) throws UIMAException {
 		JCas aJCas = XmiUtil.createJCas();
 		aJCas.setDocumentText( docStr );
 		for( DocProcessor proc : procList ) {
@@ -87,7 +88,10 @@ public class ClampWrapper {
 			}
 			proc.process( aJCas );
 		}
-
+		return aJCas;
+	}
+	
+	public String getTextResult( JCas aJCas )  {
 		Document doc = new Document( aJCas );
 		StringBuilder sb = new StringBuilder();
 		
@@ -180,7 +184,8 @@ public class ClampWrapper {
 		int count = 0;
 		
 		ts = System.currentTimeMillis();
-		ClampWrapper clamp = new ClampWrapper( "resources/clamp/clamp-ner-attribute.pipeline", "YOUR_UMLS_USER_NAME", "YOUR_UMLS_USER_PASSWORD", "resources/clamp/umls_index/", "resources/clamp/rxnorm_index/" );
+		//ClampWrapper clamp = new ClampWrapper( "resources/clamp/clamp-ner-attribute.pipeline", "YOUR_UMLS_USER_NAME", "YOUR_UMLS_USER_PASSWORD", "resources/clamp/umls_index/", "resources/clamp/rxnorm_index/" );
+		ClampWrapper clamp = new ClampWrapper( "resources/clamp/clamp-ner-attribute.pipeline", "jingqiwang", "jingqiwang123!", "resources/clamp/umls_index/", "resources/clamp/rxnorm_index/" );
 		ts1 += System.currentTimeMillis() - ts;
 		System.out.println( "Clamp, " + count + ", " + ts1 / 1000 + " seconds.");
 		
@@ -197,13 +202,16 @@ public class ClampWrapper {
 			System.out.println( file.getName() );
 
 			String doc = IOUtils.toString( new FileReader( file ) );
-			FileWriter outfile = new FileWriter( new File( "output/" + file.getName() ) );
-
+			
 			ts = System.currentTimeMillis();
-			String ret = clamp.runDocument( doc );
+			JCas aJCas = clamp.runDocument( doc );
+			System.out.println( "clamp, " + count + ", " + ts1 / 1000 + " seconds.");
+			CasIOUtil.writeXCas( aJCas, new File( "output_xmi/" + file.getName() + ".xmi" ) );
+			
+			String ret = clamp.getTextResult( aJCas );
 			ts1 += System.currentTimeMillis() - ts;
 			count += 1;
-			System.out.println( "clamp, " + count + ", " + ts1 / 1000 + " seconds.");
+			FileWriter outfile = new FileWriter( new File( "output/" + file.getName() ) );
 			outfile.write( ret );
 			outfile.close();
 			

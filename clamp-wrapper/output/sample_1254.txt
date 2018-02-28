@@ -1,52 +1,52 @@
-NONEHEADER	: Discharge Summary Sample Name : Abscess with Cellulitis - Discharge Summary	65-72	Abscess	CLAMP	C0000833 SNOMEDCT_US[44132006, 128477000]	02/14/2018	02/14/2018 10:54:11	True		
-NONEHEADER	Summary Sample Name : Abscess with Cellulitis - Discharge Summary	78-88	Cellulitis	CLAMP	C0007642 SNOMEDCT_US[128045006, 385627004]	02/14/2018	02/14/2018 10:54:11	True		
-description	Description : Incision and drainage , first metatarsal head ,	123-131	Incision	CLAMP	C0184898	02/14/2018	02/14/2018 10:54:11	True		
-description	Description : Incision and drainage , first metatarsal head , left foot with	136-144	drainage	CLAMP	C0013103	02/14/2018	02/14/2018 10:54:11	True		
-description	, first metatarsal head , left foot with culture and sensitivity . ( Medical Transcription Sample Report )	184-207	culture and sensitivity	CLAMP	C0430387	02/14/2018	02/14/2018 10:54:11	True		
-description	Sample Report ) ADMITTING DIAGNOSIS : Abscess with cellulitis , left foot . DISCHARGE	269-276	Abscess	CLAMP	C0000833 SNOMEDCT_US[44132006, 128477000]	02/14/2018	02/14/2018 10:54:11	True		
-description	) ADMITTING DIAGNOSIS : Abscess with cellulitis , left foot . DISCHARGE DIAGNOSIS :	282-292	cellulitis	CLAMP	C0007642 SNOMEDCT_US[128045006, 385627004]	02/14/2018	02/14/2018 10:54:11	True		
-description	foot . DISCHARGE DIAGNOSIS : Status post I & D , left foot .	339-342	I&D	CLAMP	C0152277	02/14/2018	02/14/2018 10:54:11	True		
-procedures	PROCEDURES : Incision and drainage , first metatarsal head ,	368-376	Incision	CLAMP	C0184898	02/14/2018	02/14/2018 10:54:11	True		
-procedures	PROCEDURES : Incision and drainage , first metatarsal head , left foot with	381-389	drainage	CLAMP	C0013103	02/14/2018	02/14/2018 10:54:11	True		
-procedures	, first metatarsal head , left foot with culture and sensitivity .	429-452	culture and sensitivity	CLAMP	C0430387	02/14/2018	02/14/2018 10:54:11	True		
-history_present_illness	X ' s office on 06 / 14 / 07 complaining of a painful left foot . The patient had been treated	552-569	painful left foot	CLAMP	C2141243 SNOMEDCT_US[316751000119107]	02/14/2018	02/14/2018 10:54:11	True		BDL=[left foot]
-history_present_illness	symptoms progressed with the need of incision and drainage being decided .	693-701	incision	CLAMP	C0184898	02/14/2018	02/14/2018 10:54:11	True		
-history_present_illness	with the need of incision and drainage being decided .	706-714	drainage	CLAMP	C0013103	02/14/2018	02/14/2018 10:54:11	True	5 days	temporal=[5 days]
-medications	MEDICATIONS : Ancef IV .	744-752	Ancef IV	CLAMP	C0700926	02/14/2018	02/14/2018 10:54:11	True		
-medications	MEDICATIONS : Ancef IV .	744-749	Ancef	CLAMP	C0700926, RxNorm=[203483], Generic=[203483]	02/14/2018	02/14/2018 10:54:11	True		RUT=[IV]
-allergies_and_adverse_reactions	ALLERGIES : ACCUTANE .	766-774	ACCUTANE	CLAMP	C0699581, RxNorm=[202795], Generic=[202795]	02/14/2018	02/14/2018 10:54:11	True		
-physical_examination	pedal pulses noted bilaterally . Capillary refill time less than 3 seconds , digits 1	886-902	Capillary refill	CLAMP	C0425716	02/14/2018	02/14/2018 10:54:11	True	3 seconds	temporal=[3 seconds]
-physical_examination	Epicritic sensation intact bilateral . Muscle strength + 5 / 5 , dorsiflexors , plantar flexors ,	1050-1065	Muscle strength	CLAMP	C0517349	02/14/2018	02/14/2018 10:54:11	True		labvalue=[5/5]
-physical_examination	, invertors , evertors . Left foot with erythema , edema , positive tenderness noted , left	1140-1148	erythema	CLAMP	C0041834 SNOMEDCT_US[70819003, 247441003, 86735004, 444827008]	02/14/2018	02/14/2018 10:54:11	True		BDL=[Left foot]
-physical_examination	, evertors . Left foot with erythema , edema , positive tenderness noted , left	1150-1155	edema	CLAMP	C0013604 SNOMEDCT_US[267038008, 79654002, 423666004, 20741006]	02/14/2018	02/14/2018 10:54:11	True		BDL=[Left foot]
-physical_examination	foot with erythema , edema , positive tenderness noted , left forefoot area . LABORATORY :	1166-1176	tenderness	CLAMP	C0234234 SNOMEDCT_US[300820003]	02/14/2018	02/14/2018 10:54:11	True		BDL=[Left foot]
-physical_examination	noted , left forefoot area . LABORATORY : White blood cell count never was abnormal . The remaining	1217-1239	White blood cell count	CLAMP	C0023508	02/14/2018	02/14/2018 10:54:11	True		
-physical_examination	. The remaining within normal limits . X - ray is negative for osteomyelitis . On 06 /	1298-1303	X-ray	CLAMP	C0043309	02/14/2018	02/14/2018 10:54:11	True		labvalue=[negative]
-physical_examination	normal limits . X - ray is negative for osteomyelitis . On 06 / 14 / 07 , the patient was taken to	1320-1333	osteomyelitis	CLAMP	C0029443 SNOMEDCT_US[60168000]	02/14/2018	02/14/2018 10:54:11	False		NEG=[negative for]
-physical_examination	07 , the patient was taken to the OR for incision and drainage of left foot abscess . The patient tolerated the procedure	1385-1427	incision and drainage of left foot abscess	CLAMP	C2048601	02/14/2018	02/14/2018 10:54:11	True	06/14/07	temporal=[06/14/07]
-physical_examination	foot abscess . The patient tolerated the procedure well and was admitted and placed on	1452-1465	the procedure	CLAMP	C0191838	02/14/2018	02/14/2018 10:54:11	True		
-physical_examination	well and was admitted and placed on vancomycin 1 g q . 12h after surgery and later	1502-1512	vancomycin	CLAMP	RxNorm=[313572], Generic=[11124]	02/14/2018	02/14/2018 10:54:11	True		RUT=[IV], FREQ=[every 8 hours], STRENGTH=[1 g]
-physical_examination	changed Ancef 2 g IV every 8 hours . Postop wound care consists of Aquacel Ag and dry dressing	1584-1601	Postop wound care	CLAMP	C0032786	02/14/2018	02/14/2018 10:54:11	True		
-physical_examination	8 hours . Postop wound care consists of Aquacel Ag and dry dressing to the surgical site	1614-1624	Aquacel Ag	CLAMP	C3832326	02/14/2018	02/14/2018 10:54:11	True		
-physical_examination	wound care consists of Aquacel Ag and dry dressing to the surgical site everyday and the	1629-1641	dry dressing	CLAMP	C3494912	02/14/2018	02/14/2018 10:54:11	True		
-physical_examination	The patient progressively improved with IV antibiotics and local wound care and was discharged	1772-1786	IV antibiotics	CLAMP	C3845195	02/14/2018	02/14/2018 10:54:11	True		
-physical_examination	improved with IV antibiotics and local wound care and was discharged from the hospital on	1791-1807	local wound care	CLAMP	C0886052	02/14/2018	02/14/2018 10:54:11	True		
-medications	DISCHARGE MEDICATIONS : Lorcet 10 / 650 mg , dispense 24 tablets , one tablet to	1905-1918	Lorcet 10/650	CLAMP	C2710827, RxNorm=[857384], Generic=[857384]	02/14/2018	02/14/2018 10:54:11	True		RUT=[by mouth], DOSEAMT=[24 tablets], STRENGTH=[10/650 mg], NEC=[as needed]
-medications	DISCHARGE MEDICATIONS : Lorcet 10 / 650 mg , dispense 24 tablets , one	1905-1911	Lorcet	CLAMP	C1512524	02/14/2018	02/14/2018 10:54:11	True		
-medications	to be taken by mouth q . 6h as needed for pain . The patient was continued on Ancef 2	1995-1999	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/14/2018	02/14/2018 10:54:11	False		CON=[as needed for]
-medications	for pain . The patient was continued on Ancef 2 g IV via PICC line and home health	2031-2036	Ancef	CLAMP	C0700926, RxNorm=[203483], Generic=[203483]	02/14/2018	02/14/2018 10:54:11	True		RUT=[IV], STRENGTH=[2 g]
-medications	line and home health administration of IV antibiotics .	2092-2106	IV antibiotics	CLAMP	C3845195	02/14/2018	02/14/2018 10:54:11	True		
-discharge_instructions	of rest . The patient is to wear surgical shoe at all times for ambulation and to	2219-2232	surgical shoe	CLAMP	C0491183	02/14/2018	02/14/2018 10:54:11	True		
-discharge_instructions	written and oral instruction about wound care before discharge . Prior to discharge ,	2487-2497	wound care	CLAMP	C0886052	02/14/2018	02/14/2018 10:54:11	True		
-discharge_instructions	discharge , the patient was noted to be afebrile . All vitals were stable . The patient '	2565-2573	afebrile	CLAMP	C0277797 SNOMEDCT_US[86699002]	02/14/2018	02/14/2018 10:54:11	True		
-discharge_instructions	patient was noted to be afebrile . All vitals were stable . The patient ' s questions	2580-2586	vitals	CLAMP	C0442732	02/14/2018	02/14/2018 10:54:11	True		
-discharge_summary	discharge summary , accutane , metatarsal head left foot , abscess	2779-2787	accutane	CLAMP	C0699581, RxNorm=[202795], Generic=[202795]	02/14/2018	02/14/2018 10:54:11	True		
-discharge_summary	, accutane , metatarsal head left foot , abscess with cellulitis , culture and	2816-2823	abscess	CLAMP	C0000833 SNOMEDCT_US[44132006, 128477000]	02/14/2018	02/14/2018 10:54:11	True		
-discharge_summary	metatarsal head left foot , abscess with cellulitis , culture and sensitivity , incision and	2829-2839	cellulitis	CLAMP	C0007642 SNOMEDCT_US[128045006, 385627004]	02/14/2018	02/14/2018 10:54:11	True		
-discharge_summary	left foot , abscess with cellulitis , culture and sensitivity , incision and drainage , metatarsal head	2841-2864	culture and sensitivity	CLAMP	C0430387	02/14/2018	02/14/2018 10:54:11	True		
-discharge_summary	cellulitis , culture and sensitivity , incision and drainage , metatarsal head , foot , cellulitis ,	2866-2887	incision and drainage	CLAMP	C0152277	02/14/2018	02/14/2018 10:54:11	True		
-discharge_summary	and drainage , metatarsal head , foot , cellulitis , ancef , abscess , incision , drainage ,	2912-2922	cellulitis	CLAMP	C0007642 SNOMEDCT_US[128045006, 385627004]	02/14/2018	02/14/2018 10:54:11	True		
-discharge_summary	, metatarsal head , foot , cellulitis , ancef , abscess , incision , drainage ,	2924-2929	ancef	CLAMP	C0700926, RxNorm=[203483], Generic=[203483]	02/14/2018	02/14/2018 10:54:11	True		
-discharge_summary	head , foot , cellulitis , ancef , abscess , incision , drainage ,	2931-2938	abscess	CLAMP	C0000833 SNOMEDCT_US[44132006, 128477000]	02/14/2018	02/14/2018 10:54:11	True		
-discharge_summary	head , foot , cellulitis , ancef , abscess , incision , drainage ,	2940-2948	incision	CLAMP	C0184898	02/14/2018	02/14/2018 10:54:11	True		
-discharge_summary	, cellulitis , ancef , abscess , incision , drainage ,	2950-2958	drainage	CLAMP	C0013103	02/14/2018	02/14/2018 10:54:11	True		
+NONEHEADER	: Discharge Summary Sample Name : Abscess with Cellulitis - Discharge Summary	65-72	Abscess	CLAMP	C0000833 SNOMEDCT_US[44132006, 128477000]	02/28/2018	02/28/2018 15:33:04	True		
+NONEHEADER	Summary Sample Name : Abscess with Cellulitis - Discharge Summary	78-88	Cellulitis	CLAMP	C0007642 SNOMEDCT_US[128045006, 385627004]	02/28/2018	02/28/2018 15:33:04	True		
+description	Description : Incision and drainage , first metatarsal head ,	123-131	Incision	CLAMP	C0184898	02/28/2018	02/28/2018 15:33:04	True		
+description	Description : Incision and drainage , first metatarsal head , left foot with	136-144	drainage	CLAMP	C0013103	02/28/2018	02/28/2018 15:33:04	True		
+description	, first metatarsal head , left foot with culture and sensitivity . ( Medical Transcription Sample Report )	184-207	culture and sensitivity	CLAMP	C0430387	02/28/2018	02/28/2018 15:33:04	True		
+description	Sample Report ) ADMITTING DIAGNOSIS : Abscess with cellulitis , left foot . DISCHARGE	269-276	Abscess	CLAMP	C0000833 SNOMEDCT_US[44132006, 128477000]	02/28/2018	02/28/2018 15:33:04	True		
+description	) ADMITTING DIAGNOSIS : Abscess with cellulitis , left foot . DISCHARGE DIAGNOSIS :	282-292	cellulitis	CLAMP	C0007642 SNOMEDCT_US[128045006, 385627004]	02/28/2018	02/28/2018 15:33:04	True		
+description	foot . DISCHARGE DIAGNOSIS : Status post I & D , left foot .	339-342	I&D	CLAMP	C0152277	02/28/2018	02/28/2018 15:33:04	True		
+procedures	PROCEDURES : Incision and drainage , first metatarsal head ,	368-376	Incision	CLAMP	C0184898	02/28/2018	02/28/2018 15:33:04	True		
+procedures	PROCEDURES : Incision and drainage , first metatarsal head , left foot with	381-389	drainage	CLAMP	C0013103	02/28/2018	02/28/2018 15:33:04	True		
+procedures	, first metatarsal head , left foot with culture and sensitivity .	429-452	culture and sensitivity	CLAMP	C0430387	02/28/2018	02/28/2018 15:33:04	True		
+history_present_illness	X ' s office on 06 / 14 / 07 complaining of a painful left foot . The patient had been treated	552-569	painful left foot	CLAMP	C2141243 SNOMEDCT_US[316751000119107]	02/28/2018	02/28/2018 15:33:04	True		BDL=[left foot]
+history_present_illness	symptoms progressed with the need of incision and drainage being decided .	693-701	incision	CLAMP	C0184898	02/28/2018	02/28/2018 15:33:04	True		
+history_present_illness	with the need of incision and drainage being decided .	706-714	drainage	CLAMP	C0013103	02/28/2018	02/28/2018 15:33:04	True	5 days	temporal=[5 days]
+medications	MEDICATIONS : Ancef IV .	744-752	Ancef IV	CLAMP	C0700926	02/28/2018	02/28/2018 15:33:04	True		
+medications	MEDICATIONS : Ancef IV .	744-749	Ancef	CLAMP	C0700926, RxNorm=[203483], Generic=[203483]	02/28/2018	02/28/2018 15:33:04	True		RUT=[IV]
+allergies_and_adverse_reactions	ALLERGIES : ACCUTANE .	766-774	ACCUTANE	CLAMP	C0699581, RxNorm=[202795], Generic=[202795]	02/28/2018	02/28/2018 15:33:04	True		
+physical_examination	pedal pulses noted bilaterally . Capillary refill time less than 3 seconds , digits 1	886-902	Capillary refill	CLAMP	C0425716	02/28/2018	02/28/2018 15:33:04	True	3 seconds	temporal=[3 seconds]
+physical_examination	Epicritic sensation intact bilateral . Muscle strength + 5 / 5 , dorsiflexors , plantar flexors ,	1050-1065	Muscle strength	CLAMP	C0517349	02/28/2018	02/28/2018 15:33:04	True		labvalue=[5/5]
+physical_examination	, invertors , evertors . Left foot with erythema , edema , positive tenderness noted , left	1140-1148	erythema	CLAMP	C0041834 SNOMEDCT_US[70819003, 247441003, 86735004, 444827008]	02/28/2018	02/28/2018 15:33:04	True		BDL=[Left foot]
+physical_examination	, evertors . Left foot with erythema , edema , positive tenderness noted , left	1150-1155	edema	CLAMP	C0013604 SNOMEDCT_US[267038008, 79654002, 423666004, 20741006]	02/28/2018	02/28/2018 15:33:04	True		BDL=[Left foot]
+physical_examination	foot with erythema , edema , positive tenderness noted , left forefoot area . LABORATORY :	1166-1176	tenderness	CLAMP	C0234234 SNOMEDCT_US[300820003]	02/28/2018	02/28/2018 15:33:04	True		BDL=[Left foot]
+physical_examination	noted , left forefoot area . LABORATORY : White blood cell count never was abnormal . The remaining	1217-1239	White blood cell count	CLAMP	C0023508	02/28/2018	02/28/2018 15:33:04	True		
+physical_examination	. The remaining within normal limits . X - ray is negative for osteomyelitis . On 06 /	1298-1303	X-ray	CLAMP	C0043309	02/28/2018	02/28/2018 15:33:04	True		labvalue=[negative]
+physical_examination	normal limits . X - ray is negative for osteomyelitis . On 06 / 14 / 07 , the patient was taken to	1320-1333	osteomyelitis	CLAMP	C0029443 SNOMEDCT_US[60168000]	02/28/2018	02/28/2018 15:33:04	False		NEG=[negative for]
+physical_examination	07 , the patient was taken to the OR for incision and drainage of left foot abscess . The patient tolerated the procedure	1385-1427	incision and drainage of left foot abscess	CLAMP	C2048601	02/28/2018	02/28/2018 15:33:04	True	06/14/07	temporal=[06/14/07]
+physical_examination	foot abscess . The patient tolerated the procedure well and was admitted and placed on	1452-1465	the procedure	CLAMP	C0191838	02/28/2018	02/28/2018 15:33:04	True		
+physical_examination	well and was admitted and placed on vancomycin 1 g q . 12h after surgery and later	1502-1512	vancomycin	CLAMP	RxNorm=[313572], Generic=[11124]	02/28/2018	02/28/2018 15:33:04	True		RUT=[IV], FREQ=[every 8 hours], STRENGTH=[1 g]
+physical_examination	changed Ancef 2 g IV every 8 hours . Postop wound care consists of Aquacel Ag and dry dressing	1584-1601	Postop wound care	CLAMP	C0032786	02/28/2018	02/28/2018 15:33:04	True		
+physical_examination	8 hours . Postop wound care consists of Aquacel Ag and dry dressing to the surgical site	1614-1624	Aquacel Ag	CLAMP	C3832326	02/28/2018	02/28/2018 15:33:04	True		
+physical_examination	wound care consists of Aquacel Ag and dry dressing to the surgical site everyday and the	1629-1641	dry dressing	CLAMP	C3494912	02/28/2018	02/28/2018 15:33:04	True		
+physical_examination	The patient progressively improved with IV antibiotics and local wound care and was discharged	1772-1786	IV antibiotics	CLAMP	C3845195	02/28/2018	02/28/2018 15:33:04	True		
+physical_examination	improved with IV antibiotics and local wound care and was discharged from the hospital on	1791-1807	local wound care	CLAMP	C0886052	02/28/2018	02/28/2018 15:33:04	True		
+medications	DISCHARGE MEDICATIONS : Lorcet 10 / 650 mg , dispense 24 tablets , one tablet to	1905-1918	Lorcet 10/650	CLAMP	C2710827, RxNorm=[857384], Generic=[857384]	02/28/2018	02/28/2018 15:33:04	True		RUT=[by mouth], DOSEAMT=[24 tablets], STRENGTH=[10/650 mg], NEC=[as needed]
+medications	DISCHARGE MEDICATIONS : Lorcet 10 / 650 mg , dispense 24 tablets , one	1905-1911	Lorcet	CLAMP	C1512524	02/28/2018	02/28/2018 15:33:04	True		
+medications	to be taken by mouth q . 6h as needed for pain . The patient was continued on Ancef 2	1995-1999	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/28/2018	02/28/2018 15:33:04	False		CON=[as needed for]
+medications	for pain . The patient was continued on Ancef 2 g IV via PICC line and home health	2031-2036	Ancef	CLAMP	C0700926, RxNorm=[203483], Generic=[203483]	02/28/2018	02/28/2018 15:33:04	True		RUT=[IV], STRENGTH=[2 g]
+medications	line and home health administration of IV antibiotics .	2092-2106	IV antibiotics	CLAMP	C3845195	02/28/2018	02/28/2018 15:33:04	True		
+discharge_instructions	of rest . The patient is to wear surgical shoe at all times for ambulation and to	2219-2232	surgical shoe	CLAMP	C0491183	02/28/2018	02/28/2018 15:33:04	True		
+discharge_instructions	written and oral instruction about wound care before discharge . Prior to discharge ,	2487-2497	wound care	CLAMP	C0886052	02/28/2018	02/28/2018 15:33:04	True		
+discharge_instructions	discharge , the patient was noted to be afebrile . All vitals were stable . The patient '	2565-2573	afebrile	CLAMP	C0277797 SNOMEDCT_US[86699002]	02/28/2018	02/28/2018 15:33:04	True		
+discharge_instructions	patient was noted to be afebrile . All vitals were stable . The patient ' s questions	2580-2586	vitals	CLAMP	C0442732	02/28/2018	02/28/2018 15:33:04	True		
+discharge_summary	discharge summary , accutane , metatarsal head left foot , abscess	2779-2787	accutane	CLAMP	C0699581, RxNorm=[202795], Generic=[202795]	02/28/2018	02/28/2018 15:33:04	True		
+discharge_summary	, accutane , metatarsal head left foot , abscess with cellulitis , culture and	2816-2823	abscess	CLAMP	C0000833 SNOMEDCT_US[44132006, 128477000]	02/28/2018	02/28/2018 15:33:04	True		
+discharge_summary	metatarsal head left foot , abscess with cellulitis , culture and sensitivity , incision and	2829-2839	cellulitis	CLAMP	C0007642 SNOMEDCT_US[128045006, 385627004]	02/28/2018	02/28/2018 15:33:04	True		
+discharge_summary	left foot , abscess with cellulitis , culture and sensitivity , incision and drainage , metatarsal head	2841-2864	culture and sensitivity	CLAMP	C0430387	02/28/2018	02/28/2018 15:33:04	True		
+discharge_summary	cellulitis , culture and sensitivity , incision and drainage , metatarsal head , foot , cellulitis ,	2866-2887	incision and drainage	CLAMP	C0152277	02/28/2018	02/28/2018 15:33:04	True		
+discharge_summary	and drainage , metatarsal head , foot , cellulitis , ancef , abscess , incision , drainage ,	2912-2922	cellulitis	CLAMP	C0007642 SNOMEDCT_US[128045006, 385627004]	02/28/2018	02/28/2018 15:33:04	True		
+discharge_summary	, metatarsal head , foot , cellulitis , ancef , abscess , incision , drainage ,	2924-2929	ancef	CLAMP	C0700926, RxNorm=[203483], Generic=[203483]	02/28/2018	02/28/2018 15:33:04	True		
+discharge_summary	head , foot , cellulitis , ancef , abscess , incision , drainage ,	2931-2938	abscess	CLAMP	C0000833 SNOMEDCT_US[44132006, 128477000]	02/28/2018	02/28/2018 15:33:04	True		
+discharge_summary	head , foot , cellulitis , ancef , abscess , incision , drainage ,	2940-2948	incision	CLAMP	C0184898	02/28/2018	02/28/2018 15:33:04	True		
+discharge_summary	, cellulitis , ancef , abscess , incision , drainage ,	2950-2958	drainage	CLAMP	C0013103	02/28/2018	02/28/2018 15:33:04	True		

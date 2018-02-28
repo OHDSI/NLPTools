@@ -1,39 +1,39 @@
-NONEHEADER	: Discharge Summary Sample Name : Knee Osteoarthrosis - Discharge Summary	65-84	Knee Osteoarthrosis	CLAMP	C0409959 SNOMEDCT_US[239873007]	02/14/2018	02/14/2018 10:54:17	True		BDL=[Knee]
-description	Description : A 66 - year - old female with knee osteoarthrosis who failed conservative management . (	145-164	knee osteoarthrosis	CLAMP	C0409959 SNOMEDCT_US[239873007]	02/14/2018	02/14/2018 10:54:17	True		BDL=[knee]
-description	Sample Report ) PRINCIPAL DIAGNOSIS : Knee osteoarthrosis . PRINCIPAL PROCEDURE : Total knee	261-280	Knee osteoarthrosis	CLAMP	C0409959 SNOMEDCT_US[239873007]	02/14/2018	02/14/2018 10:54:17	True		BDL=[Knee]
-description	osteoarthrosis . PRINCIPAL PROCEDURE : Total knee arthroplasty .	304-327	Total knee arthroplasty	CLAMP	C0086511	02/14/2018	02/14/2018 10:54:17	True		
-general_history_and_physical	PHYSICAL : A 66 - year - old female with knee osteoarthrosis . Failed conservative management .	378-397	knee osteoarthrosis	CLAMP	C0409959	02/14/2018	02/14/2018 10:54:17	True		
-consent	was obtained . PAST SURGICAL HISTORY : Right knee surgery , cosmetic surgery , and carotid sinus	555-573	Right knee surgery	CLAMP	C2110635	02/14/2018	02/14/2018 10:54:17	True		
-consent	SURGICAL HISTORY : Right knee surgery , cosmetic surgery , and carotid sinus surgery .	575-591	cosmetic surgery	CLAMP	C0079169	02/14/2018	02/14/2018 10:54:17	True		
-consent	SURGICAL HISTORY : Right knee surgery , cosmetic surgery , and carotid sinus surgery .	575-583	cosmetic	CLAMP	RxNorm=[2887], Generic=[2887]	02/14/2018	02/14/2018 10:54:17	True		
-consent	knee surgery , cosmetic surgery , and carotid sinus surgery .	597-618	carotid sinus surgery	CLAMP	C2095448	02/14/2018	02/14/2018 10:54:17	True		
-medications	MEDICATIONS : Mirapex , ibuprofen , and Ambien .	634-641	Mirapex	CLAMP	RxNorm=[218402], Generic=[218402]	02/14/2018	02/14/2018 10:54:17	True		
-medications	MEDICATIONS : Mirapex , ibuprofen , and Ambien .	643-652	ibuprofen	CLAMP	C0020740, RxNorm=[5640], Generic=[5640]	02/14/2018	02/14/2018 10:54:17	True		
-medications	MEDICATIONS : Mirapex , ibuprofen , and Ambien .	658-664	Ambien	CLAMP	C0487782, RxNorm=[131725], Generic=[131725]	02/14/2018	02/14/2018 10:54:17	True		
-allergies_and_adverse_reactions	ALLERGIES : QUESTIONABLE PENICILLIN ALLERGIES .	691-711	PENICILLIN ALLERGIES	CLAMP	C0030824 SNOMEDCT_US[91936005]	02/14/2018	02/14/2018 10:54:17	True		UNC=[QUESTIONABLE]
-allergies_and_adverse_reactions	ALLERGIES : QUESTIONABLE PENICILLIN ALLERGIES .	691-701	PENICILLIN	CLAMP	RxNorm=[7986], Generic=[7986]	02/14/2018	02/14/2018 10:54:17	True		
-physical_examination	Examination of her gait reveals she walks without assistive	795-818	Examination of her gait	CLAMP	C0558820	02/14/2018	02/14/2018 10:54:17	True		
-physical_examination	and atraumatic . CHEST : Clear to auscultation . CARDIOVASCULAR : Regular rate and	919-931	auscultation	CLAMP	C0004339	02/14/2018	02/14/2018 10:54:17	True		
-physical_examination	auscultation . CARDIOVASCULAR : Regular rate and rhythm . ABDOMEN : Soft . EXTREMITIES	958-962	rate	CLAMP	C1521828	02/14/2018	02/14/2018 10:54:17	True		
-hospital_course	room ( OR ) on 03 / 15 / 2007 . She underwent right total knee arthroplasty . She tolerated this well . She was	1134-1163	right total knee arthroplasty	CLAMP	C0086511	02/14/2018	02/14/2018 10:54:17	True		
-hospital_course	floor . Mechanical and chemical deep venous thrombosis ( DVT ) prophylaxis were initiated . Routine postoperative	1336-1376	deep venous thrombosis (DVT) prophylaxis	CLAMP	C0853245	02/14/2018	02/14/2018 10:54:17	True		
-hospital_course	) prophylaxis were initiated . Routine postoperative antibiotics were administered . Hemovac drain was	1402-1427	postoperative antibiotics	CLAMP	C0857242	02/14/2018	02/14/2018 10:54:17	True		
-hospital_course	antibiotics were administered . Hemovac drain was discontinued on postoperative day #	1448-1461	Hemovac drain	CLAMP	C1546666	02/14/2018	02/14/2018 10:54:17	True	postoperative day #2	temporal=[postoperative day #2]
-hospital_course	discontinued on postoperative day # 2 . Physical therapy was initiated . Continuous passive	1505-1521	Physical therapy	CLAMP	C0949766	02/14/2018	02/14/2018 10:54:17	True		
-hospital_course	# 2 . Physical therapy was initiated . Continuous passive motion ( CPM ) was also initiated . She was able to	1538-1569	Continuous passive motion (CPM)	CLAMP	C0180781	02/14/2018	02/14/2018 10:54:17	True		
-hospital_course	initiated . Continuous passive motion ( CPM ) was also initiated . She was able to	1565-1568	CPM	CLAMP	RxNorm=[3002], Generic=[3002]	02/14/2018	02/14/2018 10:54:17	True		
-hospital_course	spontaneously void . She transferred to oral pain medication . Incision remained clean , dry , and	1647-1667	oral pain medication	CLAMP	C0002771	02/14/2018	02/14/2018 10:54:17	True		
-hospital_course	intact during the hospital course . No pain with calf squeeze . She was felt to be	1743-1747	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/14/2018	02/14/2018 10:54:17	False		NEG=[No]
-follow_up	week . Prescriptions were written for Percocet and Coumadin .	1939-1947	Percocet	CLAMP	C0086787, RxNorm=[42844], Generic=[42844]	02/14/2018	02/14/2018 10:54:17	True		
-follow_up	were written for Percocet and Coumadin .	1952-1960	Coumadin	CLAMP	C0699129, RxNorm=[202421], Generic=[202421]	02/14/2018	02/14/2018 10:54:17	True		
-instructions	INSTRUCTIONS : Home physical therapy and PT and INR to be drawn at home for	1982-1998	physical therapy	CLAMP	C0949766	02/14/2018	02/14/2018 10:54:17	True		
-instructions	: Home physical therapy and PT and INR to be drawn at home for	2003-2005	PT	CLAMP	C0175252	02/14/2018	02/14/2018 10:54:17	True		
-instructions	: Home physical therapy and PT and INR to be drawn at home for adjustment of	2010-2013	INR	CLAMP	C0525032	02/14/2018	02/14/2018 10:54:17	True		
-instructions	to be drawn at home for adjustment of Coumadin dosing . Keywords :	2052-2067	Coumadin dosing	CLAMP	C0699129	02/14/2018	02/14/2018 10:54:17	True		
-instructions	to be drawn at home for adjustment of Coumadin dosing . Keywords :	2052-2060	Coumadin	CLAMP	C0699129, RxNorm=[202421], Generic=[202421]	02/14/2018	02/14/2018 10:54:17	True		
-discharge_summary	discharge summary , total knee arthroplasty , conservative management , knee	2098-2121	total knee arthroplasty	CLAMP	C0086511	02/14/2018	02/14/2018 10:54:17	True		
-discharge_summary	arthroplasty , conservative management , knee arthroplasty , physical therapy , knee osteoarthrosis ,	2148-2165	knee arthroplasty	CLAMP	C0086511	02/14/2018	02/14/2018 10:54:17	True		
-discharge_summary	management , knee arthroplasty , physical therapy , knee osteoarthrosis , arthroplasty ,	2167-2183	physical therapy	CLAMP	C0949766	02/14/2018	02/14/2018 10:54:17	True		
-discharge_summary	, knee arthroplasty , physical therapy , knee osteoarthrosis , arthroplasty , osteoarthrosis , knee ,	2185-2204	knee osteoarthrosis	CLAMP	C0409959 SNOMEDCT_US[239873007]	02/14/2018	02/14/2018 10:54:17	True		BDL=[knee]
-discharge_summary	physical therapy , knee osteoarthrosis , arthroplasty , osteoarthrosis , knee ,	2206-2218	arthroplasty	CLAMP	C0003893	02/14/2018	02/14/2018 10:54:17	True		
-discharge_summary	, knee osteoarthrosis , arthroplasty , osteoarthrosis , knee ,	2220-2234	osteoarthrosis	CLAMP	C0029408 SNOMEDCT_US[396275006, 225655006]	02/14/2018	02/14/2018 10:54:17	True		
+NONEHEADER	: Discharge Summary Sample Name : Knee Osteoarthrosis - Discharge Summary	65-84	Knee Osteoarthrosis	CLAMP	C0409959 SNOMEDCT_US[239873007]	02/28/2018	02/28/2018 15:33:09	True		BDL=[Knee]
+description	Description : A 66 - year - old female with knee osteoarthrosis who failed conservative management . (	145-164	knee osteoarthrosis	CLAMP	C0409959 SNOMEDCT_US[239873007]	02/28/2018	02/28/2018 15:33:09	True		BDL=[knee]
+description	Sample Report ) PRINCIPAL DIAGNOSIS : Knee osteoarthrosis . PRINCIPAL PROCEDURE : Total knee	261-280	Knee osteoarthrosis	CLAMP	C0409959 SNOMEDCT_US[239873007]	02/28/2018	02/28/2018 15:33:09	True		BDL=[Knee]
+description	osteoarthrosis . PRINCIPAL PROCEDURE : Total knee arthroplasty .	304-327	Total knee arthroplasty	CLAMP	C0086511	02/28/2018	02/28/2018 15:33:09	True		
+general_history_and_physical	PHYSICAL : A 66 - year - old female with knee osteoarthrosis . Failed conservative management .	378-397	knee osteoarthrosis	CLAMP	C0409959	02/28/2018	02/28/2018 15:33:09	True		
+consent	was obtained . PAST SURGICAL HISTORY : Right knee surgery , cosmetic surgery , and carotid sinus	555-573	Right knee surgery	CLAMP	C2110635	02/28/2018	02/28/2018 15:33:09	True		
+consent	SURGICAL HISTORY : Right knee surgery , cosmetic surgery , and carotid sinus surgery .	575-591	cosmetic surgery	CLAMP	C0079169	02/28/2018	02/28/2018 15:33:09	True		
+consent	SURGICAL HISTORY : Right knee surgery , cosmetic surgery , and carotid sinus surgery .	575-583	cosmetic	CLAMP	RxNorm=[2887], Generic=[2887]	02/28/2018	02/28/2018 15:33:09	True		
+consent	knee surgery , cosmetic surgery , and carotid sinus surgery .	597-618	carotid sinus surgery	CLAMP	C2095448	02/28/2018	02/28/2018 15:33:09	True		
+medications	MEDICATIONS : Mirapex , ibuprofen , and Ambien .	634-641	Mirapex	CLAMP	RxNorm=[218402], Generic=[218402]	02/28/2018	02/28/2018 15:33:09	True		
+medications	MEDICATIONS : Mirapex , ibuprofen , and Ambien .	643-652	ibuprofen	CLAMP	C0020740, RxNorm=[5640], Generic=[5640]	02/28/2018	02/28/2018 15:33:09	True		
+medications	MEDICATIONS : Mirapex , ibuprofen , and Ambien .	658-664	Ambien	CLAMP	C0487782, RxNorm=[131725], Generic=[131725]	02/28/2018	02/28/2018 15:33:09	True		
+allergies_and_adverse_reactions	ALLERGIES : QUESTIONABLE PENICILLIN ALLERGIES .	691-711	PENICILLIN ALLERGIES	CLAMP	C0030824 SNOMEDCT_US[91936005]	02/28/2018	02/28/2018 15:33:09	True		UNC=[QUESTIONABLE]
+allergies_and_adverse_reactions	ALLERGIES : QUESTIONABLE PENICILLIN ALLERGIES .	691-701	PENICILLIN	CLAMP	RxNorm=[7986], Generic=[7986]	02/28/2018	02/28/2018 15:33:09	True		
+physical_examination	Examination of her gait reveals she walks without assistive	795-818	Examination of her gait	CLAMP	C0558820	02/28/2018	02/28/2018 15:33:09	True		
+physical_examination	and atraumatic . CHEST : Clear to auscultation . CARDIOVASCULAR : Regular rate and	919-931	auscultation	CLAMP	C0004339	02/28/2018	02/28/2018 15:33:09	True		
+physical_examination	auscultation . CARDIOVASCULAR : Regular rate and rhythm . ABDOMEN : Soft . EXTREMITIES	958-962	rate	CLAMP	C1521828	02/28/2018	02/28/2018 15:33:09	True		
+hospital_course	room ( OR ) on 03 / 15 / 2007 . She underwent right total knee arthroplasty . She tolerated this well . She was	1134-1163	right total knee arthroplasty	CLAMP	C0086511	02/28/2018	02/28/2018 15:33:09	True		
+hospital_course	floor . Mechanical and chemical deep venous thrombosis ( DVT ) prophylaxis were initiated . Routine postoperative	1336-1376	deep venous thrombosis (DVT) prophylaxis	CLAMP	C0853245	02/28/2018	02/28/2018 15:33:09	True		
+hospital_course	) prophylaxis were initiated . Routine postoperative antibiotics were administered . Hemovac drain was	1402-1427	postoperative antibiotics	CLAMP	C0857242	02/28/2018	02/28/2018 15:33:09	True		
+hospital_course	antibiotics were administered . Hemovac drain was discontinued on postoperative day #	1448-1461	Hemovac drain	CLAMP	C1546666	02/28/2018	02/28/2018 15:33:09	True	postoperative day #2	temporal=[postoperative day #2]
+hospital_course	discontinued on postoperative day # 2 . Physical therapy was initiated . Continuous passive	1505-1521	Physical therapy	CLAMP	C0949766	02/28/2018	02/28/2018 15:33:09	True		
+hospital_course	# 2 . Physical therapy was initiated . Continuous passive motion ( CPM ) was also initiated . She was able to	1538-1569	Continuous passive motion (CPM)	CLAMP	C0180781	02/28/2018	02/28/2018 15:33:09	True		
+hospital_course	initiated . Continuous passive motion ( CPM ) was also initiated . She was able to	1565-1568	CPM	CLAMP	RxNorm=[3002], Generic=[3002]	02/28/2018	02/28/2018 15:33:09	True		
+hospital_course	spontaneously void . She transferred to oral pain medication . Incision remained clean , dry , and	1647-1667	oral pain medication	CLAMP	C0002771	02/28/2018	02/28/2018 15:33:09	True		
+hospital_course	intact during the hospital course . No pain with calf squeeze . She was felt to be	1743-1747	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/28/2018	02/28/2018 15:33:09	False		NEG=[No]
+follow_up	week . Prescriptions were written for Percocet and Coumadin .	1939-1947	Percocet	CLAMP	C0086787, RxNorm=[42844], Generic=[42844]	02/28/2018	02/28/2018 15:33:09	True		
+follow_up	were written for Percocet and Coumadin .	1952-1960	Coumadin	CLAMP	C0699129, RxNorm=[202421], Generic=[202421]	02/28/2018	02/28/2018 15:33:09	True		
+instructions	INSTRUCTIONS : Home physical therapy and PT and INR to be drawn at home for	1982-1998	physical therapy	CLAMP	C0949766	02/28/2018	02/28/2018 15:33:09	True		
+instructions	: Home physical therapy and PT and INR to be drawn at home for	2003-2005	PT	CLAMP	C0175252	02/28/2018	02/28/2018 15:33:09	True		
+instructions	: Home physical therapy and PT and INR to be drawn at home for adjustment of	2010-2013	INR	CLAMP	C0525032	02/28/2018	02/28/2018 15:33:09	True		
+instructions	to be drawn at home for adjustment of Coumadin dosing . Keywords :	2052-2067	Coumadin dosing	CLAMP	C0699129	02/28/2018	02/28/2018 15:33:09	True		
+instructions	to be drawn at home for adjustment of Coumadin dosing . Keywords :	2052-2060	Coumadin	CLAMP	C0699129, RxNorm=[202421], Generic=[202421]	02/28/2018	02/28/2018 15:33:09	True		
+discharge_summary	discharge summary , total knee arthroplasty , conservative management , knee	2098-2121	total knee arthroplasty	CLAMP	C0086511	02/28/2018	02/28/2018 15:33:09	True		
+discharge_summary	arthroplasty , conservative management , knee arthroplasty , physical therapy , knee osteoarthrosis ,	2148-2165	knee arthroplasty	CLAMP	C0086511	02/28/2018	02/28/2018 15:33:09	True		
+discharge_summary	management , knee arthroplasty , physical therapy , knee osteoarthrosis , arthroplasty ,	2167-2183	physical therapy	CLAMP	C0949766	02/28/2018	02/28/2018 15:33:09	True		
+discharge_summary	, knee arthroplasty , physical therapy , knee osteoarthrosis , arthroplasty , osteoarthrosis , knee ,	2185-2204	knee osteoarthrosis	CLAMP	C0409959 SNOMEDCT_US[239873007]	02/28/2018	02/28/2018 15:33:09	True		BDL=[knee]
+discharge_summary	physical therapy , knee osteoarthrosis , arthroplasty , osteoarthrosis , knee ,	2206-2218	arthroplasty	CLAMP	C0003893	02/28/2018	02/28/2018 15:33:09	True		
+discharge_summary	, knee osteoarthrosis , arthroplasty , osteoarthrosis , knee ,	2220-2234	osteoarthrosis	CLAMP	C0029408 SNOMEDCT_US[396275006, 225655006]	02/28/2018	02/28/2018 15:33:09	True		

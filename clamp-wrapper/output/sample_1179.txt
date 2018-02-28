@@ -1,41 +1,41 @@
-NONEHEADER	Sample Name : Discharge Summary - Hemodialysis	85-97	Hemodialysis	CLAMP	C0019004	02/14/2018	02/14/2018 10:53:43	True		
-description	: The patient is being discharged for continued hemodialysis and rehab . ( Medical Transcription	148-170	continued hemodialysis	CLAMP	C0472679	02/14/2018	02/14/2018 10:53:43	True		
-description	for continued hemodialysis and rehab . ( Medical Transcription Sample Report )	175-180	rehab	CLAMP	C0034991	02/14/2018	02/14/2018 10:53:43	True		
-description	) The patient is being discharged for continued hemodialysis and rehab .	256-278	continued hemodialysis	CLAMP	C0472679	02/14/2018	02/14/2018 10:53:43	True		
-description	for continued hemodialysis and rehab .	283-288	rehab	CLAMP	C0034991	02/14/2018	02/14/2018 10:53:43	True		
-diagnoses	DISCHARGE DIAGNOSES : 1 . End - stage renal disease , on hemodialysis . 2 .	315-338	End-stage renal disease	CLAMP	C0022661 SNOMEDCT_US[90688005, 46177005]	02/14/2018	02/14/2018 10:53:43	True		BDL=[renal]
-diagnoses	: 1 . End - stage renal disease , on hemodialysis . 2 .	343-355	hemodialysis	CLAMP	C0019004	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	History of T9 vertebral fracture . 3 . Diskitis . 4 . Thrombocytopenia . 5 .	372-393	T9 vertebral fracture	CLAMP	null	02/14/2018	02/14/2018 10:53:43	True		BDL=[T9 vertebral]
-history_present_illness	History of T9 vertebral fracture . 3 . Diskitis . 4 . Thrombocytopenia . 5 . Congestive	399-407	Diskitis	CLAMP	C0012624 SNOMEDCT_US[2304001]	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	vertebral fracture . 3 . Diskitis . 4 . Thrombocytopenia . 5 . Congestive heart failure with	413-429	Thrombocytopenia	CLAMP	C0040034 SNOMEDCT_US[302215000]	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	3 . Diskitis . 4 . Thrombocytopenia . 5 . Congestive heart failure with ejection fraction of approximately	435-459	Congestive heart failure	CLAMP	C0264722 SNOMEDCT_US[88805009]	02/14/2018	02/14/2018 10:53:43	True		BDL=[heart]
-history_present_illness	. 5 . Congestive heart failure with ejection fraction of approximately 30 % . 6 . Diabetes ,	465-482	ejection fraction	CLAMP	C2700378	02/14/2018	02/14/2018 10:53:43	True		labvalue=[approximately 30%]
-history_present_illness	fraction of approximately 30 % . 6 . Diabetes , type 2 . 7 . Protein malnourishment . 8 .	509-525	Diabetes, type 2	CLAMP	C0011860 SNOMEDCT_US[44054006]	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	30 % . 6 . Diabetes , type 2 . 7 . Protein malnourishment . 8 .	531-553	Protein malnourishment	CLAMP	null	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	History of anemia .	570-576	anemia	CLAMP	C0002871 SNOMEDCT_US[271737000]	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	, 2008 . The patient was found to have lumbar diskitis and was going to require extensive	735-750	lumbar diskitis	CLAMP	null	02/14/2018	02/14/2018 10:53:43	True		BDL=[lumbar]
-history_present_illness	diskitis and was going to require extensive antibiotic therapy , which was the cause of need for	776-804	extensive antibiotic therapy	CLAMP	C0338237	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	and was going to require extensive antibiotic therapy , which was the cause of need	786-796	antibiotic	CLAMP	RxNorm=[896], Generic=[896]	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	, which was the cause of need for continued hospitalization . He also needed to continue with	838-863	continued hospitalization	CLAMP	C2145351	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	. He also needed to continue with dialysis and he needed to improve his	898-906	dialysis	CLAMP	C0011946	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	dialysis and he needed to improve his rehabilitation . The patient tolerated his medication	936-950	rehabilitation	CLAMP	C0034991	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	rehabilitation . The patient tolerated his medication well and he was going through rehab	975-989	his medication	CLAMP	C0019602	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	well and he was going through rehab fairly well without any significant	1020-1025	rehab	CLAMP	C0034991	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	He did have some bouts of issues with constipation on and off throughout his	1111-1123	constipation	CLAMP	C0009806 SNOMEDCT_US[14760008]	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	seemed to come under control with more aggressive management . The patient had remained afebrile .	1215-1236	aggressive management	CLAMP	C3650708	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	management . The patient had remained afebrile . He did also have a bout with some	1264-1272	afebrile	CLAMP	C0277797 SNOMEDCT_US[86699002]	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	. He did also have a bout with some episodic confusion problems , which appeared to be more of a	1309-1336	episodic confusion problems	CLAMP	null	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	and lucid . He denied any complaints of pain . He did have some trouble with sleep	1580-1584	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/14/2018	02/14/2018 10:53:43	False		NEG=[denied]
-history_present_illness	some and has been eating some . His vital signs remain stable . His blood pressure on	1802-1813	vital signs	CLAMP	C0518766	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	some . His vital signs remain stable . His blood pressure on discharge was 126 / 63 , heart rate is	1830-1848	His blood pressure	CLAMP	C0005823	02/14/2018	02/14/2018 10:53:43	True		
-history_present_illness	blood pressure on discharge was 126 / 63 , heart rate is 80 , respiratory rate of 20 and	1874-1884	heart rate	CLAMP	C0018810	02/14/2018	02/14/2018 10:53:43	True		labvalue=[80]
-history_present_illness	discharge was 126 / 63 , heart rate is 80 , respiratory rate of 20 and temperature was 98 . 3 . PPD	1892-1908	respiratory rate	CLAMP	C0231832	02/14/2018	02/14/2018 10:53:43	True		labvalue=[20]
-history_present_illness	rate is 80 , respiratory rate of 20 and temperature was 98 . 3 . PPD was negative . An SMS	1919-1930	temperature	CLAMP	C0039476	02/14/2018	02/14/2018 10:53:43	True		labvalue=[98.3]
-history_present_illness	rate of 20 and temperature was 98 . 3 . PPD was negative . An SMS form was filled	1942-1945	PPD	CLAMP	C0034131	02/14/2018	02/14/2018 10:53:43	True		labvalue=[negative]
-discharge_summary	discharge summary , end - stage renal disease , thrombocytopenia , anemia ,	2480-2503	end-stage renal disease	CLAMP	C0022661 SNOMEDCT_US[90688005, 46177005]	02/14/2018	02/14/2018 10:53:43	True		BDL=[renal]
-discharge_summary	summary , end - stage renal disease , thrombocytopenia , anemia , hospitalization , hemodialysis	2505-2521	thrombocytopenia	CLAMP	C0040034 SNOMEDCT_US[302215000]	02/14/2018	02/14/2018 10:53:43	True		
-discharge_summary	- stage renal disease , thrombocytopenia , anemia , hospitalization , hemodialysis and	2523-2529	anemia	CLAMP	C0002871 SNOMEDCT_US[271737000]	02/14/2018	02/14/2018 10:53:43	True		
-discharge_summary	disease , thrombocytopenia , anemia , hospitalization , hemodialysis and rehab , hemodialysis ,	2531-2546	hospitalization	CLAMP	C0019994	02/14/2018	02/14/2018 10:53:43	True		
-discharge_summary	, anemia , hospitalization , hemodialysis and rehab , hemodialysis ,	2548-2560	hemodialysis	CLAMP	C0019004	02/14/2018	02/14/2018 10:53:43	True		
-discharge_summary	, hospitalization , hemodialysis and rehab , hemodialysis ,	2565-2570	rehab	CLAMP	C0034991	02/14/2018	02/14/2018 10:53:43	True		
-discharge_summary	, hemodialysis and rehab , hemodialysis ,	2572-2584	hemodialysis	CLAMP	C0019004	02/14/2018	02/14/2018 10:53:43	True		
+NONEHEADER	Sample Name : Discharge Summary - Hemodialysis	85-97	Hemodialysis	CLAMP	C0019004	02/28/2018	02/28/2018 15:32:36	True		
+description	: The patient is being discharged for continued hemodialysis and rehab . ( Medical Transcription	148-170	continued hemodialysis	CLAMP	C0472679	02/28/2018	02/28/2018 15:32:36	True		
+description	for continued hemodialysis and rehab . ( Medical Transcription Sample Report )	175-180	rehab	CLAMP	C0034991	02/28/2018	02/28/2018 15:32:36	True		
+description	) The patient is being discharged for continued hemodialysis and rehab .	256-278	continued hemodialysis	CLAMP	C0472679	02/28/2018	02/28/2018 15:32:36	True		
+description	for continued hemodialysis and rehab .	283-288	rehab	CLAMP	C0034991	02/28/2018	02/28/2018 15:32:36	True		
+diagnoses	DISCHARGE DIAGNOSES : 1 . End - stage renal disease , on hemodialysis . 2 .	315-338	End-stage renal disease	CLAMP	C0022661 SNOMEDCT_US[90688005, 46177005]	02/28/2018	02/28/2018 15:32:36	True		BDL=[renal]
+diagnoses	: 1 . End - stage renal disease , on hemodialysis . 2 .	343-355	hemodialysis	CLAMP	C0019004	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	History of T9 vertebral fracture . 3 . Diskitis . 4 . Thrombocytopenia . 5 .	372-393	T9 vertebral fracture	CLAMP	null	02/28/2018	02/28/2018 15:32:36	True		BDL=[T9 vertebral]
+history_present_illness	History of T9 vertebral fracture . 3 . Diskitis . 4 . Thrombocytopenia . 5 . Congestive	399-407	Diskitis	CLAMP	C0012624 SNOMEDCT_US[2304001]	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	vertebral fracture . 3 . Diskitis . 4 . Thrombocytopenia . 5 . Congestive heart failure with	413-429	Thrombocytopenia	CLAMP	C0040034 SNOMEDCT_US[302215000]	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	3 . Diskitis . 4 . Thrombocytopenia . 5 . Congestive heart failure with ejection fraction of approximately	435-459	Congestive heart failure	CLAMP	C0264722 SNOMEDCT_US[88805009]	02/28/2018	02/28/2018 15:32:36	True		BDL=[heart]
+history_present_illness	. 5 . Congestive heart failure with ejection fraction of approximately 30 % . 6 . Diabetes ,	465-482	ejection fraction	CLAMP	C2700378	02/28/2018	02/28/2018 15:32:36	True		labvalue=[approximately 30%]
+history_present_illness	fraction of approximately 30 % . 6 . Diabetes , type 2 . 7 . Protein malnourishment . 8 .	509-525	Diabetes, type 2	CLAMP	C0011860 SNOMEDCT_US[44054006]	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	30 % . 6 . Diabetes , type 2 . 7 . Protein malnourishment . 8 .	531-553	Protein malnourishment	CLAMP	null	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	History of anemia .	570-576	anemia	CLAMP	C0002871 SNOMEDCT_US[271737000]	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	, 2008 . The patient was found to have lumbar diskitis and was going to require extensive	735-750	lumbar diskitis	CLAMP	null	02/28/2018	02/28/2018 15:32:36	True		BDL=[lumbar]
+history_present_illness	diskitis and was going to require extensive antibiotic therapy , which was the cause of need for	776-804	extensive antibiotic therapy	CLAMP	C0338237	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	and was going to require extensive antibiotic therapy , which was the cause of need	786-796	antibiotic	CLAMP	RxNorm=[896], Generic=[896]	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	, which was the cause of need for continued hospitalization . He also needed to continue with	838-863	continued hospitalization	CLAMP	C2145351	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	. He also needed to continue with dialysis and he needed to improve his	898-906	dialysis	CLAMP	C0011946	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	dialysis and he needed to improve his rehabilitation . The patient tolerated his medication	936-950	rehabilitation	CLAMP	C0034991	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	rehabilitation . The patient tolerated his medication well and he was going through rehab	975-989	his medication	CLAMP	C0019602	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	well and he was going through rehab fairly well without any significant	1020-1025	rehab	CLAMP	C0034991	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	He did have some bouts of issues with constipation on and off throughout his	1111-1123	constipation	CLAMP	C0009806 SNOMEDCT_US[14760008]	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	seemed to come under control with more aggressive management . The patient had remained afebrile .	1215-1236	aggressive management	CLAMP	C3650708	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	management . The patient had remained afebrile . He did also have a bout with some	1264-1272	afebrile	CLAMP	C0277797 SNOMEDCT_US[86699002]	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	. He did also have a bout with some episodic confusion problems , which appeared to be more of a	1309-1336	episodic confusion problems	CLAMP	null	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	and lucid . He denied any complaints of pain . He did have some trouble with sleep	1580-1584	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/28/2018	02/28/2018 15:32:36	False		NEG=[denied]
+history_present_illness	some and has been eating some . His vital signs remain stable . His blood pressure on	1802-1813	vital signs	CLAMP	C0518766	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	some . His vital signs remain stable . His blood pressure on discharge was 126 / 63 , heart rate is	1830-1848	His blood pressure	CLAMP	C0005823	02/28/2018	02/28/2018 15:32:36	True		
+history_present_illness	blood pressure on discharge was 126 / 63 , heart rate is 80 , respiratory rate of 20 and	1874-1884	heart rate	CLAMP	C0018810	02/28/2018	02/28/2018 15:32:36	True		labvalue=[80]
+history_present_illness	discharge was 126 / 63 , heart rate is 80 , respiratory rate of 20 and temperature was 98 . 3 . PPD	1892-1908	respiratory rate	CLAMP	C0231832	02/28/2018	02/28/2018 15:32:36	True		labvalue=[20]
+history_present_illness	rate is 80 , respiratory rate of 20 and temperature was 98 . 3 . PPD was negative . An SMS	1919-1930	temperature	CLAMP	C0039476	02/28/2018	02/28/2018 15:32:36	True		labvalue=[98.3]
+history_present_illness	rate of 20 and temperature was 98 . 3 . PPD was negative . An SMS form was filled	1942-1945	PPD	CLAMP	C0034131	02/28/2018	02/28/2018 15:32:36	True		labvalue=[negative]
+discharge_summary	discharge summary , end - stage renal disease , thrombocytopenia , anemia ,	2480-2503	end-stage renal disease	CLAMP	C0022661 SNOMEDCT_US[90688005, 46177005]	02/28/2018	02/28/2018 15:32:36	True		BDL=[renal]
+discharge_summary	summary , end - stage renal disease , thrombocytopenia , anemia , hospitalization , hemodialysis	2505-2521	thrombocytopenia	CLAMP	C0040034 SNOMEDCT_US[302215000]	02/28/2018	02/28/2018 15:32:36	True		
+discharge_summary	- stage renal disease , thrombocytopenia , anemia , hospitalization , hemodialysis and	2523-2529	anemia	CLAMP	C0002871 SNOMEDCT_US[271737000]	02/28/2018	02/28/2018 15:32:36	True		
+discharge_summary	disease , thrombocytopenia , anemia , hospitalization , hemodialysis and rehab , hemodialysis ,	2531-2546	hospitalization	CLAMP	C0019994	02/28/2018	02/28/2018 15:32:36	True		
+discharge_summary	, anemia , hospitalization , hemodialysis and rehab , hemodialysis ,	2548-2560	hemodialysis	CLAMP	C0019004	02/28/2018	02/28/2018 15:32:36	True		
+discharge_summary	, hospitalization , hemodialysis and rehab , hemodialysis ,	2565-2570	rehab	CLAMP	C0034991	02/28/2018	02/28/2018 15:32:36	True		
+discharge_summary	, hemodialysis and rehab , hemodialysis ,	2572-2584	hemodialysis	CLAMP	C0019004	02/28/2018	02/28/2018 15:32:36	True		

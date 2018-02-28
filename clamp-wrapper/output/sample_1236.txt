@@ -1,45 +1,45 @@
-NONEHEADER	Sample Name : Discharge Summary - Cholelithiasis	85-99	Cholelithiasis	CLAMP	C0008350 SNOMEDCT_US[266474003]	02/14/2018	02/14/2018 10:54:06	True		
-description	Description : Patient with complaint of symptomatic cholelithiasis . ( Medical Transcription Sample Report )	140-166	symptomatic cholelithiasis	CLAMP	null	02/14/2018	02/14/2018 10:54:06	True		
-description	Sample Report ) ADMISSION DIAGNOSIS : Symptomatic cholelithiasis . DISCHARGE DIAGNOSIS : Symptomatic	228-254	Symptomatic cholelithiasis	CLAMP	null	02/14/2018	02/14/2018 10:54:06	True		
-description	cholelithiasis . DISCHARGE DIAGNOSIS : Symptomatic cholelithiasis . SERVICE : Surgery . CONSULTS : None .	278-304	Symptomatic cholelithiasis	CLAMP	null	02/14/2018	02/14/2018 10:54:06	True		
-history_present_illness	apparently presented with complaint of symptomatic cholelithiasis . She was afebrile . She was taken by	445-471	symptomatic cholelithiasis	CLAMP	null	02/14/2018	02/14/2018 10:54:06	True		
-history_present_illness	of symptomatic cholelithiasis . She was afebrile . She was taken by Dr . X to the	482-490	afebrile	CLAMP	C0277797 SNOMEDCT_US[86699002]	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	without difficulty . She had her pain controlled with p . o . pain medicine .	640-644	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	. She had her pain controlled with p . o . pain medicine . She was afebrile . She is tolerating	661-679	p.o. pain medicine	CLAMP	C3262626	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	with p . o . pain medicine . She was afebrile . She is tolerating liquid diet . It	690-698	afebrile	CLAMP	C0277797 SNOMEDCT_US[86699002]	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	for discharge . She did complain of bladder spasms when she urinated and she did say that	808-822	bladder spasms	CLAMP	C0426390 SNOMEDCT_US[249297006]	02/14/2018	02/14/2018 10:54:06	True		BDL=[bladder]
-hospital_course	she did say that she has a history of chronic UTIs . We will check a UA and urine culture	883-895	chronic UTIs	CLAMP	C0262421 SNOMEDCT_US[197928006]	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	of chronic UTIs . We will check a UA and urine culture prior to discharge .	914-916	UA	CLAMP	C0042014	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	chronic UTIs . We will check a UA and urine culture prior to discharge . I will give her	921-934	urine culture	CLAMP	C0430404	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	. I will give her prescription for ciprofloxacin that she can take for 3 days	989-1002	ciprofloxacin	CLAMP	C0008809, RxNorm=[2551], Generic=[2551]	02/14/2018	02/14/2018 10:54:06	True		DRT=[3 days]
-hospital_course	and I have discharged her home with omeprazole and Colace to take over - the - counter for	1082-1092	omeprazole	CLAMP	C0028978, RxNorm=[7646], Generic=[7646]	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	discharged her home with omeprazole and Colace to take over - the - counter for	1097-1103	Colace	CLAMP	C0282139, RxNorm=[82000], Generic=[82000]	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	and Colace to take over - the - counter for constipation and we will send her home with Percocet	1133-1145	constipation	CLAMP	C0009806 SNOMEDCT_US[14760008]	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	and we will send her home with Percocet for pain . Her labs were within normal	1177-1185	Percocet	CLAMP	C0086787, RxNorm=[42844], Generic=[42844]	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	we will send her home with Percocet for pain . Her labs were within normal limits .	1190-1194	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	send her home with Percocet for pain . Her labs were within normal limits . She did	1197-1205	Her labs	CLAMP	C2209378	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	limits . She did have an elevated white blood cell count , but I believe this is just leukemoid	1259-1281	white blood cell count	CLAMP	C0023508	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	cell count , but I believe this is just leukemoid reaction , but she is afebrile , and if she does	1310-1328	leukemoid reaction	CLAMP	C0023501 SNOMEDCT_US[56478004]	02/14/2018	02/14/2018 10:54:06	False		CON=[if]
-hospital_course	she is afebrile , and if she does have UTI , may also be related . Her labs in	1372-1375	UTI	CLAMP	C0042029 SNOMEDCT_US[68566005]	02/14/2018	02/14/2018 10:54:06	False		CON=[if]
-hospital_course	does have UTI , may also be related . Her labs in terms of her bilirubin were within	1399-1407	Her labs	CLAMP	C2209378	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	be related . Her labs in terms of her bilirubin were within normal limits . Her LFTs	1424-1433	bilirubin	CLAMP	C0005437	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	were within normal limits . Her LFTs were slightly elevated , I do believe	1466-1470	LFTs	CLAMP	C0023901	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	, I do believe this is related to the cautery used on the liver bed . They were 51	1531-1538	cautery	CLAMP	C0007471	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	liver bed . They were 51 and 83 for the AST and ALT respectively . I feel that she	1591-1594	AST	CLAMP	C0004002	02/14/2018	02/14/2018 10:54:06	True		
-hospital_course	. They were 51 and 83 for the AST and ALT respectively . I feel that she looks	1599-1602	ALT	CLAMP	C0001899	02/14/2018	02/14/2018 10:54:06	True		labvalue=[83]
-discharge_instructions	, she may shower . She needs to keep her wound clean and dry . She is not to engage in	1784-1793	her wound	CLAMP	null	02/14/2018	02/14/2018 10:54:06	True		
-discharge_instructions	able to stop in an emergency and be off narcotic meds , no strenuous activity , but she needs	1968-1981	narcotic meds	CLAMP	C0027415	02/14/2018	02/14/2018 10:54:06	True		
-discharge_instructions	to maintain mobility . She can resume her medications per med rec sheets .	2058-2073	her medications	CLAMP	C0446375	02/14/2018	02/14/2018 10:54:06	True		
-follow_up	FOLLOWUP : We will follow up on both urinalysis and cultures . She is instructed to	2180-2190	urinalysis	CLAMP	C0042014	02/14/2018	02/14/2018 10:54:06	True		
-follow_up	will follow up on both urinalysis and cultures . She is instructed to follow up with	2195-2203	cultures	CLAMP	C0010453	02/14/2018	02/14/2018 10:54:06	True		
-follow_up	in 2 weeks . She needs to call for any shortness of breath , temperature greater than 101 . 5 , chest	2287-2306	shortness of breath	CLAMP	C0013404 SNOMEDCT_US[267036007, 230145002]	02/14/2018	02/14/2018 10:54:06	True		BDL=[breath]
-follow_up	to call for any shortness of breath , temperature greater than 101 . 5 , chest pain ,	2308-2319	temperature	CLAMP	C0039476	02/14/2018	02/14/2018 10:54:06	True		
-follow_up	breath , temperature greater than 101 . 5 , chest pain , intractable nausea , vomiting , and	2340-2350	chest pain	CLAMP	C0008031 SNOMEDCT_US[29857009]	02/14/2018	02/14/2018 10:54:06	True		BDL=[chest]
-follow_up	greater than 101 . 5 , chest pain , intractable nausea , vomiting , and abdominal pain , any	2352-2370	intractable nausea	CLAMP	C3697880 SNOMEDCT_US[698861005]	02/14/2018	02/14/2018 10:54:06	True		
-follow_up	101 . 5 , chest pain , intractable nausea , vomiting , and abdominal pain , any redness ,	2372-2380	vomiting	CLAMP	C0042965 SNOMEDCT_US[1985008]	02/14/2018	02/14/2018 10:54:06	True		
-follow_up	pain , intractable nausea , vomiting , and abdominal pain , any redness , swelling or foul smelling	2386-2400	abdominal pain	CLAMP	C0000737 SNOMEDCT_US[21522001]	02/14/2018	02/14/2018 10:54:06	True		BDL=[abdominal]
-follow_up	, vomiting , and abdominal pain , any redness , swelling or foul smelling drainage	2406-2413	redness	CLAMP	C0332575 SNOMEDCT_US[386713009]	02/14/2018	02/14/2018 10:54:06	True		
-follow_up	, and abdominal pain , any redness , swelling or foul smelling drainage from her	2415-2423	swelling	CLAMP	C0038999 SNOMEDCT_US[65124004, 413269001, 442672001]	02/14/2018	02/14/2018 10:54:06	True		
-follow_up	pain , any redness , swelling or foul smelling drainage from her wounds . Keywords :	2427-2465	foul smelling drainage from her wounds	CLAMP	null	02/14/2018	02/14/2018 10:54:06	True		
-discharge_summary	summary , medifast , liquid diet , symptomatic cholelithiasis , symptomatic , cholelithiasis , discharge	2519-2545	symptomatic cholelithiasis	CLAMP	null	02/14/2018	02/14/2018 10:54:06	True		
-discharge_summary	cholelithiasis , symptomatic , cholelithiasis , discharge ,	2560-2574	cholelithiasis	CLAMP	C0008350 SNOMEDCT_US[266474003]	02/14/2018	02/14/2018 10:54:06	True		
+NONEHEADER	Sample Name : Discharge Summary - Cholelithiasis	85-99	Cholelithiasis	CLAMP	C0008350 SNOMEDCT_US[266474003]	02/28/2018	02/28/2018 15:32:59	True		
+description	Description : Patient with complaint of symptomatic cholelithiasis . ( Medical Transcription Sample Report )	140-166	symptomatic cholelithiasis	CLAMP	null	02/28/2018	02/28/2018 15:32:59	True		
+description	Sample Report ) ADMISSION DIAGNOSIS : Symptomatic cholelithiasis . DISCHARGE DIAGNOSIS : Symptomatic	228-254	Symptomatic cholelithiasis	CLAMP	null	02/28/2018	02/28/2018 15:32:59	True		
+description	cholelithiasis . DISCHARGE DIAGNOSIS : Symptomatic cholelithiasis . SERVICE : Surgery . CONSULTS : None .	278-304	Symptomatic cholelithiasis	CLAMP	null	02/28/2018	02/28/2018 15:32:59	True		
+history_present_illness	apparently presented with complaint of symptomatic cholelithiasis . She was afebrile . She was taken by	445-471	symptomatic cholelithiasis	CLAMP	null	02/28/2018	02/28/2018 15:32:59	True		
+history_present_illness	of symptomatic cholelithiasis . She was afebrile . She was taken by Dr . X to the	482-490	afebrile	CLAMP	C0277797 SNOMEDCT_US[86699002]	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	without difficulty . She had her pain controlled with p . o . pain medicine .	640-644	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	. She had her pain controlled with p . o . pain medicine . She was afebrile . She is tolerating	661-679	p.o. pain medicine	CLAMP	C3262626	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	with p . o . pain medicine . She was afebrile . She is tolerating liquid diet . It	690-698	afebrile	CLAMP	C0277797 SNOMEDCT_US[86699002]	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	for discharge . She did complain of bladder spasms when she urinated and she did say that	808-822	bladder spasms	CLAMP	C0426390 SNOMEDCT_US[249297006]	02/28/2018	02/28/2018 15:32:59	True		BDL=[bladder]
+hospital_course	she did say that she has a history of chronic UTIs . We will check a UA and urine culture	883-895	chronic UTIs	CLAMP	C0262421 SNOMEDCT_US[197928006]	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	of chronic UTIs . We will check a UA and urine culture prior to discharge .	914-916	UA	CLAMP	C0042014	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	chronic UTIs . We will check a UA and urine culture prior to discharge . I will give her	921-934	urine culture	CLAMP	C0430404	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	. I will give her prescription for ciprofloxacin that she can take for 3 days	989-1002	ciprofloxacin	CLAMP	C0008809, RxNorm=[2551], Generic=[2551]	02/28/2018	02/28/2018 15:32:59	True		DRT=[3 days]
+hospital_course	and I have discharged her home with omeprazole and Colace to take over - the - counter for	1082-1092	omeprazole	CLAMP	C0028978, RxNorm=[7646], Generic=[7646]	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	discharged her home with omeprazole and Colace to take over - the - counter for	1097-1103	Colace	CLAMP	C0282139, RxNorm=[82000], Generic=[82000]	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	and Colace to take over - the - counter for constipation and we will send her home with Percocet	1133-1145	constipation	CLAMP	C0009806 SNOMEDCT_US[14760008]	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	and we will send her home with Percocet for pain . Her labs were within normal	1177-1185	Percocet	CLAMP	C0086787, RxNorm=[42844], Generic=[42844]	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	we will send her home with Percocet for pain . Her labs were within normal limits .	1190-1194	pain	CLAMP	C0242936 SNOMEDCT_US[702897005]	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	send her home with Percocet for pain . Her labs were within normal limits . She did	1197-1205	Her labs	CLAMP	C2209378	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	limits . She did have an elevated white blood cell count , but I believe this is just leukemoid	1259-1281	white blood cell count	CLAMP	C0023508	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	cell count , but I believe this is just leukemoid reaction , but she is afebrile , and if she does	1310-1328	leukemoid reaction	CLAMP	C0023501 SNOMEDCT_US[56478004]	02/28/2018	02/28/2018 15:32:59	False		CON=[if]
+hospital_course	she is afebrile , and if she does have UTI , may also be related . Her labs in	1372-1375	UTI	CLAMP	C0042029 SNOMEDCT_US[68566005]	02/28/2018	02/28/2018 15:32:59	False		CON=[if]
+hospital_course	does have UTI , may also be related . Her labs in terms of her bilirubin were within	1399-1407	Her labs	CLAMP	C2209378	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	be related . Her labs in terms of her bilirubin were within normal limits . Her LFTs	1424-1433	bilirubin	CLAMP	C0005437	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	were within normal limits . Her LFTs were slightly elevated , I do believe	1466-1470	LFTs	CLAMP	C0023901	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	, I do believe this is related to the cautery used on the liver bed . They were 51	1531-1538	cautery	CLAMP	C0007471	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	liver bed . They were 51 and 83 for the AST and ALT respectively . I feel that she	1591-1594	AST	CLAMP	C0004002	02/28/2018	02/28/2018 15:32:59	True		
+hospital_course	. They were 51 and 83 for the AST and ALT respectively . I feel that she looks	1599-1602	ALT	CLAMP	C0001899	02/28/2018	02/28/2018 15:32:59	True		labvalue=[83]
+discharge_instructions	, she may shower . She needs to keep her wound clean and dry . She is not to engage in	1784-1793	her wound	CLAMP	null	02/28/2018	02/28/2018 15:32:59	True		
+discharge_instructions	able to stop in an emergency and be off narcotic meds , no strenuous activity , but she needs	1968-1981	narcotic meds	CLAMP	C0027415	02/28/2018	02/28/2018 15:32:59	True		
+discharge_instructions	to maintain mobility . She can resume her medications per med rec sheets .	2058-2073	her medications	CLAMP	C0446375	02/28/2018	02/28/2018 15:32:59	True		
+follow_up	FOLLOWUP : We will follow up on both urinalysis and cultures . She is instructed to	2180-2190	urinalysis	CLAMP	C0042014	02/28/2018	02/28/2018 15:32:59	True		
+follow_up	will follow up on both urinalysis and cultures . She is instructed to follow up with	2195-2203	cultures	CLAMP	C0010453	02/28/2018	02/28/2018 15:32:59	True		
+follow_up	in 2 weeks . She needs to call for any shortness of breath , temperature greater than 101 . 5 , chest	2287-2306	shortness of breath	CLAMP	C0013404 SNOMEDCT_US[267036007, 230145002]	02/28/2018	02/28/2018 15:32:59	True		BDL=[breath]
+follow_up	to call for any shortness of breath , temperature greater than 101 . 5 , chest pain ,	2308-2319	temperature	CLAMP	C0039476	02/28/2018	02/28/2018 15:32:59	True		
+follow_up	breath , temperature greater than 101 . 5 , chest pain , intractable nausea , vomiting , and	2340-2350	chest pain	CLAMP	C0008031 SNOMEDCT_US[29857009]	02/28/2018	02/28/2018 15:32:59	True		BDL=[chest]
+follow_up	greater than 101 . 5 , chest pain , intractable nausea , vomiting , and abdominal pain , any	2352-2370	intractable nausea	CLAMP	C3697880 SNOMEDCT_US[698861005]	02/28/2018	02/28/2018 15:32:59	True		
+follow_up	101 . 5 , chest pain , intractable nausea , vomiting , and abdominal pain , any redness ,	2372-2380	vomiting	CLAMP	C0042965 SNOMEDCT_US[1985008]	02/28/2018	02/28/2018 15:32:59	True		
+follow_up	pain , intractable nausea , vomiting , and abdominal pain , any redness , swelling or foul smelling	2386-2400	abdominal pain	CLAMP	C0000737 SNOMEDCT_US[21522001]	02/28/2018	02/28/2018 15:32:59	True		BDL=[abdominal]
+follow_up	, vomiting , and abdominal pain , any redness , swelling or foul smelling drainage	2406-2413	redness	CLAMP	C0332575 SNOMEDCT_US[386713009]	02/28/2018	02/28/2018 15:32:59	True		
+follow_up	, and abdominal pain , any redness , swelling or foul smelling drainage from her	2415-2423	swelling	CLAMP	C0038999 SNOMEDCT_US[65124004, 413269001, 442672001]	02/28/2018	02/28/2018 15:32:59	True		
+follow_up	pain , any redness , swelling or foul smelling drainage from her wounds . Keywords :	2427-2465	foul smelling drainage from her wounds	CLAMP	null	02/28/2018	02/28/2018 15:32:59	True		
+discharge_summary	summary , medifast , liquid diet , symptomatic cholelithiasis , symptomatic , cholelithiasis , discharge	2519-2545	symptomatic cholelithiasis	CLAMP	null	02/28/2018	02/28/2018 15:32:59	True		
+discharge_summary	cholelithiasis , symptomatic , cholelithiasis , discharge ,	2560-2574	cholelithiasis	CLAMP	C0008350 SNOMEDCT_US[266474003]	02/28/2018	02/28/2018 15:32:59	True		
