@@ -27,12 +27,14 @@ import org.apache.uima.analysis_engine.AnalysisEngineDescription;
 import org.apache.uima.cas.FeatureStructure;
 import org.apache.uima.fit.factory.AggregateBuilder;
 import org.apache.uima.fit.factory.JCasFactory;
+import org.apache.uima.fit.util.CasIOUtil;
 import org.apache.uima.fit.util.JCasUtil;
 import org.apache.uima.jcas.JCas;
 import org.apache.uima.jcas.cas.FSArray;
 import org.apache.uima.jcas.tcas.Annotation;
 import org.apache.uima.resource.ResourceInitializationException;
 import org.apache.uima.resource.ResourceManager;
+
 import scala.collection.parallel.ParIterableLike;
 
 public class CTakesWrapper {
@@ -87,15 +89,19 @@ public class CTakesWrapper {
 			}
 		}
 
-
 		return sb.toString();
 	}
 	
-	public String runDocument(String doc) throws UIMAException {
+	public JCas runDocument( String doc ) throws UIMAException {
 		final JCas jcas = JCasFactory.createJCas();
 		jcas.setDocumentText( doc );
 	    aaeInst.process( jcas );
-	    
+	    return jcas;
+	}
+	
+	
+	
+	public String getTextResult( JCas jcas ) {
 	    StringBuilder sb = new StringBuilder();
 		for (IdentifiedAnnotation entity : JCasUtil.select(jcas,
 				IdentifiedAnnotation.class)) {
@@ -205,8 +211,6 @@ public class CTakesWrapper {
 		ts1 += System.currentTimeMillis() - ts;
 		System.out.println(String.format("ctakes pipeline initialized in %d seconds", ts1 / 1000));
 		
-		
-		
 		File indir = new File( "input/" );
 		for( File file : indir.listFiles() ) {
 			if( file.getName().startsWith( "." ) ) {
@@ -218,13 +222,18 @@ public class CTakesWrapper {
 			System.out.println( file.getName() );
 
 			String doc = IOUtils.toString( new FileReader( file ) );
-			FileWriter outfile = new FileWriter( new File( "output/" + file.getName() ) );
 
 			ts = System.currentTimeMillis();
-			String ret = ctakes.runDocument( doc );
+			// save output to uima format;
+			JCas jcas = ctakes.runDocument( doc );
 			ts1 += System.currentTimeMillis() - ts;
+			CasIOUtil.writeXCas( jcas, new File( "output_xmi/" + file.getName() + ".xmi" ) );
+			
+			// save output to text format;
+			String ret = ctakes.getTextResult( jcas );
 			count += 1;
 			System.out.println( String.format("ctakes processed %d sample documents in %d seconds.", count, ts1 / 1000));
+			FileWriter outfile = new FileWriter( new File( "output/" + file.getName() ) );
 			outfile.write( ret );
 			outfile.close();
 		
