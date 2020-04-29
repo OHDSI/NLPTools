@@ -1,17 +1,21 @@
 # Introduction
 
-This document serves as a guide on how to set up and use THEIA using Docker. Currently, THEIA can be used on all platforms with Docker support.
+This document serves as a guide on how to set up and interact with THEIA using Docker. Currently, THEIA can be set up on all platforms with Docker support.
 
 ## System Requirements
 
 **Operating System:** Must be compatible with Docker. Some commonly used operating systems such as Windows 10 Home are not compatible with Docker, make sure to check your operating system’s compatibility with Docker before starting installation.
+
 **Processor:** Reasonably powerful x86 hardware. Any recent Intel or AMD processor should do. Single core processors are supported.
+
 **Memory:** 8-12GB recommended, more memory may be required for running multiple NLP toolkits in Docker at once. Please check the requirements for CLAMP, MetaMap Lite, and Apache cTAKES. You can customize how much memory each NLP API is allowed by using the related variables when starting the container (see Installation Steps section).
+
 **Disk Space:** Docker image containing entire THEIA architecture occupies 7GB. After setting up the container, up to a total of 23GB of disk space may be occupied, depending which options/components you utilize.
 
 ## Software Requirements
 
 **Docker:** [Docker](https://docs.docker.com/get-docker/) is required in order to install and run the THEIA Docker image on your local machine.
+
 **UMLS License:** An UMLS License is required for using provided NLP APIs to process documents. You can apply for a free license [here](https://uts.nlm.nih.gov/license.html).
 
 # Installation Steps
@@ -22,7 +26,7 @@ THEIA container comes with a packaged environment that includes the required dep
 
 2.	Configure allocated memory for Docker containers to be sufficient for the THEIA image. From Docker Dashboard, go to Settings → Resources and increase memory to 8GB (or more, depending on how many NLP APIs will be utilized at once).
 
-3.	Download compressed the THEIA Docker image [here](https://drive.google.com/file/d/1lALfb7kX7PpH2hsx82QYcognw4PcGhGu/view?usp=sharing). Extract ```theia_docker.tar``` out of the compressed .zip file.
+3.	Download the compressed THEIA Docker image [here](https://drive.google.com/file/d/1lALfb7kX7PpH2hsx82QYcognw4PcGhGu/view?usp=sharing). Extract ```theia_docker.tar``` out of the compressed .zip file.
 
 4.	Go to the directory you extracted ```theia_docker.tar```, and [load](https://docs.docker.com/engine/reference/commandline/load/) the Docker image into your machine:
 
@@ -30,7 +34,7 @@ THEIA container comes with a packaged environment that includes the required dep
 $ docker load --input '.\theia_docker.tar'
 ```
 
-5.	[Start](https://docs.docker.com/engine/reference/commandline/run/) a container from the loaded image. You can pass in the environment variables you would like to use the customize the container to best fit your needs and resources at this step:
+5.	[Start](https://docs.docker.com/engine/reference/commandline/run/) a container from the loaded image. You can pass in the environment variables you would like to use to configure the container to best fit your needs and resources at this step:
 
 ``` bash
 $ docker run --name theia \
@@ -43,7 +47,7 @@ $ docker run --name theia \
 ```  
 
 When starting the container, you can pass in environment variables with --env option. THEIA requires/allows following environment variables to be defined by the user:
-* ```CLAMP_RUN:``` Whether to include CLAMP indexing and NOTE_NLP table querying functionalities. 1 to include, 0 to not include.
+* ```CLAMP_RUN:``` Whether to include CLAMP indexing and database querying functionalities. 1 to include, 0 to not include.
 * ```CLAMP_JAVA_OPTS:``` Java arguments passed in when running the THEIA CLAMP Indexer API jar. Can be used to specify how much memory will be allowed for CLAMP inside the container, and more. By default, it is ```“-Xmx8g”```. More explanation on paragraph below.
 * ```METAMAP_RUN:``` Whether to include MetaMap Lite indexing functionalities. 1 to include, 0 to not include.
 * ```METAMAP_JAVA_OPTS:``` Java arguments passed in when running the THEIA MetaMap Indexer API jar. Can be used to specify how much memory will be allowed for MetaMap Lite inside the container, and more. By default, it is ```“-Xmx8g”```. More explanation on paragraph below.
@@ -53,9 +57,10 @@ When starting the container, you can pass in environment variables with --env op
 * ```UMLS_PASS:``` The UMLS password to be used by NLP APIs during indexing.
 
 By default, each NLP toolkit is allowed to use up to 8GB of memory, if their API is activated using ```_RUN``` variables mentioned above. If you wish to increase/decrease this amount to better fit your system, you can do so by passing in the according parameters in ```_JAVA_OPTS``` variables mentioned above.
+
 For example, passing in ```–-env CLAMP_JAVA_OPTS=”-Xmx10g”``` will allow CLAMP Indexing API to use 10GB memory for CLAMP indexing. Note that any time you pass in your own parameters with the ```_JAVA_OPTS``` variables, default 8GB memory setting will be overwritten.
 
-Furthermore, you can pass in which ports you want to be able to access from your local machine with ```-p``` option if you wish the interact with the indexing and querying APIs or application database separately from the frontend. List of exposable ports follow:
+Furthermore, you can pass in which ports you want to be able to access from your local machine with ```-p``` option if you wish the interact with the indexing and querying APIs or application database separately from the frontend and more. List of exposable ports follow:
 * 80: exposes frontend application to your local machine.
 * 8080: exposes CLAMP indexing and querying API to your local machine.
 * 8081: exposes cTAKES indexing API to your local machine.
@@ -64,11 +69,12 @@ Furthermore, you can pass in which ports you want to be able to access from your
 
 Make sure to expose port 80 to be able to access to THEIA frontend application.
 
-6.	Once the container is successfully created and you see the message that THEIA Frontend interface is available to interact with, you can access THEIA Frontend interface by opening a browser and typing localhost to the address bar. If the container was created successfully, you should see the log-in screen for THEIA when you do so.
+6.	Once the container is successfully created and you see the message that THEIA Frontend interface is available to interact with, you can access THEIA Frontend interface by opening a browser and typing ```localhost``` to the address bar. If the container was created successfully, you should see the log-in screen for THEIA when you do so.
 
 # Interacting with THEIA
 
 This section will instructions on how to interact with THEIA using the THEIA frontend application. As mentioned in Installation Steps section, you can access to THEIA frontend application at your localhost after successfully starting the Docker container for THEIA. After registering a new user account or logging in to an user account that already exists, you can interact with THEIA frontent.
+
 The demonstration video can be viewed as an overview of the application guide included below.
 
 ## Datasources
@@ -83,13 +89,13 @@ The action menu on the right allows for further interaction with the datasource.
 
 ## Indexing
 
-Indexing tab allows users to take documents in their NOTE table, plug them into an NLP toolkit of their choice, and populate their NOTE_NLP table of the database they selected with the NLP outputs.
+Indexing tab allows users to take documents in their NOTE table, process them with an NLP toolkit of their choice, and populate their NOTE_NLP table of the database they selected with the NLP outputs.
 
 To create a new index, use the Add button on top left of the indexing tab. Nicknames and descriptions can be assigned to indexes to easily manage different databases for different operations. For the datasource, select the datasource that you want to process with any of the available NLP toolkits. Currently, available toolkits to index are CLAMP, MetaMap Lite, and Apache cTAKES. Note that for CLAMP, pipeline and terminology files can be specified for a more customized search. To find out more about pipelines and terminologies, check their respective sections of this documentation.
 
-The run button on the action menu on the right can be used to start processing the specified datasource for an index. Once the process has been started, the index status will switch to ‘Running’. Once the process is completed, the index status will switch to ‘Completed’.
+The run button on the action menu on the right can be used to start processing the specified datasource for an index. Once the process has been started, the index status will switch to ‘Running’. Hover your cursor over the index status to see a more detailed explanation, such as number of documents processed so far. Once the process is completed, the index status will switch to ‘Completed’.
 
-In the case that the index status switches to ‘Failed’, you will be able to see the reason for failure if you hover your curser over the ‘Failed’ status. Here are some troubleshooting guidelines:
+In the case that the index status switches to ‘Failed’, you will be able to see the reason for failure if you hover your cursor over the index status. Here are some troubleshooting guidelines:
 * If the error message is informing you that the API is inactive, this may mean that you may not have set the corresponding environment variable correctly (see Installation steps), or may not have allowed the Docker container to use enough memory (see Installation steps). Alternatively, if you have just initialized the Docker container, this may mean that the API has not been properly activated yet. In such cases, please try again several minutes later.
 * If the error message is informing you that your UMLS credentials are invalid, this means that the UMLS credentials passed in during container set-up (see Installation steps) were not valid. Make sure that you input correct UMLS credentials and that you use quotes to surround both the username and the password.
 * If the error message is informing you that the pipeline file / terminology folder is invalid, make sure that the pipeline file you have uploaded is working correctly, and make sure that the terminology folder you are specifying exists inside the docker container in the path specified in THEIA.
@@ -106,7 +112,7 @@ The action menu on the right allows for further interaction with the index. Run 
 
 Pipelines tab allows users to view and upload custom pipeline files for CLAMP NLP processing.
 
-To upload a new pipeline, use the Add button on top left of the pipelines tab. Nicknames and descriptions can be assigned to pipelines to easily manage different pipelines for different operations. A default pipeline jar, General Clinical Concept Extraction pipeline (Clamp-ner), CLAMP's default named entity recognition pipeline is made available to all users; however, you are encouraged to upload your own pipeline files to better utilize indexing. Upload the desired pipeline file using the file uploader to make it available to use in the indexing tab for CLAMP processing later on. Please note that the largest pipeline file that you can upload is 2GB.
+To upload a new pipeline, use the Add button on top left of the pipelines tab. Nicknames and descriptions can be assigned to pipelines to easily manage different pipelines for different operations. By default, General Clinical Concept Extraction pipeline (Clamp-ner), CLAMP's default named entity recognition pipeline is made available to all users; however, you are encouraged to upload your own pipeline files to better utilize indexing. Upload the desired pipeline file using the file uploader to make it available to use in the indexing tab for CLAMP processing later on. Please note that the largest pipeline file that you can upload is 2GB.
 
 The action menu on the right allows for further interaction with the pipeline. Edit button allows for modification of pipeline info or updating the pipeline file, delete button deletes the pipeline from the system, and share button allows to share the pipeline with other users and groups.
 
@@ -126,6 +132,7 @@ $ docker cp <terminology folder location on your local machine> \
 ```
 
 Note that container name is ‘```theia```’ by default.
+
 The action menu on the right allows for further interaction with the terminology. Edit button allows for modification of terminology info, delete button deletes the terminology from the system, and share button allows to share the terminology with other users and groups. It is recommended that terminologies are strictly managed by admin accounts and one terminology entity exists per folder across the entire system, due to large sizes terminology folders can potentially have.
 
 ## Querying
@@ -133,6 +140,7 @@ The action menu on the right allows for further interaction with the terminology
 Users can reach the querying section from the indexing tab and can query a specific index using the search/query action, which is the magnifying glass icon. Querying section allows users to query their completed indexes. Users can build two main types of queries: concept queries and keyword queries. In concept search, users can search for an OMOP concept given its name or concept ID. In keyword search, users can search for a phrase or a keyword. Using these two types of search, AND/OR queries can be constructed for more detail.
 
 In concept search, you can add multiple concepts in the same box by adding new concepts with the green plus icon. This symbolizes an OR search query including all of the concepts in the box. Adding multiple concepts across multiple boxes symbolize an AND search query among these concepts.
+
 Inside the concept search menu, you can find the concept you are looking for in two ways. Firstly, you can use the concept hierarchy display at the top to navigate through concepts to find concepts you are looking for. Alternatively, you can use the concept search bar below to search the name of the concept you would like to search for and pick it from the results of the search displayed below the bar.
 
 In keyword search, you can add multiple keywords to same box by adding the keywords except the first keyword as synonyms. This symbolizes an OR search query including all the keywords in the box. Adding multiple keywords across multiple boxes symbolize an AND search query among these keywords. Furthermore, concept searches and keyword searches can be combined to form new queries.
@@ -154,4 +162,5 @@ Currently, users and groups functionalities can be managed to further customize 
 Note that the admin account can be used to create more admin accounts by creating a new user with full permissions. The log-in for the default admin account is as follows:
 
 **Username:** ```admin```
+
 **Password:** ```dbadmin```
