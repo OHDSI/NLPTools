@@ -1,11 +1,12 @@
-#!/bin/sh
+#!/bin/bash
 
-# parameters
+# Database parameters
 MYSQL_ROOT_PWD=${MYSQL_ROOT_PWD:-""}
 MYSQL_USER=${MYSQL_USER:-"dbadmin"}
 MYSQL_USER_PWD=${MYSQL_USER_PWD:-"dbadmin"}
 MYSQL_USER_DB=${MYSQL_USER_DB:-"clamp_cancer"}
 
+# API parameters
 CLAMP_RUN=${CLAMP_RUN:-1}
 CLAMP_JAVA_OPTS=${CLAMP_JAVA_OPTS:-"-Xmx8g"}
 METAMAP_RUN=${METAMAP_RUN:-1}
@@ -13,7 +14,7 @@ METAMAP_JAVA_OPTS=${METAMAP_JAVA_OPTS:-"-Xmx8g"}
 CTAKES_RUN=${CTAKES_RUN:-1}
 CTAKES_JAVA_OPTS=${CTAKES_JAVA_OPTS:-"-Xmx8g"}
 
-# MySQL setup
+# Setup MySQL
 if [ ! -d "/run/mysqld" ]; then
 	mkdir -p /run/mysqld
 	chown -R mysql:mysql /run/mysqld
@@ -47,18 +48,15 @@ FLUSH PRIVILEGES;
 EOF
 
 
-	# Create new database
 	if [ "$MYSQL_USER_DB" != "" ]; then
 		echo "[i] Creating database: $MYSQL_USER_DB"
 		echo "CREATE DATABASE IF NOT EXISTS \`$MYSQL_USER_DB\` CHARACTER SET utf8 COLLATE utf8_general_ci;" >> $tfile
 
-		# Set up new user.
 		if [ "$MYSQL_USER" != "" ] && [ "$MYSQL_USER_PWD" != "" ]; then
             echo "[i] Creating user: $MYSQL_USER with password $MYSQL_USER_PWD"
             echo "GRANT ALL ON \`$MYSQL_USER_DB\`.* to '$MYSQL_USER'@'%' IDENTIFIED BY '$MYSQL_USER_PWD';" >> $tfile
 		fi
 	else
-		# No need to create new database, set up new user to control all databases.
 		if [ "$MYSQL_USER" != "" ] && [ "$MYSQL_USER_PWD" != "" ]; then
             echo "[i] Creating user: $MYSQL_USER with password $MYSQL_USER_PWD"
             echo "GRANT ALL ON *.* to '$MYSQL_USER'@'%' IDENTIFIED BY '$MYSQL_USER_PWD';" >> $tfile
@@ -76,12 +74,12 @@ fi
 echo "[i] Sleeping 5 sec"
 sleep 5
 
-# Start MySQL.
+# Start MySQL
 echo '[i] Starting running mysqld'
 /usr/bin/mysqld --user=root --console &
 sleep 5
 
-# Import application database data.
+# Import application database data
 echo '[i] Importing application database data. This may take a while.'
 mysql -u root -D clamp_cancer < /data/dump.sql
 echo '[i] Finished importing data.'
