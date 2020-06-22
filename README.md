@@ -1,6 +1,6 @@
 # Introduction
 
-This repository stores multiple projects developed by UTHealth to provide various NLP tools and functionalities to medical data stored in OMOP Common Data Model based databases.
+This repository stores multiple projects developed by OHDSI NLP Working Group to provide various NLP tools and functionalities to medical data stored in OMOP Common Data Model based databases.
 
 ## Wrappers
 
