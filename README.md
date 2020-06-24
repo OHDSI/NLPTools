@@ -19,7 +19,12 @@ open-source package for developers at [COVID-19 TestNorm Github repository](http
 
 OHDSI Ananke is a tool for mapping between OHDSI Concept Identifiers to Unified Medical Language System (UMLS) identifiers, available at [OHDSIananke repository](https://github.com/thepanacealab/OHDSIananke).
 
+## OMOP Abstractor
+
+OMOP Abstractor is an NLP-aided assisted chart abstraction platform built upon the OMOP CDM from OHDSI.org, available at [omop-abstractor repository](https://github.com/NUARIG/omop-abstractor).
+
 ## COVID19NLP.org
 
 [COVID19NLP.org](http://covid19nlp.org/) is a website dedicated to collecting and sharing available NLP resources for COVID-19, including publications, datasets, tools, vocabularies, and events. The ultimate goal for this website is to promote re-use of existing NLP resources to facilitate COVID-19 research. This website is a community effort with volunteers who are working on different aspects of biomedical NLP and COVID-19 research.
+
 
