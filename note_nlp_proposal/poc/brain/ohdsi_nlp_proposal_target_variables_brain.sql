@@ -1,4 +1,4 @@
-icdo3_histologiesDROP TABLE IF EXISTS icdo3_histologies;
+DROP TABLE IF EXISTS icdo3_histologies;
 
 CREATE table icdo3_histologies(
     icdo3_description         varchar(255) null
