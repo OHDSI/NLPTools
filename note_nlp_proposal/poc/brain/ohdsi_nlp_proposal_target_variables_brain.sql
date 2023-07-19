@@ -227,7 +227,7 @@ SELECT 'brain cancer'           AS cohort
 FROM icdo3_histologies ic3h LEFT JOIN concept c on ic3h.icdo3_code = c.concept_code and c.vocabulary_id = 'ICDO3'
 WHERE c.vocabulary_id IS NOT NULL
 AND ic3h.category IN(
-'diffuse astocytic and oligodendroglial tumors'
+ 'diffuse astrocytic and oligodendroglial tumors'
 ,'other astrocytic tumors'
 ,'ependymal tumors'
 ,'other gliomas'
