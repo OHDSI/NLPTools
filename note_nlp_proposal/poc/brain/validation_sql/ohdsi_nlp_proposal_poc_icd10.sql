@@ -9,7 +9,9 @@ WHERE ancestor_concept_id IN(
   FROM concept c1 JOIN concept_relationship cr1 ON cr1.concept_id_1 = c1.concept_id AND cr1.relationship_id = 'Maps to'
                   JOIN concept c2 ON  cr1.concept_id_2 = c2.concept_id
   WHERE c1.concept_code IN(
-    'C70'
+    'C41.0'
+   ,'C41.1'
+   ,'C70'
    ,'C70.0'
    ,'C70.1'
    ,'C70.9'
@@ -43,6 +45,9 @@ WHERE ancestor_concept_id IN(
    ,'C72.50'
    ,'C72.59'
    ,'C72.9'
+   ,'C75.1'
+   ,'C75.2'
+   ,'C75.3'
   )
 )
 )
