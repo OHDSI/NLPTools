@@ -1,5 +1,7 @@
 # Introduction
 
+THEIA is multi-component software aiming to make it easier and more convenient to use certain NLP toolkits with OHDSI. The main purpose of this application is to allow clients to process their medical texts stored in their OMOP Common Data Model formatted databases and give them the ability to query and visualize their results. Clients can share their information and queries with each other with support from an integrated user access control system. THEIA is currently in development, and supports indexing medical texts with CLAMP, MetaMap Lite, and cTAKES NLP toolkits. Currently, it is downloadable as a Docker container, which comes with all components necessary to set up and run THEIA.
+
 This document serves as a guide on how to set up and interact with THEIA using Docker. Currently, THEIA can be set up on all platforms with Docker support.
 
 ## System Requirements
